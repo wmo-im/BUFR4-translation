@@ -1,7 +1,7 @@
-Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
-bufr4/0/24/003/0,024003,Composition of release,0,Noble gases,,,,,Operational
-bufr4/0/24/003/1,024003,Composition of release,1,Iodines,,,,,Operational
-bufr4/0/24/003/2,024003,Composition of release,2,Caesiums,,,,,Operational
-bufr4/0/24/003/3,024003,Composition of release,3,Transuranics,,,,,Operational
-bufr4/0/24/003/4-30,024003,Composition of release,4-30,Reserved,,,,,Operational
-bufr4/0/24/003/31,024003,Composition of release,31,Missing value,,,,,Operational
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status
+bufr4/0/24/003/0,024003,Composition du rejet,0,Gaz nobles,,,,,Operational
+bufr4/0/24/003/1,024003,Composition du rejet,1,lodes,,,,,Operational
+bufr4/0/24/003/2,024003,Composition du rejet,2,Césiums,,,,,Operational
+bufr4/0/24/003/3,024003,Composition du rejet,3,Éléments transuraniens,,,,,Operational
+bufr4/0/24/003/4-30,024003,Composition du rejet,4-30,En réserve,,,,,Operational
+bufr4/0/24/003/31,024003,Composition du rejet,31,Valeur manquante,,,,,Operational

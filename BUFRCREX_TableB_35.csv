@@ -1,14 +1,14 @@
-Id,ClassNo,ClassName_en,FXY,ElementName_en,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_en,noteIDs,Status
-bufr4/0/35/000,35,Data monitoring information,035000,FM and regional code number,Code table,0,0,10,Code table,0,3,,,Operational
-bufr4/0/35/001,35,Data monitoring information,035001,Time frame for monitoring,Code table,0,0,3,Code table,0,1,,,Operational
-bufr4/0/35/011,35,Data monitoring information,035011,Number of reports actually received,Numeric,0,0,14,Numeric,0,4,,,Operational
-bufr4/0/35/021,35,Data monitoring information,035021,Bulletin being monitored (TTAAii),CCITT IA5,0,0,48,Character,0,6,,,Operational
-bufr4/0/35/022,35,Data monitoring information,035022,Bulletin being monitored (YYGGgg),CCITT IA5,0,0,48,Character,0,6,,,Operational
-bufr4/0/35/023,35,Data monitoring information,035023,Bulletin being monitored (CCCC),CCITT IA5,0,0,32,Character,0,4,,,Operational
-bufr4/0/35/024,35,Data monitoring information,035024,Bulletin being monitored (BBB),CCITT IA5,0,0,24,Character,0,3,,,Operational
-bufr4/0/35/030,35,Data monitoring information,035030,Discrepancies in the availability of expected data,Code table,0,0,4,Code table,0,1,,,Operational
-bufr4/0/35/031,35,Data monitoring information,035031,Qualifier on monitoring results,Code table,0,0,7,Code table,0,2,,,Operational
-bufr4/0/35/032,35,Data monitoring information,035032,Cause of missing data,Code table,0,0,4,Code table,0,1,,,Operational
-bufr4/0/35/033,35,Data monitoring information,035033,Observation and collection deficiencies,Code table,0,0,7,Code table,0,2,,,Operational
-bufr4/0/35/034,35,Data monitoring information,035034,Statistical trends for availability of data (during the survey period(s)),Code table,0,0,3,Code table,0,1,,,Operational
-bufr4/0/35/035,35,Data monitoring information,035035,Reason for termination,Code table,0,0,5,Code table,0,2,,,Operational
+Id,ClassNo,ClassName_fr,FXY,ElementName_fr,BUFR_Unit_fr,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_fr,CREX_Scale,CREX_DataWidth_Char,Note_fr,noteIDs,Status
+bufr4/0/35/000,35,Classe 35 Informations sur le contrôle des données,035000,FM et numéro régional de code,Table de code,0,0,10,Table de code,0,3,,,Operational
+bufr4/0/35/001,35,Classe 35 Informations sur le contrôle des données,035001,Base de temps pour le contrôle,Table de code,0,0,3,Table de code,0,1,,,Operational
+bufr4/0/35/011,35,Classe 35 Informations sur le contrôle des données,035011,Nombre de messages réellement reçus,Numérique,0,0,14,Numérique,0,4,,,Operational
+bufr4/0/35/021,35,Classe 35 Informations sur le contrôle des données,035021,Bulletin contrôlé (TTAAii),CCITT IA5,0,8,48,Caractère,0,6,,,Operational
+bufr4/0/35/022,35,Classe 35 Informations sur le contrôle des données,035022,Bulletin contrôlé (YYGGgg),CCITT IA5,0,8,48,Caractère,0,6,,,Operational
+bufr4/0/35/023,35,Classe 35 Informations sur le contrôle des données,035023,Bulletin contrôlé (CCCC),CCITT IA5,0,0,32,Caractère,0,4,,,Operational
+bufr4/0/35/024,35,Classe 35 Informations sur le contrôle des données,035024,Bulletin contrôlé (BBB),CCITT IA5,0,0,24,Caractère,0,3,,,Operational
+bufr4/0/35/030,35,Classe 35 Informations sur le contrôle des données,035030,Divergences dans la disponibilité des données attendues,Table de code,0,0,4,Table de code,0,1,,,Operational
+bufr4/0/35/031,35,Classe 35 Informations sur le contrôle des données,035031,Déterminant des résultats du contrôle,Table de code,0,0,7,Table de code,0,2,,,Operational
+bufr4/0/35/032,35,Classe 35 Informations sur le contrôle des données,035032,Cause des données manquantes,Table de code,0,0,4,Table de code,0,1,,,Operational
+bufr4/0/35/033,35,Classe 35 Informations sur le contrôle des données,035033,Défauts d'observation et de collecte,Table de code,0,0,7,Table de code,0,2,,,Operational
+bufr4/0/35/034,35,Classe 35 Informations sur le contrôle des données,035034,Tendances statistiques de la disponibilité des données (pendant la(les) période(s) d'observation),Table de code,0,0,3,Table de code,0,1,,,Operational
+bufr4/0/35/035,35,Classe 35 Informations sur le contrôle des données,035035,Raison de l'abandon,Table de code,0,0,5,Table de code,0,2,,,Operational
