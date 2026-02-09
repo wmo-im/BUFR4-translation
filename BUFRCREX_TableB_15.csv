@@ -1,73 +1,69 @@
-Id,ClassNo,ClassName_en,FXY,ElementName_en,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_en,noteIDs,Status
-bufr4/0/15/001,15,Physical/chemical constituents,015001,Total ozone,DU,0,0,10,DU,0,4,,,Operational
-bufr4/0/15/002,15,Physical/chemical constituents,015002,Air mass (slant path at 22 km),Numeric,2,0,10,Numeric,2,3,,,Operational
-bufr4/0/15/003,15,Physical/chemical constituents,015003,Measured ozone partial pressure (sounding),Pa,4,0,9,nbar,0,3,(see Note 1),1,Operational
-bufr4/0/15/004,15,Physical/chemical constituents,015004,Ozone sounding correction factor (CF),Numeric,3,0,11,Numeric,3,4,(see Note 2),2,Operational
-bufr4/0/15/005,15,Physical/chemical constituents,015005,Ozone p,DU,0,0,10,DU,0,3,(see Note 3),3,Operational
-bufr4/0/15/006,15,Physical/chemical constituents,015006,Log10 of number density of atmosphere,log(m-3),5,1800000,20,log(m-3),5,7,,,Operational
-bufr4/0/15/007,15,Physical/chemical constituents,015007,Estimated amount of chemical constituent,DU,2,0,16,DU,2,6,,,Operational
-bufr4/0/15/008,15,Physical/chemical constituents,015008,Significand of volumetric mixing ratio,Numeric,0,0,10,Numeric,0,4,,,Operational
-bufr4/0/15/009,15,Physical/chemical constituents,015009,Log10 of number density of ozone,log(m-3),5,1200000,20,log(m-3),5,7,,,Operational
-bufr4/0/15/011,15,Physical/chemical constituents,015011,Log10 of integrated electron density,log (m-2),3,14000,13,log (m-2),3,4,,,Operational
-bufr4/0/15/012,15,Physical/chemical constituents,015012,Total electron count per square metre,m-2,-16,0,6,m-2,-16,2,,,Operational
-bufr4/0/15/015,15,Physical/chemical constituents,015015,Maximum image spectral component before normalization,Numeric,0,0,31,Numeric,0,10,,,Operational
-bufr4/0/15/020,15,Physical/chemical constituents,015020,Integrated ozone density,kg m-2,8,0,21,kg m-2,8,7,,,Operational
-bufr4/0/15/021,15,Physical/chemical constituents,015021,Integrated mass density,kg m-2,11,0,31,kg m-2,11,10,,,Operational
-bufr4/0/15/022,15,Physical/chemical constituents,015022,Extended integrated mass density,kg m-2,1,-100000000,31,kg m-2,1,10,,,Operational
-bufr4/0/15/024,15,Physical/chemical constituents,015024,Optical depth,Numeric,4,0,24,Numeric,4,8,,,Operational
-bufr4/0/15/025,15,Physical/chemical constituents,015025,Type of pollutant,Code table,0,0,4,Code table,0,2,,,Operational
-bufr4/0/15/026,15,Physical/chemical constituents,015026,Concentration of pollutant (mol mol-1),mol/mol,9,0,9,mol/mol,9,3,,,Operational
-bufr4/0/15/027,15,Physical/chemical constituents,015027,Concentration of pollutant (kg m-3),kg m-3,9,0,10,kg m-3,9,4,,,Operational
-bufr4/0/15/028,15,Physical/chemical constituents,015028,Mole fraction of atmospheric constituent/pollutant in dry air,0/00,5,0,16,0/00,5,5,,,Operational
-bufr4/0/15/029,15,Physical/chemical constituents,015029,Extinction coefficient,/m,9,0,30,/m,9,10,,,Operational
-bufr4/0/15/030,15,Physical/chemical constituents,015030,Aerosol contamination index,Numeric,2,-1000,12,Numeric,2,4,(see Note 6),79,Operational
-bufr4/0/15/031,15,Physical/chemical constituents,015031,Atmospheric path delay in satellite signal,m,4,10000,15,m,4,5,,,Operational
-bufr4/0/15/032,15,Physical/chemical constituents,015032,Estimated error in atmospheric path delay,m,4,0,10,m,4,4,,,Operational
-bufr4/0/15/033,15,Physical/chemical constituents,015033,Difference in path delays for limb views at extremes of scan,m,5,-10000,15,m,5,5,,,Operational
-bufr4/0/15/034,15,Physical/chemical constituents,015034,Estimated error in path delay difference,m,5,0,14,m,5,5,,,Operational
-bufr4/0/15/035,15,Physical/chemical constituents,015035,Component of zenith path delay due to water vapour,m,4,0,14,m,4,5,,,Operational
-bufr4/0/15/036,15,Physical/chemical constituents,015036,Atmospheric refractivity,N units,3,0,19,N units,3,6,(see Note 5),142,Operational
-bufr4/0/15/037,15,Physical/chemical constituents,015037,Bending angle,rad,8,-100000,23,rad,8,7,,,Operational
-bufr4/0/15/038,15,Physical/chemical constituents,015038,Path delay due to neutral atmosphere,m,4,0,20,m,4,11,(see Note 10),4,Operational
-bufr4/0/15/039,15,Physical/chemical constituents,015039,Estimated error in neutral atmosphere path delay,m,4,0,14,m,4,9,,,Operational
-bufr4/0/15/041,15,Physical/chemical constituents,015041,Sulphur dioxide index,Numeric,2,-1200,14,Numeric,2,4,(see Note 7),78,Operational
-bufr4/0/15/042,15,Physical/chemical constituents,015042,Reflectance,%,2,0,14,%,2,5,,,Operational
-bufr4/0/15/043,15,Physical/chemical constituents,015043,Number of averaging kernel layers,Numeric,0,0,10,Numeric,0,0,,,Operational
-bufr4/0/15/044,15,Physical/chemical constituents,015044,Averaging kernel value,Numeric,6,-5000000,31,Numeric,0,0,,,Operational
-bufr4/0/15/045,15,Physical/chemical constituents,015045,Sulphur dioxide,DU,2,-2000,15,DU,2,5,(see Note 8),77,Operational
-bufr4/0/15/046,15,Physical/chemical constituents,015046,Volcano contamination index,Numeric,2,-1000,11,Numeric,2,4,(see Note 9),80,Operational
-bufr4/0/15/049,15,Physical/chemical constituents,015049,Aerosol Angstrom wavelength exponent,Numeric,3,-2000,14,Numeric,3,5,,,Operational
-bufr4/0/15/051,15,Physical/chemical constituents,015051,Meteorological optical range,m,0,0,18,m,0,6,,,Operational
-bufr4/0/15/052,15,Physical/chemical constituents,015052,Log10 of number density of aerosol particles with diameter greater than 5 nm,log (m-3),1,60,6,log (m-3),1,3,,,Operational
-bufr4/0/15/053,15,Physical/chemical constituents,015053,Log10 of number density of aerosol particles with diameter greater than 14 nm,log (m-3),2,600,9,log (m-3),2,4,,,Operational
-bufr4/0/15/054,15,Physical/chemical constituents,015054,Log10 of number density of aerosol particles with diameter between 0.25 and 2.5 um,log (m-3),2,550,9,log (m-3),2,4,,,Operational
-bufr4/0/15/055,15,Physical/chemical constituents,015055,Non volatile aerosol ratio,Numeric,2,0,7,Numeric,2,3,,,Operational
-bufr4/0/15/062,15,Physical/chemical constituents,015062,Aerosol optical thickness,Numeric,3,-1000,14,Numeric,3,5,,,Operational
-bufr4/0/15/063,15,Physical/chemical constituents,015063,Attenuated backscatter,m-1 sr-1,8,0,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/064,15,Physical/chemical constituents,015064,Uncertainty in attenuated backscatter,m-1 sr-1,8,0,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/065,15,Physical/chemical constituents,015065,Particle backscatter coefficient,m-1 sr-1,8,0,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/066,15,Physical/chemical constituents,015066,Uncertainty in particle backscatter coefficient,m-1 sr-1,8,0,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/067,15,Physical/chemical constituents,015067,Particle extinction coefficient,m-1,8,0,20,m-1,8,7,,,Operational
-bufr4/0/15/068,15,Physical/chemical constituents,015068,Uncertainty in particle extinction coefficient,m-1,8,0,20,m-1,8,7,,,Operational
-bufr4/0/15/069,15,Physical/chemical constituents,015069,Particle lidar ratio,sr,2,0,14,sr,2,5,,,Operational
-bufr4/0/15/070,15,Physical/chemical constituents,015070,Uncertainty in lidar ratio,sr,2,0,14,sr,2,5,,,Operational
-bufr4/0/15/071,15,Physical/chemical constituents,015071,Particle depolarization ratio,%,2,0,14,%,2,5,,,Operational
-bufr4/0/15/072,15,Physical/chemical constituents,015072,Uncertainty in depolarization ratio,%,2,0,14,%,2,5,,,Operational
-bufr4/0/15/073,15,Physical/chemical constituents,015073,Attenuated backscatter,m-1 sr-1,8,-524288,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/074,15,Physical/chemical constituents,015074,Particle backscatter coefficient,m-1 sr-1,8,-524288,20,m-1 sr-1,8,7,,,Operational
-bufr4/0/15/075,15,Physical/chemical constituents,015075,Particle extinction coefficient,m,8,-524288,20,m-1,8,7,,,Operational
-bufr4/0/15/076,15,Physical/chemical constituents,015076,Particle lidar ratio,sr,1,-2048,13,sr,1,5,,,Operational
-bufr4/0/15/077,15,Physical/chemical constituents,015077,Uncertainty in lidar ratio,sr,1,0,12,sr,1,5,,,Operational
-bufr4/0/15/078,15,Physical/chemical constituents,015078,Particle depolarization ratio,%,2,-8192,15,%,2,5,,,Operational
-bufr4/0/15/079,15,Physical/chemical constituents,015079,Zenith path delay due to neutral atmosphere,m,4,0,15,m,4,9,(see Note 11),5,Operational
-bufr4/0/15/080,15,Physical/chemical constituents,015080,Estimated error in neutral atmosphere zenith path delay,m,4,0,12,m,4,8,,,Operational
-bufr4/0/15/081,15,Physical/chemical constituents,015081,Wet path delay due to neutral atmosphere,m,4,0,18,m,4,10, (see Note 12),6,Operational
-bufr4/0/15/082,15,Physical/chemical constituents,015082,Path integrated water vapour,kg m-2,1,0,16,kg m-2,1,10,(see Note 16),16,Operational
-bufr4/0/15/083,15,Physical/chemical constituents,015083,GNSS derived neutral atmosphere gradient,m,5,-8192,14,m,5,9,(see Note 17),7,Operational
-bufr4/0/15/084,15,Physical/chemical constituents,015084,GNSS least squares residual,m,4,0,14,m,4,9,(see Note 18),17,Operational
-bufr4/0/15/085,15,Physical/chemical constituents,015085,GNSS multi-path delay,m,4,0,14,m,4,9,(see Note 15),8,Operational
-bufr4/0/15/086,15,Physical/chemical constituents,015086,GNSS hydrostatic mapping function,Numeric,3,0,16,Numeric,3,10,(see Note 19),22,Operational
-bufr4/0/15/087,15,Physical/chemical constituents,015087,GNSS wet mapping function,Numeric,3,0,16,Numeric,3,10,(see Note 19),22,Operational
-bufr4/0/15/088,15,Physical/chemical constituents,015088,GNSS gradient mapping function,Numeric,3,0,16,Numeric,3,10,(see Note 19),22,Operational
-bufr4/0/15/089,15,Physical/chemical constituents,015089,Zenith path delay due to neutral hydrostatic atmosphere,m,4,0,15,m,4,9,(see Note 13),18,Operational
-bufr4/0/15/090,15,Physical/chemical constituents,015090,Path delay due to neutral hydrostatic atmosphere,m,4,0,20,m,4,11,(see Note 14),19,Operational
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status
+bufr4/0/15/001,15,Componentes físicos/químicos,015001,Ozono total,DU,0,0,10,DU,0,,,,Operational
+bufr4/0/15/002,15,Componentes físicos/químicos,015002,Masa de aire (correspondiente a una trayectoria oblicua a una altura de 22 km),Numérica,2,0,10,Numérica,2,,,,Operational
+bufr4/0/15/003,15,Componentes físicos/químicos,015003,Presión parcial del ozono medido,Pa,4,0,9,nbar,0,,(sondeo) (véase la nota 1),,Operational
+bufr4/0/15/004,15,Componentes físicos/químicos,015004,Factor de corrección de sondeo del ozono,Numérica,3,0,11,Numérica,3,,(CF) (véase la nota 2),,Operational
+bufr4/0/15/005,15,Componentes físicos/químicos,015005,p del ozono,DU,0,0,10,DU,0,,(véase la nota 3),,Operational
+bufr4/0/15/006,15,Componentes físicos/químicos,015006,Log10 de la densidad numérica de la atmósfera,log (m-³),5,1800000,7,log (m-³),5,,,,Operational
+bufr4/0/15/008,15,Componentes físicos/químicos,015008,Significando del cociente de mezclado volumétrico,Numérica,0,0,10,Numérica,0,,,,Operational
+bufr4/0/15/009,15,Componentes físicos/químicos,015009,Log10 de la densidad numérica de ozono,log (m-3),5,1200000,7,log (m-3),5,,,,Operational
+bufr4/0/15/011,15,Componentes físicos/químicos,015011,Logaritmo10 de la densidad de electrones integrada,log (m-2),3,14000,13,log (m-2),3,,,,Operational
+bufr4/0/15/012,15,Componentes físicos/químicos,015012,Recuento total de electrones por m²,m²,-16,0,6,m²,-16,,,,Operational
+bufr4/0/15/015,15,Componentes físicos/químicos,015015,Componente espectral máximo de la imagen antes de la normalización,Numérica,0,0,31,Numérica,0,,,,Operational
+bufr4/0/15/020,15,Componentes físicos/químicos,015020,Densidad del ozono integrada,kg m-2,8,0,21,kg m-2,8,,,,Operational
+bufr4/0/15/021,15,Componentes físicos/químicos,015021,Densidad de masa integrada,kg m-2,11,0,31,kg m-2,11,,,,Operational
+bufr4/0/15/024,15,Componentes físicos/químicos,015024,Espesor óptico,Numérica,4,0,24,Numérica,4,,,,Operational
+bufr4/0/15/025,15,Componentes físicos/químicos,015025,Tipo de contamite,Tabla de cifrado,0,0,4,Tabla de cifrado,0,,,,Operational
+bufr4/0/15/026,15,Componentes físicos/químicos,015026,Concentración del contamite (mol mol-1),mol mol-1,9,0,9,mol mol-1,9,,,,Operational
+bufr4/0/15/027,15,Componentes físicos/químicos,015027,Concentración del contamite (Kg m-3),kg m-3,9,0,10,kg m-3,9,,,,Operational
+bufr4/0/15/028,15,Componentes físicos/químicos,015028,Fracción molar del componente/contamite atmosférico en el aire seco,%%,5,0,16,%%,5,,,,Operational
+bufr4/0/15/029,15,Componentes físicos/químicos,015029,Coeficiente de extinción,m-1,9,0,30,m-1,9,,,,Operational
+bufr4/0/15/030,15,Componentes físicos/químicos,015030,Índice de contaminación por aerosoles,Numérica,2,-1000,12,Numérica,2,,(véase la nota 6),,Operational
+bufr4/0/15/031,15,Componentes físicos/químicos,015031,Retraso del trayecto atmosférico en la señal del satélite,m,4,10000,15,m,4,,,,Operational
+bufr4/0/15/032,15,Componentes físicos/químicos,015032,Error estimado en un retraso de trayecto atmosférico,m,4,0,10,m,4,,,,Operational
+bufr4/0/15/033,15,Componentes físicos/químicos,015033,Diferencia en retrasos de trayecto para visiones del limbo en extremos de la exploración,m,5,-10000,15,m,5,,,,Operational
+bufr4/0/15/034,15,Componentes físicos/químicos,015034,Error estimado en la diferencia de retraso de trayecto,m,5,0,14,m,5,,,,Operational
+bufr4/0/15/035,15,Componentes físicos/químicos,015035,Componente del retraso del trayecto cenital debido al vapor de agua,m,4,0,14,m,4,,,,Operational
+bufr4/0/15/036,15,Componentes físicos/químicos,015036,Refractividad atmosférica,Unidades N,3,0,19,Unidades N,3,,(véase la nota 5),,Operational
+bufr4/0/15/037,15,Componentes físicos/químicos,015037,Ángulo de curvatura,rad,8,-100000,23,rad,8,,,,Operational
+bufr4/0/15/038,15,Componentes físicos/químicos,015038,Retraso del trayecto debido a una atmósfera neutra,m,4,0,20,m,4,,,,Operational
+bufr4/0/15/039,15,Componentes físicos/químicos,015039,Error estimado en el retraso del trayecto atmosférico en una atmósfera neutra,m,4,0,14,m,4,,,,Operational
+bufr4/0/15/041,15,Componentes físicos/químicos,015041,Índice de dióxido de azufre,Numérica,2,-1200,14,Numérica,2,,(véase la nota 7),,Operational
+bufr4/0/15/042,15,Componentes físicos/químicos,015042,Reflectancia,%,2,0,14,%,2,,,,Operational
+bufr4/0/15/045,15,Componentes físicos/químicos,015045,Dióxido de azufre,DU,2,-2000,15,DU,2,,(véase la nota 8),,Operational
+bufr4/0/15/046,15,Componentes físicos/químicos,015046,Índice de contaminación por volcanes,Numérica,2,-1000,11,Numérica,2,,(véase la nota 9),,Operational
+bufr4/0/15/049,15,Componentes físicos/químicos,015049,Exponente de Angstrom de longitud de onda para aerosoles,Numérica,3,-2000,14,Numérica,3,,,,Operational
+bufr4/0/15/051,15,Componentes físicos/químicos,015051,Alcance óptico meteorológico,m,0,0,18,m,0,,,,Operational
+bufr4/0/15/052,15,Componentes físicos/químicos,015052,Log10 de la densidad numérica de partículas de aerosol con un diámetro superior a 5 nm,log(m-³),1,60,6,log(m-³),1,,,,Operational
+bufr4/0/15/053,15,Componentes físicos/químicos,015053,Log10 de la densidad numérica de partículas de aerosol con un diámetro superior a 14 nm,log(m-³),2,600,9,log(m-³),2,,,,Operational
+bufr4/0/15/054,15,Componentes físicos/químicos,015054,"Log10 de la densidad numérica de partículas de aerosol con un diámetro comprendido entre 0,25 y 2,5 μm",log(m-³),2,550,9,log(m-³),2,,,,Operational
+bufr4/0/15/055,15,Componentes físicos/químicos,015055,Proporción de aerosoles no volátiles,Numérica,2,0,7,Numérica,2,,,,Operational
+bufr4/0/15/062,15,Componentes físicos/químicos,015062,Espesor óptico de los aerosoles,Numérica,3,-1000,14,Numérica,3,,,,Operational
+bufr4/0/15/063,15,Componentes físicos/químicos,015063,Retrodispersión atenuada,m-1 sr-1,8,0,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/064,15,Componentes físicos/químicos,015064,Incertidumbre en la retrodispersión atenuada,m-1 sr-1,8,0,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/065,15,Componentes físicos/químicos,015065,Coeficiente de retrodispersión de las partículas,m-1 sr-1,8,0,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/066,15,Componentes físicos/químicos,015066,Incertidumbre en el coeficiente de retrodispersión de las partículas,m-1 sr-1,8,0,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/067,15,Componentes físicos/químicos,015067,Coeficiente de extinción de las partículas,m-1,8,0,20,m-1,8,,,,Operational
+bufr4/0/15/068,15,Componentes físicos/químicos,015068,Incertidumbre en el coeficiente de extinción de las partículas,m-1,8,0,20,m-1,8,,,,Operational
+bufr4/0/15/069,15,Componentes físicos/químicos,015069,Ratio lidar partículas,sr,2,0,14,sr,2,,,,Operational
+bufr4/0/15/070,15,Componentes físicos/químicos,015070,Incertidumbre en el ratio lidar,sr,2,0,14,sr,2,,,,Operational
+bufr4/0/15/071,15,Componentes físicos/químicos,015071,Ratio de despolarización de las partículas,%,2,0,14,%,2,,,,Operational
+bufr4/0/15/072,15,Componentes físicos/químicos,015072,Incertidumbre en el ratio de despolarización de las partículas,%,2,0,14,%,2,,,,Operational
+bufr4/0/15/073,15,Componentes físicos/químicos,015073,Retrodispersión atenuada,m-1 sr-1,8,-524288,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/074,15,Componentes físicos/químicos,015074,Coeficiente de retrodispersión de las partículas,m-1 sr-1,8,-524288,20,m-1 sr-1,8,,,,Operational
+bufr4/0/15/075,15,Componentes físicos/químicos,015075,Coeficiente de extinción de las partículas,m-1,8,-524288,20,m-1,8,,,,Operational
+bufr4/0/15/076,15,Componentes físicos/químicos,015076,Ratio partículas lidar,sr,1,-2048,13,sr,1,,,,Operational
+bufr4/0/15/077,15,Componentes físicos/químicos,015077,Incertidumbre en el ratio lidar,sr,1,0,12,sr,1,,,,Operational
+bufr4/0/15/078,15,Componentes físicos/químicos,015078,Ratio de despolarización de las partículas,%,2,-8192,15,%,2,,,,Operational
+bufr4/0/15/079,15,Componentes físicos/químicos,015079,Retraso del trayecto cenital debido a una atmósfera neutra,m,4,0,15,m,4,,(véase la nota 11),,Operational
+bufr4/0/15/080,15,Componentes físicos/químicos,015080,Error estimado en el retraso del trayecto cenital debido a una atmósfera neutra,m,4,0,12,m,4,,,,Operational
+bufr4/0/15/081,15,Componentes físicos/químicos,015081,Retraso del trayecto húmedo debido a una atmósfera neutra,m,4,0,18,m,4,,(véase la nota 12),,Operational
+bufr4/0/15/082,15,Componentes físicos/químicos,015082,Vapor de agua integrado en el trayecto,kg m-2,1,0,16,kg m-2,1,,(véase la nota 16),,Operational
+bufr4/0/15/083,15,Componentes físicos/químicos,015083,Gradiente en atmósfera neutra estimado a través del GNSS,m,5,0,14,m,5,,(véase la nota 17),,Operational
+bufr4/0/15/084,15,Componentes físicos/químicos,015084,Residuos de mínimos cuadrados en el GNSS,m,4,0,14,m,4,,(véase la nota 18),,Operational
+bufr4/0/15/085,15,Componentes físicos/químicos,015085,Retraso por efectos multitrayecto en el GNSS,m,4,0,14,m,4,,(véase la nota 15),,Operational
+bufr4/0/15/086,15,Componentes físicos/químicos,015086,Función de mapeo hidrostático del GNSS,Numérica,3,0,16,Numérica,3,,(véase la nota 19),,Operational
+bufr4/0/15/087,15,Componentes físicos/químicos,015087,Función de mapeo húmedo del GNSS,m,3,0,16,Numérica,3,,(véase la nota 19),,Operational
+bufr4/0/15/088,15,Componentes físicos/químicos,015088,Función de mapeo de gradiente del GNSS,m,3,0,16,Numérica,3,,(véase la nota 19),,Operational
+bufr4/0/15/089,15,Componentes físicos/químicos,015089,Retraso del trayecto cenital debido a una atmósfera hidrostática neutra,m,4,0,15,m,4,,(véase la nota 13),,Operational
+bufr4/0/15/090,15,Componentes físicos/químicos,015090,Retraso del trayecto debido a una atmósfera hidrostática neutra,m,4,0,20,m,4,,(véase la nota 14),,Operational

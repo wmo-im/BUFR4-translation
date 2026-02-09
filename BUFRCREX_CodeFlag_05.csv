@@ -1,5 +1,5 @@
-Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
-bufr4/0/05/069/0,005069,Receiver channel,0,Mie,,,,,Operational
-bufr4/0/05/069/1,005069,Receiver channel,1,Rayleigh,,,,,Operational
-bufr4/0/05/069/2,005069,Receiver channel,2,Cross polar,,,,,Operational
-bufr4/0/05/069/3,005069,Receiver channel,3,Missing value,,,,,Operational
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
+bufr4/0/05/069/0,005069,Canal receptor,0,Mie,,,,,Operational
+bufr4/0/05/069/1,005069,Canal receptor,1,Rayleigh,,,,,Operational
+bufr4/0/05/069/2,005069,Canal receptor,2,Reservada,,,,,Operational
+bufr4/0/05/069/3,005069,Canal receptor,3,Valor faltante,,,,,Operational

@@ -1,7 +1,7 @@
-Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
-bufr4/0/24/003/0,024003,Composition of release,0,Noble gases,,,,,Operational
-bufr4/0/24/003/1,024003,Composition of release,1,Iodines,,,,,Operational
-bufr4/0/24/003/2,024003,Composition of release,2,Caesiums,,,,,Operational
-bufr4/0/24/003/3,024003,Composition of release,3,Transuranics,,,,,Operational
-bufr4/0/24/003/4-30,024003,Composition of release,4-30,Reserved,,,,,Operational
-bufr4/0/24/003/31,024003,Composition of release,31,Missing value,,,,,Operational
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status
+bufr4/0/24/003/0,024003,Composición de la emisión de sustancias,0,Gases nobles,,,,,Operational
+bufr4/0/24/003/1,024003,Composición de la emisión de sustancias,1,Yoduros,,,,,Operational
+bufr4/0/24/003/2,024003,Composición de la emisión de sustancias,2,Cesios,,,,,Operational
+bufr4/0/24/003/3,024003,Composición de la emisión de sustancias,3,Elementos transuránicos,,,,,Operational
+bufr4/0/24/003/4-30,024003,Composición de la emisión de sustancias,4-30,Reservadas,,,,,Operational
+bufr4/0/24/003/31,024003,Composición de la emisión de sustancias,31,Valor faltante,,,,,Operational
