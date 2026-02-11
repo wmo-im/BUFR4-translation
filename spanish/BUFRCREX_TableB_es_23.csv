@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/23/001,23,Dispersión y transporte,023001,Artículos aplicables a la notificación rápida de un accidente,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/23/002,23,Dispersión y transporte,023002,Actividad o instalación relacionada con el incidente,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/23/003,23,Dispersión y transporte,023003,Tipo de emisión de sustancias,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original

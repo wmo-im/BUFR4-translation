@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/12/001,12,Temperatura,012001,Temperatura/temperatura del aire,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/002,12,Temperatura,012002,Temperatura de bulbo húmedo,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/003,12,Temperatura,012003,Temperatura del punto de rocío,K,1,0,12,°C,1,3,,,Operational,Original

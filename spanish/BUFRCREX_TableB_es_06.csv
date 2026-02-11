@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/06/001,06,Ubicación (horizontal – 2),006001,Longitud (gran precisión),º,5,-18000000,26,º,5,8,,,Operational,Original
 bufr4/0/06/002,06,Ubicación (horizontal – 2),006002,Longitud (precisión aproximada),º,2,-18000,16,º,2,5,,,Operational,Original
 bufr4/0/06/011,06,Ubicación (horizontal – 2),006011,Incremento de longitud (gran precisión),º,5,-18000000,26,º,5,8,,,Operational,Original

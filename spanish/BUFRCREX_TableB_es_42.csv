@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/42/001,42,Elementos oceanográficos,042001,Dirección domite de las olas de mar de fondo en la partición espectral,°,0,0,9,°,0,3,,,Operational,Original
 bufr4/0/42/002,42,Elementos oceanográficos,042002,Altura significativa de las olas de mar de fondo en la partición espectral,m,1,0,9,m,1,3,,,Operational,Original
 bufr4/0/42/003,42,Elementos oceanográficos,042003,Longitud domite de las olas de mar de fondo en la partición espectral,m,2,100,17,m,2,6,,,Operational,Original

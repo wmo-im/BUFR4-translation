@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/25/001,25,Información sobre el proceso de datos,025001,Distancia de la puerta de integración,m,-1,0,6,m,-1,2,,,Operational,Original
 bufr4/0/25/002,25,Información sobre el proceso de datos,025002,Número medio de puertas,Numérica,0,0,4,Numérica,0,2,,,Operational,Original
 bufr4/0/25/003,25,Información sobre el proceso de datos,025003,Número de impulsos integrados,Numérica,0,0,8,Numérica,0,3,,,Operational,Original

@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/26/001,26,Ubicación sin coordenadas (tiempo),026001,Hora principal de lectura diaria en UTC de la temperatura máxima,h,1,0,12,h,1,3,,,Operational,Original
 bufr4/0/26/002,26,Ubicación sin coordenadas (tiempo),026002,Hora principal de lectura diaria en UTC de la temperatura mínima,h,1,0,12,h,1,3,,,Operational,Original
 bufr4/0/26/003,26,Ubicación sin coordenadas (tiempo),026003,Diferencia de tiempo,min,0,-1440,12,min,0,4,,,Operational,Original

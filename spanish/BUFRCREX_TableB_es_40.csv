@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/40/001,40,Datos satelitales,040001,Humedad del suelo en superficie (ms),%,1,0,10,%,1,4,,,Operational,Original
 bufr4/0/40/002,40,Datos satelitales,040002,Error estimado en la humedad del suelo en superficie,%,1,0,10,%,1,4,,,Operational,Original
 bufr4/0/40/003,40,Datos satelitales,040003,Humedad media del suelo en superficie,Numérica,3,0,10,Numérica,3,4,,,Operational,Original

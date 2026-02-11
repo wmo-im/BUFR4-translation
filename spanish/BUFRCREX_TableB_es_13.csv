@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/13/001,13,Elementos hidrográfico e hidrológico,013001,Humedad específica,kg kg-1,5,0,14,kg kg-1,5,5,,,Operational,Original
 bufr4/0/13/002,13,Elementos hidrográfico e hidrológico,013002,Relación de mezcla,kg kg-1,5,0,14,kg kg-1,5,5,,,Operational,Original
 bufr4/0/13/003,13,Elementos hidrográfico e hidrológico,013003,Humedad relativa,%,0,0,7,%,0,3,,,Operational,Original

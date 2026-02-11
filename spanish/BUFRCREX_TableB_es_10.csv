@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/10/001,10,Ubicación sin coordenadas (vertical),010001,Altura del terreno,m,0,-400,15,m,0,5,,,Operational,Original
 bufr4/0/10/002,10,Ubicación sin coordenadas (vertical),010002,Altura,m,-1,-40,16,m,-1,5,,,Operational,Original
 bufr4/0/10/003,10,Ubicación sin coordenadas (vertical),010003,Geopotencial,m² s-2,-1,-400,17,m² s-2,-1,6,,,Operational,Original

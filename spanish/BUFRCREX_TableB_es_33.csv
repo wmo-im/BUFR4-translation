@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/33/002,33,Información sobre la calidad,033002,Información sobre la calidad,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/33/003,33,Información sobre la calidad,033003,Información sobre la calidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/33/005,33,Información sobre la calidad,033005,Información sobre la calidad (datos EMA),Tabla de banderines,0,0,30,Tabla de banderines,0,10,,,Operational,Original

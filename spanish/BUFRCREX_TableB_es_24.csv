@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/24/001,24,Elementos radiológicos,024001,Estimación de la cantidad de radiactividad emitida hasta una hora dada,Bq,-11,0,28,Bq,-11,9,,,Operational,Original
 bufr4/0/24/002,24,Elementos radiológicos,024002,Emisión potencial máxima estimada de sustancias,Bq,-11,0,28,Bq,-11,9,,,Operational,Original
 bufr4/0/24/003,24,Elementos radiológicos,024003,Composición de la emisión de sustancias,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original

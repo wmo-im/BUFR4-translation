@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/07/001,07,Ubicación (vertical),007001,Altura de la estación,m,0,-400,15,m,0,5,(véase la nota 1),,Operational,Original
 bufr4/0/07/002,07,Ubicación (vertical),007002,Altura o altitud,m,-1,-40,16,m,-1,5,,,Operational,Original
 bufr4/0/07/003,07,Ubicación (vertical),007003,Geopotencial,m² s-2,-1,-400,17,m² s-2,-1,6,,,Operational,Original

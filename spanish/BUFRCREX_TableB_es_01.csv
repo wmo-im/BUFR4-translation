@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/01/001,01,Identificación,001001,Número de bloque de la OMM,Numérica,0,0,7,Numérica,0,2,,,Operational,Original
 bufr4/0/01/002,01,Identificación,001002,Número de la estación de la OMM,Numérica,0,0,10,Numérica,0,3,,,Operational,Original
 bufr4/0/01/003,01,Identificación,001003,Número de Región de la OMM/zona geográfica,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original

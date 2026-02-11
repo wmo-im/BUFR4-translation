@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/08/001,08,Calificadores de significación,008001,Significación del sondeo vertical,Tabla de banderines,0,0,7,Tabla de banderines,0,3,,,Operational,Original
 bufr4/0/08/002,08,Calificadores de significación,008002,Significación vertical (observaciones de superficie),Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/003,08,Calificadores de significación,008003,Significación vertical (observaciones satelitales),Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original

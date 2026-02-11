@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/15/001,15,Componentes físicos/químicos,015001,Ozono total,DU,0,0,10,DU,0,,,,Operational,Original
 bufr4/0/15/002,15,Componentes físicos/químicos,015002,Masa de aire (correspondiente a una trayectoria oblicua a una altura de 22 km),Numérica,2,0,10,Numérica,2,,,,Operational,Original
 bufr4/0/15/003,15,Componentes físicos/químicos,015003,Presión parcial del ozono medido,Pa,4,0,9,nbar,0,,(sondeo) (véase la nota 1),,Operational,Original

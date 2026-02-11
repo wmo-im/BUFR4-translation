@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/19/001,19,Características sinópticas,019001,Tipo de característica sinóptica,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/19/002,19,Características sinópticas,019002,Radio efectivo de la característica (véase la nota 1),m,-2,0,12,m,-2,4,,,Operational,Original
 bufr4/0/19/003,19,Características sinópticas,019003,Umbral de la velocidad del viento (véase la nota 2),m s⁻¹,0,0,8,m s⁻¹,0,3,,,Operational,Original
