@@ -1,0 +1,10 @@
+Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,Status,translated_by
+10,Secuencias de sondeo vertical (datos de satélite) (no utilizar en CREX para transmisión),D10070,Informe VASS MWTS de FY-3,,D10068,Variables del campo de visión del VASS,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10070,Informe VASS MWTS de FY-3,,R01013,Repetir 1 descriptor 13 veces,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10070,Informe VASS MWTS de FY-3,,D10069,Variables del canal del VASS,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10071,Informe VASS MWHS de FY-3,,D10068,Variables del campo de visión del VASS,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10071,Informe VASS MWHS de FY-3,,R01015,Repetir 1 descriptor 15 veces,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10071,Informe VASS MWHS de FY-3,,D10069,Variables del canal del VASS,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10072,Informe VASS IRAS de FY-3,,D10068,Variables del campo de visión del VASS,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10072,Informe VASS IRAS de FY-3,,R01026,Repetir 1 descriptor 26 veces,,,Operational,AI Translator: MCP
+10,Secuencias de sondeo vertical (datos de satélite) (no se debe usar en CREX para transmisión),D10072,Informe VASS IRAS de FY-3,,D10069,Variables del canal del VASS,,,Operational,AI Translator: MCP
