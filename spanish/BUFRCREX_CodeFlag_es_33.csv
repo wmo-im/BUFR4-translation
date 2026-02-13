@@ -557,7 +557,7 @@ bufr4/0/33/088/All-18,033088,Banderín de calidad de la columna total de ozono,A
 bufr4/0/33/092/1,033092,Banderín de calidad oceánica de banda específica,1,Altímetro en funcionamiento,,,,,Operational,Original
 bufr4/0/33/092/2,033092,Banderín de calidad oceánica de banda específica,2,Radiómetro de microondas en funcionamiento,,,,,Operational,Original
 bufr4/0/33/092/3-8,033092,Banderín de calidad oceánica de banda específica,3-8,Reservadas,,,,,Operational,Original
-bufr4/0/33/092/All-9,033092,Banderín de calidad oceánica de banda específica,All 9,Valor faltante,,,,,Operational,Original
+bufr4/0/33/092/All-9,033092,Banderín de calidad oceánica de banda específica,Todos los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/33/093/1,033093,Banderines de calidad ampliados para datos del GNSS terrestres,1,La calidad del retraso del trayecto se considera insuficiente,,,,,Operational,Original
 bufr4/0/33/093/2,033093,Banderines de calidad ampliados para datos del GNSS terrestres,2,Se usan satélites GALILEO,,,,,Operational,Original
 bufr4/0/33/093/3,033093,Banderines de calidad ampliados para datos del GNSS terrestres,3,Se usan satélites GLONASS,,,,,Operational,Original

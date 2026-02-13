@@ -10,7 +10,7 @@ bufr4/0/21/066/8,021066,Données sur le degré de confiance du produit SAR mode 
 bufr4/0/21/066/9,021066,Données sur le degré de confiance du produit SAR mode vague,9,Valeur absolue du point médian Doppler > PRF/2,,,,,Operational,Original
 bufr4/0/21/066/10,021066,Données sur le degré de confiance du produit SAR mode vague,10,Degré de confiance d'ambiguïté Doppler < à valeur MMCC,,,,,Operational,Original
 bufr4/0/21/066/11,021066,Données sur le degré de confiance du produit SAR mode vague,11,Écart moyen et écart type de données de sortie ≤ valeur MMCC,,,,,Operational,Original
-bufr4/0/21/066/12-bits-mis-à-1,021066,Données sur le degré de confiance du produit SAR mode vague,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/066/All-12,021066,Données sur le degré de confiance du produit SAR mode vague,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/067/1,021067,Données sur le degré de confiance du produit concernant le vent,1,Pas de calcul faisceau avant,,,,,Operational,Original
 bufr4/0/21/067/2,021067,Données sur le degré de confiance du produit concernant le vent,2,Pas de calcul faisceau médian,,,,,Operational,Original
 bufr4/0/21/067/3,021067,Données sur le degré de confiance du produit concernant le vent,3,Pas de calcul faisceau arrière,,,,,Operational,Original
@@ -23,7 +23,7 @@ bufr4/0/21/067/9,021067,Données sur le degré de confiance du produit concernan
 bufr4/0/21/067/10,021067,Données sur le degré de confiance du produit concernant le vent,10,Arrière-plan météorologique non utilisé,,,,,Operational,Original
 bufr4/0/21/067/11,021067,Données sur le degré de confiance du produit concernant le vent,11,Minimum résiduel dépasse le seuil,,,,,Operational,Original
 bufr4/0/21/067/12,021067,Données sur le degré de confiance du produit concernant le vent,12,Erreur de contrôle de trame détectée,,,,,Operational,Original
-bufr4/0/21/067/13-bits-mis-à-1,021067,Données sur le degré de confiance du produit concernant le vent,13 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/067/All-13,021067,Données sur le degré de confiance du produit concernant le vent,13 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/068/1,021068,Données sur le degré de confiance du produit du radioaltimètre,1,Écart type de la vitesse du vent à l'extérieur de la limite du MMCC,,,,,Operational,Original
 bufr4/0/21/068/2,021068,Données sur le degré de confiance du produit du radioaltimètre,2,Écart type de la hauteur de vague significative à l'extérieur de la limite du MMCC,,,,,Operational,Original
 bufr4/0/21/068/3,021068,Données sur le degré de confiance du produit du radioaltimètre,3,Écart type de l'altitude à l'extérieur de la limite du MMCC,,,,,Operational,Original
@@ -31,7 +31,7 @@ bufr4/0/21/068/4,021068,Données sur le degré de confiance du produit du radioa
 bufr4/0/21/068/5,021068,Données sur le degré de confiance du produit du radioaltimètre,5,Erreur de vérification de trame détectée,,,,,Operational,Original
 bufr4/0/21/068/6,021068,Données sur le degré de confiance du produit du radioaltimètre,6,Correction de la constante de temps de la courbe hauteur-temps non effectuée,,,,,Operational,Original
 bufr4/0/21/068/7,021068,Données sur le degré de confiance du produit du radioaltimètre,7,Mesures insuffisantes (N < 10),,,,,Operational,Original
-bufr4/0/21/068/8-bits-mis-à-1,021068,Données sur le degré de confiance du produit du radioaltimètre,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/068/All-8,021068,Données sur le degré de confiance du produit du radioaltimètre,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/069/1,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,1,"Canal à 12,0 µm présent dans les données de base",,,,,Operational,Original
 bufr4/0/21/069/2,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,2,"Canal à 11,0 µm présent dans les données de base",,,,,Operational,Original
 bufr4/0/21/069/3,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,3,"Canal à 3,7 µm présent dans les données de base",,,,,Operational,Original
@@ -41,7 +41,7 @@ bufr4/0/21/069/6,021069,Données sur le degré de confiance du produit concernan
 bufr4/0/21/069/7,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,7,"Reflets du soleil détectés par test de nuages avec un facteur de réflexion de 1,6 μm",,,,,Operational,Original
 bufr4/0/21/069/8,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,8,"Canal à 3,7 µm utilisé pour l'extraction des données sur la température de la mer en surface",,,,,Operational,Original
 bufr4/0/21/069/9,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,9,Données de jour utilisées pour le calcul de la température de la mer en surface (données de nuit si zéro),,,,,Operational,Original
-bufr4/0/21/069/10-bits-mis-à-1,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,10 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/069/All-10,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,10 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/070/1-9,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),1-9,"Température de surface de la mer (SST) extraite uniquement d'une visée au nadir dans le canal de 3,7 microns (1 bit par cellule de 10 minutes d'arc)",Numérotation des cellules NW NE 7 8 9 4 5 6 1 2 3 SW SE,,,,Operational,Original
 bufr4/0/21/070/1,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),1,"Cellule 1: SST extraite uniquement d'une visée au nadir dans le canal de 3,7 microns",,,,,Operational,Original
 bufr4/0/21/070/2,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),2,"Cellule 2: SST extraite uniquement d'une visée au nadir dans le canal de 3,7 microns",,,,,Operational,Original
@@ -66,11 +66,11 @@ bufr4/0/21/070/19,021070,Données sur le degré de confiance du produit concerna
 bufr4/0/21/070/20,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),20,Données d'observation diurne par visée vers l'avant incluses (nocturne si zéro),,,,,Operational,Original
 bufr4/0/21/070/21,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),21,Sont également prises en compte les mesures effectuées par les instruments pendant que la plate-forme ERS n'est pas en mode de contrôle du mouvement latéral,,,,,Operational,Original
 bufr4/0/21/070/22,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),22,Sont également prises en compte les mesures effectuées par les instruments pour lesquelles le degré de confiance du produit indique une qualité de données médiocre ou inconnue,,,,,Operational,Original
-bufr4/0/21/070/23-bits-mis-à-1,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),23 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/070/All-23,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),23 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/072/1,021072,État d'étalonnage de l'altimètre sur satellite,1,Correction d'erreur de la hauteur appliquée à la place de l'étalonnage en boucle ouverte,,,,,Operational,Original
 bufr4/0/21/072/2,021072,État d'étalonnage de l'altimètre sur satellite,2,Sondeur à hyperfréquences appliqué pour la correction de la troposphère,,,,,Operational,Original
 bufr4/0/21/072/3,021072,État d'étalonnage de l'altimètre sur satellite,3,Correction de sortie de la commande automatique de gain appliquée à la place de l'étalonnage en boucle ouverte,,,,,Operational,Original
-bufr4/0/21/072/4-bits-mis-à-1,021072,État d'étalonnage de l'altimètre sur satellite,4 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/072/All-4,021072,État d'étalonnage de l'altimètre sur satellite,4 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/073/1,021073,Mode de l'altimètre sur satellite,1,Enregistrement de données vierges,,,,,Operational,Original
 bufr4/0/21/073/2,021073,Mode de l'altimètre sur satellite,2,Essais,,,,,Operational,Original
 bufr4/0/21/073/3,021073,Mode de l'altimètre sur satellite,3,Étalonnage (boucle fermée),,,,,Operational,Original
@@ -79,7 +79,7 @@ bufr4/0/21/073/5,021073,Mode de l'altimètre sur satellite,5,Saisie de données 
 bufr4/0/21/073/6,021073,Mode de l'altimètre sur satellite,6,Saisie de données sur l'océan,,,,,Operational,Original
 bufr4/0/21/073/7,021073,Mode de l'altimètre sur satellite,7,Recherche de données sur glace,,,,,Operational,Original
 bufr4/0/21/073/8,021073,Mode de l'altimètre sur satellite,8,Recherche de données sur océan,,,,,Operational,Original
-bufr4/0/21/073/9-bits-mis-à-1,021073,Mode de l'altimètre sur satellite,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/073/All-9,021073,Mode de l'altimètre sur satellite,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/076/0,021076,Représentation des intensités,0,Linéaire,,,,,Operational,Original
 bufr4/0/21/076/1,021076,Représentation des intensités,1,Logarithmique (base e),,,,,Operational,Original
 bufr4/0/21/076/2,021076,Représentation des intensités,2,Logarithmique (base 10),,,,,Operational,Original
@@ -94,7 +94,7 @@ bufr4/0/21/109/10,021109,Qualité du vecteur vent mesuré à l'intérieur de la 
 bufr4/0/21/109/11,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,11,Vitesse du vent communiquée supérieure à 30 m s-1,,,,,Operational,Original
 bufr4/0/21/109/12,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,12,Vitesse du vent communiquée inférieure ou égale à 30 m s-1,,,,,Operational,Original
 bufr4/0/21/109/13-16,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,13-16,En réserve,,,,,Operational,Original
-bufr4/0/21/109/17-bits-mis-à-1,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/109/All-17,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/115/1,021115,Qualité de sigma-0 déterminée par SEAWINDS,1,Mesure de sigma-0 pas utilisable,,,,,Operational,Original
 bufr4/0/21/115/2,021115,Qualité de sigma-0 déterminée par SEAWINDS,2,Rapport signal/bruit bas,,,,,Operational,Original
 bufr4/0/21/115/3,021115,Qualité de sigma-0 déterminée par SEAWINDS,3,Sigma-0 négatif,,,,,Operational,Original
@@ -106,7 +106,7 @@ bufr4/0/21/115/8,021115,Qualité de sigma-0 déterminée par SEAWINDS,8,La temp�
 bufr4/0/21/115/9,021115,Qualité de sigma-0 déterminée par SEAWINDS,9,Pas trouvé de relevés d'altitude utilisables pour sigma-0,,,,,Operational,Original
 bufr4/0/21/115/10,021115,Qualité de sigma-0 déterminée par SEAWINDS,10,Les données d'éphémérides interpolées ne sont pas acceptables pour ce sigma-0,,,,,Operational,Original
 bufr4/0/21/115/11-16,021115,Qualité de sigma-0 déterminée par SEAWINDS,11-16,En réserve,,,,,Operational,Original
-bufr4/0/21/115/17-bits-mis-à-1,021115,Qualité de sigma-0 déterminée par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/115/All-17,021115,Qualité de sigma-0 déterminée par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/116/1,021116,Mode de sigma-0 déterminé par SEAWINDS,1,Indicateur de pulsion (1) pour étalonnage/mesure,,,,,Operational,Original
 bufr4/0/21/116/2,021116,Mode de sigma-0 déterminé par SEAWINDS,2,Indicateur de pulsion (2) pour étalonnage/mesure,,,,,Operational,Original
 bufr4/0/21/116/3,021116,Mode de sigma-0 déterminé par SEAWINDS,3,Faisceau d'antenne externe,,,,,Operational,Original
@@ -123,7 +123,7 @@ bufr4/0/21/116/13,021116,Mode de sigma-0 déterminé par SEAWINDS,13,Protection 
 bufr4/0/21/116/14,021116,Mode de sigma-0 déterminé par SEAWINDS,14,Indicateur de tranches par ensemble (1),,,,,Operational,Original
 bufr4/0/21/116/15,021116,Mode de sigma-0 déterminé par SEAWINDS,15,Indicateur de tranches par ensemble (2),,,,,Operational,Original
 bufr4/0/21/116/16,021116,Mode de sigma-0 déterminé par SEAWINDS,16,Indicateur de tranches par ensemble (3),,,,,Operational,Original
-bufr4/0/21/116/17-bits-mis-à-1,021116,Mode de sigma-0 déterminé par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/116/All-17,021116,Mode de sigma-0 déterminé par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/119/0,021119,Modèle géophysique de diffusomètre vent,0,En réserve,,,,,Operational,Original
 bufr4/0/21/119/1,021119,Modèle géophysique de diffusomètre vent,1,SASS,,,,,Operational,Original
 bufr4/0/21/119/2,021119,Modèle géophysique de diffusomètre vent,2,SASS 2,,,,,Operational,Original
@@ -141,11 +141,11 @@ bufr4/0/21/119/35,021119,Modèle géophysique de diffusomètre vent,35,CMOD 5,,,
 bufr4/0/21/119/36-62,021119,Modèle géophysique de diffusomètre vent,36-62,En réserve,,,,,Operational,Original
 bufr4/0/21/119/63,021119,Modèle géophysique de diffusomètre vent,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/144/1,021144,Indicateur de pluie de l'altimètre,1,Pluie,,,,,Operational,Original
-bufr4/0/21/144/2-bits-mis-à-1,021144,Indicateur de pluie de l'altimètre,2 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/144/All-2,021144,Indicateur de pluie de l'altimètre,2 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/148/1,021148,Indicateur de variation du front arrière,1,Variation autre qu'une variation de courte durée,,,,,Operational,Original
 bufr4/0/21/148/2,021148,Indicateur de variation du front arrière,2,Variation de courte durée,,,,,Operational,Original
 bufr4/0/21/148/3-8,021148,Indicateur de variation du front arrière,3-8,En réserve,,,,,Operational,Original
-bufr4/0/21/148/9-bits-mis-à-1,021148,Indicateur de variation du front arrière,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/148/All-9,021148,Indicateur de variation du front arrière,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/150/0,021150,Recoupement de faisceaux,0,Données provenant d'une seule station au sol (pas de recoupement),,,,,Operational,Original
 bufr4/0/21/150/1,021150,Recoupement de faisceaux,1,Données provenant de plusieurs stations au sol (recoupement),,,,,Operational,Original
 bufr4/0/21/150/2,021150,Recoupement de faisceaux,2,En réserve,,,,,Operational,Original
@@ -167,7 +167,7 @@ bufr4/0/21/155/14,021155,Qualité du vecteur vent dans la cellule,14,Pluie déte
 bufr4/0/21/155/15,021155,Qualité du vecteur vent dans la cellule,15,Aucune indication de conditions météorologiques utilisée,,,,,Operational,Original
 bufr4/0/21/155/16,021155,Qualité du vecteur vent dans la cellule,16,Données redondantes,,,,,Operational,Original
 bufr4/0/21/155/17-23,021155,Qualité du vecteur vent dans la cellule,17-23,En réserve,,,,,Operational,Original
-bufr4/0/21/155/24-bits-mis-à-1,021155,Qualité du vecteur vent dans la cellule,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/21/155/All-24,021155,Qualité du vecteur vent dans la cellule,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/158/0,021158,"Qualité de l'estimation de la Kp, ASCAT",0,Acceptable,,,,,Operational,Original
 bufr4/0/21/158/1,021158,"Qualité de l'estimation de la Kp, ASCAT",1,Inacceptable,,,,,Operational,Original
 bufr4/0/21/158/2,021158,"Qualité de l'estimation de la Kp, ASCAT",2,En réserve,,,,,Operational,Original

@@ -5,7 +5,7 @@ bufr4/0/08/001/3,008001,Significación del sondeo vertical,3,Nivel tropopáusico
 bufr4/0/08/001/4,008001,Significación del sondeo vertical,4,Nivel del viento máximo,,,,,Operational,Original
 bufr4/0/08/001/5,008001,Significación del sondeo vertical,5,"Nivel significativo, temperatura y/o humedad relativa",,,,,Operational,Original
 bufr4/0/08/001/6,008001,Significación del sondeo vertical,6,"Nivel significativo, viento",,,,,Operational,Original
-bufr4/0/08/001/All-7,008001,Significación del sondeo vertical,All 7,Valor faltante,,,,,Operational,Original
+bufr4/0/08/001/All-7,008001,Significación del sondeo vertical,Todos los 7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/002/0,008002,Significación vertical (observaciones en superficie),0,Reglas de observación de la base de las nubes más bajas y de los tipos de nubes aplicables a las claves FM 12 SYNOP y FM 13 SHIP,,,,,Operational,Original
 bufr4/0/08/002/1,008002,Significación vertical (observaciones en superficie),1,Primera capa significativa que no sea de cumulonimbus,,,,,Operational,Original
 bufr4/0/08/002/2,008002,Significación vertical (observaciones en superficie),2,Segunda capa significativa que no sea de cumulonimbus,,,,,Operational,Original
@@ -63,7 +63,7 @@ bufr4/0/08/006/5,008006,Significación del sondeo vertical del ozono,5,Nivel mí
 bufr4/0/08/006/6,008006,Significación del sondeo vertical del ozono,6,Nivel de presión mínima,,,,,Operational,Original
 bufr4/0/08/006/7,008006,Significación del sondeo vertical del ozono,7,Reservado,,,,,Operational,Original
 bufr4/0/08/006/8,008006,Significación del sondeo vertical del ozono,8,Nivel de significación no determinada,,,,,Operational,Original
-bufr4/0/08/006/All-9,008006,Significación del sondeo vertical del ozono,All 9,Valor faltante,,,,,Operational,Original
+bufr4/0/08/006/All-9,008006,Significación del sondeo vertical del ozono,Todos los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/08/007/0,008007,Significación dimensional,0,Punto,,,,,Operational,Original
 bufr4/0/08/007/1,008007,Significación dimensional,1,Línea,,,,,Operational,Original
 bufr4/0/08/007/2,008007,Significación dimensional,2,Área,,,,,Operational,Original
@@ -443,7 +443,7 @@ bufr4/0/08/042/14,008042,Significación del sondeo vertical ampliado,14,Techo de
 bufr4/0/08/042/15,008042,Significación del sondeo vertical ampliado,15,Nivel determinado por decisión regional,,,,,Operational,Original
 bufr4/0/08/042/16,008042,Significación del sondeo vertical ampliado,16,Nivel de congelación,,,,,Operational,Original
 bufr4/0/08/042/17,008042,Significación del sondeo vertical ampliado,17,Nivel de presión indicado originariamente por la altura como coordinada vertical,,,,,Operational,Original
-bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,All 18,Valor faltante,,,,,Operational,Original
+bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,Todos los 18,Valor faltante,,,,,Operational,Original
 bufr4/0/08/043/0,008043,Tipo de componente atmosférico químico o físico,0,Ozono,"Fórmula: O3, Número CAS: 10028-15-6",,,,Operational,Original
 bufr4/0/08/043/1,008043,Tipo de componente atmosférico químico o físico,1,Vapor de agua,"Fórmula: H2O, Número CAS: 7732-18-5",,,,Operational,Original
 bufr4/0/08/043/2,008043,Tipo de componente atmosférico químico o físico,2,Metano,"Fórmula: CH4, Número CAS: 74-82-8",,,,Operational,Original
@@ -648,7 +648,7 @@ bufr4/0/08/083/7,008083,Indicador del valor nominal,7,Ajustado con respecto a la
 bufr4/0/08/083/8,008083,Indicador del valor nominal,8,Ajustado con respecto a la evaporación,,,,,Operational,Original
 bufr4/0/08/083/9,008083,Indicador del valor nominal,9,Ajustado con respecto a las pérdidas por humedad,,,,,Operational,Original
 bufr4/0/08/083/10-14,008083,Indicador del valor nominal,10-14,Reservados,,,,,Operational,Original
-bufr4/0/08/083/All-15,008083,Indicador del valor nominal,All 15,Valor faltante,,,,,Operational,Original
+bufr4/0/08/083/All-15,008083,Indicador del valor nominal,Todos los 15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/085/0,008085,Identificador del haz,0,Haz de proa,,,,,Operational,Original
 bufr4/0/08/085/1,008085,Identificador del haz,1,Haz medio,,,,,Operational,Original
 bufr4/0/08/085/2,008085,Identificador del haz,2,Haz de popa,,,,,Operational,Original
@@ -666,7 +666,7 @@ bufr4/0/08/086/8,008086,Significación vertical para predicción numérica del t
 bufr4/0/08/086/9,008086,Significación vertical para predicción numérica del tiempo,9,Altura virtual de la estación,,,,,Operational,Original
 bufr4/0/08/086/10,008086,Significación vertical para predicción numérica del tiempo,10,Nivel de ajuste óptimo,,,,,Operational,Original
 bufr4/0/08/086/11,008086,Significación vertical para predicción numérica del tiempo,11,Reservados,,,,,Operational,Original
-bufr4/0/08/086/All-12,008086,Significación vertical para predicción numérica del tiempo,All 12,Valor faltante,,,,,Operational,Original
+bufr4/0/08/086/All-12,008086,Significación vertical para predicción numérica del tiempo,Todos los 12,Valor faltante,,,,,Operational,Original
 bufr4/0/08/087/0,008087,Posición esquinera de la observación,0,Izquierda superior,,,,,Operational,Original
 bufr4/0/08/087/1,008087,Posición esquinera de la observación,1,Derecha superior,,,,,Operational,Original
 bufr4/0/08/087/2,008087,Posición esquinera de la observación,2,Derecha inferior,,,,,Operational,Original
