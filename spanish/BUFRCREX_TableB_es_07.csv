@@ -31,8 +31,8 @@ bufr4/0/07/065,07,Ubicación (vertical),007065,Presión del agua,Pa,-3,0,17,Pa,-
 bufr4/0/07/070,07,Ubicación (vertical),007070,Profundidad del ancla flotante,m,0,0,10,m,0,4,,,Operational,Original
 bufr4/0/07/071,07,Ubicación (vertical),007071,Altura,m,3,-10000000,26,m,3,8,(alta resolución),,Operational,Original
 bufr4/0/07/072,07,Ubicación (vertical),007072,Ángulo de exploración,grado,2,-9000,15,grados,2,6,,,Operational,Original
-bufr4/0/07/073,07,Ubicación (vertical),007073,Ángulo entre la luna y cálculo de visión de espacio,deg,2,0,15,deg,2,5,,,Operational,AI Translator: MCP
+bufr4/0/07/073,07,Ubicación (vertical),007073,Ángulo entre la luna y el cálculo de visión de espacio,deg,2,0,15,deg,2,5,,,Operational,AI Translator: MCP
 bufr4/0/07/074,07,Ubicación (vertical),007074,Ángulo de elevación solar en el marco de referencia del instrumento,deg,2,-9000,15,deg,2,5,,,Operational,AI Translator: MCP
 bufr4/0/07/075,07,Ubicación (vertical),007075,Ángulo de dispersión,deg,0,0,8,deg,0,3,,,Operational,AI Translator: MCP
-bufr4/0/07/076,07,Ubicación (vertical),007076,azimut,deg,0,0,8,deg,0,3,,,Operational,AI Translator: MCP
+bufr4/0/07/076,07,Ubicación (vertical),007076,Ángulo de acimut relativo.,deg,0,0,8,deg,0,3,,,Operational,AI Translator: MCP
 bufr4/0/07/077,07,Ubicación (vertical),007077,Altura del sensor con respecto a la estación,m,0,-400,12,,,,,,Operational,AI Translator: MCP

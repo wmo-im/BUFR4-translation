@@ -1,7 +1,7 @@
 Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
 bufr4/0/21/026/0,021026,Utilizabilidad de Sigma-0 ASCAT,0,Nominal,,,,,Operational,AI Translator: MCP
 bufr4/0/21/026/1,021026,Utilizabilidad de Sigma-0 ASCAT,1,Cerca de nominal,,,,,Operational,AI Translator: MCP
-bufr4/0/21/026/2,021026,Utilizabilidad de Sigma-0 ASCAT,2,Lejos de ser nominal,,,,,Operational,AI Translator: MCP
+bufr4/0/21/026/2,021026,Utilizabilidad de Sigma-0 ASCAT,2,Lejos de nominal.,,,,,Operational,AI Translator: MCP
 bufr4/0/21/026/3-6,021026,Utilizabilidad de Sigma-0 ASCAT,3-6,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/21/026/7,021026,Utilizabilidad de Sigma-0 ASCAT,7,Faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/21/066/1,021066,Datos sobre el grado de confianza del producto del dispersómetro de onda,1,El equipo de proceso no funciona,,,,,Operational,Original

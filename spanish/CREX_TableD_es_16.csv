@@ -72,8 +72,8 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16007,(Frente),,R04000,Repetición diferida de 4 descriptores,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16007,(Frente),,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16007,(Frente),,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16007,Frente,,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16007,(Frente),,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16007,(Frente),,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16007,Frente,,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16007,Frente,,B08007,Significación dimensional,Anular,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16007,Frente,,B08011,Característica meteorológica,Anular | Fin del objeto,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16008,Tropopausa,,R10000,Repetición diferida de 10 descriptores,,,Operational,AI Translator: MCP
@@ -88,13 +88,13 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16008,Tropopausa,,B08007,Significación dimensional,Anular,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16008,Tropopausa,,B08001,Significación del sondeo vertical,Anular | Fin del objeto,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,R10000,Repetición diferida de 10 descriptores,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B08011,Característica meteorológica,Valor correspondiente al engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16009,Área de formación de hielo en la estructura.,,B08011,Característica meteorológica,Valor correspondiente al engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B08007,Significación dimensional,Valor del área,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B07002,Altura o altitud,Nivel de vuelo (base de la capa),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B07002,Altura o altitud,Nivel de vuelo (cima de la capa),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16009,Área de formación de hielo en la estructura.,,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B20041,Engelamiento del fuselaje de la aeronave,Tipo de engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B08007,Significación dimensional,Anular,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16009,Engelamiento del fuselaje de la aeronave,,B08011,Característica meteorológica,Anular | Fin del objeto,,Operational,AI Translator: MCP
@@ -103,9 +103,9 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B08007,Significación dimensional,Valor del punto,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B01022,Nombre de la característica,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B08007,Significación dimensional,Anular,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16010,(Nombre de la característica),,B08011,Característica meteorológica,Anular | Fin del objeto,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16010,Nombre de la característica,,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16010,Nombre de la característica,,B08007,Significación dimensional,Anular,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16010,Nombre de la característica,,B08011,Característica meteorológica,Anular | Fin del objeto,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16011,Volcán en erupción,,R16000,Repetición diferida de 16 descriptores,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16011,Volcán en erupción,,B08011,Característica meteorológica,Valor correspondiente a nubes especiales,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16011,Volcán en erupción,,B01022,Nombre de la característica,Nombre del volcán,,Operational,AI Translator: MCP
@@ -188,7 +188,7 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16030,(Encabezamiento SIGMET),,B08019,Calificador para el identificador del centro siguiente,= 6 MWO,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16030,(Encabezamiento SIGMET),,B01062,Indicador de ubicación abreviado de la OACI,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16030,(Encabezamiento SIGMET),,B08019,Calificador para el identificador del centro siguiente,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16031,(SIGMET – Posición y desplazamiento observados o pronosticados),,B08021,Significación temporal,"= 16 análisis, = 4 predicción",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,B08021,Significación temporal,"= 16 análisis, = 4 predicción",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,D01027,Descripción de un elemento en 3-D o 2-D,,,Operational,AI Translator: MCP
@@ -196,36 +196,36 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,B20028,Cambio esperado en intensidad,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,B08021,Significación temporal,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16032,(SIGMET – Situación del pronóstico),,B08021,Significación temporal,= 4 previsión,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16032,"SIGMET, situación del pronóstico",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16032,(SIGMET – Situación del pronóstico),,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16032,"SIGMET, situación del pronóstico",,B08021,Significación temporal,= 4 previsión,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16032,(SIGMET – Situación del pronóstico),,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16032,"SIGMET, situación del pronóstico",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16032,"SIGMET, situación del pronóstico",,D01027,Descripción de un elemento en 3-D o 2-D,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16032,"SIGMET, situación del pronóstico",,B08021,Significación temporal,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,B08021,Significación temporal,= 4 previsión,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16033,(SIGMET – Perspectiva),,B08021,Significación temporal,= 4 previsión,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16033,(SIGMET – Perspectiva),,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16033,(SIGMET – Perspectiva),,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,D01027,Descripción de un elemento en 3-D o 2-D,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16033,"SIGMET, perspectiva",,B08021,Significación temporal,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
+16,Secuencias de las características sinópticas,D16034,SIGMET de Ceniza Volcánica,,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08011,Característica meteorológica,= 17 volcán,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B01022,Nombre de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08007,Significación dimensional,= 0 punto,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08007,Significación dimensional,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B20090,Nubes especiales,= 5 nubes originadas por erupciones volcánicas,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,D16032,"SIGMET, situación del pronóstico",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,D16033,"SIGMET, perspectiva",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16034,mensajes SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B08011,Característica meteorológica,= 17 volcán,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B01022,Nombre de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B08007,Significación dimensional,= 0 punto,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B08007,Significación dimensional,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de ceniza volcánica),,B20090,Nubes especiales,= 5 nubes originadas por erupciones volcánicas,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,D16032,"SIGMET, situación del pronóstico",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,SIGMET de Ceniza Volcánica,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,D16033,"SIGMET, perspectiva",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16034,(SIGMET de Ceniza Volcánica),,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16035,(SIGMET de tormenta eléctrica),,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B08011,Característica meteorológica,= 21 tormenta,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B20023,Otros fenómenos meteorológicos,Bit 2 = turbonadas o los 18 bits = faltante,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B20021,Tipo de precipitación,Bit 14 = granizo o los 30 bits = faltante,,Operational,AI Translator: MCP
@@ -233,35 +233,35 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16035,tormenta eléctrica,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
+16,Secuencias de las características sinópticas,D16036,"""(SIGMET de ciclón tropical)""",,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,B08011,Característica meteorológica,= 22 ciclón tropical,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,B01027,Nombre OMM completo de la tormenta,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,D16032,"SIGMET, situación del pronóstico",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,D16033,"SIGMET, perspectiva",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16036,mensajes SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,"""(SIGMET de ciclón tropical)""",,B08011,Característica meteorológica,= 22 ciclón tropical,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,B01027,Nombre OMM completo de la tormenta,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,"""(SIGMET de ciclón tropical)""",,D16032,"SIGMET, situación del pronóstico",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,D16033,"SIGMET, perspectiva",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16036,(SIGMET de ciclón tropical),,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,B08011,Característica meteorológica,= 13 turbulencia,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,B11031,Grado de turbulencia,"= 10 moderado,= 11 fuerte",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16037,mensajes SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
+16,Secuencias de las características sinópticas,D16037,SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,B08011,Característica meteorológica,= 13 turbulencia,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,B11031,Grado de turbulencia,"= 10 moderado,= 11 fuerte",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16037,SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B08011,Característica meteorológica,= 15 engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B20041,Engelamiento del fuselaje de la aeronave,= 7 fuerte,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B20021,Tipo de precipitación,bit 3 = congelamiento líquido o los 30 bits = faltante,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16038,mensajes SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B08011,Característica meteorológica,= 15 engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B20041,Engelamiento del fuselaje de la aeronave,= 7 fuerte,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B20021,Tipo de precipitación,bit 3 = congelamiento líquido o los 30 bits = faltante,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16038,SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16039,"(Onda de montaña, tempestad de polvo o tempestad de arena SIGMET)",,B08079,Estado del producto,"= 0 emisión normal,
 = 1 corrección",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16039,"(Onda de montaña, tormenta de polvo o tormenta de arena SIGMET)",,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
@@ -271,28 +271,28 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16039,"(Onda de montaña, tempestad de polvo o tempestad de arena SIGMET)",,D16031,"SIGMET, posición y desplazamiento observados o pronosticados",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16039,"(Onda de montaña, tempestad de polvo o tempestad de arena SIGMET)",,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16039,"(Onda de montaña, tempestad de polvo o tempestad de arena SIGMET)",,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,B08079,Estado del producto,= 4 anulación,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,D01014,Período de tiempo,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,B01037,Identificador de la secuencia SIGMET,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,B10064,Nivel de crucero SIGMET,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16040,mensajes SIGMET,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,D01001,Números de bloque y de la estación de la OMM,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,"""(Cancelación de SIGMET)""",,D16030,Encabezamiento SIGMET,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,Cancelación de SIGMET,,B08079,Estado del producto,= 4 anulación,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,"""(Cancelación de SIGMET)""",,D01014,Período de tiempo,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,"""(Cancelación de SIGMET)""",,B01037,Identificador de la secuencia SIGMET,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,Cancelación de SIGMET,,B10064,Nivel de crucero SIGMET,Del SIGSMET que va a anularse,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16040,"""(Cancelación de SIGMET)""",,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,D01001,Números de bloque y de la estación de la OMM,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B02160,Longitud de onda del radar,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B08005,Significación del atributo meteorológico,1,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B08005,Significación del atributo meteorológico,Anular,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19100,Intervalo de tiempo para calcular el movimiento del ciclón tropical,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19101,Precisión de la posición del centro del ciclón tropical,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19102,Configuración y definición del ojo del ciclón tropical,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19103,Diámetro del eje principal del ojo del ciclón tropical,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19104,Cambio de la naturaleza del ojo durante los 30 minutos,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16050,(Modelo RADOB – parte A: información sobre ciclones tropicales),,B19105,Distancia entre el fin de la banda en espiral y el centro,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B02160,Longitud de onda del radar,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B08005,Significación del atributo meteorológico,1,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B08005,Significación del atributo meteorológico,Anular,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19100,Intervalo de tiempo para calcular el movimiento del ciclón tropical,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19101,Precisión de la posición del centro del ciclón tropical,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19102,Configuración y definición del ojo del ciclón tropical,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19103,Diámetro del eje principal del ojo del ciclón tropical,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19104,Cambio de la naturaleza del ojo durante los 30 minutos,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16050,Plantilla RADOB - Parte A: Información sobre el ojo del ciclón tropical,,B19105,Distancia entre el fin de la banda en espiral y el centro,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,D01005,Centro/centro secundario de origen,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
@@ -320,42 +320,42 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,B19116,Número “tropical-patrón” tropical,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,B19117,Tipo de imagen de nube del número PT,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,B19118,Número final tropical (T) del ciclón tropical,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre ciclón tropical,,B19119,Tipo del número final T,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16052,Plantilla SAREP - Parte A: Información sobre el ojo del ciclón tropical,,B19119,Tipo del número final T,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.",Situación del centro de la línea de turbonada,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.",Situación del centro de la línea de turbonada,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.",Situación del centro de la línea de turbonada,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.",Situación del centro de la línea de turbonada,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.",Situación del centro de la línea de turbonada,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.",Situación del centro de la línea de turbonada,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: lado norte",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: lado norte",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B04074,Período o desplazamiento de tiempo abreviado,Período de validez,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B20048,Evolución del elemento,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B20048,Evolución del elemento,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución previstas.","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B11041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16060,"Definición de línea de turbonada (por 3 puntos: Centro, Norte, Sur) y trayectoria y evolución pronosticadas.","Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B13055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,Situación del centro de la línea de turbonada,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,Situación del centro de la línea de turbonada,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,Situación del centro de la línea de turbonada,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,Situación del centro de la línea de turbonada,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,Situación del centro de la línea de turbonada,B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,Situación del centro de la línea de turbonada,B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de la línea de turbonada (por el centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución pronosticadas.,Situación del centro de la línea de turbonada,B19005,Dirección del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,Situación del centro de la línea de turbonada,B19006,Velocidad del desplazamiento de la característica,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B04074,Período o desplazamiento de tiempo abreviado,Período de validez,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B20048,Evolución del elemento,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por el centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B11041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B13055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16074,(Identificador y ubicación observada o pronosticada GFA),,B01039,Identificador de secuencia de predicción gráfica de área (GFA),,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16074,(Identificador y ubicación observada o pronosticada GFA),,B08021,Significación temporal,"= 4 predicción,= 16 análisis",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado norte",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B05002,Latitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: lado sur",B06002,Longitud (precisión aproximada),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B04074,Período o desplazamiento de tiempo abreviado,Período de validez,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B20048,Evolución del elemento,,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del norte y puntos del sur) y trayectoria y evolución pronosticadas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B11041,Velocidad máxima de las ráfagas de viento,Irrupción máxima esperada,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16061,Definición de línea de turbonada (por centro y varios puntos: puntos del Norte y puntos del Sur) y trayectoria y evolución previstas.,"Amplitud del elemento, desde el punto más exterior al punto central: Evolución",B13055,Intensidad de la precipitación,Intensidad de la lluvia esperada,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16074,Identificador y ubicación observada o pronosticada GFA,,B01039,Identificador de secuencia de predicción gráfica de área (GFA),,,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16074,Identificador y ubicación observada o pronosticada GFA,,B08021,Significación temporal,"= 4 predicción,= 16 análisis",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16074,(Identificador y ubicación observada o pronosticada GFA),,D01014,Período de tiempo,Respecto del que se observa o pronostica el fenómeno peligroso,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16074,(Identificador y ubicación observada o pronosticada GFA),,D01027,Descripción de un elemento en 3-D o 2-D,,,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16074,(Identificador y ubicación observada o pronosticada GFA),,B08021,Significación temporal,Fijar en faltante (anular),,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16074,Identificador y ubicación observada o pronosticada GFA,,B08021,Significación temporal,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16075,Techo de nubes y visibilidad IFR GFA,,B08079,Estado del producto,"= 0 normal, = 1
 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16075,Techo de nubes y visibilidad IFR GFA,,B08041,Significación de datos,= 8 techo de nubes y visibilidad IFR,,Operational,AI Translator: MCP
@@ -378,38 +378,33 @@ COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16076,Oscurecimiento de montaña GFA,,B20026,Carácter del oscurecimiento,"= 6 ventisca alta, = 15 faltante",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16076,Oscurecimiento de montaña GFA,,B08041,Significación de datos,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16076,Oscurecimiento de montaña GFA,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B08079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B08079,Estado del producto,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B08011,Característica meteorológica,= 13 turbulencia,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,D16074,Identificador y ubicación observada o pronosticada GFA,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B11031,Grado de turbulencia,= 6 moderada,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16077,Turbulencia GFA,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B08079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B08079,Estado del producto,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B08041,Significación de datos,= 10 viento fuerte en superficie,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,D16074,Identificador y ubicación observada o pronosticada GFA,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B33042,Tipo de límite representado por el valor siguiente,= 0 límite inferior exclusivo,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B11012,Velocidad del viento a 10 m,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B08041,Significación de datos,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16078,Viento fuerte en superficie GFA,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B08079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B08079,Estado del producto,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B08011,Característica meteorológica,= 16 fenómeno,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,D16074,Identificador y ubicación observada o pronosticada GFA,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B20023,Otros fenómenos meteorológicos,bit 12 = cizalladura,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B20024,Intensidad del fenómeno,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16079,Cizalladura del viento en niveles bajos GFA,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B08079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B08079,Estado del producto,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B08011,Característica meteorológica,= 15 engelamiento del fuselaje de la aeronave,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,D16074,Identificador y ubicación observada o pronosticada GFA,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B20041,Engelamiento del fuselaje de la aeronave,= 4 engelamiento moderado,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B08011,Característica meteorológica,Fijar en faltante (anular),,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16080,Engelamiento GFA,,B08079,Estado del producto,Fijar en faltante (anular),,Operational,AI Translator: MCP
-16,Secuencias de las características sinópticas,D16081,Nivel de congelación GFA,,B08079,Estado del producto,"= 0 normal, = 1
-COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
+16,Secuencias de las características sinópticas,D16081,Nivel de congelación GFA,,B08079,Estado del producto,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16081,Nivel de congelación GFA,,B08041,Significación de datos,"= 11 nivel de engelamiento, = 12 nivel de engelamiento múltiple",,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16081,Nivel de congelación GFA,,D16074,Identificador y ubicación observada o pronosticada GFA,,,Operational,AI Translator: MCP
 16,Secuencias de las características sinópticas,D16081,Nivel de congelación GFA,,B08041,Significación de datos,Fijar en faltante (anular),,Operational,AI Translator: MCP

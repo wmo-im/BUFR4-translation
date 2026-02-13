@@ -15,8 +15,8 @@ bufr4/0/35/001/1,035001,Plazo de tiempo para el control,1,Casi en tiempo real,,,
 bufr4/0/35/001/2,035001,Plazo de tiempo para el control,2,Tiempo no real,,,,,Operational,AI Translator: MCP
 bufr4/0/35/001/3-6,035001,Plazo de tiempo para el control,3-6,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/001/7,035001,Plazo de tiempo para el control,7,Valor faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/35/030/0,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,0,Sin discrepancias,,,,,Operational,AI Translator: MCP
-bufr4/0/35/030/1,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,1,"Incumplimiento de las prácticas estándar y recomendadas y procedimientos, incluyendo los de monitoreo.",,,,,Operational,AI Translator: MCP
+bufr4/0/35/030/0,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,0,No hay discrepancias,,,,,Operational,AI Translator: MCP
+bufr4/0/35/030/1,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,1,"El incumplimiento de las prácticas estándar y recomendadas y los procedimientos, incluidos los de monitoreo.",,,,,Operational,AI Translator: MCP
 bufr4/0/35/030/2,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,2,Catálogos de boletines meteorológicos no actualizados de manera oportuna,,,,,Operational,AI Translator: MCP
 bufr4/0/35/030/3,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,3,Directorios de enrutamiento incorrectos,,,,,Operational,AI Translator: MCP
 bufr4/0/35/030/4,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,4,Falta de flexibilidad en los arreglos de enrutamiento,,,,,Operational,AI Translator: MCP
@@ -31,10 +31,10 @@ bufr4/0/35/031/2,035031,Calificador de los resultados del control,2,Suficiente p
 bufr4/0/35/031/3,035031,Calificador de los resultados del control,3,Insuficiente pero de calidad aceptable,,,,,Operational,AI Translator: MCP
 bufr4/0/35/031/4,035031,Calificador de los resultados del control,4,Insuficiente y de calidad inaceptable,,,,,Operational,AI Translator: MCP
 bufr4/0/35/031/5,035031,Calificador de los resultados del control,5,Algunos mensajes no están completos.,,,,,Operational,AI Translator: MCP
-bufr4/0/35/031/6,035031,Calificador de los resultados del control,6,Los grupos sospechosos o codificados incorrectamente no se pudieron interpretar con confianza.,,,,,Operational,AI Translator: MCP
-bufr4/0/35/031/7,035031,Calificador de los resultados del control,7,error,,,,,Operational,AI Translator: MCP
-bufr4/0/35/031/8,035031,Calificador de los resultados del control,8,El orden secuencial de transmisión no se observó.,,,,,Operational,AI Translator: MCP
-bufr4/0/35/031/9,035031,Calificador de los resultados del control,9,"Informe completamente distorsionado y, por lo tanto, descartado.",,,,,Operational,AI Translator: MCP
+bufr4/0/35/031/6,035031,Calificador de los resultados del control,6,Los grupos sospechosos o codificados incorrectamente no pudieron interpretarse con confianza.,,,,,Operational,AI Translator: MCP
+bufr4/0/35/031/7,035031,Calificador de los resultados del control,7,Errores graves de codificación.,,,,,Operational,AI Translator: MCP
+bufr4/0/35/031/8,035031,Calificador de los resultados del control,8,Orden secuencial de transmisión no observado,,,,,Operational,AI Translator: MCP
+bufr4/0/35/031/9,035031,Calificador de los resultados del control,9,"Informe completamente ilegible y, por lo tanto, descartado.",,,,,Operational,AI Translator: MCP
 bufr4/0/35/031/10,035031,Calificador de los resultados del control,10,Deficiencias identificadas y rectificadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/031/11,035031,Calificador de los resultados del control,11,Deficiencias identificadas pero no rectificadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/031/12,035031,Calificador de los resultados del control,12,Deficiencias no identificadas,,,,,Operational,AI Translator: MCP
@@ -50,13 +50,13 @@ bufr4/0/35/031/99-126,035031,Calificador de los resultados del control,99-126,No
 bufr4/0/35/031/127,035031,Calificador de los resultados del control,127,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/1,035032,Causa de los datos faltantes,1,Grupos de datos faltantes debido a la atenuación de radio.,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/2,035032,Causa de los datos faltantes,2,Grupos de datos faltantes debido a la interrupción del centro.,,,,,Operational,AI Translator: MCP
-bufr4/0/35/032/3,035032,Causa de los datos faltantes,3,Grupos de datos faltantes debido a la interrupción del circuito,,,,,Operational,AI Translator: MCP
+bufr4/0/35/032/3,035032,Causa de los datos faltantes,3,Grupos de datos ausentes debido a la interrupción del circuito.,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/4,035032,Causa de los datos faltantes,4,No implementación o mantenimiento de la densidad requerida de RBSN,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/5,035032,Causa de los datos faltantes,5,Escasez de personal calificado para operar estaciones,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/6,035032,Causa de los datos faltantes,6,Falta de consumibles,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/7,035032,Causa de los datos faltantes,7,instrumento,,,,,Operational,AI Translator: MCP
-bufr4/0/35/032/8,035032,Causa de los datos faltantes,8,Incumplimiento de los procedimientos de telecomunicaciones,,,,,Operational,AI Translator: MCP
-bufr4/0/35/032/9,035032,Causa de los datos faltantes,9,Algunos programas de observación cesaron,,,,,Operational,AI Translator: MCP
+bufr4/0/35/032/8,035032,Causa de los datos faltantes,8,No cumplimiento de los procedimientos de telecomunicaciones,,,,,Operational,AI Translator: MCP
+bufr4/0/35/032/9,035032,Causa de los datos faltantes,9,Algunos programas de observación cesaron.,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/10-14,035032,Causa de los datos faltantes,10-14,No utilizadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/032/15,035032,Causa de los datos faltantes,15,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/1,035033,Deficiencias de observación y recopilación,1,Sin deficiencia,,,,,Operational,AI Translator: MCP
@@ -66,10 +66,10 @@ bufr4/0/35/033/4,035033,Deficiencias de observación y recopilación,4,Observaci
 bufr4/0/35/033/5,035033,Deficiencias de observación y recopilación,5,Observaciones realizadas y enviadas a usuarios incorrectos,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/6,035033,Deficiencias de observación y recopilación,6,Colección no recibida,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/7,035033,Deficiencias de observación y recopilación,7,Colección transmitida tarde,,,,,Operational,AI Translator: MCP
-bufr4/0/35/033/8,035033,Deficiencias de observación y recopilación,8,Colección no transmitida,,,,,Operational,AI Translator: MCP
+bufr4/0/35/033/8,035033,Deficiencias de observación y recopilación,8,Sistema de recopilación de datos no transmitido,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/9,035033,Deficiencias de observación y recopilación,9,Dificultades en la propagación de HF y la selección de frecuencia adecuada,,,,,Operational,AI Translator: MCP
-bufr4/0/35/033/10,035033,Deficiencias de observación y recopilación,10,Dificultades en el mantenimiento del equipo de comunicación en estación remota,,,,,Operational,AI Translator: MCP
-bufr4/0/35/033/11,035033,Deficiencias de observación y recopilación,11,No hay una disposición alternativa para el enrutamiento de la observación meteorológica.,,,,,Operational,AI Translator: MCP
+bufr4/0/35/033/10,035033,Deficiencias de observación y recopilación,10,Dificultades en el mantenimiento del equipo de comunicación en la estación remota,,,,,Operational,AI Translator: MCP
+bufr4/0/35/033/11,035033,Deficiencias de observación y recopilación,11,No hay disposición alternativa para el enrutamiento de la observación meteorológica.,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/12-99,035033,Deficiencias de observación y recopilación,12-99,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/100-122,035033,Deficiencias de observación y recopilación,100-122,No utilizadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/033/123,035033,Deficiencias de observación y recopilación,123,Valor faltante,,,,,Operational,AI Translator: MCP
@@ -78,15 +78,15 @@ bufr4/0/35/034/2,035034,Tendencias estadísticas de la disponibilidad de datos (
 bufr4/0/35/034/3,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),3,Mejora más significativa,,,,,Operational,AI Translator: MCP
 bufr4/0/35/034/4,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),4,Estable,,,,,Operational,AI Translator: MCP
 bufr4/0/35/034/5,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),5,Disminuyendo,,,,,Operational,AI Translator: MCP
-bufr4/0/35/034/6,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),6,Esfuerzos necesarios para mejorar las observaciones nocturnas.,,,,,Operational,AI Translator: MCP
+bufr4/0/35/034/6,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),6,Esfuerzos necesarios para mejorar las observaciones nocturnas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/034/7,035034,Tendencias estadísticas de la disponibilidad de datos (durante el (los) período(s) examinado(s),7,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/0,035035,Motivo de la terminación,0,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/1,035035,Motivo de la terminación,1,Explosión de globo,,,,,Operational,AI Translator: MCP
-bufr4/0/35/035/2,035035,Motivo de la terminación,2,Globo obligado a descender por el engelamiento del fuselaje de la aeronave,,,,,Operational,AI Translator: MCP
+bufr4/0/35/035/2,035035,Motivo de la terminación,2,Globo obligado a descender por engelamiento del fuselaje de la aeronave,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/3,035035,Motivo de la terminación,3,Globo con fugas o flotante,,,,,Operational,AI Translator: MCP
-bufr4/0/35/035/4,035035,Motivo de la terminación,4,Señal débil o intermitente,,,,,Operational,AI Translator: MCP
+bufr4/0/35/035/4,035035,Motivo de la terminación,4,Señal débil o que se desvanece,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/5,035035,Motivo de la terminación,5,Fallo de batería,,,,,Operational,AI Translator: MCP
-bufr4/0/35/035/6,035035,Motivo de la terminación,6,Fallo del equipo terrestre,,,,,Operational,AI Translator: MCP
+bufr4/0/35/035/6,035035,Motivo de la terminación,6,Falla del equipo terrestre,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/7,035035,Motivo de la terminación,7,Interferencia de señal,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/8,035035,Motivo de la terminación,8,radiosonda,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/9,035035,Motivo de la terminación,9,Marcos de datos faltantes excesivos,,,,,Operational,AI Translator: MCP
@@ -96,8 +96,8 @@ bufr4/0/35/035/12,035035,Motivo de la terminación,12,Presión faltante excesiva
 bufr4/0/35/035/13,035035,Motivo de la terminación,13,Usuario terminado,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/14,035035,Motivo de la terminación,14,Pérdida repentina de señal,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/15,035035,Motivo de la terminación,15,Seguimiento perdido,,,,,Operational,AI Translator: MCP
-bufr4/0/35/035/16,035035,Motivo de la terminación,16,Aumento de presión,,,,,Operational,AI Translator: MCP
-bufr4/0/35/035/17,035035,Motivo de la terminación,17,Límites de tiempo de datos inválidos y/o perdidos excedidos,,,,,Operational,AI Translator: MCP
+bufr4/0/35/035/16,035035,Motivo de la terminación,16,Aumentando la presión,,,,,Operational,AI Translator: MCP
+bufr4/0/35/035/17,035035,Motivo de la terminación,17,Límites de tiempo de datos inválidos y/o omitidos excedidos,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/18-29,035035,Motivo de la terminación,18-29,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/30,035035,Motivo de la terminación,30,Otro,,,,,Operational,AI Translator: MCP
 bufr4/0/35/035/31,035035,Motivo de la terminación,31,Valor faltante,,,,,Operational,AI Translator: MCP

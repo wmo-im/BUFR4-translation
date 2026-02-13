@@ -89,4 +89,4 @@ bufr4/0/12/186,12,Temperatura,012186,Temperatura media de la superficie del mar 
 bufr4/0/12/187,12,Temperatura,012187,Temperatura media de la superficie del mar en vista dual,K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/188,12,Temperatura,012188,"Temperatura de lumicia interpolada a 23,8 GHz según MWR",K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/189,12,Temperatura,012189,"Temperatura de lumicia interpolada a 36,5 GHz según MWR",K,2,0,16,K,2,5,,,Operational,Original
-bufr4/0/12/190,12,Temperatura,012190,temperatura de lumicia error,K2,3,-15000,15,K2,3,8,,,Operational,AI Translator: MCP
+bufr4/0/12/190,12,Temperatura,012190,Covarianza de error de temperatura de lumicia,K2,3,-15000,15,K2,3,8,,,Operational,AI Translator: MCP

@@ -38,7 +38,7 @@ bufr4/0/05/073,05,Ubicación (horizontal – 1),005073,Número de espectros en d
 bufr4/0/05/074,05,Ubicación (horizontal – 1),005074,Índice en la dirección del alcance,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/05/075,05,Ubicación (horizontal – 1),005075,Índice en dirección azimutal,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/05/076,05,Ubicación (horizontal – 1),005076,Azimut solar en el marco de referencia del instrumento,deg,2,0,16,deg,2,6,,,Operational,AI Translator: MCP
-bufr4/0/05/077,05,Ubicación (horizontal – 1),005077,satélite,deg,4,-900000,21,deg,4,7,,,Operational,AI Translator: MCP
+bufr4/0/05/077,05,Ubicación (horizontal – 1),005077,Latitud del punto sub-satélite.,deg,4,-900000,21,deg,4,7,,,Operational,AI Translator: MCP
 bufr4/0/05/078,05,Ubicación (horizontal – 1),005078,Número de bocina,Numeric,0,0,4,Numeric,0,2,,,Operational,AI Translator: MCP
 bufr4/0/05/079,05,Ubicación (horizontal – 1),005079,número de bandas transversales,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
 bufr4/0/05/080,05,Ubicación (horizontal – 1),005080,resolución,m,-3,0,6,m,-3,2,,,Operational,AI Translator: MCP

@@ -12,7 +12,7 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01004,Identificación de la estación de superficie,,B01015,Nombre de la estación o emplazamiento,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01004,Identificación de la estación de superficie,,B02001,Tipo de estación,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01005,Centro/centro secundario de origen,,B01035,Centro de origen/producción,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01005,Centro/centro secundario de origen,,B01034,Identificación del centro secundario de origen/generación,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01005,Centro de origen/centro secundario,,B01034,Identificación del centro secundario de origen/generación,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01011,"Año, mes, día",,B04001,Año,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01011,"Año, mes, día",,B04002,Mes,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01011,"Año, mes, día",,B04003,Día,,,Operational,AI Translator: MCP
@@ -25,7 +25,7 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01014,Período de tiempo,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01014,Período de tiempo,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01018,Buque y método de encriptación,,B01114,Identificación encriptada del buque o de la estación terrestre móvil (encriptación base64),Ver Notas 2-4,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01018,Señal de llamada del buque cifrada y método de cifrado,,B25185,Método de encriptación,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01018,Buque y método de encriptación,,B25185,Método de encriptación,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01018,Buque y método de encriptación,,B25186,Versión de la clave de encriptación,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01021,Latitud/longitud (gran exactitud),,B05001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01021,Latitud/longitud (gran exactitud),,B06001,Longitud (gran precisión),,,Operational,AI Translator: MCP
@@ -78,10 +78,10 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01034,Boya/plataforma — fija,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01034,Boya/plataforma — fija,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01034,Boya/plataforma — fija,,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01035,(Plataforma - moving) (ver Nota 8),,B01005,Identificador de boya/plataforma,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01035,Plataforma - moving (ver Nota 8),,B01005,Identificador de boya/plataforma,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,B01012,Dirección del movimiento de la plataforma de observación*,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01035,Movimiento de la boya/plataforma) (véase la nota 8,,B01013,Velocidad del movimiento de la plataforma de observación*,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01035,Movimiento de la boya/plataforma) (véase la nota 8,,B02001,Tipo de estación,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,B01013,Velocidad del movimiento de la plataforma de observación*,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,B02001,Tipo de estación,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01035,Boya/plataforma — móvil,,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
@@ -114,11 +114,11 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01040,Buque para sondeos verticales,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01040,Buque para sondeos verticales,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01040,Buque para sondeos verticales,,D01024,"Latitud/ longitud (precisión aproximada), altura de la estación",,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica utilizada para el proceso de datos satelitales, fecha/hora",,B01007,Identificador del satélite,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,B01007,Identificador del satélite,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,B02021,Datos de instrumentos satelitales utilizados en el proceso*,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica utilizada para el proceso de datos satelitales, fecha/hora",,B02022,Técnica utilizada en el proceso de datos satelitales,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica utilizada para el proceso de datos satelitales, fecha/hora",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica utilizada para el proceso de datos satelitales, fecha/hora",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,B02022,Técnica utilizada en el proceso de datos satelitales,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,D01041,"Identificador del satélite, instrumento, técnica de proceso de datos, fecha/hora",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01042,"Identificador del satélite, instrumento, técnica de procesamiento de datos, fecha/hora, localización",,D01021,Latitud/longitud (gran exactitud),,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01043,"Identificador del satélite, método de cálculo del viento, fecha/hora, localización",,B01007,Identificador del satélite,,,Operational,AI Translator: MCP
@@ -159,9 +159,9 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01056,"Secuencia para identificación de plataforma, tipo, hora y emplazamiento del informe de observación",,D01021,Latitud/longitud (gran exactitud),,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01056,"Secuencia para identificación de plataforma, tipo, hora y emplazamiento del informe de observación",,B07030,Altura del suelo de la estación por encima del nivel medio del mar,Altura de la plataforma de la estación sobre el nivel medio del mar,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01056,"Secuencia para identificación de plataforma, tipo, hora y emplazamiento del informe de observación",,B07031,Altura del barómetro sobre el nivel medio del mar,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sensor y los instrumentos de medición de las olas,,D01021,Latitud/longitud (gran exactitud),Sensor,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sensor y los instrumentos de medición de las olas,,B07030,Altura del suelo de la estación por encima del nivel medio del mar,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sitio del sensor e instrumentos de medición de las olas,,B07032,Altura del sensor sobre el suelo local (o la cubierta de la plataforma marina),Sensor para relámpagos,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sensor y instrumentos de medición de las olas,,D01021,Latitud/longitud (gran exactitud),Sensor,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sitio del sensor y la instrumentación,,B07030,Altura del suelo de la estación por encima del nivel medio del mar,,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01059,Identificación del sitio del sensor y instrumentos de medición de las olas,,B07032,Altura del sensor sobre el suelo local (o la cubierta de la plataforma marina),Sensor para relámpagos,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B01006,Número de vuelo de aeronave,,(véase la nota 10),Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B01008,Número de matrícula de aeronave u otra identificación,,(véase la nota 10),Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B02001,Tipo de estación,,,Operational,AI Translator: MCP
@@ -170,9 +170,9 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B02062,Tipo de sistema de retransmisión de datos procedentes de aeronaves,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B02070,Especificación original de latitud/longitud,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01065,Identificación del mensaje ACARS,,B02065,Estación ACARS de recepción en tierra,,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01066,Ubicación de ACARS,,D01011,"Año, mes, día",,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,D01013,"Hora, minuto, segundo",,,Operational,AI Translator: MCP
-01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
+01,Secuencias correspondientes a la posición y a la identificación,D01066,Ubicación de ACARS,,D01023,Latitud/longitud (exactitud aproximada),,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,B07004,Presión,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,B02064,Calidad del ángulo de balanceo de la aeronave,,,Operational,AI Translator: MCP
 01,Secuencias correspondientes a la posición y a la identificación,D01066,Posición con referencia al mensaje ACARS,,B08004,Fase del vuelo de la aeronave,,,Operational,AI Translator: MCP

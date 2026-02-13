@@ -15,5 +15,5 @@ bufr4/0/06/034,06,Ubicación (horizontal – 2),006034,Número de la célula tra
 bufr4/0/06/035,06,Ubicación (horizontal – 2),006035,Tamaño máximo de la dimensión y,Numérica,0,0,12,Numérica,0,4,,,Operational,Original
 bufr4/0/06/040,06,Ubicación (horizontal – 2),006040,Radio de confianza,m,0,0,13,m,0,4,,,Operational,Original
 bufr4/0/06/041,06,Ubicación (horizontal – 2),006041,Número de exploración,Numeric,0,0,11,Numeric,0,4,,,Operational,AI Translator: MCP
-bufr4/0/06/042,06,Ubicación (horizontal – 2),006042,Número de muestra de exploración del espacio/luna,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
-bufr4/0/06/043,06,Ubicación (horizontal – 2),006043,satélite,deg,4,-1800000,22,deg,4,8,,,Operational,AI Translator: MCP
+bufr4/0/06/042,06,Ubicación (horizontal – 2),006042,Número de muestra de exploración lunar/espacial,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
+bufr4/0/06/043,06,Ubicación (horizontal – 2),006043,Longitud del satélite,deg,4,-1800000,22,deg,4,8,,,Operational,AI Translator: MCP

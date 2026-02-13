@@ -1,8 +1,8 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,Status,translated_by
 00,Secuencias de entradas de la tabla CREX,D00002,,,B00002,"Tabla A: categoría de descripción de datos, línea 1",,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00002,,,B00003,"Tabla A: categoría de descripción de datos, línea 2",,,Operational,AI Translator: MCP
-00,Secuencias de entradas de tabla CREX,D00003,"Descriptores F, X, Y por añadir o definir",,B00010,Descriptor F por añadir o definir,,,Operational,AI Translator: MCP
-00,Secuencias de entradas de la tabla CREX,D00003,"Descriptores F, X, Y por añadir o definir",,B00011,Descriptor X por añadir o definir,,,Operational,AI Translator: MCP
+00,Secuencias de entradas de la tabla CREX,D00003,"Descriptores F, X, Y por añadir o definir",,B00010,Descriptor F por añadir o definir,,,Operational,AI Translator: MCP
+00,Secuencias de entradas de tabla CREX,D00003,"Descriptores F, X, Y por añadir o definir",,B00011,Descriptor X por añadir o definir,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00003,"Descriptores F, X, Y por añadir o definir",,B00012,Descriptor Y por añadir o definir,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00004,,,D00003,"Descriptores F, X, Y por añadir o definir",,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00004,,,B00013,"Nombre del elemento, línea 1",,,Operational,AI Translator: MCP
@@ -18,9 +18,9 @@ Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,El
 00,Secuencias de entradas de la tabla CREX,D00010,,,B00030,Secuencia de definición del descriptor,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00015,Definición de tabla de códigos,,B00030,Secuencia de definición del descriptor,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00015,Definición de tabla de códigos,,R02000,Repetición diferida de 2 descriptores,Hasta 9999 entradas,,Operational,AI Translator: MCP
-00,Secuencias de entradas de la tabla CREX,D00015,Definición de tabla de códigos,,B00024,Cifra de clave,,,Operational,AI Translator: MCP
-00,Secuencias de entradas de la tabla CREX,D00015,Definición de tabla de códigos,,B00025,Significado de la clave,,,Operational,AI Translator: MCP
+00,Secuencias de entradas de la tabla CREX,D00015,tabla de cifrado,,B00024,Cifra de clave,,,Operational,AI Translator: MCP
+00,Secuencias de entradas de la tabla CREX,D00015,tabla de cifrado,,B00025,Significado de la clave,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00016,tabla de banderines,,B00030,Secuencia de definición del descriptor,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00016,tabla de banderines,,R02000,Repetición diferida de 2 descriptores,,,Operational,AI Translator: MCP
 00,Secuencias de entradas de la tabla CREX,D00016,tabla de banderines,,B00026,Número de bit,,,Operational,AI Translator: MCP
-00,Secuencias de entradas de la tabla CREX,D00016,Definición de tabla de banderas,,B00027,Significado del número de bit,,,Operational,AI Translator: MCP
+00,Secuencias de entradas de la tabla CREX,D00016,tabla de banderines,,B00027,Significado del número de bit,,,Operational,AI Translator: MCP

@@ -74,11 +74,11 @@ bufr4/0/08/090,08,Calificadores de significación,008090,Escala decimal de los s
 bufr4/0/08/091,08,Calificadores de significación,008091,Significación de las coordenadas,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/08/092,08,Calificadores de significación,008092,Expresión de la incertidumbre en la medición,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/093,08,Calificadores de significación,008093,Significación de la incertidumbre en la medición,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/08/094,08,Calificadores de significación,008094,Método utilizado para calcular la temperatura promedio diaria,Code table,0,0,8,Code table,0,3,,,Operational,AI Translator: MCP
+bufr4/0/08/094,08,Calificadores de significación,008094,Método utilizado para calcular la temperatura.,Code table,0,0,8,Code table,0,3,,,Operational,AI Translator: MCP
 bufr4/0/08/095,08,Calificadores de significación,008095,Clasificación de calidad de ubicación y medición para temperatura-radiancia,Code table,0,0,8,Code table,0,3,,,Operational,AI Translator: MCP
 bufr4/0/08/096,08,Calificadores de significación,008096,Clasificación de calidad de emplazamiento y medición para precipitación,Code table,0,0,8,Code table,0,3,,,Operational,AI Translator: MCP
 bufr4/0/08/097,08,Calificadores de significación,008097,Método utilizado para calcular la temperatura promedio del instrumento,Code table,0,0,7,Code table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/08/098,08,Calificadores de significación,008098,Fuente de medición de temperatura,Code table,0,0,4,Code table,0,2,,,Operational,AI Translator: MCP
+bufr4/0/08/098,08,Calificadores de significación,008098,Fuente de temperatura,Code table,0,0,4,Code table,0,2,,,Operational,AI Translator: MCP
 bufr4/0/08/099,08,Calificadores de significación,008099,dirección,Code table,0,0,4,Code table,0,2,,,Operational,AI Translator: MCP
 bufr4/0/08/100,08,Calificadores de significación,008100,Tipo de valor de observación siguiente,Code table,0,0,8,,,,,,Operational,AI Translator: MCP
 bufr4/0/08/101,08,Calificadores de significación,008101,Fase del vuelo en globo,Code table,0,0,4,,,,,,Operational,AI Translator: MCP

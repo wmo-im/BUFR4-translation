@@ -35,7 +35,7 @@ bufr4/0/14/045,14,Radiación y radiancia,014045,Radiancia del canal,W m-2 sr-1 c
 bufr4/0/14/046,14,Radiación y radiancia,014046,Radiancia IASI ajustada,W m-2 sr-1 cm,0,-5000,16,W m-2 sr-1 cm,0,5,(véase la nota 6),29,Operational,Original
 bufr4/0/14/047,14,Radiación y radiancia,014047,Radiancia media ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Operational,Original
 bufr4/0/14/048,14,Radiación y radiancia,014048,Radiancia de la desviación estándar ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Operational,Original
-bufr4/0/14/049,14,Radiación y radiancia,014049,radiancia,W m-2 sr-1 cm,7,0,22,W m-2 sr-1 cm,0,0,,,Operational,AI Translator: MCP
+bufr4/0/14/049,14,Radiación y radiancia,014049,Radiancia delta equivalente de ruido.,W m-2 sr-1 cm,7,0,22,W m-2 sr-1 cm,0,0,,,Operational,AI Translator: MCP
 bufr4/0/14/050,14,Radiación y radiancia,014050,Emisividad,%,1,0,10,%,1,4,(véase la nota 5),69,Operational,Original
 bufr4/0/14/051,14,Radiación y radiancia,014051,Radiación solar directa integrada durante la última hora,Jm-2,-3,0,14,Jm-2,-3,4,,,Operational,Original
 bufr4/0/14/052,14,Radiación y radiancia,014052,"Radiación solar ascendente mundial, integrada en un período especificado",Jm-2,-2,-1048574,20,Jm-2,-2,7,,,Operational,Original
@@ -44,5 +44,5 @@ bufr4/0/14/054,14,Radiación y radiancia,014054,"Radiación fotosintéticamente 
 bufr4/0/14/055,14,Radiación y radiancia,014055,Índice de actividad solar,Numérica,0,-32768,16,Numérica,0,5,,,Operational,Original
 bufr4/0/14/056,14,Radiación y radiancia,014056,Lumicia de fondo,Cd m-2,0,0,18,Cd m-2,0,6,,,Operational,Original
 bufr4/0/14/057,14,Radiación y radiancia,014057,Flujo de calor del suelo,Jm-2,-2,-1048574,21,Jm-2,-2,7,,,Operational,Original
-bufr4/0/14/058,14,Radiación y radiancia,014058,Retrodispersión corregida de polarización cruzada,dB,2,-5000,13,dB,2,5,,,Operational,AI Translator: MCP
+bufr4/0/14/058,14,Radiación y radiancia,014058,Retrodispersión cruzada corregida,dB,2,-5000,13,dB,2,5,,,Operational,AI Translator: MCP
 bufr4/0/14/072,14,Radiación y radiancia,014072,Irradiación UV mundial,Jm-2,0,-4000000,23,Jm-2,0,7,(véase la nota 8),83,Operational,Original

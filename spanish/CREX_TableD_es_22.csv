@@ -1,36 +1,36 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,Status,translated_by
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B01007,Identificador del satélite,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B02019,Instrumentos de satélite,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04001,Año,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04002,Mes,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04003,Día,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04004,Hora,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04005,Minuto,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B04006,Segundo,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B05001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B06001,Longitud (gran precisión),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B10001,Altura del terreno,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B14019,Albedo en superficie,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B07025,Ángulo cenital del sol,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B10080,Ángulo de visión cenital,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B05023,Diferencia entre azimut solar y satelital,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B20010,Cubierta de nubes (total),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B08003,Significación vertical (observaciones satelitales),,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B07004,Presión,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B14026,Albedo en la cima de las nubes,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B20014,Altura de la cima de las nubes,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B13093,Espesor óptico de la nube,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,R05000,Repetición diferida de 5 descriptores,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B07004,Presión,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B07004,Presión,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B08043,Tipo de componente químico o físico atmosférico,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B08044,Número de registro del CAS,,,Operational,AI Translator: MCP
-22,Secuencias de sustancias químicas y aerosoles,D22028,(GOME-2 de METOP),,B15021,Densidad de masa integrada,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B01007,Identificador del satélite,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B02019,Instrumentos de satélite,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B04001,Año,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B04002,Mes,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B04003,Día,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B04004,Hora,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B04005,Minuto,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B04006,Segundo,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B05001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B06001,Longitud (gran precisión),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B27001,Latitud (gran exactitud),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B28001,Longitud (gran precisión),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B10001,Altura del terreno,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B14019,Albedo en superficie,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B07025,Ángulo cenital del sol,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B10080,Ángulo de visión cenital,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B05023,Diferencia entre azimut solar y satelital,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B20010,Cubierta de nubes (total),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B08003,Significación vertical (observaciones satelitales),,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B07004,Presión,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B14026,Albedo en la cima de las nubes,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B20014,Altura de la cima de las nubes,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,B13093,Espesor óptico de la nube,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,(METOP GOME-2),,R05000,Repetición diferida de 5 descriptores,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B07004,Presión,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B07004,Presión,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B08043,Tipo de componente químico o físico atmosférico,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B08044,Número de registro del CAS,,,Operational,AI Translator: MCP
+22,Secuencias de sustancias químicas y aerosoles,D22028,METOP GOME-2,,B15021,Densidad de masa integrada,,,Operational,AI Translator: MCP

@@ -73,8 +73,8 @@ bufr4/0/40/071,40,Datos satelitales,040071,Matriz de covarianza del error de rec
 bufr4/0/40/072,40,Datos satelitales,040072,Indicador de calidad de la recuperación estimado mediante PWLR para,Numérica,1,0,8,Numérica,1,3,,,Operational,Original
 bufr4/0/40/073,40,Datos satelitales,040073,Error de recuperación estimado mediante PWLR para la temperatura de,K,1,0,8,K,1,3,,,Operational,Original
 bufr4/0/40/074,40,Datos satelitales,040074,Banderines de calidad de interferometría general,Tabla de banderines,0,0,16,,,,,,Operational,Original
-bufr4/0/40/075,40,Datos satelitales,040075,Matriz de covarianza de error de recuperación para la humedad en el dominio de componentes principales,Numeric,0,0,21,Numeric,0,7,,,Operational,AI Translator: MCP
-bufr4/0/40/076,40,Datos satelitales,040076,Matriz de covarianza de error de recuperación para la temperatura en el dominio de componentes principales,Numeric,0,0,21,Numeric,0,7,,,Operational,AI Translator: MCP
+bufr4/0/40/075,40,Datos satelitales,040075,Matriz de covarianza de error de recuperación para el nivel de humedad relativa en el dominio de componentes principales.,Numeric,0,0,21,Numeric,0,7,,,Operational,AI Translator: MCP
+bufr4/0/40/076,40,Datos satelitales,040076,Matriz de covarianza de error de recuperación para temperatura-radiancia en el dominio de componentes principales,Numeric,0,0,21,Numeric,0,7,,,Operational,AI Translator: MCP
 bufr4/0/40/077,40,Datos satelitales,040077,Bandera de calidad del producto oceánico,Flag table,0,0,8,Flag table,0,3,,,Operational,AI Translator: MCP
 bufr4/0/40/080,40,Datos satelitales,040080,Resultados de pruebas de nubes para IASI-NG nivel 2,Flag table,0,0,5,Flag table,0,2,,,Operational,AI Translator: MCP
 bufr4/0/40/081,40,Datos satelitales,040081,Clasificación y calidad de nivel 1 de OLCI,Flag table,0,0,31,,,,,,Operational,AI Translator: MCP

@@ -97,4 +97,4 @@ bufr4/0/01/155,01,Identificación,001155,Identificador de recuperación,Code tab
 bufr4/0/01/156,01,Identificación,001156,número de vuelo,CCITT IA5,0,0,64,,,,,,Operational,AI Translator: MCP
 bufr4/0/01/157,01,Identificación,001157,Número de registro del globo o Identificación,CCITT IA5,0,0,80,,,,,,Operational,AI Translator: MCP
 bufr4/0/01/158,01,Identificación,001158,Tipo de envoltura de globo,Code table,0,0,4,,,,,,Operational,AI Translator: MCP
-bufr4/0/01/159,01,Identificación,001159,Tamaño típico de la envoltura del globo.,m,1,0,12,,,,(véase la nota 18),195,Operational,AI Translator: MCP
+bufr4/0/01/159,01,Identificación,001159,Tamaño típico de la envoltura del globo,m,1,0,12,,,,(véase la nota 18),195,Operational,AI Translator: MCP
