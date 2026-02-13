@@ -5,7 +5,7 @@ bufr4/0/08/001/3,008001,Caractéristique correspondant à des données de sondag
 bufr4/0/08/001/4,008001,Caractéristique correspondant à des données de sondage vertical,4,Niveau du vent maximal,,,,,Operational,Original
 bufr4/0/08/001/5,008001,Caractéristique correspondant à des données de sondage vertical,5,"Niveau significatif, température et/ou humidité relative",,,,,Operational,Original
 bufr4/0/08/001/6,008001,Caractéristique correspondant à des données de sondage vertical,6,"Niveau significatif, vent",,,,,Operational,Original
-bufr4/0/08/001/All-7,008001,Caractéristique correspondant à des données de sondage vertical,All 7,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/001/All-7,008001,Caractéristique correspondant à des données de sondage vertical,7 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/002/0,008002,Caractéristique verticale (observations en surface),0,Les règles d'observation pour la base du nuage le plus bas et les types de nuages de FM 12 SYNOP et FM 13 SHIP s'appliquent,,,,,Operational,Original
 bufr4/0/08/002/1,008002,Caractéristique verticale (observations en surface),1,Première couche de nuages significatifs (autres que cumulonimbus),,,,,Operational,Original
 bufr4/0/08/002/2,008002,Caractéristique verticale (observations en surface),2,Deuxième couche de nuages significatifs (autres que cumulonimbus),,,,,Operational,Original
@@ -63,7 +63,7 @@ bufr4/0/08/006/5,008006,Caractéristique du sondage vertical de l'ozone,5,Niveau
 bufr4/0/08/006/6,008006,Caractéristique du sondage vertical de l'ozone,6,Niveau de pression minimal,,,,,Operational,Original
 bufr4/0/08/006/7,008006,Caractéristique du sondage vertical de l'ozone,7,En réserve,,,,,Operational,Original
 bufr4/0/08/006/8,008006,Caractéristique du sondage vertical de l'ozone,8,Niveau de signification indéterminée,,,,,Operational,Original
-bufr4/0/08/006/All-9,008006,Caractéristique du sondage vertical de l'ozone,All 9,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/006/All-9,008006,Caractéristique du sondage vertical de l'ozone,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/007/0,008007,Caractéristiques dimensionnelles,0,Point,,,,,Operational,Original
 bufr4/0/08/007/1,008007,Caractéristiques dimensionnelles,1,Ligne,,,,,Operational,Original
 bufr4/0/08/007/2,008007,Caractéristiques dimensionnelles,2,Zone,,,,,Operational,Original
@@ -78,7 +78,7 @@ bufr4/0/08/008/5,008008,Caractéristique correspondant à des données de sondag
 bufr4/0/08/008/6,008008,Caractéristique correspondant à des données de sondage du rayonnement,6,Niveau de pression minimal,,,,,Operational,Original
 bufr4/0/08/008/7,008008,Caractéristique correspondant à des données de sondage du rayonnement,7,En réserve,,,,,Operational,Original
 bufr4/0/08/008/8,008008,Caractéristique correspondant à des données de sondage du rayonnement,8,Niveau de signification indéterminée,,,,,Operational,Original
-bufr4/0/08/008/All-9,008008,Caractéristique correspondant à des données de sondage vertical du rayonnement,All 9,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/008/All-9,008008,Caractéristique correspondant à des données de sondage du rayonnement,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/009/0,008009,Phase de vol détaillée de l'aéronef,0,"Vol en palier, observation régulière, régime non stabilisé",,,,,Operational,Original
 bufr4/0/08/009/1,008009,Phase de vol détaillée de l'aéronef,1,"Vol en palier, vent maximal rencontré, régime non stabilisé",,,,,Operational,Original
 bufr4/0/08/009/2,008009,Phase de vol détaillée de l'aéronef,2,Régime non stabilisé (UNS),,,,,Operational,Original
@@ -178,7 +178,7 @@ bufr4/0/08/018/3-10,008018,Type de surface terre/glace mesurée par SEAWINDS,3-1
 bufr4/0/08/018/11,008018,Type de surface terre/glace mesurée par SEAWINDS,11,Données de carte non disponibles,,,,,Operational,Original
 bufr4/0/08/018/12,008018,Type de surface terre/glace mesurée par SEAWINDS,12,Données de carte d'atténuation non disponibles,,,,,Operational,Original
 bufr4/0/08/018/13-16,008018,Type de surface terre/glace mesurée par SEAWINDS,13-16,En réserve,,,,,Operational,Original
-bufr4/0/08/018/All-17,008018,Type de surface terre/glace mesurée par SEAWINDS,All 17,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/018/All-17,008018,Type de surface terre/glace mesurée par SEAWINDS,17 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/019/0,008019,Indicateur d'identification du centre suivant,0,En réserve,,,,,Operational,Original
 bufr4/0/08/019/1,008019,Indicateur d'identification du centre suivant,1,Organisme des services de la circulation aérienne (ATS) desservant la Région d'information de vol (FIR),,,,,Operational,Original
 bufr4/0/08/019/2,008019,Indicateur d'identification du centre suivant,2,Région d'information de vol (FIR),,,,,Operational,Original
@@ -443,7 +443,7 @@ bufr4/0/08/042/14,008042,Caractéristique étendue correspondant à des données
 bufr4/0/08/042/15,008042,Caractéristique étendue correspondant à des données de sondage vertical,15,Niveau déterminé par décision régionale,,,,,Operational,Original
 bufr4/0/08/042/16,008042,Caractéristique étendue correspondant à des données de sondage vertical,16,Isotherme 0 °C,,,,,Operational,Original
 bufr4/0/08/042/17,008042,Caractéristique étendue correspondant à des données de sondage vertical,17,Niveau de pression indiqué à l'origine par l'altitude en tant que coordonnée verticale,,,,,Operational,Original
-bufr4/0/08/042/All-18,008042,Caractéristique étendue correspondant à des données de sondage vertical,All 18,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/042/All-18,008042,Caractéristique étendue correspondant à des données de sondage vertical,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/043/0,008043,Type de constituants chimiques ou physiques de l'atmosphère,0,Ozone,O3,10028-15-6,,,Operational,Original
 bufr4/0/08/043/1,008043,Type de constituants chimiques ou physiques de l'atmosphère,1,Vapeur d'eau,H₂O,7732-18-5,,,Operational,Original
 bufr4/0/08/043/2,008043,Type de constituants chimiques ou physiques de l'atmosphère,2,Méthane,CH4,74-82-8,,,Operational,Original
@@ -648,7 +648,7 @@ bufr4/0/08/083/7,008083,Indicateur de valeur nominale,7,Ajustée en fonction de 
 bufr4/0/08/083/8,008083,Indicateur de valeur nominale,8,Ajustée en fonction de l'évaporation,,,,,Operational,Original
 bufr4/0/08/083/9,008083,Indicateur de valeur nominale,9,Ajustée en fonction des pertes par mouillage,,,,,Operational,Original
 bufr4/0/08/083/10-14,008083,Indicateur de valeur nominale,10-14,En réserve,,,,,Operational,Original
-bufr4/0/08/083/All-15,008083,Indicateur de valeur nominale,All 15,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/083/All-15,008083,Indicateur de valeur nominale,15 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/085/0,008085,Identification du faisceau,0,Faisceau avant,,,,,Operational,Original
 bufr4/0/08/085/1,008085,Identification du faisceau,1,Faisceau médian,,,,,Operational,Original
 bufr4/0/08/085/2,008085,Identification du faisceau,2,Faisceau arrière,,,,,Operational,Original
@@ -666,7 +666,7 @@ bufr4/0/08/086/8,008086,Caractéristique verticale pour la prévision numérique
 bufr4/0/08/086/9,008086,Caractéristique verticale pour la prévision numérique du temps,9,Altitude virtuelle de la station,,,,,Operational,Original
 bufr4/0/08/086/10,008086,Caractéristique verticale pour la prévision numérique du temps,10,Niveau d'ajustement optimal,,,,,Operational,Original
 bufr4/0/08/086/11,008086,Caractéristique verticale pour la prévision numérique du temps,11,En réserve,,,,,Operational,Original
-bufr4/0/08/086/All-12,008086,Caractéristique verticale pour la prévision numérique du temps,All 12,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/086/All-12,008086,Caractéristique verticale pour la prévision numérique du temps,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/087/0,008087,Position des coins déterminant la colonne observée,0,Supérieur gauche,,,,,Operational,Original
 bufr4/0/08/087/1,008087,Position des coins déterminant la colonne observée,1,Supérieur droit,,,,,Operational,Original
 bufr4/0/08/087/2,008087,Position des coins déterminant la colonne observée,2,Inférieur droit,,,,,Operational,Original

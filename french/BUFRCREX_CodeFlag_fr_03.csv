@@ -74,7 +74,7 @@ bufr4/0/03/017/2,003017,Précisions sur le type de station,2,Station dotée de p
 bufr4/0/03/017/3,003017,Précisions sur le type de station,3,Déclenchement événementiel,,,,,Operational,Original
 bufr4/0/03/017/4,003017,Précisions sur le type de station,4,Période plus longue que la période standard,,,,,Operational,Original
 bufr4/0/03/017/5,003017,Précisions sur le type de station,5,En réserve,,,,,Operational,Original
-bufr4/0/03/017/All-6,003017,Précisions sur le type de station,All 6,Valeur manquante,,,,,Operational,Original
+bufr4/0/03/017/All-6,003017,Précisions sur le type de station,6 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/03/018/0,003018,Type de route,0,"Voie dégagée, sans plus d'informations",,,,,Operational,Original
 bufr4/0/03/018/1,003018,Type de route,1,"Voie dégagée, talus",,,,,Operational,Original
 bufr4/0/03/018/2,003018,Type de route,2,"Voie dégagée, plane par rapport aux alentours",,,,,Operational,Original

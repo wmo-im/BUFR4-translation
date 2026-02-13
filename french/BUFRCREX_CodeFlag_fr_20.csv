@@ -489,7 +489,7 @@ bufr4/0/20/021/21,020021,Type de précipitation,21,Gelée blanche,,,,,Operationa
 bufr4/0/20/021/22,020021,Type de précipitation,22,Rosée,,,,,Operational,Original
 bufr4/0/20/021/23,020021,Type de précipitation,23,Rosée blanche,,,,,Operational,Original
 bufr4/0/20/021/24-29,020021,Type de précipitation,24-29,En réserve,,,,,Operational,Original
-bufr4/0/20/021/All-30,020021,Type de précipitation,All 30,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/021/All-30,020021,Type de précipitation,30 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/022/0,020022,Caractéristique de la précipitation,0,Pas de précipitation,,,,,Operational,Original
 bufr4/0/20/022/1,020022,Caractéristique de la précipitation,1,Continue,,,,,Operational,Original
 bufr4/0/20/022/2,020022,Caractéristique de la précipitation,2,Intermittente,,,,,Operational,Original
@@ -513,7 +513,7 @@ bufr4/0/20/023/12,020023,Autres phénomènes météorologiques,12,Trombe marine,
 bufr4/0/20/023/13,020023,Autres phénomènes météorologiques,13,Cisaillement du vent,,,,,Operational,Original
 bufr4/0/20/023/14,020023,Autres phénomènes météorologiques,14,Tourbillons de poussière,,,,,Operational,Original
 bufr4/0/20/023/15-17,020023,Autres phénomènes météorologiques,15-17,En réserve,,,,,Operational,Original
-bufr4/0/20/023/All-18,020023,Autres phénomènes météorologiques,All 18,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/023/All-18,020023,Autres phénomènes météorologiques,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/024/0,020024,Intensité du phénomène,0,Pas de phénomène,,,,,Operational,Original
 bufr4/0/20/024/1,020024,Intensité du phénomène,1,Léger,,,,,Operational,Original
 bufr4/0/20/024/2,020024,Intensité du phénomène,2,Modéré,,,,,Operational,Original
@@ -537,7 +537,7 @@ bufr4/0/20/025/14,020025,Obscurcissement,14,Nébulosité,,,,,Operational,Origina
 bufr4/0/20/025/15,020025,Obscurcissement,15,Précipitations,,,,,Operational,Original
 bufr4/0/20/025/16,020025,Obscurcissement,16,Impossible de déterminer s'il neige ou non,,,,,Operational,Original
 bufr4/0/20/025/17-20,020025,Obscurcissement,17-20,En réserve,,,,,Operational,Original
-bufr4/0/20/025/All-21,020025,Obscurcissement,All 21,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/025/All-21,020025,Obscurcissement,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/026/0,020026,Caractéristique de l'obscurcissement,0,Pas de changement,,,,,Operational,Original
 bufr4/0/20/026/1,020026,Caractéristique de l'obscurcissement,1,Eau profonde,,,,,Operational,Original
 bufr4/0/20/026/2,020026,Caractéristique de l'obscurcissement,2,Parcelles,,,,,Operational,Original
@@ -562,7 +562,7 @@ bufr4/0/20/027/5,020027,Apparition du phénomène*,5,En réserve,,,,,Operational
 bufr4/0/20/027/6,020027,Apparition du phénomène*,6,Au-dessous du niveau de la station,,,,,Operational,Original
 bufr4/0/20/027/7,020027,Apparition du phénomène*,7,À la station,,,(voir note 1),,Operational,Original
 bufr4/0/20/027/8,020027,Apparition du phénomène*,8,Dans le voisinage,,,(voir note 2),,Operational,Original
-bufr4/0/20/027/All-9,020027,Apparition du phénomène,All 9,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/027/All-9,020027,Apparition du phénomène*,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/028/0,020028,Changement d'intensité prévu,0,Aucun changement (NC),,,,,Operational,Original
 bufr4/0/20/028/1,020028,Changement d'intensité prévu,1,Affaiblissement des phénomènes prévus (WKN),,,,,Operational,Original
 bufr4/0/20/028/2,020028,Changement d'intensité prévu,2,Intensification des phénomènes prévus (INTSF),,,,,Operational,Original
@@ -582,7 +582,7 @@ bufr4/0/20/032/7,020032,Vitesse d'accumulation de la glace (estimée),7,Valeur m
 bufr4/0/20/033/1,020033,Cause de l'accumulation de la glace,1,Givrage dû aux embruns,,,,,Operational,Original
 bufr4/0/20/033/2,020033,Cause de l'accumulation de la glace,2,Givrage dû au brouillard,,,,,Operational,Original
 bufr4/0/20/033/3,020033,Cause de l'accumulation de la glace,3,Givrage dû à la pluie,,,,,Operational,Original
-bufr4/0/20/033/All-4,020033,Cause de l'accumulation de la glace,All 4,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/033/All-4,020033,Cause de l'accumulation de la glace,4 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/034/0,020034,Concentration des glaces de mer,0,Pas de glaces de mer en vue,,,,,Operational,Original
 bufr4/0/20/034/1,020034,Concentration des glaces de mer,1,"Navire dans un chenal ouvert ayant plus de 1,0 mille marin de large, ou navire dans la banquise côtière avec ligne de démarcation au-delà de la limite de visibilité",,,,,Operational,Original
 bufr4/0/20/034/2,020034,Concentration des glaces de mer,2,"Présence de glaces de mer en concentrations inférieures à 3/10 (3/8), eau libre ou banquise très lâche",La concentration des glaces de mer est uniforme dans la zone d'observation,,,,Operational,Original

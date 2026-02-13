@@ -488,7 +488,7 @@ bufr4/0/20/021/21,020021,Tipo de precipitación,21,Escarcha,,,,,Operational,Orig
 bufr4/0/20/021/22,020021,Tipo de precipitación,22,Rocío,,,,,Operational,Original
 bufr4/0/20/021/23,020021,Tipo de precipitación,23,Rocío blanco,,,,,Operational,Original
 bufr4/0/20/021/24-29,020021,Tipo de precipitación,24-29,Reservados,,,,,Operational,Original
-bufr4/0/20/021/Todos-los-30,020021,Tipo de precipitación,Todos los 30,Valor faltante,,,,,Operational,Original
+bufr4/0/20/021/All-30,020021,Tipo de precipitación,Todos los 30,Valor faltante,,,,,Operational,Original
 bufr4/0/20/022/0,020022,Naturaleza de la precipitación,0,No hay precipitación,,,,,Operational,Original
 bufr4/0/20/022/1,020022,Naturaleza de la precipitación,1,Continua,,,,,Operational,Original
 bufr4/0/20/022/2,020022,Naturaleza de la precipitación,2,Intermitente,,,,,Operational,Original
