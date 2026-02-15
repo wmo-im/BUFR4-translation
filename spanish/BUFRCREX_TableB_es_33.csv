@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/33/002,33,Información sobre la calidad,033002,Información sobre la calidad,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/33/003,33,Información sobre la calidad,033003,Información sobre la calidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/33/005,33,Información sobre la calidad,033005,Información sobre la calidad (datos EMA),Tabla de banderines,0,0,30,Tabla de banderines,0,10,,,Operational,Original
@@ -36,7 +36,7 @@ bufr4/0/33/049,33,Información sobre la calidad,033049,Medida de confianza de re
 bufr4/0/33/050,33,Información sobre la calidad,033050,Banderín de calidad mundial del GTSPP,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/33/052,33,Información sobre la calidad,033052,Calidad de reseguimiento de datos oceánicos en banda S,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,Operational,Original
 bufr4/0/33/053,33,Información sobre la calidad,033053,Calidad de reseguimiento de datos oceánicos en banda Ku,Tabla de banderines,0,0,21,Tabla de banderines,0,7,,,Operational,Original
-bufr4/0/33/054,33,Información sobre la calidad,033054,Calidad general del perfil atmosférico recuperado,Code table,0,0,3,Code table,0,1,,,Operational,AI Translator: MCP
+bufr4/0/33/054,33,Información sobre la calidad,033054,Calidad general del perfil atmosférico recuperado,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP
 bufr4/0/33/055,33,Información sobre la calidad,033055,Banderín de calidad del vector de viento,Tabla de banderines,0,0,24,Tabla de banderines,0,8,,,Operational,Original
 bufr4/0/33/056,33,Información sobre la calidad,033056,Banderín de calidad de Sigma-0,Tabla de banderines,0,0,24,Tabla de banderines,0,8,,,Operational,Original
 bufr4/0/33/060,33,Información sobre la calidad,033060,GqisFlagQual — IASI individual - banderín de calidad del sistema,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
@@ -68,29 +68,29 @@ bufr4/0/33/090,33,Información sobre la calidad,033090,Indicadores de calidad de
 bufr4/0/33/091,33,Información sobre la calidad,033091,Indicadores de calidad de temperatura delta equivalente de ruido para calibración general,K,2,0,12,K,2,4,,,Operational,Original
 bufr4/0/33/092,33,Información sobre la calidad,033092,Banderín de calidad oceánico de banda específica,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,Original
 bufr4/0/33/093,33,Información sobre la calidad,033093,Banderines de calidad ampliados para datos del GNSS terrestres,Tabla de banderines,0,0,31,Tabla de banderines,0,31,,,Operational,Original
-bufr4/0/33/094,33,Información sobre la calidad,033094,calidad de calibración,Flag table,0,0,24,Flag table,0,24,,,Operational,AI Translator: MCP
-bufr4/0/33/095,33,Información sobre la calidad,033095,La bandera de temperaturas MWI.,Flag table,0,0,8,Flag table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/33/096,33,Información sobre la calidad,033096,Bandera de calibración MWI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/097,33,Información sobre la calidad,033097,Indicador de calidad de exploración MWI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/098,33,Información sobre la calidad,033098,Indicador de calidad de datos MWI,Flag table,0,0,9,Flag table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/33/099,33,Información sobre la calidad,033099,Indicador de estado de navegación MWI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/100,33,Información sobre la calidad,033100,Bandera de temperaturas ICI.,Flag table,0,0,8,Flag table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/33/101,33,Información sobre la calidad,033101,Bandera de calibración ICI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/102,33,Información sobre la calidad,033102,Bandera de calidad de exploración ICI.,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/103,33,Información sobre la calidad,033103,Bandera de calidad de datos ICI,Flag table,0,0,9,Flag table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/33/104,33,Información sobre la calidad,033104,Bandera de estado de navegación ICI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/105,33,Información sobre la calidad,033105,Banderas de procesamiento de ICI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/106,33,Información sobre la calidad,033106,Indicadores de procesamiento MWI,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/107,33,Información sobre la calidad,033107,exploración processing flags,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/108,33,Información sobre la calidad,033108,Indicadores de estado de navegación MWS,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/109,33,Información sobre la calidad,033109,Banderines de calidad,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/110,33,Información sobre la calidad,033110,Banderas de procesamiento del canal MWS,Flag table,0,0,9,Flag table,0,3,,,Operational,AI Translator: MCP
-bufr4/0/33/111,33,Información sobre la calidad,033111,Banderines de calidad,Flag table,0,0,32,Flag table,0,11,,,Operational,AI Translator: MCP
+bufr4/0/33/094,33,Información sobre la calidad,033094,Banderas de control de calidad de calibración,Tabla de banderines,0,0,24,Tabla de banderines,0,24,,,Operational,AI Translator: MCP
+bufr4/0/33/095,33,Información sobre la calidad,033095,Bandera de temperaturas MWI,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/096,33,Información sobre la calidad,033096,Bandera de calibración MWI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/097,33,Información sobre la calidad,033097,Bandera de calidad de escaneo MWI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/098,33,Información sobre la calidad,033098,Bandera de calidad de datos MWI,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/099,33,Información sobre la calidad,033099,Indicador de estado de navegación MWI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/100,33,Información sobre la calidad,033100,Bandera de temperaturas ICI,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/101,33,Información sobre la calidad,033101,Bandera de calibración ICI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/102,33,Información sobre la calidad,033102,Bandera de calidad de escaneo ICI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/103,33,Información sobre la calidad,033103,Bandera de calidad de datos de ICI,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/104,33,Información sobre la calidad,033104,Bandera de estado de navegación ICI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/105,33,Información sobre la calidad,033105,Banderas de procesamiento ICI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/106,33,Información sobre la calidad,033106,Indicadores de procesamiento MWI,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/107,33,Información sobre la calidad,033107,Banderas de procesamiento de líneas de escaneo MWS,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/108,33,Información sobre la calidad,033108,Indicadores de estado de navegación MWS,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/109,33,Información sobre la calidad,033109,Indicadores generales de calidad de MWS,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/110,33,Información sobre la calidad,033110,Indicadores de procesamiento del canal MWS,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/111,33,Información sobre la calidad,033111,Banderas de calidad SCA,Tabla de banderines,0,0,32,Tabla de banderines,0,11,,,Operational,AI Translator: MCP
 bufr4/0/33/112,33,Información sobre la calidad,033112,Ángulo de rotación de Faraday (unidireccional),deg,2,-18000,16,deg,2,6,,,Operational,AI Translator: MCP
-bufr4/0/33/113,33,Información sobre la calidad,033113,Banderines de calidad,Flag table,0,0,16,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/114,33,Información sobre la calidad,033114,Verificación de límites,Flag table,0,0,17,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/115,33,Información sobre la calidad,033115,Información de calidad de la profundidad óptica de aerosoles,Code table,0,0,5,Code table,0,2,,,Operational,AI Translator: MCP
-bufr4/0/33/116,33,Información sobre la calidad,033116,Primera suposición en la verificación de límites.,Flag table,0,0,17,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/117,33,Información sobre la calidad,033117,Verificación dentro de límites,Flag table,0,0,17,Flag table,0,6,,,Operational,AI Translator: MCP
-bufr4/0/33/118,33,Información sobre la calidad,033118,Porcentaje de error relativo.,%,2,-10000,15,%,2,5,,,Operational,AI Translator: MCP
-bufr4/0/33/119,33,Información sobre la calidad,033119,Porcentaje de error de pronóstico.,%,0,-100,8,%,0,3,,,Operational,AI Translator: MCP
+bufr4/0/33/113,33,Información sobre la calidad,033113,Indicadores generales de calidad de IASI-NG,Tabla de banderines,0,0,16,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/114,33,Información sobre la calidad,033114,Verificación fuera de límites,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/115,33,Información sobre la calidad,033115,Información de calidad de la profundidad óptica de aerosoles,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
+bufr4/0/33/116,33,Información sobre la calidad,033116,Primera suposición en la verificación de límites,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/117,33,Información sobre la calidad,033117,Verificación dentro de límites,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,AI Translator: MCP
+bufr4/0/33/118,33,Información sobre la calidad,033118,Porcentaje de error relativo,%,2,-10000,15,%,2,5,,,Operational,AI Translator: MCP
+bufr4/0/33/119,33,Información sobre la calidad,033119,Porcentaje de error de pronóstico,%,0,-100,8,%,0,3,,,Operational,AI Translator: MCP

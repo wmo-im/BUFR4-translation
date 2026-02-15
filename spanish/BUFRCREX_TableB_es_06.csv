@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/06/001,06,Ubicación (horizontal – 2),006001,Longitud (gran precisión),º,5,-18000000,26,º,5,8,,,Operational,Original
 bufr4/0/06/002,06,Ubicación (horizontal – 2),006002,Longitud (precisión aproximada),º,2,-18000,16,º,2,5,,,Operational,Original
 bufr4/0/06/011,06,Ubicación (horizontal – 2),006011,Incremento de longitud (gran precisión),º,5,-18000000,26,º,5,8,,,Operational,Original
@@ -14,6 +14,6 @@ bufr4/0/06/033,06,Ubicación (horizontal – 2),006033,Tamaño de los píxeles e
 bufr4/0/06/034,06,Ubicación (horizontal – 2),006034,Número de la célula transversal a la trayectoria,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/06/035,06,Ubicación (horizontal – 2),006035,Tamaño máximo de la dimensión y,Numérica,0,0,12,Numérica,0,4,,,Operational,Original
 bufr4/0/06/040,06,Ubicación (horizontal – 2),006040,Radio de confianza,m,0,0,13,m,0,4,,,Operational,Original
-bufr4/0/06/041,06,Ubicación (horizontal – 2),006041,Número de exploración,Numeric,0,0,11,Numeric,0,4,,,Operational,AI Translator: MCP
-bufr4/0/06/042,06,Ubicación (horizontal – 2),006042,Número de muestra de exploración lunar/espacial,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
-bufr4/0/06/043,06,Ubicación (horizontal – 2),006043,Longitud del satélite,deg,4,-1800000,22,deg,4,8,,,Operational,AI Translator: MCP
+bufr4/0/06/041,06,Ubicación (horizontal – 2),006041,Número de muestra de escaneo terrestre,Numérica,0,0,11,Numérica,0,4,,,Operational,AI Translator: MCP
+bufr4/0/06/042,06,Ubicación (horizontal – 2),006042,Número de muestra de escaneo del espacio/luna,Numérica,0,0,6,Numérica,0,2,,,Operational,AI Translator: MCP
+bufr4/0/06/043,06,Ubicación (horizontal – 2),006043,Longitud del punto sub-satelital,º,4,-1800000,22,º,4,8,,,Operational,AI Translator: MCP

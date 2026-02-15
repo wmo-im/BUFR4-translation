@@ -74,7 +74,7 @@ bufr4/0/03/017/2,003017,Tipo de estación ampliado,2,Dotada de personal,,,,,Oper
 bufr4/0/03/017/3,003017,Tipo de estación ampliado,3,Activada por eventos,,,,,Operational,Original
 bufr4/0/03/017/4,003017,Tipo de estación ampliado,4,Período de tiempo más largo que la norma,,,,,Operational,Original
 bufr4/0/03/017/5,003017,Tipo de estación ampliado,5,Reservado,,,,,Operational,Original
-bufr4/0/03/017/All-6,003017,Tipo de estación ampliado,All 6,Valor faltante,,,,,Operational,Original
+bufr4/0/03/017/All-6,003017,Tipo de estación ampliado,Todos los 6,Valor faltante,,,,,Operational,Original
 bufr4/0/03/018/0,003018,Tipo de carretera,0,Carril libre sin otra información,,,,,Operational,Original
 bufr4/0/03/018/1,003018,Tipo de carretera,1,"Carril libre, terraplén",,,,,Operational,Original
 bufr4/0/03/018/2,003018,Tipo de carretera,2,"Carril libre, llano en relación con los alrededores",,,,,Operational,Original

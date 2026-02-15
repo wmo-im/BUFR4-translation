@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/10/001,10,Ubicación sin coordenadas (vertical),010001,Altura del terreno,m,0,-400,15,m,0,5,,,Operational,Original
 bufr4/0/10/002,10,Ubicación sin coordenadas (vertical),010002,Altura,m,-1,-40,16,m,-1,5,,,Operational,Original
 bufr4/0/10/003,10,Ubicación sin coordenadas (vertical),010003,Geopotencial,m² s-2,-1,-400,17,m² s-2,-1,6,,,Operational,Original
@@ -28,7 +28,7 @@ bufr4/0/10/063,10,Ubicación sin coordenadas (vertical),010063,Característica d
 bufr4/0/10/064,10,Ubicación sin coordenadas (vertical),010064,Nivel de crucero SIGMET,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/10/070,10,Ubicación sin coordenadas (vertical),010070,Altitud de la aeronave indicada,m,0,-400,16,m,0,5,,,Operational,Original
 bufr4/0/10/071,10,Ubicación sin coordenadas (vertical),010071,Resolución vertical,m,0,0,14,m,0,5,,,Operational,Original
-bufr4/0/10/073,10,Ubicación sin coordenadas (vertical),010073,Altura de la columna.,m,2,0,21,m,2,7,,,Operational,AI Translator: MCP
+bufr4/0/10/073,10,Ubicación sin coordenadas (vertical),010073,Altura de la pluma,m,2,0,21,m,2,7,,,Operational,AI Translator: MCP
 bufr4/0/10/079,10,Ubicación sin coordenadas (vertical),010079,Ángulo desde el nadir del satélite según los datos de la plataforma,°,4,0,16,°,4,5,,,Operational,Original
 bufr4/0/10/080,10,Ubicación sin coordenadas (vertical),010080,Ángulo de visión cenital,°,2,-9000,15,°,2,5,,,Operational,Original
 bufr4/0/10/081,10,Ubicación sin coordenadas (vertical),010081,Altitud del centro de gravedad sobre el elipsoide de referencia,m,3,0,31,m,3,10,,,Operational,Original

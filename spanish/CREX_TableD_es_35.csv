@@ -1,48 +1,48 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,Status,translated_by
-35,Información de monitoreo,D35001,(Especificar estación),,B08035,Tipo de ejercicio de control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35001,Especificar estación.,,B35001,Plazo de tiempo para el control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35001,Especificar estación,,B08036,Tipo de centro o estación que realiza el control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35001,Especificar estación,,D01001,Números de bloque y de la estación de la OMM,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35002,Especificar centro de monitoreo,,B08035,Tipo de ejercicio de control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35002,Especificar centro de monitoreo,,B35001,Plazo de tiempo para el control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35002,Especificar centro de monitoreo,,B08036,Tipo de centro o estación que realiza el control,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35002,Especificar centro de monitoreo,,B01033,Identificación del centro de origen/ generación,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B08021,Significación temporal,(23) Período de monitoreo,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,Especificar el período de monitoreo,,B04001,Año,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,Especificar el período de monitoreo,,B04002,Mes,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,Especificar el período de monitoreo,,B04003,Día,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,Especificar período de monitoreo,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35003,Especificar el período de monitoreo,,B04073,Período o desplazamiento de tiempo abreviado,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B08021,Significación temporal,(24) Límite de tiempo acordado para la recepción del informe,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B08021,Significación temporal,(25) Tiempo nominal de informe,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B35000,Número de clave FM y regional,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,D01001,Números de bloque y de la estación de la OMM,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35004,Especifique el tipo de informe y la estación que se está monitoreando.,,B35011,Número de informes efectivamente recibidos,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando),,B08021,Significación temporal,Límite de tiempo acordado para la recepción de informes,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B08021,Significación temporal,(25) Hora de notificación nominal,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B35000,Número de clave FM y regional,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B01001,Número de bloque de la OMM,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35005,Especifique el tipo de informe y el bloque WMO que se está monitoreando.,,B35011,Número de informes efectivamente recibidos,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B08021,Significación temporal,Límite de tiempo acordado para la recepción de informes,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B08021,Significación temporal,Hora de notificación nominal,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B35000,Número de clave FM y regional,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B01003,Número de Región de la OMM/zona geográfica,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando),,B35011,Número de informes efectivamente recibidos,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y estación múltiple de un bloque siendo monitoreado.,,B08021,Significación temporal,Límite de tiempo acordado para la recepción de informes,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y estación múltiple de un bloque siendo monitoreado.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y múltiples estación desde un bloque siendo monitoreado,,B08021,Significación temporal,(25) Hora de notificación nominal,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y estación múltiple de un bloque siendo monitoreado.,,B04004,Hora,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y múltiples estaciones de un bloque siendo monitoreadas.,,B35000,Número de clave FM y regional,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y múltiples estaciones de un bloque siendo monitoreado,,B01001,Número de bloque de la OMM,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y múltiples estaciones de un bloque siendo monitoreado.,,R02000,Repetición diferida de 2 descriptores,Cuenta de estaciones.,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y múltiples estación de un bloque siendo monitoreado,,B01002,Número de la estación de la OMM,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35007,Tipo de informe y estación múltiple de un bloque siendo monitoreado,,B35011,Número de informes efectivamente recibidos,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35010,Monitoreo de un tipo de informe desde estación.,,D35002,Especificar centro de monitoreo,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35010,Monitoreo de un tipo de informe desde estación.,,D35003,Especificar el período de monitoreo,,,Operational,AI Translator: MCP
-35,Información de monitoreo,D35010,Supervisión de un tipo de informe desde estación.,,D35007,Tipo de informe y múltiples estación desde un bloque siendo monitoreado,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35001,(Especificar estación de monitoreo),,B08035,Tipo de ejercicio de monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35001,(Especificar estación de monitoreo),,B35001,Marco temporal para el monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35001,(Especificar estación de monitoreo),,B08036,Tipo de centro o estación que realiza el monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35001,(Especificar estación de monitoreo),,D01001,Bloque WMO y números de estación,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35002,(Especificar centro de monitoreo),,B08035,Tipo de ejercicio de monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35002,(Especificar centro de monitoreo),,B35001,Marco temporal para el monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35002,(Especificar centro de monitoreo),,B08036,Tipo de centro o estación que realiza el monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35002,(Especificar centro de monitoreo),,B01033,Identificación del centro de origen/generación,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B08021,Significado del tiempo,(23) Período de monitoreo,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B04001,Año,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B04002,Mes,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B04003,Día,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35003,(Especificar período de monitoreo),,B04073,Período corto de tiempo o desplazamiento,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B08021,Significado del tiempo,(24) Límite de tiempo acordado para la recepción del informe,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B08021,Significado del tiempo,(25) Tiempo de informe nominal,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B35000,FM y número de código regional,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,D01001,Bloque WMO y números de estación,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35004,(Especifique el tipo de informe y la estación única que se está monitoreando.),,B35011,Número de informes realmente recibidos,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B08021,Significado del tiempo,Límite de tiempo acordado para la recepción del informe,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B08021,Significado del tiempo,(25) Tiempo de informe nominal,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B35000,FM y número de código regional,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B01001,Número de bloque WMO,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35005,(Especifique el tipo de informe y el bloque WMO que se está monitoreando.),,B35011,Número de informes realmente recibidos,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B08021,Significado del tiempo,Límite de tiempo acordado para la recepción del informe,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B08021,Significado del tiempo,(25) Tiempo de informe nominal,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B35000,FM y número de código regional,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B01003,Número de región de la OMM/área geográfica,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35006,(Especifique el tipo de informe y la Región OMM que se está monitoreando.),,B35011,Número de informes realmente recibidos,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B08021,Significado del tiempo,Límite de tiempo acordado para la recepción del informe,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque que se está monitoreando.),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B08021,Significado del tiempo,(25) Tiempo de informe nominal,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B04004,Hora,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B35000,FM y número de código regional,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B01001,Número de bloque WMO,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,R02000,Replicación retrasada de 2 descriptores,Conteo de estaciones,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B01002,Número de estación WMO,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35007,(Tipo de informe y múltiples estaciones de un bloque siendo monitoreado),,B35011,Número de informes realmente recibidos,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35010,(Monitoreando un tipo de informe desde múltiples estaciones),,D35002,Especificar centro de monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35010,(Monitoreando un tipo de informe desde múltiples estaciones),,D35003,Especificar período de monitoreo,,,Operational,AI Translator: MCP
+35,Información de monitoreo,D35010,(Monitoreando un tipo de informe desde múltiples estaciones),,D35007,Tipo de informe y múltiples estaciones de un bloque siendo monitoreado,,,Operational,AI Translator: MCP

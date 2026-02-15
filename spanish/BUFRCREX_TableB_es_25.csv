@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/25/001,25,Información sobre el proceso de datos,025001,Distancia de la puerta de integración,m,-1,0,6,m,-1,2,,,Operational,Original
 bufr4/0/25/002,25,Información sobre el proceso de datos,025002,Número medio de puertas,Numérica,0,0,4,Numérica,0,2,,,Operational,Original
 bufr4/0/25/003,25,Información sobre el proceso de datos,025003,Número de impulsos integrados,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
@@ -52,7 +52,7 @@ bufr4/0/25/052,25,Información sobre el proceso de datos,025052,Log-10 del ajust
 bufr4/0/25/053,25,Información sobre el proceso de datos,025053,Calidad de la observación,Tabla de banderines,0,0,12,Tabla de banderines,0,4,,,Operational,Original
 bufr4/0/25/054,25,Información sobre el proceso de datos,025054,Número de identificación de subtrama SSMIS,Numérica,0,0,5,Numérica,0,2,,,Operational,Original
 bufr4/0/25/055,25,Información sobre el proceso de datos,025055,Mantenimiento de multiplexor,K,2,0,16,K,2,5,,,Operational,Original
-bufr4/0/25/056,25,Información sobre el proceso,025056,Estimación de error normalizado en la medición de retrodispersión (Kp),Numeric,4,0,14,Numeric,4,5,,,Operational,AI Translator: MCP
+bufr4/0/25/056,25,Información sobre el proceso de datos,025056,Estimación de error normalizado en la medición de retrodispersión (Kp),Numérica,4,0,14,Numérica,4,5,,,Operational,AI Translator: MCP
 bufr4/0/25/060,25,Información sobre el proceso de datos,025060,Identificación del software,Numérica,0,0,14,Numérica,0,5,(véase la nota 2),,Operational,Original
 bufr4/0/25/061,25,Información sobre el proceso de datos,025061,Identificación y número de versión del software,CCITT IA5,0,0,96,Carácter,0,12,,,Operational,Original
 bufr4/0/25/062,25,Información sobre el proceso de datos,025062,Identificación de la base de datos,Numérica,0,0,14,Numérica,0,5,,,Operational,Original
@@ -117,13 +117,13 @@ bufr4/0/25/135,25,Información sobre el proceso de datos,025135,Corrección iono
 bufr4/0/25/136,25,Información sobre el proceso de datos,025136,Corrección ionosférica en banda S según modelo,m,3,-32768,16,m,3,5,,,Operational,Original
 bufr4/0/25/137,25,Información sobre el proceso de datos,025137,Corrección del error sistemático sobre el estado del mar en banda S,m,3,-32768,16,m,3,5,,,Operational,Original
 bufr4/0/25/138,25,Información sobre el proceso de datos,025138,"Relación señal-ruido, promedio",Numérica,0,-2048,12,Numérica,0,4,,,Operational,Original
-bufr4/0/25/139,25,Información sobre el proceso,025139,Nivel de procesamiento,Numeric,0,0,5,Numeric,0,4,,,Operational,AI Translator: MCP
+bufr4/0/25/139,25,Información sobre el proceso de datos,025139,Nivel de procesamiento,Numérica,0,0,5,Numérica,0,4,,,Operational,AI Translator: MCP
 bufr4/0/25/140,25,Información sobre el proceso de datos,025140,Canal de comienzo,Numérica,0,0,14,Numérica,0,5,,,Operational,Original
 bufr4/0/25/141,25,Información sobre el proceso de datos,025141,Canal de terminación,Numérica,0,0,14,Numérica,0,5,,,Operational,Original
 bufr4/0/25/142,25,Información sobre el proceso de datos,025142,Factor de escala del canal,Numérica,0,0,6,Numérica,0,2,,,Operational,Original
 bufr4/0/25/143,25,Información sobre el proceso de datos,025143,Coeficiente lineal,Numérica,6,-5000000,24,Numérica,6,8,,,Operational,Original
-bufr4/0/25/144,25,Información sobre el proceso,025144,Número de canales visuales utilizados en el procesamiento,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
-bufr4/0/25/145,25,Información sobre el proceso,025145,Número de canales infrarrojos utilizados en el procesamiento,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
+bufr4/0/25/144,25,Información sobre el proceso de datos,025144,Número de canales visuales utilizados en el procesamiento,Numérica,0,0,6,Numérica,0,2,,,Operational,AI Translator: MCP
+bufr4/0/25/145,25,Información sobre el proceso de datos,025145,Número de canales infrarrojos utilizados en el procesamiento,Numérica,0,0,6,Numérica,0,2,,,Operational,AI Translator: MCP
 bufr4/0/25/148,25,Información sobre el proceso de datos,025148,Coeficiente de variación,Numérica,2,-10000,15,Numérica,2,5,,,Operational,Original
 bufr4/0/25/149,25,Información sobre el proceso de datos,025149,Estimación óptima de costo,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/25/150,25,Información sobre el proceso de datos,025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original

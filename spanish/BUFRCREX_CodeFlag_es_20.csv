@@ -374,7 +374,7 @@ bufr4/0/20/009/1,020009,Indicador general del tiempo (TAF/METAR),1,Ausencia de n
 bufr4/0/20/009/2,020009,Indicador general del tiempo (TAF/METAR),2,CAVOK,,,,,Operational,Original
 bufr4/0/20/009/3,020009,Indicador general del tiempo (TAF/METAR),3,Cielo despejado (SKC),,,,,Operational,Original
 bufr4/0/20/009/4,020009,Indicador general del tiempo (TAF/METAR),4,Ausencia de tiempo significativo (NSW),,,,,Operational,Original
-bufr4/0/20/009/5,020009,Indicador general del tiempo (TAF/METAR),5,criterios del NCDC No clouds detected,,,,,Operational,AI Translator: MCP
+bufr4/0/20/009/5,020009,Indicador general del tiempo (TAF/METAR),5,NCD No se detectaron nubes,,,,,Operational,AI Translator: MCP
 bufr4/0/20/009/6-14,020009,Indicador general del tiempo (TAF/METAR),6-14,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/009/15,020009,Indicador general del tiempo (TAF/METAR),15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/011/0,020011,Nubosidad,0,0,0,,,,Operational,Original
@@ -489,7 +489,7 @@ bufr4/0/20/021/21,020021,Tipo de precipitación,21,Escarcha,,,,,Operational,Orig
 bufr4/0/20/021/22,020021,Tipo de precipitación,22,Rocío,,,,,Operational,Original
 bufr4/0/20/021/23,020021,Tipo de precipitación,23,Rocío blanco,,,,,Operational,Original
 bufr4/0/20/021/24-29,020021,Tipo de precipitación,24-29,Reservados,,,,,Operational,Original
-bufr4/0/20/021/All-30,020021,Tipo de precipitación,All 30,Valor faltante,,,,,Operational,Original
+bufr4/0/20/021/All-30,020021,Tipo de precipitación,Todos los 30,Valor faltante,,,,,Operational,Original
 bufr4/0/20/022/0,020022,Naturaleza de la precipitación,0,No hay precipitación,,,,,Operational,Original
 bufr4/0/20/022/1,020022,Naturaleza de la precipitación,1,Continua,,,,,Operational,Original
 bufr4/0/20/022/2,020022,Naturaleza de la precipitación,2,Intermitente,,,,,Operational,Original
@@ -513,7 +513,7 @@ bufr4/0/20/023/12,020023,Otros fenómenos meteorológicos,12,Tromba de agua,,,,,
 bufr4/0/20/023/13,020023,Otros fenómenos meteorológicos,13,Cizalladura de viento,,,,,Operational,Original
 bufr4/0/20/023/14,020023,Otros fenómenos meteorológicos,14,Remolinos de polvo,,,,,Operational,Original
 bufr4/0/20/023/15-17,020023,Otros fenómenos meteorológicos,15-17,Reservados,,,,,Operational,Original
-bufr4/0/20/023/All-18,020023,Otros fenómenos meteorológicos,All 18,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/023/All-18,020023,Otros fenómenos meteorológicos,Todos los 18,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/024/0,020024,Intensidad de los fenómenos,0,Ausencia de fenómenos,,,,,Operational,Original
 bufr4/0/20/024/1,020024,Intensidad de los fenómenos,1,Ligero,,,,,Operational,Original
 bufr4/0/20/024/2,020024,Intensidad de los fenómenos,2,Moderado,,,,,Operational,Original
@@ -537,7 +537,7 @@ bufr4/0/20/025/14,020025,Oscurecimiento,14,Nubes,,,,,Operational,Original
 bufr4/0/20/025/15,020025,Oscurecimiento,15,Precipitación,,,,,Operational,Original
 bufr4/0/20/025/16,020025,Oscurecimiento,16,Imposible determinar si hay o no precipitación de nieve 17–20,,,,,Operational,Original
 bufr4/0/20/025/17-20,020025,Oscurecimiento,17-20,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/20/025/All-21,020025,Oscurecimiento,All 21,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/025/All-21,020025,Oscurecimiento,Todos los 21,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/026/0,020026,Carácter del oscurecimiento,0,Sin cambios,,,,,Operational,Original
 bufr4/0/20/026/1,020026,Carácter del oscurecimiento,1,Poco profundo,,,,,Operational,Original
 bufr4/0/20/026/2,020026,Carácter del oscurecimiento,2,Bancos,,,,,Operational,Original
@@ -562,7 +562,7 @@ bufr4/0/20/027/5,020027,Ocurrencia de los fenómenos*,5,Reservado,,,,,Operationa
 bufr4/0/20/027/6,020027,Ocurrencia de los fenómenos*,6,Por debajo del nivel de la estación,,,,,Operational,Original
 bufr4/0/20/027/7,020027,Ocurrencia de los fenómenos*,7,En la estación,,, (véase la Nota 1),,Operational,Original
 bufr4/0/20/027/8,020027,Ocurrencia de los fenómenos*,8,En las cercanías,,, (véase la Nota 2),,Operational,Original
-bufr4/0/20/027/All-9,020027,Ocurrencia de los fenómenos,All 9,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/027/All-9,020027,Ocurrencia de los fenómenos*,Todos los 9,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/028/0,020028,Cambio esperado en intensidad,0,Ningún cambio (NC),,,,,Operational,Original
 bufr4/0/20/028/1,020028,Cambio esperado en intensidad,1,Predicción de debilitamiento (WKN),,,,,Operational,Original
 bufr4/0/20/028/2,020028,Cambio esperado en intensidad,2,Predicción de intensificación (INTSF),,,,,Operational,Original
@@ -582,7 +582,7 @@ bufr4/0/20/032/7,020032,Velocidad de acumulación del hielo (estimada),7,Valor f
 bufr4/0/20/033/1,020033,Causa de la acumulación del hielo,1,Engelamiento causado por roción oceánico,,,,,Operational,Original
 bufr4/0/20/033/2,020033,Causa de la acumulación del hielo,2,Engelamiento causado por la niebla,,,,,Operational,Original
 bufr4/0/20/033/3,020033,Causa de la acumulación del hielo,3,Engelamiento causado por la lluvia,,,,,Operational,Original
-bufr4/0/20/033/All-4,020033,Causa de la acumulación de hielo,All 4,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/033/All-4,020033,Causa de la acumulación del hielo,Todos los 4,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/034/0,020034,Concentración del hielo marino,0,Ningún hielo a la vista,,,,,Operational,Original
 bufr4/0/20/034/1,020034,Concentración del hielo marino,1,"Buque en canal abierto con una anchura de más de 1,0 milla marina, o buque en hielo fijo con frontera superior al límite de visibilidad",,,,,Operational,Original
 bufr4/0/20/034/2,020034,Concentración del hielo marino,2,"Presencia de hielos marinos en concentraciones inferiores a 3/10 (3/8), aguas libres o hielo a la deriva muy abierto",La concentración de hielos marinos no es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
@@ -735,7 +735,7 @@ bufr4/0/20/063/2,020063,Fenómenos especiales,2,"Velocidad media máxima del vie
 bufr4/0/20/063/3-6,020063,Fenómenos especiales,3-6,Reservadas,,,,,Operational,Original
 bufr4/0/20/063/7,020063,Fenómenos especiales,7,Visibilidad superior a 100 000 m,,,,,Operational,Original
 bufr4/0/20/063/8-9,020063,Fenómenos especiales,8-9,Reservadas,,,,,Operational,Original
-bufr4/0/20/063,020063,Fenómenos especiales,,10-19     Espejismo,,,,,Operational,AI Translator: MCP
+bufr4/0/20/063,020063,Fenómenos especiales,,10-19     Mirage,,,,,Operational,AI Translator: MCP
 bufr4/0/20/063/10,020063,Fenómenos especiales,10,Espejismo: sin especificación,,,,,Operational,Original
 bufr4/0/20/063/11,020063,Fenómenos especiales,11,Espejismo: imagen de objeto que emerge a distancia (espejismo emergente),,,,,Operational,Original
 bufr4/0/20/063/12,020063,Fenómenos especiales,12,Espejismo: imagen de objeto que emerge claramente en el horizonte,,,,,Operational,Original
@@ -761,7 +761,7 @@ bufr4/0/20/063/36,020063,Fenómenos especiales,36,Convergencia de nubes CH en un
 bufr4/0/20/063/37,020063,Fenómenos especiales,37,Convergencia de nubes CH en un punto inferior a 45° en disipación o disminución asociada con una perturbación a tropical,,,,,Operational,Original
 bufr4/0/20/063/38,020063,Fenómenos especiales,38,Convergencia de nubes CH en un punto superior a 45° asociada con una perturbación tropical,,,,,Operational,Original
 bufr4/0/20/063/39,020063,Fenómenos especiales,39,Reservada,,,,,Operational,Original
-bufr4/0/20/063,020063,Fenómenos especiales,,40-43 Escarcha blanca o precipitación,,,,,Operational,AI Translator: MCP
+bufr4/0/20/063,020063,Fenómenos especiales,,40-43 Escarcha blanca o precipitación coloreada,,,,,Operational,AI Translator: MCP
 bufr4/0/20/063/40,020063,Fenómenos especiales,40,Escarcha en superficies horizontales,,,,,Operational,Original
 bufr4/0/20/063/41,020063,Fenómenos especiales,41,Escarcha en superficies horizontales y verticales,,,,,Operational,Original
 bufr4/0/20/063/42,020063,Fenómenos especiales,42,Precipitaciones que contienen arena o polvo del desierto,,,,,Operational,Original
@@ -778,7 +778,7 @@ bufr4/0/20/063/56,020063,Fenómenos especiales,56,Turbonada aproximándose a la 
 bufr4/0/20/063/57,020063,Fenómenos especiales,57,Línea de turbonada,,,,,Operational,Original
 bufr4/0/20/063/58,020063,Fenómenos especiales,58,Turbonada con nubes de polvo o arena bajas o altas,,,,,Operational,Original
 bufr4/0/20/063/59,020063,Fenómenos especiales,59,Línea de turbonada con nubes de polvo o arena bajas o altas,,,,,Operational,Original
-bufr4/0/20/063,020063,Fenómenos especiales,,"60-69 Variación de temperatura durante el período especificado, asociado con esmalte o evaporímetro de tanque abierto",,,,,Operational,AI Translator: MCP
+bufr4/0/20/063,020063,Fenómenos especiales,,"60-69 Variación de temperatura durante el período especificado, asociado con escarcha o hielo vidriado",,,,,Operational,AI Translator: MCP
 bufr4/0/20/063/60,020063,Fenómenos especiales,60,Temperatura estable,,,,,Operational,Original
 bufr4/0/20/063/61,020063,Fenómenos especiales,61,"Temperatura en descenso, no inferior a 0 °C",,,,,Operational,Original
 bufr4/0/20/063/62,020063,Fenómenos especiales,62,"Temperatura en aumento, sin superar 0 °C",,,,,Operational,Original
@@ -789,7 +789,7 @@ bufr4/0/20/063/66,020063,Fenómenos especiales,66,"Variaciones irregulares, las 
 bufr4/0/20/063/67,020063,Fenómenos especiales,67,No se han observado las variaciones de la temperatura,,,,,Operational,Original
 bufr4/0/20/063/68,020063,Fenómenos especiales,68,Sin asignar,,,,,Operational,Original
 bufr4/0/20/063/69,020063,Fenómenos especiales,69,Se desconocen las variaciones de temperatura por falta de termógrafo,,,,,Operational,Original
-bufr4/0/20/063,020063,Fenómenos especiales,,70-79     Visibilidad durante el período especificado,,,,,Operational,AI Translator: MCP
+bufr4/0/20/063,020063,Fenómenos especiales,,70-79 Variación de la visibilidad durante el período especificado,,,,,Operational,AI Translator: MCP
 bufr4/0/20/063/70,020063,Fenómenos especiales,70,La visibilidad no ha variado (sol,,,*,,Operational,Original
 bufr4/0/20/063/71,020063,Fenómenos especiales,71,La visibilidad no ha variado (sol,,,*,,Operational,Original
 bufr4/0/20/063/72,020063,Fenómenos especiales,72,La visibilidad ha aumentado (sol,,,*,,Operational,Original
@@ -826,10 +826,10 @@ bufr4/0/20/071/8,020071,Exactitud de marcación y tasa de parásitos atmosféric
 bufr4/0/20/071/9,020071,Exactitud de marcación y tasa de parásitos atmosféricos,9,Más de 200 km,Tasa tan elevada que no es posible contar el número,,,,Operational,Original
 bufr4/0/20/071/10-14,020071,Exactitud de marcación y tasa de parásitos atmosféricos,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/071/15,020071,Exactitud de marcación y tasa de parásitos atmosféricos,15,Valor faltante,,,,,Operational,Original
-bufr4/0/20/079/0,020079,Indicador de nieve o cristales de hielo.,0,Sin nieve ni hielo,,,,,Operational,AI Translator: MCP
-bufr4/0/20/079/1,020079,Indicador de nieve o cristales de hielo.,1,Nieve presente,,,,,Operational,AI Translator: MCP
-bufr4/0/20/079/2,020079,Indicador de nieve o cristales de hielo.,2,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/20/079/3,020079,Indicador de nieve o cristales de hielo.,3,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/0,020079,Indicador de cristales de nieve o hielo,0,Sin nieve ni hielo,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/1,020079,Indicador de nieve o cristales de hielo,1,Nieve presente,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/2,020079,Indicador de cristales de nieve o hielo,2,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/3,020079,Indicador de nieve o cristales de hielo,3,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/085/0,020085,Estado general de la pista,0,Despejada (CLRD//),,,,,Operational,Original
 bufr4/0/20/085/1,020085,Estado general de la pista,1,Todas las pistas cerradas (SNOCLO),,,,,Operational,Original
 bufr4/0/20/085/2-14,020085,Estado general de la pista,2-14,Reservadas,,,,,Operational,Original
@@ -925,7 +925,7 @@ bufr4/0/20/104/8,020104,Estado de organización del enjambre o banda de langosta
 bufr4/0/20/104/9,020104,Estado de organización del enjambre o banda de langostas,9,"Langostas, dañando todas ellas gravemente la vegetación, actividades de exterminio en curso",,,,,Operational,Original
 bufr4/0/20/104/10-14,020104,Estado de organización del enjambre o banda de langostas,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/104/15,020104,Estado de organización del enjambre o banda de langostas,15,Valor faltante,,,,,Operational,Original
-bufr4/0/20/105,020105,Tamaño del enjambre o banda de langostas y duración del paso del enjambre,,Cuando 0 20 104 (estado de organización de enjambre o grupo de langostas) = 0,,,,,Operational,AI Translator: MCP
+bufr4/0/20/105,020105,Tamaño del enjambre o banda de langostas y duración de su paso,,Cuando 0 20 104 (estado de organización de enjambre o banda de langostas) = 0,,,,,Operational,AI Translator: MCP
 bufr4/0/20/105/0,020105,Tamaño del enjambre o banda de langostas y duración de su paso,0,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
 bufr4/0/20/105/1,020105,Tamaño del enjambre o banda de langostas y duración de su paso,1,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
 bufr4/0/20/105/2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,2,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
@@ -938,7 +938,7 @@ bufr4/0/20/105/8,020105,Tamaño del enjambre o banda de langostas y duración de
 bufr4/0/20/105/9,020105,Tamaño del enjambre o banda de langostas y duración de su paso,9,Más de una bandada de langostas,,,,,Operational,Original
 bufr4/0/20/105/10-14,020105,Tamaño del enjambre o banda de langostas y duración de su paso,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/105/15,020105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,,,,,Operational,Original
-bufr4/0/20/105,020105,Tamaño del enjambre o banda de langostas y duración del paso del enjambre,,Cuando 0 20 104 (estado de organización de enjambre o banda de langostas) = 1 a 9,,,,,Operational,AI Translator: MCP
+bufr4/0/20/105,020105,Tamaño del enjambre o banda de langostas y duración de su paso,,Cuando 0 20 104 (estado de organización de enjambre o banda de langostas) = 1 a 9,,,,,Operational,AI Translator: MCP
 bufr4/0/20/105/0,020105,Tamaño del enjambre o banda de langostas y duración de su paso,0,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
 bufr4/0/20/105/1,020105,Tamaño del enjambre o banda de langostas y duración de su paso,1,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
 bufr4/0/20/105/2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,2,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
@@ -990,7 +990,7 @@ bufr4/0/20/124/0,020124,Rayo o relámpago,0,No definida,,,,,Operational,Original
 bufr4/0/20/124/1,020124,Rayo o relámpago,1,Rayo,,,,,Operational,Original
 bufr4/0/20/124/2,020124,Rayo o relámpago,2,"Relámpago, mediante observación manual, o si el equipo no registra la resolución de la descarga",,,,,Operational,Original
 bufr4/0/20/124/3,020124,Rayo o relámpago,3,Valor faltante,,,,,Operational,Original
-bufr4/0/20/136,020136,Tipo de nubes suplementario,,0-7 Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de cifrado 0531),,,,,Operational,AI Translator: MCP
+bufr4/0/20/136,020136,Tipo de nubes suplementario,,0-7 Naturaleza de las nubes de desarrollo vertical (Ca - Tabla de códigos 0531),,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/0,020136,Tipo de nubes suplementario,0,Cumulus humilis aislados y/o cumulus mediocris,,,,,Operational,Original
 bufr4/0/20/136/1,020136,Tipo de nubes suplementario,1,Numerosos cumulus humilis y/o cumulus mediocris,,,,,Operational,Original
 bufr4/0/20/136/2,020136,Tipo de nubes suplementario,2,Cumulus congestus aislados,,,,,Operational,Original
@@ -1000,7 +1000,7 @@ bufr4/0/20/136/5,020136,Tipo de nubes suplementario,5,Numerosos cumulonimbos,,,,
 bufr4/0/20/136/6,020136,Tipo de nubes suplementario,6,Cúmulos aislados y cumulonimbos,,,,,Operational,Original
 bufr4/0/20/136/7,020136,Tipo de nubes suplementario,7,Numerosos cúmulos y cumulonimbos,,,,,Operational,Original
 bufr4/0/20/136/8-9,020136,Tipo de nubes suplementario,8-9,Reservadas,,,,,Operational,Original
-bufr4/0/20/136,020136,Tipo de nubes suplementario,,10-19   nubes orográficas (C0 - tabla de cifrado 0561),,,,,Operational,AI Translator: MCP
+bufr4/0/20/136,020136,Tipo de nubes suplementario,,10-19 Nubes orográficas (C0 - Tabla de códigos 0561),,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/10,020136,Tipo de nubes suplementario,10,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/11,020136,Tipo de nubes suplementario,11,"Nubes orográficas aisladas, pileus, incus, en formación",,,,,Operational,Original
 bufr4/0/20/136/12,020136,Tipo de nubes suplementario,12,"Nubes orográficas aisladas, pileus, incus, sin variación",,,,,Operational,Original
@@ -1011,7 +1011,7 @@ bufr4/0/20/136/16,020136,Tipo de nubes suplementario,16,"Bancos irregulares de n
 bufr4/0/20/136/17,020136,Tipo de nubes suplementario,17,"Capa compacta de nubes orográficas, banco de föhn, etc., en formación",,,,,Operational,Original
 bufr4/0/20/136/18,020136,Tipo de nubes suplementario,18,"Capa compacta de nubes orográficas, banco de föhn, etc., sin variaciones",,,,,Operational,Original
 bufr4/0/20/136/19,020136,Tipo de nubes suplementario,19,"Capa compacta de nubes orográficas, banco de föhn, etc., deshaciéndose",,,,,Operational,Original
-bufr4/0/20/136,020136,Tipo de nubes suplementario,,20-29   Condiciones de nubes sobre montañas y pasos (Nm - tabla de cifrado 2745),,,,,Operational,AI Translator: MCP
+bufr4/0/20/136,020136,Tipo de nubes suplementario,,20-29 Condiciones de nubes sobre montañas y pasos (Nm - tabla de cifrado 2745),,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/20,020136,Tipo de nubes suplementario,20,"Todas las montañas despejadas, solo pequeñas cantidades de nubes presentes",,,,,Operational,Original
 bufr4/0/20/136/21,020136,Tipo de nubes suplementario,21,Montañas parcialmente cubiertas con nubes desgajadas (no son visibles más de la mitad de los picos),,,,,Operational,Original
 bufr4/0/20/136/22,020136,Tipo de nubes suplementario,22,"Todas las laderas cubiertas, cumbres y vaguadas despejadas",,,,,Operational,Original
@@ -1023,7 +1023,7 @@ bufr4/0/20/136/27,020136,Tipo de nubes suplementario,27,"Montañas generalmente 
 bufr4/0/20/136/28,020136,Tipo de nubes suplementario,28,"Todas las cumbres, vaguadas y laderas cubiertas",,,,,Operational,Original
 bufr4/0/20/136/29,020136,Tipo de nubes suplementario,29,"No es posible ver las montañas debido a la oscuridad, a la niebla, a tempestades de nieve, a la precipitación, etc.",,,,,Operational,Original
 bufr4/0/20/136/30-34,020136,Tipo de nubes suplementario,30-34,Reservadas,,,,,Operational,Original
-bufr4/0/20/136,020136,Tipo de nubes suplementario,,35-39   Condensation trails (Nt - tabla de cifrado 2752),,,,,Operational,AI Translator: MCP
+bufr4/0/20/136,020136,Tipo de nubes suplementario,,35-39   Estelas de condensación (Nt - tabla de cifrado 2752),,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/35,020136,Tipo de nubes suplementario,35,Estelas de condensación no persistentes,,,,,Operational,Original
 bufr4/0/20/136/36,020136,Tipo de nubes suplementario,36,Estelas de condensación persistentes cubriendo menos de 1/8 del cielo,,,,,Operational,Original
 bufr4/0/20/136/37,020136,Tipo de nubes suplementario,37,Estelas de condensación persistentes cubriendo 1/8 del cielo,,,,,Operational,Original
@@ -1065,14 +1065,14 @@ bufr4/0/20/138/7,020138,Condición de la superficie de la carretera,7,No seca,,,
 bufr4/0/20/138/8-14,020138,Condición de la superficie de la carretera,8-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/138/15,020138,Condición de la superficie de la carretera,15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/139/0,020139,Suposición final del modelo de nube,0,Despejado,,,,,Operational,AI Translator: MCP
-bufr4/0/20/139/1,020139,Suposición final del modelo de nube,1,Capa única de agua.,,,,,Operational,AI Translator: MCP
-bufr4/0/20/139/2,020139,Suposición final del modelo de nube,2,Hielo de una sola capa.,,,,,Operational,AI Translator: MCP
-bufr4/0/20/139/3,020139,Suposición final del modelo de nube,3,capa (hielo),,,,,Operational,AI Translator: MCP
-bufr4/0/20/139/4,020139,Suposición final del modelo de nube,4,Capa única de ceniza.,,,,,Operational,AI Translator: MCP
-bufr4/0/20/139/5,020139,Suposición final del modelo de nube,5,capa,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/1,020139,Suposición final del modelo de nube,1,Agua de una sola capa,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/2,020139,Suposición final del modelo de nube,2,Hielo de una sola capa,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/3,020139,Suposición final del modelo de nube,3,2 capas (agua/hielo),,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/4,020139,Suposición final del modelo de nube,4,Ceniza de una sola capa,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/5,020139,Suposición final del modelo de nube,5,Ceniza de 2 capas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/139/6-14,020139,Suposición final del modelo de nube,6-14,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/139/15,020139,Suposición final del modelo de nube,15,Faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/20/143/0,020143,Nube líquida,0,No nube líquida,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/0,020143,Nube líquida,0,No hay nube líquida,,,,,Operational,AI Translator: MCP
 bufr4/0/20/143/1,020143,Nube líquida,1,Nube líquida presente,,,,,Operational,AI Translator: MCP
 bufr4/0/20/143/2,020143,Nube líquida,2,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/143/3,020143,Nube líquida,3,Valor faltante,,,,,Operational,AI Translator: MCP

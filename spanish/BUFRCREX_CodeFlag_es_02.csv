@@ -6,7 +6,7 @@ bufr4/0/02/001/3,002001,Tipo de estación,3,Valor faltante,,,,,Operational,Origi
 bufr4/0/02/002/1,002002,Tipo de instrumentos para la medición del viento,1,Instrumentos homologados,"Tipo de instrumentos y unidades originales para la medición del viento (en m s¯¹, a menos que se indique otra cosa)",,,,Operational,Original
 bufr4/0/02/002/2,002002,Tipo de instrumentos para la medición del viento,2,Medidos inicialmente en nudos,"Tipo de instrumentos y unidades originales para la medición del viento (en m s¯¹, a menos que se indique otra cosa)",,,,Operational,Original
 bufr4/0/02/002/3,002002,Tipo de instrumentos para la medición del viento,3,Medidos inicialmente en km h-1,"Tipo de instrumentos y unidades originales para la medición del viento (en m s¯¹, a menos que se indique otra cosa)",,,,Operational,Original
-bufr4/0/02/002/All-4,002002,Tipo de instrumentos para la medición del viento,All 4,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/002/All-4,002002,Tipo de instrumentos para la medición del viento,Todos los 4,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/003/0,002003,Tipo de instrumentos de medición utilizados,0,Instrumentos de medida de la presión asociados con equipo de medida del viento,,,,,Operational,Original
 bufr4/0/02/003/1,002003,Tipo de instrumentos de medición utilizados,1,Teodolito óptico,,,,,Operational,Original
 bufr4/0/02/003/2,002003,Tipo de instrumentos de medición utilizados,2,Radioteodolito,,,,,Operational,Original
@@ -41,7 +41,7 @@ bufr4/0/02/006/4,002006,Tipo de instrumento de teledetección en altitud,4,Perfi
 bufr4/0/02/006/5,002006,Tipo de instrumento de teledetección en altitud,5,Perfilador de viento SODAR,,,,,Operational,Original
 bufr4/0/02/006/6,002006,Tipo de instrumento de teledetección en altitud,6,Perfilador de viento,,,,,Operational,Original
 bufr4/0/02/006/7,002006,Tipo de instrumento de teledetección en altitud,7,Lidar,,,,,Operational,Original
-bufr4/0/02/006/8,002006,Tipo de instrumento de teledetección en altitud,8,Radiómetro de microondas basado en tierra.,,,,,Operational,AI Translator: MCP
+bufr4/0/02/006/8,002006,Tipo de instrumento de teledetección en altitud,8,Radiómetro de microondas basado en tierra,,,,,Operational,AI Translator: MCP
 bufr4/0/02/006/9,002006,Tipo de instrumento de teledetección en altitud,9,Lidar de absorción diferencial,,,,,Operational,AI Translator: MCP
 bufr4/0/02/006/10-62,002006,Tipo de instrumento de teledetección en altitud,10-62,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/006/63,002006,Tipo de instrumento de teledetección en altitud,63,Valor faltante,,,,,Operational,Original
@@ -65,11 +65,11 @@ bufr4/0/02/008/4,002008,Tipo de plataforma marina,4,FPSO (unidad flotante de pro
 bufr4/0/02/008/5,002008,Tipo de plataforma marina,5,Barco ligero,,,,,Operational,Original
 bufr4/0/02/008/6-14,002008,Tipo de plataforma marina,6-14,Reservadas,,,,,Operational,Original
 bufr4/0/02/008/15,002008,Tipo de plataforma marina,15,Valor faltante,,,,,Operational,Original
-bufr4/0/02/009/0,002009,Algoritmo de aerosol MODIS,0,Reflectancias corregidas de la tierra.,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/0,002009,Algoritmo de aerosoles MODIS,0,Reflectancias corregidas de la tierra,,,,,Operational,AI Translator: MCP
 bufr4/0/02/009/1,002009,Algoritmo de aerosol MODIS,1,La mejor solución del océano,,,,,Operational,AI Translator: MCP
-bufr4/0/02/009/2,002009,Algoritmo de aerosoles MODIS,2,Solución promedio del océano,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/2,002009,Algoritmo de aerosol MODIS,2,Solución promedio del océano,,,,,Operational,AI Translator: MCP
 bufr4/0/02/009/3-14,002009,Algoritmo de aerosol MODIS,3-14,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/02/009/15,002009,Algoritmo de aerosoles MODIS,15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/15,002009,Algoritmo de aerosol MODIS,15,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/011,002011,Tipo de radiosonda,,,,,"(Véase la Tabla de cifrado común C−2, Parte C/c.)",,Operational,Original
 bufr4/0/02/012,002012,Método de cálculo de radiosonda,,,,,(Se elaborará.),,Operational,Original
 bufr4/0/02/013/0,002013,Corrección de la radiación solar y de infrarrojo,0,Ninguna corrección,,,,,Operational,Original
@@ -97,7 +97,7 @@ bufr4/0/02/016/1,002016,Configuración de la radiosonda,1,Regulador de arranque,
 bufr4/0/02/016/2,002016,Configuración de la radiosonda,2,Unidad luminosa,,,,,Operational,Original
 bufr4/0/02/016/3,002016,Configuración de la radiosonda,3,Paracaídas,,,,,Operational,Original
 bufr4/0/02/016/4,002016,Configuración de la radiosonda,4,Liberación desde azotea,,,,,Operational,Original
-bufr4/0/02/016/All-5,002016,Configuración de la radiosonda,All 5,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/016/All-5,002016,Configuración de la radiosonda,Todos los 5,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/017/0,002017,Algoritmos de corrección de las mediciones de humedad,0,Sin correcciones,,,,,Operational,Original
 bufr4/0/02/017/1,002017,Algoritmos de corrección de las mediciones de humedad,1,Corrección del tiempo de respuesta proporcionado por el fabricante,,,,,Operational,Original
 bufr4/0/02/017/2,002017,Algoritmos de corrección de las mediciones de humedad,2,Corrección de la radiación solar proporcionada por el fabricante,,,,,Operational,Original
@@ -155,14 +155,14 @@ bufr4/0/02/021/5,002021,Datos de instrumentos satelitales utilizados en el proce
 bufr4/0/02/021/6,002021,Datos de instrumentos satelitales utilizados en el proceso,6,Modo de imagen AMI,,,,,Operational,Original
 bufr4/0/02/021/7,002021,Datos de instrumentos satelitales utilizados en el proceso,7,Altímetro radar,,,,,Operational,Original
 bufr4/0/02/021/8,002021,Datos de instrumentos satelitales utilizados en el proceso,8,ATSR,,,,,Operational,Original
-bufr4/0/02/021/All-9,002021,Datos de instrumentos satelitales utilizados en el proceso*,All 9,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/021/All-9,002021,Datos de instrumentos satelitales utilizados en el proceso,Todos los 9,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/022/1,002022,Técnica utilizada en el proceso de datos satelitales,1,Técnica de proceso sin especificar,Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo.,,,,Operational,Original
 bufr4/0/02/022/2,002022,Técnica utilizada en el proceso de datos satelitales,2,Regresión estadística automatizada,Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo.,,,,Operational,Original
 bufr4/0/02/022/3,002022,Técnica utilizada en el proceso de datos satelitales,3,Trayecto despejado,"Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo. Nota 1) Por trayecto despejado se entiende que el sondeo se ha realizado a partir de radiancias claras obtenidas de mediciones reales en puntos despejados. Se han aplicado datos HIRS troposféricos y estratosféricos, así como datos MSU y SSU.",,,,Operational,Original
 bufr4/0/02/022/4,002022,Técnica utilizada en el proceso de datos satelitales,4,Trayecto parcialmente nuboso,"Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo. Nota 2) Por trayecto parcialmente nuboso se entiende que el sondeo se ha llevado a cabo a partir de radiancias claras que se han calculado en puntos parcialmente nubosos. Se han aplicado datos HIRS, troposféricos y estratosféricos, así como datos MSU y SSU.",,,,Operational,Original
 bufr4/0/02/022/5,002022,Técnica utilizada en el proceso de datos satelitales,5,Trayecto nuboso,"Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo. Nota 3) Por trayecto nuboso se entiende que el sondeo se ha realizado únicamente a partir de datos HIRS estratosféricos, y datos MSU y SSU. No se han aplicado datos HIRS troposféricos a causa de nubosidad",,,,Operational,Original
 bufr4/0/02/022/6-7,002022,Técnica utilizada en el proceso de datos satelitales,6-7,Reservados,Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo.,,,,Operational,Original
-bufr4/0/02/022/All-8,002022,Técnica utilizada en el proceso de datos satelitales,All 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/022/All-8,002022,Técnica utilizada en el proceso de datos satelitales,Todos los 8,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/023/0,002023,Método de cálculo del viento a partir de datos satelitales,0,Reservada,,,,,Operational,Original
 bufr4/0/02/023/1,002023,Método de cálculo del viento a partir de datos satelitales,1,Viento derivado del movimiento de las nubes observado en el canal del infrarrojo,,,,,Operational,Original
 bufr4/0/02/023/2,002023,Método de cálculo del viento a partir de datos satelitales,2,Viento derivado del movimiento de las nubes observado en el canal visible,,,,,Operational,Original
@@ -205,7 +205,7 @@ bufr4/0/02/025/21,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,21,
 bufr4/0/02/025/22,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,22,SSU,,,* Valor relegado. Utilícese en su lugar la cifra de clave 6.,,Operational,Original
 bufr4/0/02/025/23,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,23,"MSU (3, 4)",,,,,Operational,Original
 bufr4/0/02/025/24,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,24,Reservado,,,,,Operational,Original
-bufr4/0/02/025/All-25,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,All 25,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/025/All-25,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,Todos los 25,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/030/0,002030,Método de medición de la corriente,0,Reservada,,,,,Operational,Original
 bufr4/0/02/030/1,002030,Método de medición de la corriente,1,ADCP (perfilador de corriente de efecto Doppler),,,*,,Operational,Original
 bufr4/0/02/030/2,002030,Método de medición de la corriente,2,GEK (Electrocinetógrafo geomagnético),,,,,Operational,Original
@@ -359,7 +359,7 @@ bufr4/0/02/049/2,002049,Técnica utilizada para el proceso de datos de satélite
 bufr4/0/02/049/3,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,3,Sondeo en cielo despejado,"14,37",,,,Operational,Original
 bufr4/0/02/049/4,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,4,Sondeo en cielo nuboso,"14,06",,,,Operational,Original
 bufr4/0/02/049/5-7,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,5-7,Reservadas para uso futuro,"13,64",,,,Operational,Original
-bufr4/0/02/049/All-8,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,All 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/049/All-8,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Todos los 8,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/050/1,002050,Canales utilizados por un satélite geoestacionario de sondeo,1,1,"12,66",,,,Operational,Original
 bufr4/0/02/050/2,002050,Canales utilizados por un satélite geoestacionario de sondeo,2,2,"12,02",,,,Operational,Original
 bufr4/0/02/050/3,002050,Canales utilizados por un satélite geoestacionario de sondeo,3,3,"11,03",,,,Operational,Original
@@ -379,7 +379,7 @@ bufr4/0/02/050/16,002050,Canales utilizados por un satélite geoestacionario de 
 bufr4/0/02/050/17,002050,Canales utilizados por un satélite geoestacionario de sondeo,17,17,,,,,Operational,Original
 bufr4/0/02/050/18,002050,Canales utilizados por un satélite geoestacionario de sondeo,18,18,,,,,Operational,Original
 bufr4/0/02/050/19,002050,Canales utilizados por un satélite geoestacionario de sondeo,19,19,,,,,Operational,Original
-bufr4/0/02/050/All-20,002050,Canales utilizados por un satélite geoestacionario de sondeo,All 20,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/050/All-20,002050,Canales utilizados por un satélite geoestacionario de sondeo,Todos los 20,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/051/0,002051,Indicador que determina el método de observación de las temperaturas extremas,0,Reservada,,,,,Operational,Original
 bufr4/0/02/051/1,002051,Indicador que determina el método de observación de las temperaturas extremas,1,Termómetros a la máxima y a la mínima,,,,,Operational,Original
 bufr4/0/02/051/2,002051,Indicador que determina el método de observación de las temperaturas extremas,2,Instrumentos automáticos,,,,,Operational,Original
@@ -391,7 +391,7 @@ bufr4/0/02/052/2,002052,Canales utilizados por un satélite geoestacionario prod
 bufr4/0/02/052/3,002052,Canales utilizados por un satélite geoestacionario productor de imágenes,3,3,"6,7",,,,Operational,Original
 bufr4/0/02/052/4,002052,Canales utilizados por un satélite geoestacionario productor de imágenes,4,4,"10,7",,,,Operational,Original
 bufr4/0/02/052/5,002052,Canales utilizados por un satélite geoestacionario productor de imágenes,5,5,"12,0",,,,Operational,Original
-bufr4/0/02/052/All-6,002052,Canales utilizados por un satélite geoestacionario productor de imágenes,All 6,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/052/All-6,002052,Canales utilizados por un satélite geoestacionario productor de imágenes,Todos los 6,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/053/0,002053,Características de la temperatura de luminancia obtenida mediante un satélite GOES-I/M,0,Temperatura de luminancia observada,,,,,Operational,Original
 bufr4/0/02/053/1,002053,Características de la temperatura de luminancia obtenida mediante un satélite GOES-I/M,1,Temperatura de luminancia con aplicación de corrección del error sistemático,,,,,Operational,Original
 bufr4/0/02/053/2,002053,Características de la temperatura de luminancia obtenida mediante un satélite GOES-I/M,2,Temperatura de luminancia calculada a partir de una primera aproximación,,,,,Operational,Original
@@ -548,9 +548,9 @@ bufr4/0/02/096/5,002096,Tipo de sensor de temperatura,5,Termistor de chip,,,,,Op
 bufr4/0/02/096/6,002096,Tipo de sensor de temperatura,6,Mercurio,,,,,Operational,Original
 bufr4/0/02/096/7,002096,Tipo de sensor de temperatura,7,Alcohol/glicol,,,,,Operational,Original
 bufr4/0/02/096/8,002096,Tipo de sensor de temperatura,8,Termómetro de resistencia de platino,,,,,Operational,AI Translator: MCP
-bufr4/0/02/096/9,002096,Tipo de sensor de temperatura,9,cadena de termistor,,,,,Operational,AI Translator: MCP
+bufr4/0/02/096/9,002096,Tipo de sensor de temperatura,9,Termistor,,,,,Operational,AI Translator: MCP
 bufr4/0/02/096/10,002096,Tipo de sensor de temperatura,10,Termopar,,,,,Operational,AI Translator: MCP
-bufr4/0/02/096/11-30,002096,Tipo de sensor de temperatura,11-30,Reservadas para uso futuro,,,,,Operational,AI Translator: MCP
+bufr4/0/02/096/11-30,002096,Tipo de sensor de temperatura,11-30,Reservada para uso futuro,,,,,Operational,AI Translator: MCP
 bufr4/0/02/096/31,002096,Tipo de sensor de temperatura,31,Valor faltante,,,,,Operational,Original
 bufr4/0/02/097/0,002097,Tipo de sensor de humedad,0,Higristor de carbono VIZ Mark II,,,,,Operational,Original
 bufr4/0/02/097/1,002097,Tipo de sensor de humedad,1,Higristor VIZ B2,,,,,Operational,Original
@@ -599,7 +599,7 @@ bufr4/0/02/101/8-13,002101,Tipo de antenna,8-13,Reservadas,,,,,Operational,Origi
 bufr4/0/02/101/14,002101,Tipo de antenna,14,Otros,,,,,Operational,Original
 bufr4/0/02/101/15,002101,Tipo de antenna,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/103/1,002103,Radomo,1,La antena de radar está protegida por un radomo,,,,,Operational,Original
-bufr4/0/02/103/All-2,002103,Radomo,All 2,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/103/All-2,002103,Radomo,Todo 2,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/104/0,002104,Polarización de la antenna,0,Polarización horizontal,,,,,Operational,Original
 bufr4/0/02/104/1,002104,Polarización de la antenna,1,Polarización vertical,,,,,Operational,Original
 bufr4/0/02/104/2,002104,Polarización de la antenna,2,Polarización circular derecha,,,,,Operational,Original
@@ -627,7 +627,7 @@ bufr4/0/02/119/5,002119,Operaciones de instrumento RA-2,5,Adquisición,,,,,Opera
 bufr4/0/02/119/6,002119,Operaciones de instrumento RA-2,6,Seguimiento,,,,,Operational,Original
 bufr4/0/02/119/7,002119,Operaciones de instrumento RA-2,7,Valor faltante,,,,,Operational,Original
 bufr4/0/02/131/1,002131,Control de sensibilidad en función del tiempo,1,Control operativo de sensibilidad en función del tiempo,,,,,Operational,Original
-bufr4/0/02/131/All-2,002131,Control de sensibilidad en función del tiempo (STC),All 2,valores faltantes,,,,,Operational,AI Translator: MCP
+bufr4/0/02/131/All-2,002131,Control de sensibilidad en función del tiempo,Todo 2,valores faltantes,,,,,Operational,AI Translator: MCP
 bufr4/0/02/137/1,002137,Relación de frecuencia de repetición de impulsos dual de radar,1,0.126388889,,,,,Operational,Original
 bufr4/0/02/137/2,002137,Relación de frecuencia de repetición de impulsos dual de radar,2,0.16875,,,,,Operational,Original
 bufr4/0/02/137/3,002137,Relación de frecuencia de repetición de impulsos dual de radar,3,0.211111111,,,,,Operational,Original
@@ -839,7 +839,7 @@ bufr4/0/02/152/11,002152,Instrumento de satélite utilizado en el proceso de los
 bufr4/0/02/152/12,002152,Instrumento de satélite utilizado en el proceso de los datos,12,Radiómetro de exploración multicanal,,,,,Operational,Original
 bufr4/0/02/152/13,002152,Instrumento de satélite utilizado en el proceso de los datos,13,Reproductor de imágenes en órbita polar,,,,,Operational,Original
 bufr4/0/02/152/14-30,002152,Instrumento de satélite utilizado en el proceso de los datos,14-30,Reservados,,,,,Operational,Original
-bufr4/0/02/152/All-31,002152,Instrumento de satélite utilizado en el proceso de los datos,All 31,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/152/All-31,002152,Instrumento de satélite utilizado en el proceso de los datos,Todo 31,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/158/1,002158,Instrumento RA-2,1,Discordancia en vector de redundancia – Amplificador de gran potencia,,,,,Operational,Original
 bufr4/0/02/158/2,002158,Instrumento RA-2,2,Discordancia en vector de redundancia – RFSS*,,,,,Operational,Original
 bufr4/0/02/158/3,002158,Instrumento RA-2,3,Banda de calibración PTR a 320 MHz (Ku)**,,,,,Operational,Original
@@ -848,7 +848,7 @@ bufr4/0/02/158/5,002158,Instrumento RA-2,5,Banda de calibración PTR a 20 MHz (K
 bufr4/0/02/158/6,002158,Instrumento RA-2,6,Banda de calibración PTR a 160 MHz (S)**,,,,,Operational,Original
 bufr4/0/02/158/7,002158,Instrumento RA-2,7,Parámetros de calibración de vuelo en banda Ku disponibles,,,,,Operational,Original
 bufr4/0/02/158/8,002158,Instrumento RA-2,8,Parámetros de calibración de vuelo en banda S disponibles,,,,,Operational,Original
-bufr4/0/02/158/All-9,002158,Instrumento RA-2,All 9,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/158/All-9,002158,Instrumento RA-2,Todos los 9,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/159/1,002159,Instrumento MWR,1,Discordancia de temperaturas,,,,,Operational,Original
 bufr4/0/02/159/2,002159,Instrumento MWR,2,Faltan datos,,,,,Operational,Original
 bufr4/0/02/159/3,002159,Instrumento MWR,3,Canal de redundancia,,,,,Operational,Original
@@ -856,7 +856,7 @@ bufr4/0/02/159/4,002159,Instrumento MWR,4,Protección de bus de potencia,,,,,Ope
 bufr4/0/02/159/5,002159,Instrumento MWR,5,Protección frente a sobrevoltaje/sobrecargas,,,,,Operational,Original
 bufr4/0/02/159/6,002159,Instrumento MWR,6,Reservados,,,,,Operational,Original
 bufr4/0/02/159/7,002159,Instrumento MWR,7,Reservados,,,,,,Original
-bufr4/0/02/159/All-8,002159,Instrumento MWR,All 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/159/All-8,002159,Instrumento MWR,Todos los 8,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/160/0,002160,Longitud de onda del radar,0,Reservada,,,,,Operational,Original
 bufr4/0/02/160/1,002160,Longitud de onda del radar,1,10 a menos de 20 mm,,,,,Operational,Original
 bufr4/0/02/160/2,002160,Longitud de onda del radar,2,Reservada,,,,,Operational,Original
@@ -875,7 +875,7 @@ bufr4/0/02/161/12,002161,Método de procesamiento del viento,12,El objetivo est�
 bufr4/0/02/161/13,002161,Método de procesamiento del viento,13,Inversión en el nivel bajo,,,,,Operational,Original
 bufr4/0/02/161/14,002161,Método de procesamiento del viento,14,Método de contibución de correlación cruzada (CCC),,,,,Operational,Original
 bufr4/0/02/161/15,002161,Método de procesamiento del viento,15,Seguimiento de trayectoria anidada,,,,,Operational,Original
-bufr4/0/02/161/All-16,002161,Método de procesamiento del viento,All 16,Valor faltante,,,,,Operational,Original
+bufr4/0/02/161/All-16,002161,Método de procesamiento del viento,Todos los 16,Valor faltante,,,,,Operational,Original
 bufr4/0/02/162/0,002162,Método ampliado de determinación de la altura,0,Autoeditor,,,,,Operational,Original
 bufr4/0/02/162/1,002162,Método ampliado de determinación de la altura,1,Determinación de la altura en el canal de infrarrojos,,,,,Operational,Original
 bufr4/0/02/162/2,002162,Método ampliado de determinación de la altura,2,Determinación de la altura del vapor de agua,,,,,Operational,Original
@@ -926,7 +926,7 @@ bufr4/0/02/165/5,002165,Banderines de tipo de radiancia,5,No apodizado,,,,,Opera
 bufr4/0/02/165/6,002165,Banderines de tipo de radiancia,6,Reconstruido,,,,,Operational,Original
 bufr4/0/02/165/7,002165,Banderines de tipo de radiancia,7,Sin nubes,,,,,Operational,Original
 bufr4/0/02/165/8-14,002165,Banderines de tipo de radiancia,8-14,Reservados,,,,,Operational,Original
-bufr4/0/02/165/All-15,002165,Banderines del tipo de radiancia,All 15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/165/All-15,002165,Banderines de tipo de radiancia,Todos los 15,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/166/0,002166,Tipo de radiancia,0,Tipo no definido,,,,,Operational,Original
 bufr4/0/02/166/1,002166,Tipo de radiancia,1,Regresión estadística automatizada,,,,,Operational,Original
 bufr4/0/02/166/2,002166,Tipo de radiancia,2,Medición en cielo despejado,,,,,Operational,Original
@@ -954,7 +954,7 @@ bufr4/0/02/170/63,002170,Sensores de humedad de la aeronave,63,Valor faltante,,,
 bufr4/0/02/172/0,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,0,Reservada,,,,,Operational,Original
 bufr4/0/02/172/1,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,1,Recuperación de datos de un sondeo ascendente,,,,,Operational,Original
 bufr4/0/02/172/2,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,2,Recuperación de datos de un sondeo descendente,,,,,Operational,Original
-bufr4/0/02/172/3,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,3,Recuperación de un sondeo,,,,,Operational,AI Translator: MCP
+bufr4/0/02/172/3,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,3,Recuperación de un sondeo por ocultación,,,,,Operational,AI Translator: MCP
 bufr4/0/02/172/4-254,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,4-254,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/172/255,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,255,Valor faltante,,,,,Operational,Original
 bufr4/0/02/175/0,002175,Método de medición de la precipitación,0,Medición manual,,,,,Operational,Original
@@ -1009,7 +1009,7 @@ bufr4/0/02/181/3,002181,Sensor suplementario de tiempo presente,3,Sensor de dete
 bufr4/0/02/181/4,002181,Sensor suplementario de tiempo presente,4,Sensor de granizo y de hielo granulado,,,,,Operational,Original
 bufr4/0/02/181/5-19,002181,Sensor suplementario de tiempo presente,5-19,Reservados,,,,,Operational,Original
 bufr4/0/02/181/20,002181,Sensor suplementario de tiempo presente,20,Otros,,,,,Operational,Original
-bufr4/0/02/181/All-21,002181,Sensor suplementario de tiempo presente,All 21,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/181/All-21,002181,Sensor suplementario de tiempo presente,Todos los 21,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/182/0,002182,Sistema de medición de la visibilidad,0,Medición manual,,,,,Operational,Original
 bufr4/0/02/182/1,002182,Sistema de medición de la visibilidad,1,Sistema de transmisómetro (base > 25 m),,,,,Operational,Original
 bufr4/0/02/182/2,002182,Sistema de medición de la visibilidad,2,Sistema de transmisómetro (base < 25 m),,,,,Operational,Original
@@ -1071,7 +1071,7 @@ bufr4/0/02/186/22,002186,Capacidad para detectar fenómenos de precipitación,22
 bufr4/0/02/186/23,002186,Capacidad para detectar fenómenos de precipitación,23,Rocío blanco,,,,,Operational,Original
 bufr4/0/02/186/24,002186,Capacidad para detectar fenómenos de precipitación,24,Precipitación convectiva,,,,,Operational,Original
 bufr4/0/02/186/25-29,002186,Capacidad para detectar fenómenos de precipitación,25-29,Reservados,,,,,Operational,Original
-bufr4/0/02/186/All-30,002186,Capacidad para detectar fenómenos de precipitación,All 30,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/186/All-30,002186,Capacidad para detectar fenómenos de precipitación,Todos los 30,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/187/1,002187,Capacidad para detectar otros fenómenos meteorológicos,1,Torbellino de polvo/arena,,,,,Operational,Original
 bufr4/0/02/187/2,002187,Capacidad para detectar otros fenómenos meteorológicos,2,Turbonadas,,,,,Operational,Original
 bufr4/0/02/187/3,002187,Capacidad para detectar otros fenómenos meteorológicos,3,Tempestad de arena,,,,,Operational,Original
@@ -1084,7 +1084,7 @@ bufr4/0/02/187/9,002187,Capacidad para detectar otros fenómenos meteorológicos
 bufr4/0/02/187/10,002187,Capacidad para detectar otros fenómenos meteorológicos,10,Nube con forma de embudo que toca la superficie,,,,,Operational,Original
 bufr4/0/02/187/11,002187,Capacidad para detectar otros fenómenos meteorológicos,11,Roción,,,,,Operational,Original
 bufr4/0/02/187/12-17,002187,Capacidad para detectar otros fenómenos meteorológicos,12-17,Reservados,,,,,Operational,Original
-bufr4/0/02/187/All-18,002187,Capacidad para detectar otros fenómenos meteorológicos,All 18,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/187/All-18,002187,Capacidad para detectar otros fenómenos meteorológicos,Todos los 18,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/188/1,002188,Capacidad para detectar el oscurecimiento,1,Niebla,,,,,Operational,Original
 bufr4/0/02/188/2,002188,Capacidad para detectar el oscurecimiento,2,Niebla helada,,,,,Operational,Original
 bufr4/0/02/188/3,002188,Capacidad para detectar el oscurecimiento,3,Vapor de niebla,,,,,Operational,Original
@@ -1097,13 +1097,13 @@ bufr4/0/02/188/11,002188,Capacidad para detectar el oscurecimiento,11,Polvo,,,,,
 bufr4/0/02/188/12,002188,Capacidad para detectar el oscurecimiento,12,Arena,,,,,Operational,Original
 bufr4/0/02/188/13,002188,Capacidad para detectar el oscurecimiento,13,Nieve,,,,,Operational,Original
 bufr4/0/02/188/14-20,002188,Capacidad para detectar el oscurecimiento,14-20,Reservados,,,,,Operational,Original
-bufr4/0/02/188/All-21,002188,Capacidad para detectar el oscurecimiento,All 21,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/188/All-21,002188,Capacidad para detectar el oscurecimiento,Todos los 21,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/189/1,002189,Capacidad para distinguir entre descargas eléctricas,1,Observación manual,,,,,Operational,Original
 bufr4/0/02/189/2,002189,Capacidad para distinguir entre descargas eléctricas,2,Todas las descargas eléctricas sin distinción,,,,,Operational,Original
 bufr4/0/02/189/3,002189,Capacidad para distinguir entre descargas eléctricas,3,Descargas eléctricas de nube a suelo solamente,,,,,Operational,Original
 bufr4/0/02/189/4,002189,Capacidad para distinguir entre descargas eléctricas,4,Todas las descargas eléctricas con distinción entre nube a suelo y nube a nube,,,,,Operational,Original
 bufr4/0/02/189/5-11,002189,Capacidad para distinguir entre descargas eléctricas,5-11,Reservados,,,,,Operational,Original
-bufr4/0/02/189/All-12,002189,Capacidad para distinguir entre descargas eléctricas,All 12,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/02/189/All-12,002189,Capacidad para distinguir entre descargas eléctricas,Todos los 12,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/191/0,002191,Cálculo de la altura geopotencial,0,Altura geopotencial calculada a partir de la presión,,,,,Operational,Original
 bufr4/0/02/191/1,002191,Cálculo de la altura geopotencial,1,Altura geopotencial calculada a partir de la altura mediante GPS,,,,,Operational,Original
 bufr4/0/02/191/2,002191,Cálculo de la altura geopotencial,2,Altura geopotencial calculada a partir de la altura mediante radar,,,,,Operational,Original

@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/05/001,05,Ubicación (horizontal – 1),005001,Latitud (gran precisión),°,5,-9000000,25,°,5,7,,,Operational,Original
 bufr4/0/05/002,05,Ubicación (horizontal – 1),005002,Latitud (precisión aproximada),°,2,-9000,15,°,2,4,,,Operational,Original
 bufr4/0/05/011,05,Ubicación (horizontal – 1),005011,Incremento de la latitud (gran precisión),°,5,-9000000,25,°,5,7,,,Operational,Original
@@ -37,9 +37,9 @@ bufr4/0/05/072,05,Ubicación (horizontal – 1),005072,Número de espectros en l
 bufr4/0/05/073,05,Ubicación (horizontal – 1),005073,Número de espectros en dirección azimutal,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/05/074,05,Ubicación (horizontal – 1),005074,Índice en la dirección del alcance,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/05/075,05,Ubicación (horizontal – 1),005075,Índice en dirección azimutal,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/05/076,05,Ubicación (horizontal – 1),005076,Azimut solar en el marco de referencia del instrumento,deg,2,0,16,deg,2,6,,,Operational,AI Translator: MCP
-bufr4/0/05/077,05,Ubicación (horizontal – 1),005077,Latitud del punto sub-satélite.,deg,4,-900000,21,deg,4,7,,,Operational,AI Translator: MCP
-bufr4/0/05/078,05,Ubicación (horizontal – 1),005078,Número de bocina,Numeric,0,0,4,Numeric,0,2,,,Operational,AI Translator: MCP
-bufr4/0/05/079,05,Ubicación (horizontal – 1),005079,número de bandas transversales,Numeric,0,0,6,Numeric,0,2,,,Operational,AI Translator: MCP
-bufr4/0/05/080,05,Ubicación (horizontal – 1),005080,resolución,m,-3,0,6,m,-3,2,,,Operational,AI Translator: MCP
-bufr4/0/05/092,05,Ubicación (horizontal – 1),005092,Índice de vía lateral o a lo largo del número de fila de vía lateral,Numeric,0,-1,3,,,,,,Operational,AI Translator: MCP
+bufr4/0/05/076,05,Ubicación (horizontal – 1),005076,Azimut solar en el marco de referencia del instrumento,°,2,0,16,°,2,6,,,Operational,AI Translator: MCP
+bufr4/0/05/077,05,Ubicación (horizontal – 1),005077,Latitud del punto sub-satélite,°,4,-900000,21,°,4,7,,,Operational,AI Translator: MCP
+bufr4/0/05/078,05,Ubicación (horizontal – 1),005078,Número de bocina,Numérica,0,0,4,Numérica,0,2,,,Operational,AI Translator: MCP
+bufr4/0/05/079,05,Ubicación (horizontal – 1),005079,Número de banda,Numérica,0,0,6,Numérica,0,2,,,Operational,AI Translator: MCP
+bufr4/0/05/080,05,Ubicación (horizontal – 1),005080,Radio de resolución,m,-3,0,6,m,-3,2,,,Operational,AI Translator: MCP
+bufr4/0/05/092,05,Ubicación (horizontal – 1),005092,Índice de vía lateral o a lo largo del número de fila de vía lateral,Numérica,0,-1,3,,,,,,Operational,AI Translator: MCP

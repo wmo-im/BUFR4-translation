@@ -5,7 +5,7 @@ bufr4/0/08/001/3,008001,Significación del sondeo vertical,3,Nivel tropopáusico
 bufr4/0/08/001/4,008001,Significación del sondeo vertical,4,Nivel del viento máximo,,,,,Operational,Original
 bufr4/0/08/001/5,008001,Significación del sondeo vertical,5,"Nivel significativo, temperatura y/o humedad relativa",,,,,Operational,Original
 bufr4/0/08/001/6,008001,Significación del sondeo vertical,6,"Nivel significativo, viento",,,,,Operational,Original
-bufr4/0/08/001/All-7,008001,Significación del sondeo vertical,All 7,Valor faltante,,,,,Operational,Original
+bufr4/0/08/001/All-7,008001,Significación del sondeo vertical,Todos los 7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/002/0,008002,Significación vertical (observaciones en superficie),0,Reglas de observación de la base de las nubes más bajas y de los tipos de nubes aplicables a las claves FM 12 SYNOP y FM 13 SHIP,,,,,Operational,Original
 bufr4/0/08/002/1,008002,Significación vertical (observaciones en superficie),1,Primera capa significativa que no sea de cumulonimbus,,,,,Operational,Original
 bufr4/0/08/002/2,008002,Significación vertical (observaciones en superficie),2,Segunda capa significativa que no sea de cumulonimbus,,,,,Operational,Original
@@ -52,7 +52,7 @@ bufr4/0/08/005/1,008005,Significación del atributo meteorológico,1,Límite ext
 bufr4/0/08/005/2,008005,Significación del atributo meteorológico,2,Posición del viento máximo,,,,,Operational,Original
 bufr4/0/08/005/3,008005,Significación del atributo meteorológico,3,Posición de la tormenta en el análisis perturbado,,,,,Operational,Original
 bufr4/0/08/005/4,008005,Significación del atributo meteorológico,4,Posición de la tormenta en el análisis,,,,,Operational,Original
-bufr4/0/08/005/5,008005,Significación del atributo meteorológico,5,Localización de la tormenta en el análisis,,,,,Operational,AI Translator: MCP
+bufr4/0/08/005/5,008005,Significación del atributo meteorológico,5,Ubicación de la tormenta en el análisis,,,,,Operational,AI Translator: MCP
 bufr4/0/08/005/6-14,008005,Significación del atributo meteorológico,6-14,Reservadas,,,,,Operational,Original
 bufr4/0/08/005/15,008005,Significación del atributo meteorológico,15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/006/1,008006,Significación del sondeo vertical del ozono,1,Superficie,,,,,Operational,Original
@@ -63,7 +63,7 @@ bufr4/0/08/006/5,008006,Significación del sondeo vertical del ozono,5,Nivel mí
 bufr4/0/08/006/6,008006,Significación del sondeo vertical del ozono,6,Nivel de presión mínima,,,,,Operational,Original
 bufr4/0/08/006/7,008006,Significación del sondeo vertical del ozono,7,Reservado,,,,,Operational,Original
 bufr4/0/08/006/8,008006,Significación del sondeo vertical del ozono,8,Nivel de significación no determinada,,,,,Operational,Original
-bufr4/0/08/006/All-9,008006,Significación del sondeo vertical del ozono,All 9,Valor faltante,,,,,Operational,Original
+bufr4/0/08/006/All-9,008006,Significación del sondeo vertical del ozono,Todos los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/08/007/0,008007,Significación dimensional,0,Punto,,,,,Operational,Original
 bufr4/0/08/007/1,008007,Significación dimensional,1,Línea,,,,,Operational,Original
 bufr4/0/08/007/2,008007,Significación dimensional,2,Área,,,,,Operational,Original
@@ -78,7 +78,7 @@ bufr4/0/08/008/5,008008,Significación del sondeo vertical de la radiación,5,Ni
 bufr4/0/08/008/6,008008,Significación del sondeo vertical de la radiación,6,Nivel de presión mínima,,,,,Operational,Original
 bufr4/0/08/008/7,008008,Significación del sondeo vertical de la radiación,7,Reservado,,,,,Operational,Original
 bufr4/0/08/008/8,008008,Significación del sondeo vertical de la radiación,8,Nivel de significación no determinada,,,,,Operational,Original
-bufr4/0/08/008/All-9,008008,Significación del sondeo vertical de la radiación,All 9,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/008/All-9,008008,Significación del sondeo vertical de la radiación,Todos los 9,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/08/009/0,008009,Fase detallada de vuelo de aeronave,0,"Vuelo horizontal, observación de rutina, inestable",,,,,Operational,Original
 bufr4/0/08/009/1,008009,Fase detallada de vuelo de aeronave,1,"Vuelo horizontal, viento más fuerte encontrado, inestable",,,,,Operational,Original
 bufr4/0/08/009/2,008009,Fase detallada de vuelo de aeronave,2,Inestable (UNS),,,,,Operational,Original
@@ -178,7 +178,7 @@ bufr4/0/08/018/3-10,008018,Tipo de superficie tierra/hielo medida por SeaWinds,3
 bufr4/0/08/018/11,008018,Tipo de superficie tierra/hielo medida por SeaWinds,11,Datos del mapa de hielos no disponibles,,,,,Operational,Original
 bufr4/0/08/018/12,008018,Tipo de superficie tierra/hielo medida por SeaWinds,12,Datos del mapa de atenuación no disponibles,,,,,Operational,Original
 bufr4/0/08/018/13-16,008018,Tipo de superficie tierra/hielo medida por SeaWinds,13-16,Reservados,,,,,Operational,Original
-bufr4/0/08/018/All-17,008018,Tipo de superficie tierra/hielo medida por SeaWinds,All 17,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/018/All-17,008018,Tipo de superficie tierra/hielo medida por SeaWinds,Todos los 17,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/08/019/0,008019,Calificador para el identificador del centro siguiente,0,Reservada,,,,,Operational,Original
 bufr4/0/08/019/1,008019,Calificador para el identificador del centro siguiente,1,Unidad ATS (servicio de tránsito aéreo) que presta servicio a la FIR (Región de Información de Vuelo),,,,,Operational,Original
 bufr4/0/08/019/2,008019,Calificador para el identificador del centro siguiente,2,FIR (Región de información de vuelo),,,,,Operational,Original
@@ -233,8 +233,8 @@ bufr4/0/08/023/10,008023,Estadísticas de primer orden*,10,Desviación típica (
 bufr4/0/08/023/11,008023,Estadísticas de primer orden*,11,Media armónica,,,,,Operational,Original
 bufr4/0/08/023/12,008023,Estadísticas de primer orden*,12,Error vectorial cuadrático medio,,,,,Operational,Original
 bufr4/0/08/023/13,008023,Estadísticas de primer orden*,13,Media cuadrática,,,,,Operational,Original
-bufr4/0/08/023/14,008023,Estadísticas de primer orden,14,error,,,,,Operational,AI Translator: MCP
-bufr4/0/08/023/15-31,008023,Estadísticas de primer orden,15-31,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/023/14,008023,Estadísticas de primer orden*,14,Error cuadrático medio,,,,,Operational,AI Translator: MCP
+bufr4/0/08/023/15-31,008023,Estadísticas de primer orden*,15-31,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/023/32,008023,Estadísticas de primer orden*,32,Media vectorial,,,,,Operational,Original
 bufr4/0/08/023/33-62,008023,Estadísticas de primer orden*,33-62,Reservadas para uso local,,,,,Operational,Original
 bufr4/0/08/023/63,008023,Estadísticas de primer orden*,63,Valor faltante,,,,,Operational,Original
@@ -269,8 +269,8 @@ bufr4/0/08/026/3,008026,Significación matricial,3,Valor inverso de la raíz cua
 bufr4/0/08/026/4-42,008026,Significación matricial,4-42,Reservadas,,,,,Operational,Original
 bufr4/0/08/026/43-62,008026,Significación matricial,43-62,Reservadas para uso local,,,,,Operational,Original
 bufr4/0/08/026/63,008026,Significación matricial,63,Valor faltante o de significación no definida,,,,,Operational,Original
-bufr4/0/08/027/0,008027,Tipo de medición de anomalía de altura de la superficie del mar,0,Medición bruta sin filtrar incluyendo ruidos,,,,,Operational,AI Translator: MCP
-bufr4/0/08/027/1,008027,Tipo de medición de anomalía de la superficie.,1,Altura de la superficie del mar filtrada de paso bajo para la reducción de ruido,,,,,Operational,AI Translator: MCP
+bufr4/0/08/027/0,008027,Tipo de medición de anomalía de altura de la superficie del mar,0,"Medición cruda sin filtrar, incluyendo ruidos",,,,,Operational,AI Translator: MCP
+bufr4/0/08/027/1,008027,Tipo de medición de anomalía de altura de la superficie del mar,1,Altura de la superficie del mar filtrada con paso bajo para la reducción de ruido,,,,,Operational,AI Translator: MCP
 bufr4/0/08/027/2-254,008027,Tipo de medición de anomalía de altura de la superficie del mar,2-254,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/027/255,008027,Tipo de medición de anomalía de altura de la superficie del mar,255,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/0,008029,Tipo de superficie,0,Mar abierto o mar semicerrado,,,,,Operational,Original
@@ -295,7 +295,7 @@ bufr4/0/08/029/21,008029,Tipo de superficie,21,Sabana,,,,,Operational,AI Transla
 bufr4/0/08/029/22,008029,Tipo de superficie,22,Desierto,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/23,008029,Tipo de superficie,23,Pastizales,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/24,008029,Tipo de superficie,24,Humedales,,,,,Operational,AI Translator: MCP
-bufr4/0/08/029/25,008029,Tipo de superficie,25,nieve,,,,,Operational,AI Translator: MCP
+bufr4/0/08/029/25,008029,Tipo de superficie,25,nieve/hielo,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/26,008029,Tipo de superficie,26,Costa,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/27-254,008029,Tipo de superficie,27-254,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029/255,008029,Tipo de superficie,255,Valor faltante,,,,,Operational,Original
@@ -443,7 +443,7 @@ bufr4/0/08/042/14,008042,Significación del sondeo vertical ampliado,14,Techo de
 bufr4/0/08/042/15,008042,Significación del sondeo vertical ampliado,15,Nivel determinado por decisión regional,,,,,Operational,Original
 bufr4/0/08/042/16,008042,Significación del sondeo vertical ampliado,16,Nivel de congelación,,,,,Operational,Original
 bufr4/0/08/042/17,008042,Significación del sondeo vertical ampliado,17,Nivel de presión indicado originariamente por la altura como coordinada vertical,,,,,Operational,Original
-bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,All 18,Valor faltante,,,,,Operational,Original
+bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,Todos los 18,Valor faltante,,,,,Operational,Original
 bufr4/0/08/043/0,008043,Tipo de componente atmosférico químico o físico,0,Ozono,"Fórmula: O3, Número CAS: 10028-15-6",,,,Operational,Original
 bufr4/0/08/043/1,008043,Tipo de componente atmosférico químico o físico,1,Vapor de agua,"Fórmula: H2O, Número CAS: 7732-18-5",,,,Operational,Original
 bufr4/0/08/043/2,008043,Tipo de componente atmosférico químico o físico,2,Metano,"Fórmula: CH4, Número CAS: 74-82-8",,,,Operational,Original
@@ -453,8 +453,8 @@ bufr4/0/08/043/5,008043,Tipo de componente atmosférico químico o físico,5,Di�
 bufr4/0/08/043/6,008043,Tipo de componente atmosférico químico o físico,6,Óxido nitroso,"Fórmula: N2O, Número CAS: 10024-97-2",,,,Operational,Original
 bufr4/0/08/043/7,008043,Tipo de componente atmosférico químico o físico,7,Formaldehído,"Fórmula: HCHO, Número CAS: 50-00-0",,,,Operational,Original
 bufr4/0/08/043/8,008043,Tipo de componente atmosférico químico o físico,8,Dióxido de azufre,"Fórmula: SO2, Número CAS: 7446-09-5",,,,Operational,Original
-bufr4/0/08/043/9,008043,Tipo de componente químico o físico atmosférico,9,Dióxido de azufre volcánico,,,,,Operational,AI Translator: MCP
-bufr4/0/08/043/10-24,008043,Tipo de componente químico o físico atmosférico,10-24,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/043/9,008043,Tipo de componente atmosférico químico o físico,9,Dióxido de azufre volcánico,,,,,Operational,AI Translator: MCP
+bufr4/0/08/043/10-24,008043,Tipo de componente atmosférico químico o físico,10-24,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/043/25,008043,Tipo de componente atmosférico químico o físico,25,"Materia en partículas < 1,0 micrones",,,,,Operational,Original
 bufr4/0/08/043/26,008043,Tipo de componente atmosférico químico o físico,26,"Materia en partículas < 2,5 micrones",,,,,Operational,Original
 bufr4/0/08/043/27,008043,Tipo de componente atmosférico químico o físico,27,Materia en partículas < 10 micrones,,,,,Operational,Original
@@ -462,18 +462,18 @@ bufr4/0/08/043/28,008043,Tipo de componente atmosférico químico o físico,28,A
 bufr4/0/08/043/29,008043,Tipo de componente atmosférico químico o físico,29,Humo (genérico),,,,,Operational,Original
 bufr4/0/08/043/30,008043,Tipo de componente atmosférico químico o físico,30,Material de corteza (polvo genérico),,,,,Operational,Original
 bufr4/0/08/043/31,008043,Tipo de componente atmosférico químico o físico,31,Ceniza volcánica,,,,,Operational,Original
-bufr4/0/08/043/32,008043,Tipo de componente químico o físico atmosférico,32,Nubes,,,,,Operational,AI Translator: MCP
-bufr4/0/08/043/33,008043,Tipo de componente químico o físico atmosférico,33,Nube y aerosoles,,,,,Operational,AI Translator: MCP
-bufr4/0/08/043/34-200,008043,Tipo de componente químico o físico atmosférico,34-200,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/043/32,008043,Tipo de componente atmosférico químico o físico,32,Nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/08/043/33,008043,Tipo de componente atmosférico químico o físico,33,Nubes y aerosoles,,,,,Operational,AI Translator: MCP
+bufr4/0/08/043/34-200,008043,Tipo de componente atmosférico químico o físico,34-200,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/043/201-254,008043,Tipo de componente atmosférico químico o físico,201-254,Reservadas para uso local,,,,,Operational,Original
 bufr4/0/08/043/255,008043,Tipo de componente atmosférico químico o físico,255,Valor faltante,,,,,Operational,Original
-bufr4/0/08/045/0,008045,Carácter de materia particulada,0,Aerosoles de todo tipo,,,,,Operational,AI Translator: MCP
-bufr4/0/08/045/1,008045,Carácter de materia particulada,1,Polvo del desierto,,,,,Operational,AI Translator: MCP
+bufr4/0/08/045/0,008045,Carácter de materia particulada,0,Aerosoles de todos los tipos,,,,,Operational,AI Translator: MCP
+bufr4/0/08/045/1,008045,Característica de materia particulada,1,Polvo del desierto,,,,,Operational,AI Translator: MCP
 bufr4/0/08/045/2,008045,Carácter de materia particulada,2,Carbono negro,,,,,Operational,AI Translator: MCP
 bufr4/0/08/045/3,008045,Carácter de materia particulada,3,Sal marina,,,,,Operational,AI Translator: MCP
 bufr4/0/08/045/4-254,008045,Carácter de materia particulada,4-254,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/045/255,008045,Carácter de materia particulada,255,Valor faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/046,008046,Tipo de componente químico o físico atmosférico,,,,,Consulte la tabla de cifrado C–14 en la Parte C/c.,,Operational,AI Translator: MCP
+bufr4/0/08/046,008046,Tipo de componente atmosférico químico o físico,,,,,(Consulte la tabla de Código Común C–14 en la Parte C/c.),,Operational,AI Translator: MCP
 bufr4/0/08/050/0,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,0,Reservada,,,,,Operational,Original
 bufr4/0/08/050/1,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,1,Presión,,,,,Operational,Original
 bufr4/0/08/050/2,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,2,Temperatura,,,,,Operational,Original
@@ -528,10 +528,10 @@ bufr4/0/08/054/0,008054,Calificador de la velocidad del viento o de las ráfagas
 bufr4/0/08/054/1,008054,Calificador de la velocidad del viento o de las ráfagas de viento,1,Velocidad del viento superior a la comunicada (P en METAR/TAF/SPECI),,,,,Operational,Original
 bufr4/0/08/054/2-6,008054,Calificador de la velocidad del viento o de las ráfagas de viento,2-6,Reservadas,,,,,Operational,Original
 bufr4/0/08/054/7,008054,Calificador de la velocidad del viento o de las ráfagas de viento,7,Valor faltante,,,,,Operational,Original
-bufr4/0/08/055/0,008055,Método utilizado para calcular el viento promedio después de eliminar el vórtice.,0,Calcular el promedio del área de los componentes u y v en los niveles de presión desde 0 a 500 km centrados en la posición del vórtice de la superficie.,,,,,Operational,AI Translator: MCP
-bufr4/0/08/055/1,008055,Método utilizado para calcular el viento promedio después de eliminar el vórtice.,1,Calcular el promedio del área de los componentes u y v en los niveles de presión desde 0 hasta un radio mayor a 500 km centrado en la posición del vórtice en la superficie.,,,,,Operational,AI Translator: MCP
-bufr4/0/08/055/2-14,008055,Método utilizado para calcular el viento promedio después de eliminar el vórtice.,2-14,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/055/15,008055,Método utilizado para calcular el viento promedio después de eliminar el vórtice.,15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/055/0,008055,Método utilizado para calcular los componentes promedio del viento después de eliminar el vórtice.,0,Calcular el promedio del área de los componentes u y v en niveles de presión desde 0 hasta 500 km centrados en la posición del vórtice de superficie.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/055/1,008055,Método utilizado para calcular los componentes promedio del viento después de eliminar el vórtice.,1,Calcule el promedio del área de los componentes u y v en niveles de presión desde 0 hasta un radio mayor a 500 km centrado en la posición del vórtice en la superficie.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/055/2-14,008055,Método utilizado para calcular los componentes promedio del viento después de eliminar el vórtice.,2-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/055/15,008055,Método utilizado para calcular los componentes promedio del viento después de eliminar el vórtice.,15,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/08/060/0,008060,Significación del modo de exploración de la muestra,0,Reservada,,,,,Operational,Original
 bufr4/0/08/060/1,008060,Significación del modo de exploración de la muestra,1,Alcance,,,,,Operational,Original
 bufr4/0/08/060/2,008060,Significación del modo de exploración de la muestra,2,Azimut,,,,,Operational,Original
@@ -620,13 +620,13 @@ bufr4/0/08/080/15,008080,Calificador del banderín de calidad del GTSPP*,15,Dire
 bufr4/0/08/080/16,008080,Calificador del banderín de calidad del GTSPP*,16,Oxígeno disuelto a un nivel dado,,,,,Operational,Original
 bufr4/0/08/080/17-19,008080,Calificador del banderín de calidad del GTSPP*,17-19,Reservadas,,,,,Operational,Original
 bufr4/0/08/080/20,008080,Calificador del banderín de calidad del GTSPP*,20,Posición,,,,,Operational,Original
-bufr4/0/08/080/21,008080,Calificador del banderín de calidad del GTSPP,21,Clorofila-A a un nivel,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/22,008080,Calificador del banderín de calidad del GTSPP,22,Nitrato a un nivel,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/23,008080,Calificador del banderín de calidad del GTSPP,23,pH a un nivel,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/24,008080,Calificador del banderín de calidad del GTSPP,24,BBP700 en un nivel,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/25,008080,Calificador del banderín de calidad del GTSPP,25,Conductividad del agua a un nivel,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/26,008080,Calificador del banderín de calidad del GTSPP,26,Densidad potencial del agua de mar referenciada a la superficie del mar a un nivel.,,,,,Operational,AI Translator: MCP
-bufr4/0/08/080/27-62,008080,Calificador del banderín de calidad del GTSPP,27-62,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/21,008080,Calificador del banderín de calidad del GTSPP*,21,Clorofila-A a un nivel,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/22,008080,Calificador del banderín de calidad del GTSPP*,22,Nitrato a un nivel,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/23,008080,Calificador del banderín de calidad del GTSPP*,23,pH a un nivel,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/24,008080,Calificador del banderín de calidad del GTSPP*,24,BBP700 a un nivel,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/25,008080,Calificador del banderín de calidad del GTSPP*,25,Conductividad del agua a un nivel,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/26,008080,Calificador del banderín de calidad del GTSPP*,26,Densidad potencial del agua de mar referenciada a la superficie del mar a un nivel.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/080/27-62,008080,Calificador del banderín de calidad del GTSPP*,27-62,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/080/63,008080,Calificador del banderín de calidad del GTSPP*,63,Valor faltante,,,,,Operational,Original
 bufr4/0/08/081/0,008081,Tipo de equipo,0,Sensor,,,,,Operational,Original
 bufr4/0/08/081/1,008081,Tipo de equipo,1,Transmisor,,,,,Operational,Original
@@ -648,7 +648,7 @@ bufr4/0/08/083/7,008083,Indicador del valor nominal,7,Ajustado con respecto a la
 bufr4/0/08/083/8,008083,Indicador del valor nominal,8,Ajustado con respecto a la evaporación,,,,,Operational,Original
 bufr4/0/08/083/9,008083,Indicador del valor nominal,9,Ajustado con respecto a las pérdidas por humedad,,,,,Operational,Original
 bufr4/0/08/083/10-14,008083,Indicador del valor nominal,10-14,Reservados,,,,,Operational,Original
-bufr4/0/08/083/All-15,008083,Indicador del valor nominal,All 15,Valor faltante,,,,,Operational,Original
+bufr4/0/08/083/All-15,008083,Indicador del valor nominal,Todos los 15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/085/0,008085,Identificador del haz,0,Haz de proa,,,,,Operational,Original
 bufr4/0/08/085/1,008085,Identificador del haz,1,Haz medio,,,,,Operational,Original
 bufr4/0/08/085/2,008085,Identificador del haz,2,Haz de popa,,,,,Operational,Original
@@ -666,7 +666,7 @@ bufr4/0/08/086/8,008086,Significación vertical para predicción numérica del t
 bufr4/0/08/086/9,008086,Significación vertical para predicción numérica del tiempo,9,Altura virtual de la estación,,,,,Operational,Original
 bufr4/0/08/086/10,008086,Significación vertical para predicción numérica del tiempo,10,Nivel de ajuste óptimo,,,,,Operational,Original
 bufr4/0/08/086/11,008086,Significación vertical para predicción numérica del tiempo,11,Reservados,,,,,Operational,Original
-bufr4/0/08/086/All-12,008086,Significación vertical para predicción numérica del tiempo,All 12,Valor faltante,,,,,Operational,Original
+bufr4/0/08/086/All-12,008086,Significación vertical para predicción numérica del tiempo,Todos los 12,Valor faltante,,,,,Operational,Original
 bufr4/0/08/087/0,008087,Posición esquinera de la observación,0,Izquierda superior,,,,,Operational,Original
 bufr4/0/08/087/1,008087,Posición esquinera de la observación,1,Derecha superior,,,,,Operational,Original
 bufr4/0/08/087/2,008087,Posición esquinera de la observación,2,Derecha inferior,,,,,Operational,Original
@@ -691,7 +691,7 @@ bufr4/0/08/091/9,008091,Significación de las coordenadas,9,Coordenadas de la es
 bufr4/0/08/091/10-254,008091,Significación de las coordenadas,10-254,Reservadas,,,,,Operational,Original
 bufr4/0/08/091/255,008091,Significación de las coordenadas,255,Valor faltante,,,,,Operational,Original
 bufr4/0/08/092/0,008092,Expresión de la incertidumbre en la medición,0,Incertidumbre típica,,,,,Operational,Original
-bufr4/0/08/092/1,008092,Expresión de la incertidumbre en la medición,1,Incertidumbre estándar combinada,,,El tipo de proyección 4 indica una retícula cartesiana situada directamente en el cono de exploración definido por el barrido azimutal del radar.,102,Operational,AI Translator: MCP
+bufr4/0/08/092/1,008092,Expresión de la incertidumbre en la medición,1,Incertidumbre estándar combinada,,,(Ver Nota),102,Operational,AI Translator: MCP
 bufr4/0/08/092/2-30,008092,Expresión de la incertidumbre en la medición,2-30,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/092/31,008092,Expresión de la incertidumbre en la medición,31,Valor faltante,,,,,Operational,Original
 bufr4/0/08/093/0,008093,Significación de la incertidumbre en la medición,0,Incertidumbre total,,,,,Operational,Original
@@ -699,116 +699,116 @@ bufr4/0/08/093/1,008093,Significación de la incertidumbre en la medición,1,Com
 bufr4/0/08/093/2,008093,Significación de la incertidumbre en la medición,2,Componente aleatorio de la incertidumbre,,,,,Operational,Original
 bufr4/0/08/093/3-30,008093,Significación de la incertidumbre en la medición,3-30,Reservadas,,,,,Operational,Original
 bufr4/0/08/093/31,008093,Significación de la incertidumbre en la medición,31,Valor faltante,,,,,Operational,Original
-bufr4/0/08/094/0,008094,Método utilizado para calcular la temperatura.,0,Promedio de los valores máximo y mínimo: Tm = (Tx + Tn)/2,,,El tipo de proyección 4 indica una retícula cartesiana situada directamente en el cono de exploración definido por el barrido azimutal del radar.,97,Operational,AI Translator: MCP
-bufr4/0/08/094/1,008094,Método utilizado para calcular la temperatura promedio diaria,1,Promedio de las 8 observaciones tomadas cada tres horas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/2,008094,Método utilizado para calcular la temperatura diaria promedio.,2,Promedio de las 24 observaciones horarias,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/3,008094,Método utilizado para calcular la temperatura promedio diaria.,3,Promedio ponderado de 3 observaciones: Tm = (aT1 + bT2 + cT3),,,El tipo de proyección 4 indica una retícula cartesiana situada directamente en el cono de exploración definido por el barrido azimutal del radar.,97,Operational,AI Translator: MCP
-bufr4/0/08/094/4,008094,Método utilizado para calcular la temperatura promedio diaria.,4,Promedio ponderado de 3 observaciones y también valores máximos y mínimos: Tm= (aT1 +bT2 + cT3 +dTx + eTn),,,El tipo de proyección 4 indica una retícula cartesiana situada directamente en el cono de exploración definido por el barrido azimutal del radar.,97,Operational,AI Translator: MCP
-bufr4/0/08/094/5,008094,Método utilizado para calcular la temperatura diaria promedio.,5,Estación completa integración de datos por minuto,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/6,008094,Método utilizado para calcular la temperatura diaria promedio.,6,Promedio de las 4 observaciones tomadas cada seis horas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/7,008094,Método utilizado para calcular la temperatura diaria promedio.,7,Promedio de las 144 observaciones tomadas cada 10 minutos.,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/8-254,008094,Método utilizado para calcular la temperatura diaria promedio.,8-254,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/094/255,008094,Método utilizado para calcular la temperatura diaria promedio.,255,Valor faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/0,008095,Clasificación de la calidad de emplazamiento y medición para temperatura-radiancia,0,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/1,008095,Clasificación de calidad de ubicación y medición para temperatura-radiancia,1,1A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/2,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,2,1B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/3,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,3,1C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/4,008095,Clasificación de calidad de ubicación y medición para temperatura-radiancia,4,1D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/5,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,5,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/6,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,6,2A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/7,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,7,2B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/8,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,8,2C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/9,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,9,2D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/10,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,10,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/11,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,11,3A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/12,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,12,3B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/13,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,13,3C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/14,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,14,3D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/15,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,15,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/16,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,16,4A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/17,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,17,4B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/18,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,18,4C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/19,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,19,4D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/20,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,20,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/21,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,21,5A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/22,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,22,5B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/23,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,23,5C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/24,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,24,5D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/25,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,25,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/26,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,26,1,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/27,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,27,2,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/28,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,28,3,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/29,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,29,4,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/30,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,30,5,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/31,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,31,A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/32,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,32,B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/33,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,33,C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/34,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,34,D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/35-254,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,35-254,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/095/255,008095,Clasificación de calidad de emplazamiento y medición para temperatura-radiancia,255,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/0,008094,Método utilizado para calcular la temperatura media diaria,0,Promedio de los valores máximo y mínimo: Tm = (Tx + Tn)/2,,,(Ver Nota),97,Operational,AI Translator: MCP
+bufr4/0/08/094/1,008094,Método utilizado para calcular la temperatura media diaria,1,Promedio de las 8 observaciones tomadas cada tres horas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/2,008094,Método utilizado para calcular la temperatura media diaria,2,Promedio de las 24 observaciones horarias,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/3,008094,Método utilizado para calcular la temperatura media diaria,3,Promedio ponderado de 3 observaciones: Tm = (aT1 + bT2 + cT3),,,(Ver Nota),97,Operational,AI Translator: MCP
+bufr4/0/08/094/4,008094,Método utilizado para calcular la temperatura media diaria,4,Promedio ponderado de 3 observaciones y también valores máximos y mínimos: Tm= (aT1 +bT2 + cT3 +dTx + eTn),,,(Ver Nota),97,Operational,AI Translator: MCP
+bufr4/0/08/094/5,008094,Método utilizado para calcular la temperatura media diaria,5,Integración completa de estación meteorológica automática a partir de datos por minuto.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/6,008094,Método utilizado para calcular la temperatura media diaria,6,Promedio de las 4 observaciones tomadas cada seis horas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/7,008094,Método utilizado para calcular la temperatura media diaria,7,Promedio de las 144 observaciones tomadas cada 10 minutos,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/8-254,008094,Método utilizado para calcular la temperatura media diaria,8-254,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/094/255,008094,Método utilizado para calcular la temperatura media diaria,255,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/0,008095,Clasificación de calidad de ubicación y medición para temperatura,0,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/1,008095,Clasificación de calidad de ubicación y medición para temperatura,1,1A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/2,008095,Clasificación de la calidad de ubicación y medición para temperatura,2,1B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/3,008095,Clasificación de calidad de ubicación y medición para temperatura,3,1C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/4,008095,Clasificación de la calidad de ubicación y medición para la temperatura,4,1D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/5,008095,Clasificación de calidad de ubicación y medición para temperatura,5,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/6,008095,Clasificación de calidad de ubicación y medición para temperatura,6,2A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/7,008095,Clasificación de calidad de ubicación y medición para temperatura,7,2B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/8,008095,Clasificación de calidad de ubicación y medición para temperatura,8,2C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/9,008095,Clasificación de calidad de ubicación y medición para temperatura,9,2D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/10,008095,Clasificación de calidad de ubicación y medición para temperatura,10,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/11,008095,Clasificación de calidad de ubicación y medición para temperatura,11,3A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/12,008095,Clasificación de calidad de ubicación y medición para temperatura,12,3B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/13,008095,Clasificación de calidad de ubicación y medición para temperatura,13,3C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/14,008095,Clasificación de calidad de ubicación y medición para temperatura,14,3D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/15,008095,Clasificación de calidad de ubicación y medición para temperatura,15,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/16,008095,Clasificación de calidad de ubicación y medición para temperatura,16,4A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/17,008095,Clasificación de calidad de ubicación y medición para temperatura,17,4B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/18,008095,Clasificación de calidad de ubicación y medición para temperatura,18,4C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/19,008095,Clasificación de calidad de ubicación y medición para temperatura,19,4D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/20,008095,Clasificación de calidad de ubicación y medición para temperatura,20,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/21,008095,Clasificación de calidad de ubicación y medición para temperatura,21,5A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/22,008095,Clasificación de calidad de ubicación y medición para temperatura,22,5B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/23,008095,Clasificación de calidad de ubicación y medición para temperatura,23,5C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/24,008095,Clasificación de calidad de ubicación y medición para temperatura,24,5D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/25,008095,Clasificación de calidad de ubicación y medición para temperatura,25,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/26,008095,Clasificación de calidad de ubicación y medición para temperatura,26,1,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/27,008095,Clasificación de calidad de ubicación y medición para temperatura,27,2,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/28,008095,Clasificación de calidad de ubicación y medición para temperatura,28,3,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/29,008095,Clasificación de calidad de ubicación y medición para temperatura,29,4,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/30,008095,Clasificación de calidad de ubicación y medición para temperatura,30,5,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/31,008095,Clasificación de calidad de ubicación y medición para temperatura,31,A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/32,008095,Clasificación de calidad de ubicación y medición para temperatura,32,B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/33,008095,Clasificación de calidad de ubicación y medición para temperatura,33,C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/34,008095,Clasificación de calidad de ubicación y medición para temperatura,34,D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/35-254,008095,Clasificación de calidad de ubicación y medición para temperatura,35-254,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/095/255,008095,Clasificación de calidad de ubicación y medición para temperatura,255,Faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/08/096/0,008096,Clasificación de la calidad de ubicación y medición para la precipitación,0,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/1,008096,Clasificación de calidad de emplazamiento y medición para precipitación,1,1A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/2,008096,Clasificación de la calidad de emplazamiento y medición para la precipitación,2,1B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/3,008096,Clasificación de calidad de emplazamiento y medición para precipitación,3,1C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/4,008096,Clasificación de calidad de emplazamiento y medición para precipitación,4,1D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/5,008096,Clasificación de calidad de emplazamiento y medición para precipitación,5,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/6,008096,Clasificación de calidad de emplazamiento y medición para precipitación,6,2A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/7,008096,Clasificación de calidad de emplazamiento y medición para precipitación,7,2B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/8,008096,Clasificación de calidad de emplazamiento y medición para precipitación,8,2C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/9,008096,Clasificación de calidad de emplazamiento y medición para precipitación,9,2D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/10,008096,Clasificación de calidad de emplazamiento y medición para precipitación,10,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/11,008096,Clasificación de calidad de emplazamiento y medición para precipitación,11,3A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/12,008096,Clasificación de calidad de emplazamiento y medición para precipitación,12,3B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/13,008096,Clasificación de calidad de emplazamiento y medición para precipitación,13,3C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/14,008096,Clasificación de calidad de emplazamiento y medición para precipitación,14,3D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/15,008096,Clasificación de calidad de emplazamiento y medición para precipitación,15,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/16,008096,Clasificación de calidad de emplazamiento y medición para precipitación,16,4A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/17,008096,Clasificación de calidad de emplazamiento y medición para precipitación,17,4B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/18,008096,Clasificación de calidad de emplazamiento y medición para precipitación,18,4C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/19,008096,Clasificación de calidad de emplazamiento y medición para precipitación,19,4D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/20,008096,Clasificación de calidad de emplazamiento y medición para precipitación,20,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/21,008096,Clasificación de calidad de emplazamiento y medición para precipitación,21,5A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/22,008096,Clasificación de calidad de emplazamiento y medición para precipitación,22,5B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/23,008096,Clasificación de calidad de emplazamiento y medición para precipitación,23,5C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/24,008096,Clasificación de calidad de emplazamiento y medición para precipitación,24,5D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/25,008096,Clasificación de calidad de emplazamiento y medición para precipitación,25,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/26,008096,Clasificación de calidad de emplazamiento y medición para precipitación,26,1,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/27,008096,Clasificación de calidad de emplazamiento y medición para precipitación,27,2,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/28,008096,Clasificación de calidad de emplazamiento y medición para precipitación,28,3,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/29,008096,Clasificación de calidad de emplazamiento y medición para precipitación,29,4,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/30,008096,Clasificación de calidad de emplazamiento y medición para precipitación,30,5,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/31,008096,Clasificación de calidad de emplazamiento y medición para precipitación,31,A,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/32,008096,Clasificación de calidad de emplazamiento y medición para precipitación,32,B,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/33,008096,Clasificación de calidad de emplazamiento y medición para precipitación,33,C,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/34,008096,Clasificación de calidad de emplazamiento y medición para precipitación,34,D,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/35-254,008096,Clasificación de calidad de emplazamiento y medición para precipitación,35-254,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/096/255,008096,Clasificación de calidad de emplazamiento y medición para precipitación,255,Faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/097/0,008097,Método utilizado para calcular la temperatura promedio del instrumento,0,El promedio de seis sensores de temperatura colocados a lo largo de la carga útil.,,,,,Operational,AI Translator: MCP
-bufr4/0/08/097/1,008097,Método utilizado para calcular la temperatura promedio del instrumento,1,Promedio de banda WF IFP y sensores RFE para canales 1 a 8,,,,,Operational,AI Translator: MCP
-bufr4/0/08/097/2,008097,Método utilizado para calcular la temperatura promedio del instrumento,2,Promedio del sensor G-band RFE para los canales 9 a 12,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/1,008096,Clasificación de la calidad de ubicación y medición para la precipitación,1,1A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/2,008096,Clasificación de la calidad de ubicación y medición para la precipitación,2,1B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/3,008096,Clasificación de la calidad de ubicación y medición para la precipitación,3,1C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/4,008096,Clasificación de la calidad de ubicación y medición para la precipitación,4,1D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/5,008096,Clasificación de la calidad de ubicación y medición para la precipitación,5,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/6,008096,Clasificación de la calidad de ubicación y medición para la precipitación,6,2A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/7,008096,Clasificación de la calidad de ubicación y medición para la precipitación,7,2B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/8,008096,Clasificación de la calidad de ubicación y medición para la precipitación,8,2C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/9,008096,Clasificación de la calidad de ubicación y medición para la precipitación,9,2D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/10,008096,Clasificación de la calidad de ubicación y medición para la precipitación,10,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/11,008096,Clasificación de la calidad de ubicación y medición para la precipitación,11,3A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/12,008096,Clasificación de la calidad de ubicación y medición para la precipitación,12,3B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/13,008096,Clasificación de la calidad de ubicación y medición para la precipitación,13,3C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/14,008096,Clasificación de la calidad de ubicación y medición para la precipitación,14,3D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/15,008096,Clasificación de la calidad de ubicación y medición para la precipitación,15,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/16,008096,Clasificación de la calidad de ubicación y medición para la precipitación,16,4A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/17,008096,Clasificación de la calidad de ubicación y medición para la precipitación,17,4B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/18,008096,Clasificación de la calidad de ubicación y medición para la precipitación,18,4C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/19,008096,Clasificación de la calidad de ubicación y medición para la precipitación,19,4D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/20,008096,Clasificación de la calidad de ubicación y medición para la precipitación,20,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/21,008096,Clasificación de la calidad de ubicación y medición para la precipitación,21,5A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/22,008096,Clasificación de la calidad de ubicación y medición para la precipitación,22,5B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/23,008096,Clasificación de la calidad de ubicación y medición para la precipitación,23,5C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/24,008096,Clasificación de la calidad de ubicación y medición para la precipitación,24,5D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/25,008096,Clasificación de la calidad de ubicación y medición para la precipitación,25,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/26,008096,Clasificación de la calidad de ubicación y medición para la precipitación,26,1,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/27,008096,Clasificación de la calidad de ubicación y medición para la precipitación,27,2,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/28,008096,Clasificación de la calidad de ubicación y medición para la precipitación,28,3,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/29,008096,Clasificación de la calidad de ubicación y medición para la precipitación,29,4,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/30,008096,Clasificación de la calidad de ubicación y medición para la precipitación,30,5,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/31,008096,Clasificación de la calidad de ubicación y medición para la precipitación,31,A,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/32,008096,Clasificación de la calidad de ubicación y medición para la precipitación,32,B,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/33,008096,Clasificación de la calidad de ubicación y medición para la precipitación,33,C,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/34,008096,Clasificación de la calidad de ubicación y medición para la precipitación,34,D,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/35-254,008096,Clasificación de la calidad de ubicación y medición para la precipitación,35-254,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/096/255,008096,Clasificación de la calidad de ubicación y medición para la precipitación,255,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/097/0,008097,Método utilizado para calcular la temperatura promedio del instrumento,0,El promedio de seis sensores de temperatura colocados en toda la carga útil.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/097/1,008097,Método utilizado para calcular la temperatura promedio del instrumento,1,Promedio de los sensores IFP y RFE de banda WF para los canales 1 a 8,,,,,Operational,AI Translator: MCP
+bufr4/0/08/097/2,008097,Método utilizado para calcular la temperatura promedio del instrumento,2,Promedio del sensor RFE de banda G para los canales 9 a 12.,,,,,Operational,AI Translator: MCP
 bufr4/0/08/097/3-126,008097,Método utilizado para calcular la temperatura promedio del instrumento,3-126,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/097/127,008097,Método utilizado para calcular la temperatura promedio del instrumento,127,Faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/0,008098,Fuente de temperatura,0,Objetivo de calibración a bordo,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/1,008098,Fuente de temperatura,1,Reflector de vista espacial,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/2,008098,Fuente de temperatura,2,Reflector principal,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/3,008098,Fuente de temperatura,3,Pista de carreras,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/4,008098,Fuente de temperatura,4,Escudo solar,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/5,008098,Fuente de temperatura,5,Reflector giratorio,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/6-14,008098,Fuente de temperatura,6-14,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/098/15,008098,Fuente de temperatura,15,Faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/099/0,008099,dirección,0,Nadir,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/0,008098,Fuente de medición de temperatura,0,Objetivo de calibración a bordo,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/1,008098,Fuente de medición de temperatura,1,Reflector de vista espacial,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/2,008098,Fuente de medición de temperatura,2,Reflector principal,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/3,008098,Fuente de medición de temperatura,3,Pista de carreras,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/4,008098,Fuente de medición de temperatura,4,Escudo solar,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/5,008098,Fuente de medición de temperatura,5,Reflector giratorio,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/6-14,008098,Fuente de medición de temperatura,6-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/098/15,008098,Fuente de medición de temperatura,15,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/099/0,008099,Dirección de detección,0,Nadir,,,,,Operational,AI Translator: MCP
 bufr4/0/08/099/1,008099,Detección de dirección,1,Oblicuo,,,,,Operational,AI Translator: MCP
-bufr4/0/08/099/2-14,008099,dirección,2-14,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/099/15,008099,dirección,15,Valor faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/100/0,008100,Tipo de valor de la siguiente observación,0,Medición original,,,,,Operational,AI Translator: MCP
+bufr4/0/08/099/2-14,008099,Dirección de detección,2-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/099/15,008099,Detección de dirección,15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/100/0,008100,Tipo de valor de observación siguiente,0,Medición original,,,,,Operational,AI Translator: MCP
 bufr4/0/08/100/1,008100,Tipo de valor de observación siguiente,1,Corregido,,,,,Operational,AI Translator: MCP
-bufr4/0/08/100/2,008100,Tipo de valor de la siguiente observación,2,Corregido con un factor de corrección para un anillo de sombreado de un piranómetro,,,,,Operational,AI Translator: MCP
-bufr4/0/08/100/3-254,008100,Tipo de valor de la siguiente observación,3-254,Reservadas,,,,,Operational,AI Translator: MCP
-bufr4/0/08/100/255,008100,Tipo de valor de la siguiente observación,255,Faltante,,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/0,008101,Fase del vuelo en globo,0,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/100/2,008100,Tipo de valor de observación siguiente,2,Corregido con un factor de corrección para un anillo de sombreado de un piranómetro,,,,,Operational,AI Translator: MCP
+bufr4/0/08/100/3-254,008100,Tipo de valor de observación siguiente,3-254,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/08/100/255,008100,Tipo de valor de observación siguiente,255,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/0,008101,Fase de vuelo en globo,0,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/08/101/1,008101,Fase del vuelo en globo,1,Ascenso,,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/2,008101,Fase del vuelo en globo,2,Techo de nubes,,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/3,008101,Fase del vuelo en globo,3,Descenso,,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/4,008101,Fase del vuelo en globo,4,Caída (estación),,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/5,008101,Fase del vuelo en globo,5,Inestable (durante maniobras),,,,,Operational,AI Translator: MCP
-bufr4/0/08/101/15,008101,Fase del vuelo en globo,15,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/2,008101,Fase de vuelo en globo,2,Techo de nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/3,008101,Fase de vuelo en globo,3,Descenso,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/4,008101,Fase de vuelo en globo,4,Estación de caída.,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/5,008101,Fase de vuelo en globo,5,Inestable (durante maniobras),,,,,Operational,AI Translator: MCP
+bufr4/0/08/101/15,008101,Fase de vuelo en globo,15,Faltante,,,,,Operational,AI Translator: MCP

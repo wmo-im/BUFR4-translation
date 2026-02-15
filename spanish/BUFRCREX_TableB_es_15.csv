@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/15/001,15,Componentes físicos/químicos,015001,Ozono total,DU,0,0,10,DU,0,4,,,Operational,Original
 bufr4/0/15/002,15,Componentes físicos/químicos,015002,Masa de aire (correspondiente a una trayectoria oblicua a una altura de 22 km),Numérica,2,0,10,Numérica,2,3,,,Operational,Original
 bufr4/0/15/003,15,Componentes físicos/químicos,015003,Presión parcial del ozono medido,Pa,4,0,9,nbar,0,3,(sondeo) (véase la nota 1),,Operational,Original
@@ -32,8 +32,8 @@ bufr4/0/15/038,15,Componentes físicos/químicos,015038,Retraso del trayecto deb
 bufr4/0/15/039,15,Componentes físicos/químicos,015039,Error estimado en el retraso del trayecto atmosférico en una atmósfera neutra,m,4,0,14,m,4,9,,,Operational,Original
 bufr4/0/15/041,15,Componentes físicos/químicos,015041,Índice de dióxido de azufre,Numérica,2,-1200,14,Numérica,2,4,(véase la nota 7),,Operational,Original
 bufr4/0/15/042,15,Componentes físicos/químicos,015042,Reflectancia,%,2,0,14,%,2,5,,,Operational,Original
-bufr4/0/15/043,15,Componentes físicos/químicos,015043,Número de capas de núcleo de promedio,Numeric,0,0,10,Numeric,0,0,,,Operational,AI Translator: MCP
-bufr4/0/15/044,15,Componentes físicos/químicos,015044,Valor del núcleo de promediado,Numeric,6,-5000000,31,Numeric,0,0,,,Operational,AI Translator: MCP
+bufr4/0/15/043,15,Componentes físicos/químicos,015043,Número de capas del núcleo de promediado,Numérica,0,0,10,Numérica,0,0,,,Operational,AI Translator: MCP
+bufr4/0/15/044,15,Componentes físicos/químicos,015044,Valor del núcleo promedio,Numérica,6,-5000000,31,Numérica,0,0,,,Operational,AI Translator: MCP
 bufr4/0/15/045,15,Componentes físicos/químicos,015045,Dióxido de azufre,DU,2,-2000,15,DU,2,5,(véase la nota 8),,Operational,Original
 bufr4/0/15/046,15,Componentes físicos/químicos,015046,Índice de contaminación por volcanes,Numérica,2,-1000,11,Numérica,2,4,(véase la nota 9),,Operational,Original
 bufr4/0/15/049,15,Componentes físicos/químicos,015049,Exponente de Angstrom de longitud de onda para aerosoles,Numérica,3,-2000,14,Numérica,3,5,,,Operational,Original
