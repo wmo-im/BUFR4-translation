@@ -173,13 +173,13 @@ bufr4/3/03/099/8/003004,03,Secuencias meteorológicas comunes a los datos de los
 bufr4/3/03/099/9/003023,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303099,Metadatos comunes a los sensores de temperatura/humedad,,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,,,,Operational,Original
 bufr4/3/03/099/10/003008,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303099,Metadatos comunes a los sensores de temperatura/humedad,,003008,Garita o protección ventilada artificialmente,,,,Operational,Original
 bufr4/3/03/099/11/003009,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303099,Metadatos comunes a los sensores de temperatura/humedad,,003009,Cantidad de ventilación forzada en el momento de la lectura,,,,Operational,Original
-bufr4/3/03/100/1/013165,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013165,CAPE (energía potencial convectiva disponible),,(véase la nota 4),80,Operational,AI Translator: MCP
-bufr4/3/03/100/2/013045,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013045,Índice KO,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/3/013166,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013166,Índice de totales totales,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/4/013044,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013044,Índice K,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/5/013042,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013042,Índice de elevación de una partícula (a 500 hPa) (véanse las notas 3 y 4),,,,Operational,AI Translator: MCP
-bufr4/3/03/100/6/013167,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013167,Índice S (STT),,,,Operational,AI Translator: MCP
-bufr4/3/03/100/7/013168,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013168,Índice de amenaza de niebla,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/8/013169,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013169,Índice de potencial de día de microexplosión (MDPI),,,,Operational,AI Translator: MCP
-bufr4/3/03/100/9/013170,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013170,Índice TQ,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/10/013171,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,hielo,,013171,CIN (bit),,,,Operational,AI Translator: MCP
+bufr4/3/03/100/1/013165,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013165,CAPE (energía potencial disponible convectiva),,(ver Nota 4),80,Operational,AI Translator: MCP
+bufr4/3/03/100/2/013045,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013045,Índice KO,,,,Operational,AI Translator: MCP
+bufr4/3/03/100/3/013166,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013166,Índice de totales totales,,,,Operational,AI Translator: MCP
+bufr4/3/03/100/4/013044,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013044,Índice K,,,,Operational,AI Translator: MCP
+bufr4/3/03/100/5/013042,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013042,Índice de elevación de parcela (a 500 hPa),,,,Operational,AI Translator: MCP
+bufr4/3/03/100/6/013167,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013167,Índice S (STT),,,,Operational,AI Translator: MCP
+bufr4/3/03/100/7/013168,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013168,Índice de amenaza de niebla,,,,Operational,AI Translator: MCP
+bufr4/3/03/100/8/013169,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013169,Índice de potencial de día de microburst (MDPI),,,,Operational,AI Translator: MCP
+bufr4/3/03/100/9/013170,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013170,Índice TQ,,,,Operational,AI Translator: MCP
+bufr4/3/03/100/10/013171,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013171,CIN (inhibición convectiva),,,,Operational,AI Translator: MCP

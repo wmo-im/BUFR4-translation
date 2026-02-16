@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/13/001,13,Elementos hidrográfico e hidrológico,013001,Humedad específica,kg kg-1,5,0,14,kg kg-1,5,5,,,Operational,Original
 bufr4/0/13/002,13,Elementos hidrográfico e hidrológico,013002,Relación de mezcla,kg kg-1,5,0,14,kg kg-1,5,5,,,Operational,Original
 bufr4/0/13/003,13,Elementos hidrográfico e hidrológico,013003,Humedad relativa,%,0,0,7,%,0,3,,,Operational,Original
@@ -54,7 +54,7 @@ bufr4/0/13/085,13,Elementos hidrográfico e hidrológico,013085,Potencial de red
 bufr4/0/13/090,13,Elementos hidrográfico e hidrológico,013090,Contenido en vapor de agua radiométrico,kg m-2,1,0,10,kg m-2,1,4,,,Operational,Original
 bufr4/0/13/091,13,Elementos hidrográfico e hidrológico,013091,Contenido líquido radiométrico,kg m-2,2,0,8,kg m-2,2,3,,,Operational,Original
 bufr4/0/13/093,13,Elementos hidrográfico e hidrológico,013093,Espesor óptico de la nube,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/13/094,13,Elementos hidrográfico e hidrológico,013094,Log-10 del grosor óptico de las nubes,Numeric,3,-2000,14,Numeric,3,5,,,Operational,AI Translator: MCP
+bufr4/0/13/094,13,Elementos hidrográfico e hidrológico,013094,Log-10 of cloud optical thickness,Numérica,3,-2000,14,Numérica,3,5,,,Operational,AI Translator: MCP
 bufr4/0/13/095,13,Elementos hidrográfico e hidrológico,013095,Vapor de agua total en columna,kg m-2,4,0,19,kg m-2,4,6,,,Operational,Original
 bufr4/0/13/096,13,Elementos hidrográfico e hidrológico,013096,Contenido de vapor de agua según MWR,kg m-2,2,0,14,kg m-2,2,5,,,Operational,Original
 bufr4/0/13/097,13,Elementos hidrográfico e hidrológico,013097,Contenido de agua líquida según MWR,kg m-2,2,0,14,kg m-2,2,5,,,Operational,Original
@@ -71,17 +71,17 @@ bufr4/0/13/115,13,Elementos hidrográfico e hidrológico,013115,Espesor del hiel
 bufr4/0/13/116,13,Elementos hidrográfico e hidrológico,013116,Espesor de la lámina de agua,m,4,0,10,m,3,2,,,Operational,Original
 bufr4/0/13/117,13,Elementos hidrográfico e hidrológico,013117,Densidad de la nieve (contenido de agua líquida),kg m-3,0,0,10,kg m-3,0,3,,,Operational,Original
 bufr4/0/13/118,13,Elementos hidrográfico e hidrológico,013118,Espesor de nieve fresca (gran precisión),m,3,-2,14,m,3,5,(véase la nota 10),,Operational,Original
-bufr4/0/13/119,13,Elementos hidrográfico e hidrológico,013119,nieve,m,3,-10000,15,,,,(véase la nota 18),194,Operational,AI Translator: MCP
+bufr4/0/13/119,13,Elementos hidrográfico e hidrológico,013119,espesor de la nieve,m,3,-10000,15,,,,(ver Nota 18),194,Operational,AI Translator: MCP
 bufr4/0/13/155,13,Elementos hidrográfico e hidrológico,013155,Intensidad de la precipitación (gran precisión),kg m-2 s-1,5,-1,16,mm h-1,2,5,(véase la nota 8),,Operational,Original
 bufr4/0/13/160,13,Elementos hidrográfico e hidrológico,013160,Contenido líquido radiométrico,kg m-2,2,-350,10,kg m-2,2,3,,,Operational,Original
-bufr4/0/13/161,13,Elementos hidrográfico e hidrológico,013161,La energía potencial convectiva disponible más inestable (CAPE),J/kg,0,0,14,,,,,,Operational,AI Translator: MCP
+bufr4/0/13/161,13,Elementos hidrográfico e hidrológico,013161,Energía potencial convectiva disponible más inestable (CAPE),J/kg,0,0,14,,,,,,Operational,AI Translator: MCP
 bufr4/0/13/162,13,Elementos hidrográfico e hidrológico,013162,Agua líquida en la nube,kg m-2,2,0,8,kg m-2,2,3,,,Operational,Original
 bufr4/0/13/163,13,Elementos hidrográfico e hidrológico,013163,Equivalente en agua de la nieve,kg m-2,0,0,16,kg m-2,0,5,,,Operational,Original
 bufr4/0/13/164,13,Elementos hidrográfico e hidrológico,013164,Francobordo del hielo marino,m,3,-131072,18,m,3,6,,,Operational,Original
-bufr4/0/13/165,13,Elementos hidrográfico e hidrológico,013165,Energía potencial disponible convectiva (CAPE),J/kg,0,0,14,J/kg,0,5,(véase la nota 11),186,Operational,AI Translator: MCP
-bufr4/0/13/166,13,Elementos hidrográfico e hidrológico,013166,Índice total de totales,K,1,0,10,C,0,5,(véase la nota 12),187,Operational,AI Translator: MCP
-bufr4/0/13/167,13,Elementos hidrográfico e hidrológico,013167,Índice S (STT),K,1,-1000,11,C,0,6,(véase la nota 13),188,Operational,AI Translator: MCP
-bufr4/0/13/168,13,Elementos hidrográfico e hidrológico,013168,Índice de amenaza de niebla,K,1,-100,8,C,0,5,(véase la nota 14),190,Operational,AI Translator: MCP
-bufr4/0/13/169,13,Elementos hidrográfico e hidrológico,013169,Índice de potencial de día de microexplosiones (MDPI),K/K,1,-100,8,K/K,0,5,(véase la nota 15),191,Operational,AI Translator: MCP
-bufr4/0/13/170,13,Elementos hidrográfico e hidrológico,013170,Índice TQ,K,1,-1000,11,C,0,6,(véase la nota 16),190,Operational,AI Translator: MCP
-bufr4/0/13/171,13,Elementos hidrográfico e hidrológico,013171,CIN (inhibición convectiva),J/kg,0,-1000,10,J/kg,0,5,(véase la nota 17),192,Operational,AI Translator: MCP
+bufr4/0/13/165,13,Elementos hidrográfico e hidrológico,013165,Energía potencial disponible convectiva (CAPE),J/kg,0,0,14,J/kg,0,5,(ver Nota 11),186,Operational,AI Translator: MCP
+bufr4/0/13/166,13,Elementos hidrográfico e hidrológico,013166,Índice de totales totales,K,1,0,10,°C,0,5,(ver Nota 12),187,Operational,AI Translator: MCP
+bufr4/0/13/167,13,Elementos hidrográfico e hidrológico,013167,Índice S (STT),K,1,-1000,11,°C,0,6,(ver Nota 13),188,Operational,AI Translator: MCP
+bufr4/0/13/168,13,Elementos hidrográfico e hidrológico,013168,Índice de amenaza de niebla,K,1,-100,8,°C,0,5,(ver Nota 14),190,Operational,AI Translator: MCP
+bufr4/0/13/169,13,Elementos hidrográfico e hidrológico,013169,Índice de potencial de día de microburst (MDPI),K/K,1,-100,8,K/K,0,5,(Ver Nota 15),191,Operational,AI Translator: MCP
+bufr4/0/13/170,13,Elementos hidrográfico e hidrológico,013170,Índice TQ,K,1,-1000,11,°C,0,6,(ver Nota 16),190,Operational,AI Translator: MCP
+bufr4/0/13/171,13,Elementos hidrográfico e hidrológico,013171,CIN (inhibición convectiva),J/kg,0,-1000,10,J/kg,0,5,(ver Nota 17),192,Operational,AI Translator: MCP

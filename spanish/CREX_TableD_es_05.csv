@@ -1,72 +1,72 @@
 Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,Status,translated_by
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05001,Medición única SADC-HYCOS,,B11001,Dirección del viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05001,Medición única SADC-HYCOS,,B11002,Velocidad del viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05001,Medición única SADC-HYCOS,,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05001,Medición única SADC-HYCOS,,B13071,Nivel del agua aguas arriba,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B12001,Temperatura/temperatura del aire,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13003,Humedad relativa,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B14051,Radiación solar directa integrada durante la última hora,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13072,Nivel del agua aguas abajo,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13080,pH del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13081,Conductividad del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13082,Temperatura del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13083,Oxígeno disuelto,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05002,Medición medioambiental SADC-HYCOS,,B13084,Turbiedad,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05003,Definición de la serie de mediciones SADC- HYCOS,,D01012,"Hora, minuto",Primera medición única menos el incremento,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05003,Definición de la serie de mediciones SADC- HYCOS,,B04065,Incremento de tiempo abreviado,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05003,Definición de la serie de mediciones SADC-HYCOS,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05003,Definición de la serie de mediciones SADC-HYCOS,,D05001,Medición única SADC-HYCOS,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05004,Informe SADC-HYCOS,,D01030,Identificación – con ubicación física,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05004,Informe de SADC-HYCOS,,D05002,Medición medioambiental SADC-HYCOS,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05004,Informe SADC-HYCOS,,D05003,Definición de la serie de mediciones SADC- HYCOS,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13072,Nivel del agua aguas abajo,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13082,Temperatura del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13019,Precipitación total en el curso de la hora precedente,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,C07005,Reemplazo de unidades,Kelvin,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,C01004,anchura de datos,4 caracteres de largo,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B12001,Temperatura/temperatura del aire,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13073,Nivel máximo del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D01029,Identificación,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05007,(Informe MEDHYCOS),,B04065,Incremento de tiempo abreviado,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05007,(Informe MEDHYCOS),,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D05006,Medición MEDHYCOS,Medición única,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05008,Medición AOCHYCOS-Chad,,D05006,Medición MEDHYCOS,Idéntica al tipo de medición MEDHYCOS,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05008,Medición AOCHYCOS-Chad,,C07005,Reemplazo de unidades,Kelvin,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05008,Medición AOCHYCOS-Chad,,C01004,anchura de datos,4 caracteres de largo,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05008,Medición AOCHYCOS-Chad,,B12030,Temperatura del suelo,A −50 cm,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05009,(Informe AOCHYCOS sobre el Chad),,D01029,Identificación,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05009,AOCHYCOS - Informe de Chad,,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05009,(Informe AOCHYCOS sobre el Chad),,B04065,Incremento de tiempo abreviado,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05009,(Informe AOCHYCOS sobre el Chad),,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05009,(Informe AOCHYCOS sobre el Chad),,D05008,Medición AOCHYCOS-Chad,Medición única,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05010,(Medición MEDHYCOS de tipo 2),,D05008,Medición AOCHYCOS-Chad,Idéntica al tipo de medición AOCHYCOS,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05010,(Medición MEDHYCOS de tipo 2),,B02091,Sensor de entrada 4/20 mA,Nº 1,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05010,(Medición MEDHYCOS de tipo 2),,B02091,Sensor de entrada 4/20 mA,Nº 2,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05011,(Informe MEDHYCOS de tipo 2),,D01029,Identificación,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05011,Informe tipo 2 de MEDHYCOS,,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05011,Informe tipo 2 de MEDHYCOS,,B04065,Incremento de tiempo abreviado,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05011,Informe tipo 2 de MEDHYCOS,,R01000,Repetición diferida de 1 descriptor,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05011,Informe tipo 2 de MEDHYCOS,,D05010,Medición MEDHYCOS de tipo 2,Medición única,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B14021,Radiación solar global integrada en un período determinado,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B07004,Presión,Presión atmosférica,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B13003,Humedad relativa,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B11002,Velocidad del viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B11001,Dirección del viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B11041,Velocidad máxima de las ráfagas de viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,B11043,Dirección de las ráfagas máximas de viento,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05017,Medición de la calidad del agua,,B13080,pH del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05017,Medición de la calidad del agua,,B13081,Conductividad del agua,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05017,Medición de la calidad del agua,,B13083,Oxígeno disuelto,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05017,Medición de la calidad del agua,,B13085,Potencial de oxidación–reducción (ORP),,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05017,Medición de la calidad del agua,,B13084,Turbiedad,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,D01029,Identificación,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,B04065,Incremento de tiempo abreviado,Incremento horario,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,R03000,Repetición diferida de 3 descriptores,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,D05008,Medición AOCHYCOS-Chad,Idéntica al tipo de medición AOCHYCOS,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua.,,D05016,Parámetros meteorológicos asociados a datos hidrológicos,,,Operational,AI Translator: MCP
-05,Secuencias meteorológicas o hidrológicas comunes a las observaciones hidrológicas,D05018,Informe MEDHYCOS con datos de meteorología y calidad del agua,,D05017,Medición de la calidad del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05001,(Medición única de SADC-HYCOS),,B11001,Dirección del viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05001,(Medición única de SADC-HYCOS),,B11002,velocidad del viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05001,(Medición única de SADC-HYCOS),,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05001,(Medición única de SADC-HYCOS),,B13071,Nivel de agua aguas arriba,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,D01012,"Hora, minuto",,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B12001,Temperatura/temperatura del aire,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13003,Humedad relativa,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B14051,Radiación solar directa integrada durante la última hora,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13072,Nivel de agua aguas abajo,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13080,pH del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13081,Conductividad del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13082,Temperatura del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13083,Oxígeno disuelto,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05002,(Medición ambiental de SADC-HYCOS),,B13084,Turbidez,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05003,(Definición de la matriz de medición SADC-HYCOS),,D01012,"Hora, minuto",Primera medición única menos incremento,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05003,(Definición de la matriz de medición SADC-HYCOS),,B04065,Incremento de tiempo corto,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05003,(Definición de la matriz de medición SADC-HYCOS),,R01000,Replicación retrasada de 1 descriptor,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05003,(Definición del conjunto de medición SADC-HYCOS),,D05001,Medición única de SADC-HYCOS,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05004,(Informe SADC-HYCOS),,D01030,Identificación - con ubicación física,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05004,(Informe SADC-HYCOS),,D05002,Medición ambiental de SADC-HYCOS,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05004,(Informe SADC-HYCOS),,D05003,Definición de la matriz de medición SADC-HYCOS,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición de MEDHYCOS),,B13072,Nivel de agua aguas abajo,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición de MEDHYCOS),,B13082,Temperatura del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13019,Precipitación total en la última hora,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,C07005,Reemplazo de unidades,Kelvin,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,C01004,Reemplazo de ancho de datos,4 caracteres de largo,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B12001,Temperatura/temperatura del aire,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13073,nivel máximo del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05006,(Medición MEDHYCOS),,B13060,Precipitación total acumulada,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D01029,Identificación,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05007,(Informe MEDHYCOS),,B04065,Incremento de tiempo corto,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05007,(Informe MEDHYCOS),,R01000,Replicación retrasada de 1 descriptor,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05007,(Informe MEDHYCOS),,D05006,Medición MEDHYCOS,Medición única,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05008,(AOCHYCOS - medición en Chad),,D05006,Medición MEDHYCOS,Igual que la medición tipo MEDHYCOS,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05008,(AOCHYCOS - medición de Chad),,C07005,Reemplazo de unidades,Kelvin,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05008,(AOCHYCOS - medición de Chad),,C01004,Reemplazo de ancho de datos,4 caracteres de largo,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05008,(AOCHYCOS - medición de Chad),,B12030,temperatura del suelo,A -50 cm,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05009,(AOCHYCOS - Informe de Chad),,D01029,Identificación,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05009,(AOCHYCOS - Informe de Chad),,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05009,(AOCHYCOS - Informe de Chad),,B04065,Incremento de tiempo corto,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05009,(AOCHYCOS - Informe de Chad),,R01000,Replicación retrasada de 1 descriptor,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05009,(AOCHYCOS - Informe de Chad),,D05008,AOCHYCOS - medición de Chad,Medición única,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05010,(MEDHYCOS-Tipo de medición 2),,D05008,AOCHYCOS - medición de Chad,Igual que la medición tipo AOCHYCOS,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05010,(MEDHYCOS-Tipo de medición 2),,B02091,Sensor de entrada 4/20 mA,No. 1,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05010,(MEDHYCOS-Tipo de medición 2),,B02091,Sensor de entrada 4/20 mA,No. 2,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05011,(Informe tipo 2 de MEDHYCOS),,D01029,Identificación,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05011,(Informe tipo 2 de MEDHYCOS),,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05011,(Informe tipo 2 de MEDHYCOS),,B04065,Incremento de tiempo corto,Intervalo de tiempo entre mediciones,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05011,(Informe tipo 2 de MEDHYCOS),,R01000,Replicación retrasada de 1 descriptor,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05011,(Informe tipo 2 de MEDHYCOS),,D05010,MEDHYCOS-Tipo de medición 2,Medición única,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B14021,"Radiación solar global, integrada durante el período especificado.",,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B07004,Presión,Presión atmosférica,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B13003,Humedad relativa,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B11002,velocidad del viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B11001,Dirección del viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B11041,Velocidad máxima de ráfagas de viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05016,(Parámetros meteorológicos asociados con datos hidrológicos),,B11043,Dirección máxima de ráfaga de viento,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05017,(Medición de la calidad del agua),,B13080,pH del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05017,(Medición de la calidad del agua),,B13081,Conductividad del agua,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05017,(Medición de la calidad del agua),,B13083,Oxígeno disuelto,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05017,(Medición de la calidad del agua),,B13085,Potencial de reducción-oxidación (ORP),,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05017,(Medición de la calidad del agua),,B13084,Turbidez,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,D01029,Identificación,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,D01012,"Hora, minuto",Hora de la primera medición,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,B04065,Incremento de tiempo corto,Incremento de hora,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,R03000,Replicación retrasada de 3 descriptores,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,D05008,AOCHYCOS - medición de Chad,Igual que la medición tipo AOCHYCOS,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,D05016,Parámetros meteorológicos asociados con datos hidrológicos,,,Operational,AI Translator: MCP
+05,Secuencias meteorológicas o hidrológicas comunes a observaciones hidrológicas,D05018,(Informe MEDHYCOS con datos de meteorología y calidad del agua),,D05017,Medición de la calidad del agua,,,Operational,AI Translator: MCP

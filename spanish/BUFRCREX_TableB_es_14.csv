@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/14/001,14,Radiación y radiancia,014001,"Radiación de onda larga, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Operational,Original
 bufr4/0/14/002,14,Radiación y radiancia,014002,"Radiación de onda larga, integrada en un período determinado",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Operational,Original
 bufr4/0/14/003,14,Radiación y radiancia,014003,"Radiación de onda corta, integrada durante 24 horas",Jm-2,-3,-65536,17,Jm-2,-3,5,,,Operational,Original
@@ -35,7 +35,7 @@ bufr4/0/14/045,14,Radiación y radiancia,014045,Radiancia del canal,W m-2 sr-1 c
 bufr4/0/14/046,14,Radiación y radiancia,014046,Radiancia IASI ajustada,W m-2 sr-1 cm,0,-5000,16,W m-2 sr-1 cm,0,5,(véase la nota 6),29,Operational,Original
 bufr4/0/14/047,14,Radiación y radiancia,014047,Radiancia media ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Operational,Original
 bufr4/0/14/048,14,Radiación y radiancia,014048,Radiancia de la desviación estándar ajustada AVHRR,W m-2 sr-1 cm,0,0,31,W m-2 sr-1 cm,0,10,,,Operational,Original
-bufr4/0/14/049,14,Radiación y radiancia,014049,Radiancia delta equivalente de ruido.,W m-2 sr-1 cm,7,0,22,W m-2 sr-1 cm,0,0,,,Operational,AI Translator: MCP
+bufr4/0/14/049,14,Radiación y radiancia,014049,Radiancia delta equivalente al ruido,W m-2 sr-1 cm,7,0,22,W m-2 sr-1 cm,0,0,,,Operational,AI Translator: MCP
 bufr4/0/14/050,14,Radiación y radiancia,014050,Emisividad,%,1,0,10,%,1,4,(véase la nota 5),69,Operational,Original
 bufr4/0/14/051,14,Radiación y radiancia,014051,Radiación solar directa integrada durante la última hora,Jm-2,-3,0,14,Jm-2,-3,4,,,Operational,Original
 bufr4/0/14/052,14,Radiación y radiancia,014052,"Radiación solar ascendente mundial, integrada en un período especificado",Jm-2,-2,-1048574,20,Jm-2,-2,7,,,Operational,Original

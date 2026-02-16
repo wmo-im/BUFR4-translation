@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/00/001,00,Entradas de las tablas BUFR/CREX,000001,Tabla A: elemento,CCITT IA5,0,0,24,Carácter,0,3,,,Operational,Original
 bufr4/0/00/002,00,Entradas de las tablas BUFR/CREX,000002,"Tabla A: descripción de la categoría de datos, línea 1",CCITT IA5,0,0,256,Carácter,0,32,,,Operational,Original
 bufr4/0/00/003,00,Entradas de las tablas BUFR/CREX,000003,"Tabla A: descripción de la categoría de datos, línea 2",CCITT IA5,0,0,256,Carácter,0,32,,,Operational,Original

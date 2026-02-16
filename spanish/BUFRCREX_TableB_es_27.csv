@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
+Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/27/001,27,Ubicación sin coordenadas (horizontal – 1),027001,Latitud (gran exactitud),°,5,-9000000,25,°,5,7,,,Operational,Original
 bufr4/0/27/002,27,Ubicación sin coordenadas (horizontal – 1),027002,Latitud (exactitud aproximada),°,2,-9000,15,°,2,4,,,Operational,Original
 bufr4/0/27/003,27,Ubicación sin coordenadas (horizontal – 1),027003,Latitud alterna (exactitud aproximada),°,2,-9000,15,°,2,4,,,Operational,Original
