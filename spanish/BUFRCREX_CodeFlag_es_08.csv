@@ -4,8 +4,7 @@ bufr4/0/08/001/2,008001,Significación del sondeo vertical,2,Nivel estándar,,,,
 bufr4/0/08/001/3,008001,Significación del sondeo vertical,3,Nivel tropopáusico,,,,,Operational,Original
 bufr4/0/08/001/4,008001,Significación del sondeo vertical,4,Nivel del viento máximo,,,,,Operational,Original
 bufr4/0/08/001/5,008001,Significación del sondeo vertical,5,"Nivel significativo, temperatura y/o humedad relativa",,,,,Operational,Original
-bufr4/0/08/001/6,008001,Significación del sondeo vertical,6,"Nivel significativo, viento",,,,,Operational,Original
-bufr4/0/08/001/All-7,008001,Significación del sondeo vertical,Todos los 7,Valor faltante,,,,,Operational,Original
+bufr4/0/08/001/6,008001,Significación del sondeo vertical,6,"Nivel significativo, viento Todos los 7 Valor faltante",,,,,Operational,Original
 bufr4/0/08/002/0,008002,Significación vertical (observaciones en superficie),0,Reglas de observación de la base de las nubes más bajas y de los tipos de nubes aplicables a las claves FM 12 SYNOP y FM 13 SHIP,,,,,Operational,Original
 bufr4/0/08/002/1,008002,Significación vertical (observaciones en superficie),1,Primera capa significativa que no sea de cumulonimbus,,,,,Operational,Original
 bufr4/0/08/002/2,008002,Significación vertical (observaciones en superficie),2,Segunda capa significativa que no sea de cumulonimbus,,,,,Operational,Original
@@ -61,14 +60,13 @@ bufr4/0/08/006/4,008006,Significación del sondeo vertical del ozono,4,Nivel má
 bufr4/0/08/006/5,008006,Significación del sondeo vertical del ozono,5,Nivel mínimo prominente,,,,,Operational,Original
 bufr4/0/08/006/6,008006,Significación del sondeo vertical del ozono,6,Nivel de presión mínima,,,,,Operational,Original
 bufr4/0/08/006/7,008006,Significación del sondeo vertical del ozono,7,Reservado,,,,,Operational,Original
-bufr4/0/08/006/8,008006,Significación del sondeo vertical del ozono,8,Nivel de significación no determinada,,,,,Operational,Original
-bufr4/0/08/006/All-9,008006,Significación del sondeo vertical del ozono,Todos los 9,Valor faltante,,,,,Operational,Original
+bufr4/0/08/006/8,008006,Significación del sondeo vertical del ozono,8,Nivel de significación no determinada Todos los 9 Valor faltante,,,,,Operational,Original
 bufr4/0/08/007/0,008007,Significación dimensional,0,Punto,,,,,Operational,Original
 bufr4/0/08/007/1,008007,Significación dimensional,1,Línea,,,,,Operational,Original
 bufr4/0/08/007/2,008007,Significación dimensional,2,Área,,,,,Operational,Original
 bufr4/0/08/007/3,008007,Significación dimensional,3,Volumen,,,,,Operational,Original
 bufr4/0/08/007/4-14,008007,Significación dimensional,4-14,Reservadas,,,,,Operational,Original
-bufr4/0/08/007/15,008007,Significación dimensional,15,Valor faltante,,,,,Operational,Original
+bufr4/0/08/007/15,008007,Significación dimensional,15,"Valor faltante Nota: Una secuencia consecutiva de dos o más coordenadas  de posición, tales como los pares de latitud y longitud, define una línea o un polígono. Los puntos deberán unirse entre sí en el mismo orden en que aparecen en el mensaje. Toda área descrita estará situada a la izquierda del límite trazado en la dirección establecida por el orden de los puntos dado en el mensaje. Esta definición se aplica a polígonos simples que no se intersecan y no presentan huecos.",,,,,Operational,Original
 bufr4/0/08/008/1,008008,Significación del sondeo vertical de la radiación,1,Superficie,,,,,Operational,Original
 bufr4/0/08/008/2,008008,Significación del sondeo vertical de la radiación,2,Nivel estándar,,,,,Operational,Original
 bufr4/0/08/008/3,008008,Significación del sondeo vertical de la radiación,3,Nivel de la tropopausa,,,,,Operational,Original
@@ -76,8 +74,7 @@ bufr4/0/08/008/4,008008,Significación del sondeo vertical de la radiación,4,Ni
 bufr4/0/08/008/5,008008,Significación del sondeo vertical de la radiación,5,Nivel de radiación gamma máxima,,,,,Operational,Original
 bufr4/0/08/008/6,008008,Significación del sondeo vertical de la radiación,6,Nivel de presión mínima,,,,,Operational,Original
 bufr4/0/08/008/7,008008,Significación del sondeo vertical de la radiación,7,Reservado,,,,,Operational,Original
-bufr4/0/08/008/8,008008,Significación del sondeo vertical de la radiación,8,Nivel de significación no determinada,,,,,Operational,Original
-bufr4/0/08/008/9,008008,Significación del sondeo vertical de la radiación,Los 9,Valor faltante,,,,,Operational,Original
+bufr4/0/08/008/8,008008,Significación del sondeo vertical de la radiación,8,Nivel de significación no determinada Los 9 Valor faltante,,,,,Operational,Original
 bufr4/0/08/009/0,008009,Fase detallada de vuelo de aeronave,0,"Vuelo horizontal, observación de rutina, inestable",,,,,Operational,Original
 bufr4/0/08/009/1,008009,Fase detallada de vuelo de aeronave,1,"Vuelo horizontal, viento más fuerte encontrado, inestable",,,,,Operational,Original
 bufr4/0/08/009/2,008009,Fase detallada de vuelo de aeronave,2,Inestable (UNS),,,,,Operational,Original
@@ -145,15 +142,15 @@ bufr4/0/08/013/0,008013,Calificador dia/noche,0,Noche,,,,,Operational,Original
 bufr4/0/08/013/1,008013,Calificador dia/noche,1,Día,,,,,Operational,Original
 bufr4/0/08/013/2,008013,Calificador dia/noche,2,Crepúsculo,,,,,Operational,Original
 bufr4/0/08/013/3,008013,Calificador dia/noche,3,Valor faltante,,,,,Operational,Original
-bufr4/0/08/014/0,008014,Calificador para el alcance visual en pista,0,Valor medio de 10 minutos,valor normal,,,,Operational,Original
-bufr4/0/08/014/1,008014,Calificador para el alcance visual en pista,1,Valor medio de 10 minutos,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/2,008014,Calificador para el alcance visual en pista,2,Valor medio de 10 minutos,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
-bufr4/0/08/014/3,008014,Calificador para el alcance visual en pista,3,Valor mínimo de un minuto,valor normal,,,,Operational,Original
-bufr4/0/08/014/4,008014,Calificador para el alcance visual en pista,4,Valor mínimo de un minuto,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/5,008014,Calificador para el alcance visual en pista,5,Valor mínimo de un minuto,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
-bufr4/0/08/014/6,008014,Calificador para el alcance visual en pista,6,Valor máximo de un minuto,valor normal,,,,Operational,Original
-bufr4/0/08/014/7,008014,Calificador para el alcance visual en pista,7,Valor máximo de un minuto,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/8,008014,Calificador para el alcance visual en pista,8,Valor máximo de un minuto,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
+bufr4/0/08/014/0,008014,Calificador para el alcance visual en pista,0,Valor medio de 10 minutos – valor normal,,,,,Operational,Original
+bufr4/0/08/014/1,008014,Calificador para el alcance visual en pista,1,Valor medio de 10 minutos – por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/2,008014,Calificador para el alcance visual en pista,2,Valor medio de 10 minutos – por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
+bufr4/0/08/014/3,008014,Calificador para el alcance visual en pista,3,Valor mínimo de un minuto – valor normal,,,,,Operational,Original
+bufr4/0/08/014/4,008014,Calificador para el alcance visual en pista,4,Valor mínimo de un minuto – por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/5,008014,Calificador para el alcance visual en pista,5,Valor mínimo de un minuto – por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
+bufr4/0/08/014/6,008014,Calificador para el alcance visual en pista,6,Valor máximo de un minuto – valor normal,,,,,Operational,Original
+bufr4/0/08/014/7,008014,Calificador para el alcance visual en pista,7,Valor máximo de un minuto – por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/8,008014,Calificador para el alcance visual en pista,8,Valor máximo de un minuto – por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
 bufr4/0/08/014/9-14,008014,Calificador para el alcance visual en pista,9-14,Reservadas,,,,,Operational,Original
 bufr4/0/08/014/15,008014,Calificador para el alcance visual en pista,15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/015/0,008015,Calificador significativo del sensor,0,Sensor único,,,,,Operational,Original
@@ -161,12 +158,12 @@ bufr4/0/08/015/1,008015,Calificador significativo del sensor,1,Sensor primario,,
 bufr4/0/08/015/2,008015,Calificador significativo del sensor,2,Sensor secundario (reserva),,,,,Operational,Original
 bufr4/0/08/015/3-6,008015,Calificador significativo del sensor,3-6,Reservadas,,,,,Operational,Original
 bufr4/0/08/015/7,008015,Calificador significativo del sensor,7,Valor faltante,,,,,Operational,Original
-bufr4/0/08/016/0,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,0,NOSIG,,,,,Operational,Original
-bufr4/0/08/016/1,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,1,BECMG,,,,,Operational,Original
-bufr4/0/08/016/2,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,2,TEMPO,,,,,Operational,Original
-bufr4/0/08/016/3,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,3,FM,,,,,Operational,Original
-bufr4/0/08/016/4-6,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,4-6,Reservadas,,,,,Operational,Original
-bufr4/0/08/016/7,008016,Calificador de cambio de un pronóstico de tipo tendencia o de un pronóstico de aeródromo,7,Valor faltante,,,,,Operational,Original
+bufr4/0/08/016/0,008016,aeródromo,0,NOSIG,,,,,Operational,Original
+bufr4/0/08/016/1,008016,aeródromo,1,BECMG,,,,,Operational,Original
+bufr4/0/08/016/2,008016,aeródromo,2,TEMPO,,,,,Operational,Original
+bufr4/0/08/016/3,008016,aeródromo,3,FM,,,,,Operational,Original
+bufr4/0/08/016/4-6,008016,aeródromo,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/08/016/7,008016,aeródromo,7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/017/0,008017,Calificador de la hora a la cual se espera que se produzca el cambio previsto,0,FM,,,,,Operational,Original
 bufr4/0/08/017/1,008017,Calificador de la hora a la cual se espera que se produzca el cambio previsto,1,TL,,,,,Operational,Original
 bufr4/0/08/017/2,008017,Calificador de la hora a la cual se espera que se produzca el cambio previsto,2,AT,,,,,Operational,Original
@@ -176,8 +173,7 @@ bufr4/0/08/018/2,008018,Tipo de superficie tierra/hielo medida por SeaWinds,2,Ma
 bufr4/0/08/018/3-10,008018,Tipo de superficie tierra/hielo medida por SeaWinds,3-10,Reservados,,,,,Operational,Original
 bufr4/0/08/018/11,008018,Tipo de superficie tierra/hielo medida por SeaWinds,11,Datos del mapa de hielos no disponibles,,,,,Operational,Original
 bufr4/0/08/018/12,008018,Tipo de superficie tierra/hielo medida por SeaWinds,12,Datos del mapa de atenuación no disponibles,,,,,Operational,Original
-bufr4/0/08/018/13-16,008018,Tipo de superficie tierra/hielo medida por SeaWinds,13-16,Reservados,,,,,Operational,Original
-bufr4/0/08/018/17,008018,Tipo de superficie tierra/hielo medida por SeaWinds,Los 17,Valor faltante,,,,,Operational,Original
+bufr4/0/08/018/13-16,008018,Tipo de superficie tierra/hielo medida por SeaWinds,13-16,Reservados Los 17 Valor faltante,,,,,Operational,Original
 bufr4/0/08/019/0,008019,Calificador para el identificador del centro siguiente,0,Reservada,,,,,Operational,Original
 bufr4/0/08/019/1,008019,Calificador para el identificador del centro siguiente,1,Unidad ATS (servicio de tránsito aéreo) que presta servicio a la FIR (Región de Información de Vuelo),,,,,Operational,Original
 bufr4/0/08/019/2,008019,Calificador para el identificador del centro siguiente,2,FIR (Región de información de vuelo),,,,,Operational,Original
@@ -218,7 +214,7 @@ bufr4/0/08/021/27,008021,Significación temporal,27,Primera aproximación,,,,,Op
 bufr4/0/08/021/28,008021,Significación temporal,28,Inicio de la exploración,,,,,Operational,Original
 bufr4/0/08/021/29,008021,Significación temporal,29,Final de exploración u hora de finalización,,,,,Operational,Original
 bufr4/0/08/021/30,008021,Significación temporal,30,Hora de ocurrencia,,,,,Operational,Original
-bufr4/0/08/021/31,008021,Significación temporal,31,Valor faltante,,,,,Operational,Original
+bufr4/0/08/021/31,008021,Significación temporal,31,Valor faltante Notas: 1) El “promedio de tiempo” indica que los valores se promedian de manera permanente a lo largo de un período de tiempo. 2) La “media de conjunto” indica que se han promediado una serie de valores distintos correspondientes a una serie de localizaciones temporales. 3) La significación del tiempo debe ser calificada por los períodos adecuados de tiempo que se especifican.,,,,,Operational,Original
 bufr4/0/08/023/0-1,008023,Estadísticas de primer orden*,0-1,Reservadas,,,,,Operational,Original
 bufr4/0/08/023/2,008023,Estadísticas de primer orden*,2,Valor máximo,,,,,Operational,Original
 bufr4/0/08/023/3,008023,Estadísticas de primer orden*,3,Valor mínimo,,,,,Operational,Original
@@ -227,7 +223,7 @@ bufr4/0/08/023/5,008023,Estadísticas de primer orden*,5,Valor mediano,,,,,Opera
 bufr4/0/08/023/6,008023,Estadísticas de primer orden*,6,Valor modal,,,,,Operational,Original
 bufr4/0/08/023/7,008023,Estadísticas de primer orden*,7,Error medio absoluto,,,,,Operational,Original
 bufr4/0/08/023/8,008023,Estadísticas de primer orden*,8,Reservada,,,,,Operational,Original
-bufr4/0/08/023/9,008023,Estadísticas de primer orden*,9,Mejor estimación de la desviación típica (N-1),,,,,Operational,Original
+bufr4/0/08/023/9,008023,Estadísticas de primer orden*,9,Mejor estimación de la desviación típica (N–1),,,,,Operational,Original
 bufr4/0/08/023/10,008023,Estadísticas de primer orden*,10,Desviación típica (N),,,,,Operational,Original
 bufr4/0/08/023/11,008023,Estadísticas de primer orden*,11,Media armónica,,,,,Operational,Original
 bufr4/0/08/023/12,008023,Estadísticas de primer orden*,12,Error vectorial cuadrático medio,,,,,Operational,Original
@@ -235,7 +231,7 @@ bufr4/0/08/023/13,008023,Estadísticas de primer orden*,13,Media cuadrática,,,,
 bufr4/0/08/023/14-31,008023,Estadísticas de primer orden*,14-31,Reservadas,,,,,Operational,Original
 bufr4/0/08/023/32,008023,Estadísticas de primer orden*,32,Media vectorial,,,,,Operational,Original
 bufr4/0/08/023/33-62,008023,Estadísticas de primer orden*,33-62,Reservadas para uso local,,,,,Operational,Original
-bufr4/0/08/023/63,008023,Estadísticas de primer orden*,63,Valor faltante,,,,,Operational,Original
+bufr4/0/08/023/63,008023,Estadísticas de primer orden*,63,Valor faltante _____________ * Todas las estadísticas de primer orden están expresadas en las unidades definidas por los descriptores de datos originales.,,,,,Operational,Original
 bufr4/0/08/024/0-1,008024,Estadísticas de diferencia*,0-1,Reservadas,,,,,Operational,Original
 bufr4/0/08/024/2,008024,Estadísticas de diferencia*,2,Observada menos máxima,,,,,Operational,Original
 bufr4/0/08/024/3,008024,Estadísticas de diferencia*,3,Observada menos mínima,,,,,Operational,Original
@@ -252,7 +248,7 @@ bufr4/0/08/024/21,008024,Estadísticas de diferencia*,21,Observada menos valor i
 bufr4/0/08/024/22,008024,Estadísticas de diferencia*,22,Observada menos valor calculado hidrostáticamente,,,,,Operational,Original
 bufr4/0/08/024/23-31,008024,Estadísticas de diferencia*,23-31,Reservadas,,,,,Operational,Original
 bufr4/0/08/024/32-62,008024,Estadísticas de diferencia*,32-62,Reservadas para uso local,,,,,Operational,Original
-bufr4/0/08/024/63,008024,Estadísticas de diferencia*,63,Valor faltante,,,,,Operational,Original
+bufr4/0/08/024/63,008024,Estadísticas de diferencia*,63,Valor faltante _____________,,,,,Operational,Original
 bufr4/0/08/025/0,008025,Calificador de diferencia de tiempo,0,Tiempo universal coordinado (UTC) menos hora local de referencia,,,,,Operational,Original
 bufr4/0/08/025/1,008025,Calificador de diferencia de tiempo,1,Hora local de referencia,,,,,Operational,Original
 bufr4/0/08/025/2,008025,Calificador de diferencia de tiempo,2,Tiempo universal coordinado (UTC) menos reloj del satélite,,,,,Operational,Original
@@ -378,23 +374,6 @@ bufr4/0/08/040/29,008040,Significación del nivel de vuelo,29,Nivel de viento m�
 bufr4/0/08/040/30,008040,Significación del nivel de vuelo,30,Nivel de viento con incrementos (fijado regionalmente),,,,,Operational,Original
 bufr4/0/08/040/31,008040,Significación del nivel de vuelo,31,Nivel de altura con incrementos (generado),,,,,Operational,Original
 bufr4/0/08/040/32,008040,Significación del nivel de vuelo,32,Nivel de terminación de viento,,,,,Operational,Original
-bufr4/0/08/040/33,008040,Significación del nivel de vuelo,33,"Presión de 100 a 110 hPa, cuando no se aplica otra razón",,,,,Operational,Original
-bufr4/0/08/040/34,008040,Significación del nivel de vuelo,34,Base del nivel de congelación,,,,,Operational,Original
-bufr4/0/08/040/35,008040,Significación del nivel de vuelo,35,Cima del nivel de congelación,,,,,Operational,Original
-bufr4/0/08/040/36,008040,Significación del nivel de vuelo,36,Base del nivel de vuelo,,,,,Operational,Original
-bufr4/0/08/040/37,008040,Significación del nivel de vuelo,37,Cima del nivel de vuelo,,,,,Operational,Original
-bufr4/0/08/040/38,008040,Significación del nivel de vuelo,38,Tope del sondeo del viento,,,,,Operational,Original
-bufr4/0/08/040/39,008040,Significación del nivel de vuelo,39,Base del sondeo del viento,,,,,Operational,Original
-bufr4/0/08/040/40,008040,Significación del nivel de vuelo,40,Nivel termodinámico significativo (inversión),,,,,Operational,Original
-bufr4/0/08/040/41,008040,Significación del nivel de vuelo,41,Nivel de humedad relativa significativo (según criterios del NCDC),,,,,Operational,Original
-bufr4/0/08/040/42,008040,Significación del nivel de vuelo,42,Nivel de temperatura significativo (según el NCDC),,,,,Operational,Original
-bufr4/0/08/040/43,008040,Significación del nivel de vuelo,43,Comienzo de datos faltantes de viento,,,,,Operational,Original
-bufr4/0/08/040/44,008040,Significación del nivel de vuelo,44,Fin de datos faltantes de viento,,,,,Operational,Original
-bufr4/0/08/040/45-59,008040,Significación del nivel de vuelo,45-59,Reservadas,,,,,Operational,Original
-bufr4/0/08/040/60,008040,Significación del nivel de vuelo,60,Nivel de la isotaca de 80 nudos por encima del chorro,,,,,Operational,Original
-bufr4/0/08/040/61,008040,Significación del nivel de vuelo,61,Nivel de la isotaca de 80 nudos por debajo del chorro,,,,,Operational,Original
-bufr4/0/08/040/62,008040,Significación del nivel de vuelo,62,Otros,,,,,Operational,Original
-bufr4/0/08/040/63,008040,Significación del nivel de vuelo,63,Valor faltante,,,,,Operational,Original
 bufr4/0/08/041/0,008041,Significación de datos,0,Sitio principal,,,,,Operational,Original
 bufr4/0/08/041/1,008041,Significación de datos,1,Sitio de observación,,,,,Operational,Original
 bufr4/0/08/041/2,008041,Significación de datos,2,Fecha de fabricación del globo,,,,,Operational,Original
@@ -427,28 +406,17 @@ bufr4/0/08/042/13,008042,Significación del sondeo vertical ampliado,13,Fin de d
 bufr4/0/08/042/14,008042,Significación del sondeo vertical ampliado,14,Techo del sondeo del viento,,,,,Operational,Original
 bufr4/0/08/042/15,008042,Significación del sondeo vertical ampliado,15,Nivel determinado por decisión regional,,,,,Operational,Original
 bufr4/0/08/042/16,008042,Significación del sondeo vertical ampliado,16,Nivel de congelación,,,,,Operational,Original
-bufr4/0/08/042/17,008042,Significación del sondeo vertical ampliado,17,Nivel de presión indicado originariamente por la altura como coordinada vertical,,,,,Operational,Original
-bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,Todos los 18,Valor faltante,,,,,Operational,Original
-bufr4/0/08/043/0,008043,Tipo de componente atmosférico químico o físico,0,Ozono,"Fórmula: O3, Número CAS: 10028-15-6",,,,Operational,Original
-bufr4/0/08/043/1,008043,Tipo de componente atmosférico químico o físico,1,Vapor de agua,"Fórmula: H2O, Número CAS: 7732-18-5",,,,Operational,Original
-bufr4/0/08/043/2,008043,Tipo de componente atmosférico químico o físico,2,Metano,"Fórmula: CH4, Número CAS: 74-82-8",,,,Operational,Original
-bufr4/0/08/043/3,008043,Tipo de componente atmosférico químico o físico,3,Dióxido de carbono,"Fórmula: CO2, Número CAS: 124-38-9",,,,Operational,Original
-bufr4/0/08/043/4,008043,Tipo de componente atmosférico químico o físico,4,Monóxido de carbono,"Fórmula: CO, Número CAS: 630-08-0",,,,Operational,Original
-bufr4/0/08/043/5,008043,Tipo de componente atmosférico químico o físico,5,Dióxido de nitrógeno,"Fórmula: NO2, Número CAS: 10102-44-0",,,,Operational,Original
-bufr4/0/08/043/6,008043,Tipo de componente atmosférico químico o físico,6,Óxido nitroso,"Fórmula: N2O, Número CAS: 10024-97-2",,,,Operational,Original
-bufr4/0/08/043/7,008043,Tipo de componente atmosférico químico o físico,7,Formaldehído,"Fórmula: HCHO, Número CAS: 50-00-0",,,,Operational,Original
-bufr4/0/08/043/8,008043,Tipo de componente atmosférico químico o físico,8,Dióxido de azufre,"Fórmula: SO2, Número CAS: 7446-09-5",,,,Operational,Original
-bufr4/0/08/043/9-24,008043,Tipo de componente atmosférico químico o físico,9-24,Reservadas,,,,,Operational,Original
-bufr4/0/08/043/25,008043,Tipo de componente atmosférico químico o físico,25,"Materia en partículas < 1,0 micrones",,,,,Operational,Original
-bufr4/0/08/043/26,008043,Tipo de componente atmosférico químico o físico,26,"Materia en partículas < 2,5 micrones",,,,,Operational,Original
-bufr4/0/08/043/27,008043,Tipo de componente atmosférico químico o físico,27,Materia en partículas < 10 micrones,,,,,Operational,Original
-bufr4/0/08/043/28,008043,Tipo de componente atmosférico químico o físico,28,Aerosoles (genérico),,,,,Operational,Original
-bufr4/0/08/043/29,008043,Tipo de componente atmosférico químico o físico,29,Humo (genérico),,,,,Operational,Original
-bufr4/0/08/043/30,008043,Tipo de componente atmosférico químico o físico,30,Material de corteza (polvo genérico),,,,,Operational,Original
-bufr4/0/08/043/31,008043,Tipo de componente atmosférico químico o físico,31,Ceniza volcánica,,,,,Operational,Original
-bufr4/0/08/043/32-200,008043,Tipo de componente atmosférico químico o físico,32-200,Reservadas,,,,,Operational,Original
-bufr4/0/08/043/201-254,008043,Tipo de componente atmosférico químico o físico,201-254,Reservadas para uso local,,,,,Operational,Original
-bufr4/0/08/043/255,008043,Tipo de componente atmosférico químico o físico,255,Valor faltante,,,,,Operational,Original
+bufr4/0/08/042/17,008042,Significación del sondeo vertical ampliado,17,"Nivel de presión indicado originariamente por la altura como coordinada vertical Todos los 18 Valor faltante Notas: 1) El nivel de congelación es el nivel en el que la temperatura desciende primero hasta 0 °C. Los criterios para seleccionar el nivel de congelación en las observaciones en altitud son: a) Si la temperatura en superficie no es inferior a 0 °C cuando se libera la radiosonda, se seleccionará como nivel de congelación el nivel más bajo al que la temperatura desciende primero hasta 0 °C. b) Si la temperatura en superficie es igual a 0 °C, la temperatura en superficie será el nivel de congelación. c) Si no existe un nivel en el que la temperatura sea exactamente igual a 0 °C en la observación, se utilizarán los dos niveles más cercanos con una temperatura que oscile entre valores positivos y negativos para interpolar el nivel de congelación cuya temperatura sea igual a 0 °C. d) Se calcularán los siguientes elementos para el nivel de congelación: tiempo, elevación, presión, humedad, temperatura del punto de rocío, depresión del punto de rocío, desviación de longitud y latitud.",,,,,Operational,Original
+bufr4/0/08/043/0,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),0,Ozono O 3,10028-15-6,,,,Operational,Original
+bufr4/0/08/043/1,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),1,Vapor de agua H O 2,7732-18-5,,,,Operational,Original
+bufr4/0/08/043/2,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),2,Metano CH 4,74-82-8,,,,Operational,Original
+bufr4/0/08/043/3,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),3,Dióxido de carbono CO 2,124-38-9,,,,Operational,Original
+bufr4/0/08/043/4,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),4,Monóxido de carbono CO,630–08-0,,,,Operational,Original
+bufr4/0/08/043/5,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),5,Dióxido de nitrógeno NO 2,10102-44-0,,,,Operational,Original
+bufr4/0/08/043/6,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),6,Óxido nitroso N O 2,10024-97-2,,,,Operational,Original
+bufr4/0/08/043/7,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),7,Formaldehído HCHO,50-00-0,,,,Operational,Original
+bufr4/0/08/043/8,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),8,Dióxido de azufre SO 2,7446-09-5,,,,Operational,Original
+bufr4/0/08/043/9-24,008043,Tipo de componente atmosférico químico o físico La última columna de la tabla contiene el número de registro correspondiente del Chemical Abstracts Service Nombre Fórmula Número CAS (si procede),9-24,Reservadas,,,,,Operational,Original
 bufr4/0/08/050/0,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,0,Reservada,,,,,Operational,Original
 bufr4/0/08/050/1,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,1,Presión,,,,,Operational,Original
 bufr4/0/08/050/2,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,2,Temperatura,,,,,Operational,Original
@@ -468,22 +436,22 @@ bufr4/0/08/051/4,008051,Calificador del número de valores faltantes en el cálc
 bufr4/0/08/051/5,008051,Calificador del número de valores faltantes en el cálculo de estadísticas,5,Precipitación,,,,,Operational,Original
 bufr4/0/08/051/6,008051,Calificador del número de valores faltantes en el cálculo de estadísticas,6,Duración de la insolación,,,,,Operational,Original
 bufr4/0/08/051/7,008051,Calificador del número de valores faltantes en el cálculo de estadísticas,7,Valor faltante,,,,,Operational,Original
-bufr4/0/08/052/0,008052,Condición por la que se deduce el número de días de ocurrencia,0,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 10 ms¯¹ o 20 nudos,,,,,Operational,Original
-bufr4/0/08/052/1,008052,Condición por la que se deduce el número de días de ocurrencia,1,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 20 ms¯¹ o 40 nudos,,,,,Operational,Original
-bufr4/0/08/052/2,008052,Condición por la que se deduce el número de días de ocurrencia,2,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 30 ms-¹ o 60 nudos,,,,,Operational,Original
-bufr4/0/08/052/3,008052,Condición por la que se deduce el número de días de ocurrencia,3,"Temperatura máxima inferior a 273,15° K",,,,,Operational,Original
-bufr4/0/08/052/4,008052,Condición por la que se deduce el número de días de ocurrencia,4,"Temperatura máxima igual o superior a 298,15° K",,,,,Operational,Original
-bufr4/0/08/052/5,008052,Condición por la que se deduce el número de días de ocurrencia,5,"Temperatura máxima igual o superior a 303,15° K",,,,,Operational,Original
-bufr4/0/08/052/6,008052,Condición por la que se deduce el número de días de ocurrencia,6,"Temperatura máxima igual o superior a 308,15° K",,,,,Operational,Original
-bufr4/0/08/052/7,008052,Condición por la que se deduce el número de días de ocurrencia,7,"Temperatura máxima igual o superior a 313,15° K",,,,,Operational,Original
-bufr4/0/08/052/8,008052,Condición por la que se deduce el número de días de ocurrencia,8,"Temperatura mínima inferior a 273,15° K",,,,,Operational,Original
-bufr4/0/08/052/9,008052,Condición por la que se deduce el número de días de ocurrencia,9,"Temperatura máxima igual o superior a 273,15° K",,,,,Operational,Original
-bufr4/0/08/052/10,008052,Condición por la que se deduce el número de días de ocurrencia,10,"Precipitaciones iguales o superiores a 1,0 kg m-2",,,,,Operational,Original
-bufr4/0/08/052/11,008052,Condición por la que se deduce el número de días de ocurrencia,11,"Precipitaciones iguales o superiores a 5,0 kg m-2",,,,,Operational,Original
-bufr4/0/08/052/12,008052,Condición por la que se deduce el número de días de ocurrencia,12,"Precipitaciones iguales o superiores a 10,0 kg m-2",,,,,Operational,Original
-bufr4/0/08/052/13,008052,Condición por la que se deduce el número de días de ocurrencia,13,"Precipitaciones iguales o superiores a 50,0 kg m-2",,,,,Operational,Original
-bufr4/0/08/052/14,008052,Condición por la que se deduce el número de días de ocurrencia,14,"Precipitaciones iguales o superiores a 100,0 kg m-2",,,,,Operational,Original
-bufr4/0/08/052/15,008052,Condición por la que se deduce el número de días de ocurrencia,15,"Precipitaciones iguales o superiores a 150,0 kg m-2",,,,,Operational,Original
+bufr4/0/08/052/0,008052,Condición por la que se deduce el número de días de ocurrencia,0,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 10 ms -1 o 20 nudos,,,,,Operational,Original
+bufr4/0/08/052/1,008052,Condición por la que se deduce el número de días de ocurrencia,1,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 20 ms -1 o 40 nudos,,,,,Operational,Original
+bufr4/0/08/052/2,008052,Condición por la que se deduce el número de días de ocurrencia,2,Velocidad media del viento observada o registrada durante un período de 10 minutos igual o superior a 30 ms -1 o 60 nudos,,,,,Operational,Original
+bufr4/0/08/052/3,008052,Condición por la que se deduce el número de días de ocurrencia,3,"Temperatura máxima inferior a 273,15º K",,,,,Operational,Original
+bufr4/0/08/052/4,008052,Condición por la que se deduce el número de días de ocurrencia,4,"Temperatura máxima igual o superior a 298,15º K",,,,,Operational,Original
+bufr4/0/08/052/5,008052,Condición por la que se deduce el número de días de ocurrencia,5,"Temperatura máxima igual o superior a 303,15º K",,,,,Operational,Original
+bufr4/0/08/052/6,008052,Condición por la que se deduce el número de días de ocurrencia,6,"Temperatura máxima igual o superior a 308,15º K",,,,,Operational,Original
+bufr4/0/08/052/7,008052,Condición por la que se deduce el número de días de ocurrencia,7,"Temperatura máxima igual o superior a 313,15º K",,,,,Operational,Original
+bufr4/0/08/052/8,008052,Condición por la que se deduce el número de días de ocurrencia,8,"Temperatura mínima inferior a 273,15º K",,,,,Operational,Original
+bufr4/0/08/052/9,008052,Condición por la que se deduce el número de días de ocurrencia,9,"Temperatura máxima igual o superior a 273,15º K",,,,,Operational,Original
+bufr4/0/08/052/10,008052,Condición por la que se deduce el número de días de ocurrencia,10,"Precipitaciones iguales o superiores a 1,0 kg m–2",,,,,Operational,Original
+bufr4/0/08/052/11,008052,Condición por la que se deduce el número de días de ocurrencia,11,"Precipitaciones iguales o superiores a 5,0 kg m–2",,,,,Operational,Original
+bufr4/0/08/052/12,008052,Condición por la que se deduce el número de días de ocurrencia,12,"Precipitaciones iguales o superiores a 10,0 kg m–2",,,,,Operational,Original
+bufr4/0/08/052/13,008052,Condición por la que se deduce el número de días de ocurrencia,13,"Precipitaciones iguales o superiores a 50,0 kg m–2",,,,,Operational,Original
+bufr4/0/08/052/14,008052,Condición por la que se deduce el número de días de ocurrencia,14,"Precipitaciones iguales o superiores a 100,0 kg m–2",,,,,Operational,Original
+bufr4/0/08/052/15,008052,Condición por la que se deduce el número de días de ocurrencia,15,"Precipitaciones iguales o superiores a 150,0 kg m–2",,,,,Operational,Original
 bufr4/0/08/052/16,008052,Condición por la que se deduce el número de días de ocurrencia,16,"Espesor de la capa de nieve superior a 0,00 m",,,,,Operational,Original
 bufr4/0/08/052/17,008052,Condición por la que se deduce el número de días de ocurrencia,17,"Espesor de la capa de nieve superior a 0,01 m",,,,,Operational,Original
 bufr4/0/08/052/18,008052,Condición por la que se deduce el número de días de ocurrencia,18,"Espesor de la capa de nieve superior a 0,10 m",,,,,Operational,Original
@@ -501,7 +469,7 @@ bufr4/0/08/053/2,008053,Calificador del día de ocurrencia,2,Reservada,,,,,Opera
 bufr4/0/08/053/3,008053,Calificador del día de ocurrencia,3,Valor faltante,,,,,Operational,Original
 bufr4/0/08/054/0,008054,Calificador de la velocidad del viento o de las ráfagas de viento,0,La velocidad del viento o las ráfagas coinciden con el valor notificado,,,,,Operational,Original
 bufr4/0/08/054/1,008054,Calificador de la velocidad del viento o de las ráfagas de viento,1,Velocidad del viento superior a la comunicada (P en METAR/TAF/SPECI),,,,,Operational,Original
-bufr4/0/08/054/2-6,008054,Calificador de la velocidad del viento o de las ráfagas de viento,2-6,Reservadas,,,,,Operational,Original
+bufr4/0/08/054/26,008054,Calificador de la velocidad del viento o de las ráfagas de viento,26,Reservadas,,,,,Operational,Original
 bufr4/0/08/054/7,008054,Calificador de la velocidad del viento o de las ráfagas de viento,7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/060/0,008060,Significación del modo de exploración de la muestra,0,Reservada,,,,,Operational,Original
 bufr4/0/08/060/1,008060,Significación del modo de exploración de la muestra,1,Alcance,,,,,Operational,Original
@@ -527,13 +495,6 @@ bufr4/0/08/070/3,008070,Calificador del producto de sonedo vertical,3,Datos cali
 bufr4/0/08/070/4,008070,Calificador del producto de sonedo vertical,4,"Por referencia a una proyección común del haz del satélite, datos calibrados de la radiancia en la superficie (nivel 1d)",,,,,Operational,Original
 bufr4/0/08/070/5-14,008070,Calificador del producto de sonedo vertical,5-14,Reservadas,,,,,Operational,Original
 bufr4/0/08/070/15,008070,Calificador del producto de sonedo vertical,15,Valor faltante,,,,,Operational,Original
-bufr4/0/08/072/0,008072,Tipo de píxel(es),0,Parcialmente nuboso,,,,,Operational,Original
-bufr4/0/08/072/1,008072,Tipo de píxel(es),1,Cielo despejado,,,,,Operational,Original
-bufr4/0/08/072/2,008072,Tipo de píxel(es),2,Nuboso,,,,,Operational,Original
-bufr4/0/08/072/3,008072,Tipo de píxel(es),3,Probablemente despejado,,,,,Operational,Original
-bufr4/0/08/072/4,008072,Tipo de píxel(es),4,Probablemente nuboso,,,,,Operational,Original
-bufr4/0/08/072/5-6,008072,Tipo de píxel(es),5-6,Reservadas,,,,,Operational,Original
-bufr4/0/08/072/7,008072,Tipo de píxel(es),7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/074/0,008074,Tipo de eco del altímetro,0,Mar abierto o mar semicerrado,,,,,Operational,Original
 bufr4/0/08/074/1,008074,Tipo de eco del altímetro,1,Diferente del océano,,,,,Operational,Original
 bufr4/0/08/074/2,008074,Tipo de eco del altímetro,2,Reservada,,,,,Operational,Original
@@ -548,7 +509,7 @@ bufr4/0/08/076/2,008076,Tipo de banda,2,Infrarroja de onda larga,,,,,Operational
 bufr4/0/08/076/3,008076,Tipo de banda,3,Infrarroja de onda media,,,,,Operational,Original
 bufr4/0/08/076/4,008076,Tipo de banda,4,Infrarroja de onda corta,,,,,Operational,Original
 bufr4/0/08/076/5,008076,Tipo de banda,5,M,,,,,Operational,Original
-bufr4/0/08/076/6,008076,Tipo de banda,6,I,,,,,Operational,Original
+bufr4/0/08/076/6,008076,Tipo de banda,6,,,,,,Operational,Original
 bufr4/0/08/076/7,008076,Tipo de banda,7,Día/noche,,,,,Operational,Original
 bufr4/0/08/076/8-62,008076,Tipo de banda,8-62,Reservadas,,,,,Operational,Original
 bufr4/0/08/076/63,008076,Tipo de banda,63,Valor faltante,,,,,Operational,Original
@@ -586,7 +547,7 @@ bufr4/0/08/080/16,008080,Calificador del banderín de calidad del GTSPP*,16,Oxí
 bufr4/0/08/080/17-19,008080,Calificador del banderín de calidad del GTSPP*,17-19,Reservadas,,,,,Operational,Original
 bufr4/0/08/080/20,008080,Calificador del banderín de calidad del GTSPP*,20,Posición,,,,,Operational,Original
 bufr4/0/08/080/21-62,008080,Calificador del banderín de calidad del GTSPP*,21-62,Reservadas,,,,,Operational,Original
-bufr4/0/08/080/63,008080,Calificador del banderín de calidad del GTSPP*,63,Valor faltante,,,,,Operational,Original
+bufr4/0/08/080/63,008080,Calificador del banderín de calidad del GTSPP*,63,Valor faltante * GTSPP – Programa Mundial sobre el Perfil de la Temperatura y la Salinidad.,,,,,Operational,Original
 bufr4/0/08/081/0,008081,Tipo de equipo,0,Sensor,,,,,Operational,Original
 bufr4/0/08/081/1,008081,Tipo de equipo,1,Transmisor,,,,,Operational,Original
 bufr4/0/08/081/2,008081,Tipo de equipo,2,Receptor,,,,,Operational,Original
@@ -596,7 +557,7 @@ bufr4/0/08/081/63,008081,Tipo de equipo,63,Valor faltante,,,,,Operational,Origin
 bufr4/0/08/082/0,008082,Modificación de la altura del sensor a otro valor,0,a altura del sensor no se modifica,,,,,Operational,Original
 bufr4/0/08/082/1,008082,Modificación de la altura del sensor a otro valor,1,La altura del sensor se cambia al nivel estándar *,,,,,Operational,Original
 bufr4/0/08/082/2-6,008082,Modificación de la altura del sensor a otro valor,2-6,Reservadas,,,,,Operational,Original
-bufr4/0/08/082/7,008082,Modificación de la altura del sensor a otro valor,7,Valor faltante,,,,,Operational,Original
+bufr4/0/08/082/7,008082,Modificación de la altura del sensor a otro valor,7,"Valor faltante _____________ * Si 0 08 082 = 1, el nivel estándar viene indicado por el descriptor de Clase  07, que aparece inmediatamente a continuación. Es posible indicar la altura real del sensor precediendo el descriptor por el correspondiente descriptor de Clase 07.",,,,,Operational,Original
 bufr4/0/08/083/1,008083,Indicador del valor nominal,1,Ajustado a/con respecto a la altura representativa del sensor del suelo local (o cubierta de la plataforma marina),,,,,Operational,Original
 bufr4/0/08/083/2,008083,Indicador del valor nominal,2,Ajustado a/con respecto a la altura representativa del sensor sobre la superficie del agua,,,,,Operational,Original
 bufr4/0/08/083/3,008083,Indicador del valor nominal,3,Ajustado con respecto a la rugosidad estándar de la superficie,,,,,Operational,Original
@@ -606,8 +567,7 @@ bufr4/0/08/083/6,008083,Indicador del valor nominal,6,Ajustado con respecto a la
 bufr4/0/08/083/7,008083,Indicador del valor nominal,7,Ajustado con respecto a la humedad,,,,,Operational,Original
 bufr4/0/08/083/8,008083,Indicador del valor nominal,8,Ajustado con respecto a la evaporación,,,,,Operational,Original
 bufr4/0/08/083/9,008083,Indicador del valor nominal,9,Ajustado con respecto a las pérdidas por humedad,,,,,Operational,Original
-bufr4/0/08/083/10-14,008083,Indicador del valor nominal,10-14,Reservados,,,,,Operational,Original
-bufr4/0/08/083/All-15,008083,Indicador del valor nominal,Todos los 15,Valor faltante,,,,,Operational,Original
+bufr4/0/08/083/10-14,008083,Indicador del valor nominal,10-14,Reservados Todos los 15 Valor faltante,,,,,Operational,Original
 bufr4/0/08/085/0,008085,Identificador del haz,0,Haz de proa,,,,,Operational,Original
 bufr4/0/08/085/1,008085,Identificador del haz,1,Haz medio,,,,,Operational,Original
 bufr4/0/08/085/2,008085,Identificador del haz,2,Haz de popa,,,,,Operational,Original
@@ -623,8 +583,7 @@ bufr4/0/08/086/7,008086,Significación vertical para predicción numérica del t
 bufr4/0/08/086/8,008086,Significación vertical para predicción numérica del tiempo,8,Nivel interpolado verticalmente (debería estar fijado en 1 para los puntos del perfil vertical comprendidos entre los niveles verticales nativos del modelo),,,,,Operational,Original
 bufr4/0/08/086/9,008086,Significación vertical para predicción numérica del tiempo,9,Altura virtual de la estación,,,,,Operational,Original
 bufr4/0/08/086/10,008086,Significación vertical para predicción numérica del tiempo,10,Nivel de ajuste óptimo,,,,,Operational,Original
-bufr4/0/08/086/11,008086,Significación vertical para predicción numérica del tiempo,11,Reservados,,,,,Operational,Original
-bufr4/0/08/086/All-12,008086,Significación vertical para predicción numérica del tiempo,Todos los 12,Valor faltante,,,,,Operational,Original
+bufr4/0/08/086/11,008086,Significación vertical para predicción numérica del tiempo,11,Reservados Todos los 12 Valor faltante,,,,,Operational,Original
 bufr4/0/08/087/0,008087,Posición esquinera de la observación,0,Izquierda superior,,,,,Operational,Original
 bufr4/0/08/087/1,008087,Posición esquinera de la observación,1,Derecha superior,,,,,Operational,Original
 bufr4/0/08/087/2,008087,Posición esquinera de la observación,2,Derecha inferior,,,,,Operational,Original
@@ -632,7 +591,7 @@ bufr4/0/08/087/3,008087,Posición esquinera de la observación,3,Izquierda infer
 bufr4/0/08/087/4-6,008087,Posición esquinera de la observación,4-6,Reservadas,,,,,Operational,Original
 bufr4/0/08/087/7,008087,Posición esquinera de la observación,7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/088/0,008088,Significación del mapa,0,Vista superior (longitud geográfica en el eje x y latitud en el eje y),,,,,Operational,Original
-bufr4/0/08/088/1,008088,Significación del mapa,1,Vista Norte-Sur (transecto con longitud geográfica en el eje x y altura vertical en el eje y),,,,,Operational,Original
+bufr4/0/08/088/1,008088,Significación del mapa,1,Vista Norte-Sur (transecto con longitud geográfica en el eje x y altura vertical en el eje  y),,,,,Operational,Original
 bufr4/0/08/088/2,008088,Significación del mapa,2,Vista Este-Oeste (transecto con longitud geográfica en el eje x y altura vertical en el eje y),,,,,Operational,Original
 bufr4/0/08/088/3-62,008088,Significación del mapa,3-62,Reservadas,,,,,Operational,Original
 bufr4/0/08/088/63,008088,Significación del mapa,63,Faltante,,,,,Operational,Original

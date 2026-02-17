@@ -38,8 +38,7 @@ bufr4/0/03/008/1,003008,Garita o protección ventilada artificialmente,1,Aspirac
 bufr4/0/03/008/2,003008,Garita o protección ventilada artificialmente,2,Aspiración artificial en uso: flujo variable en el momento de la lectura,,,,,Operational,Original
 bufr4/0/03/008/3-6,003008,Garita o protección ventilada artificialmente,3-6,Reservadas,,,,,Operational,Original
 bufr4/0/03/008/7,003008,Garita o protección ventilada artificialmente,7,Valor faltante,,,,,Operational,Original
-bufr4/0/03/010/0,003010,Método de medición de la corriente del mar/agua,0,Reservada,,,,,Operational,Original
-bufr4/0/03/010/1,003010,Método de medición de la corriente del mar/agua,1,ADCP,,"*,**",,,Operational,Original
+bufr4/0/03/010/0,003010,Método de medición de la corriente del mar/agua,0,Reservada 1* ADCP**,,,,,Operational,Original
 bufr4/0/03/010/2,003010,Método de medición de la corriente del mar/agua,2,GEK (Electrocinetógrafo geomagnético),,,,,Operational,Original
 bufr4/0/03/010/3,003010,Método de medición de la corriente del mar/agua,3,Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos de 3 a 6 horas,,,,,Operational,Original
 bufr4/0/03/010/4,003010,Método de medición de la corriente del mar/agua,4,"Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos superiores a 6 horas, pero inferiores a 12 horas",,,,,Operational,Original
@@ -50,7 +49,7 @@ bufr4/0/03/010/8,003010,Método de medición de la corriente del mar/agua,8,Sens
 bufr4/0/03/010/9,003010,Método de medición de la corriente del mar/agua,9,Rotor y paleta,,,,,Operational,Original
 bufr4/0/03/010/10,003010,Método de medición de la corriente del mar/agua,10,ADCP descendido,,,,,Operational,Original
 bufr4/0/03/010/11-14,003010,Método de medición de la corriente del mar/agua,11-14,Reservadas,,,,,Operational,Original
-bufr4/0/03/010/15,003010,Método de medición de la corriente del mar/agua,15,Valor faltante,,,,,Operational,Original
+bufr4/0/03/010/15,003010,Método de medición de la corriente del mar/agua,15,Valor faltante _____________ * Valor relegado. Utilícese en su lugar la cifra de clave 6. ** Perfilador de corriente de efecto Doppler,,,,,Operational,Original
 bufr4/0/03/011/0,003011,Método de cálculo de la profundidad,0,Profundidad calculada mediante la ecuación de velocidad de caída,,,,,Operational,Original
 bufr4/0/03/011/1,003011,Método de cálculo de la profundidad,1,Profundidad calculada mediante la presión de agua/ecuación de estado,,,,,Operational,Original
 bufr4/0/03/011/2,003011,Método de cálculo de la profundidad,2,Reservada,,,,,Operational,Original
@@ -73,8 +72,7 @@ bufr4/0/03/017/1,003017,Tipo de estación ampliado,1,Automática,,,,,Operational
 bufr4/0/03/017/2,003017,Tipo de estación ampliado,2,Dotada de personal,,,,,Operational,Original
 bufr4/0/03/017/3,003017,Tipo de estación ampliado,3,Activada por eventos,,,,,Operational,Original
 bufr4/0/03/017/4,003017,Tipo de estación ampliado,4,Período de tiempo más largo que la norma,,,,,Operational,Original
-bufr4/0/03/017/5,003017,Tipo de estación ampliado,5,Reservado,,,,,Operational,Original
-bufr4/0/03/017/All-6,003017,Tipo de estación ampliado,Todos los 6,Valor faltante,,,,,Operational,Original
+bufr4/0/03/017/5,003017,Tipo de estación ampliado,5,Reservado Todos los 6 Valor faltante,,,,,Operational,Original
 bufr4/0/03/018/0,003018,Tipo de carretera,0,Carril libre sin otra información,,,,,Operational,Original
 bufr4/0/03/018/1,003018,Tipo de carretera,1,"Carril libre, terraplén",,,,,Operational,Original
 bufr4/0/03/018/2,003018,Tipo de carretera,2,"Carril libre, llano en relación con los alrededores",,,,,Operational,Original
@@ -94,43 +92,38 @@ bufr4/0/03/018/20,003018,Tipo de carretera,20,"Puente, sin otra información",,,
 bufr4/0/03/018/21,003018,Tipo de carretera,21,Puente a través de un valle en una zona urbana,,,,,Operational,Original
 bufr4/0/03/018/22,003018,Tipo de carretera,22,Puente a través de un valle con bosque/praderas/campos,,,,,Operational,Original
 bufr4/0/03/018/23,003018,Tipo de carretera,23,Puente a través de una calle/un carril,,,,,Operational,Original
-bufr4/0/03/018/24,003018,Tipo de carretera,24,Puente a través de un río/canal de tamaño grande,,,,,Operational,Original
-bufr4/0/03/018/25,003018,Tipo de carretera,25,Puente a través de un río/canal de tamaño medio,,,,,Operational,Original
-bufr4/0/03/018/26,003018,Tipo de carretera,26,Puente a través de un arroyo/canal de carga de tamaño pequeño,,,,,Operational,Original
-bufr4/0/03/018/27-30,003018,Tipo de carretera,27-30,Reservadas,,,,,Operational,Original
-bufr4/0/03/018/31,003018,Tipo de carretera,31,Valor faltante,,,,,Operational,Original
 bufr4/0/03/019/0,003019,Tipo de construcción,0,Asfalto,,,,,Operational,Original
 bufr4/0/03/019/1,003019,Tipo de construcción,1,Hormigón,,,,,Operational,Original
 bufr4/0/03/019/2,003019,Tipo de construcción,2,Construcción de hormigón,,,,,Operational,Original
 bufr4/0/03/019/3,003019,Tipo de construcción,3,Construcción con vigas de acero,,,,,Operational,Original
 bufr4/0/03/019/4,003019,Tipo de construcción,4,Puente con vigas cajón,,,,,Operational,Original
 bufr4/0/03/019/5,003019,Tipo de construcción,5,Tablero ortotrópico,,,,,Operational,Original
-bufr4/0/03/019/6,003019,Tipo de construcción,6,Asfalto drete,,,,,Operational,Original
+bufr4/0/03/019/6,003019,Tipo de construcción,6,Asfalto drenante,,,,,Operational,Original
 bufr4/0/03/019/7-14,003019,Tipo de construcción,7-14,Reservadas,,,,,Operational,Original
 bufr4/0/03/019/15,003019,Tipo de construcción,15,Valor faltante,,,,,Operational,Original
-bufr4/0/03/020/0,003020,Material del abrigo del termómetro/higrómetro,0,Madera,,,,,Operational,Original
-bufr4/0/03/020/1,003020,Material del abrigo del termómetro/higrómetro,1,Aleación metálica,,,,,Operational,Original
-bufr4/0/03/020/2,003020,Material del abrigo del termómetro/higrómetro,2,Plástico/plástico reforzado con fibra de vidrio,,,,,Operational,Original
-bufr4/0/03/020/3,003020,Material del abrigo del termómetro/higrómetro,3,Caña/hierba/hoja,,,,,Operational,Original
-bufr4/0/03/020/4-6,003020,Material del abrigo del termómetro/higrómetro,4-6,Reservadas para uso futuro,,,,,Operational,Original
-bufr4/0/03/020/7,003020,Material del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,Operational,Original
-bufr4/0/03/021/0,003021,Calefacción del higrómetro,0,Sin calefacción,,,,,Operational,Original
-bufr4/0/03/021/1,003021,Calefacción del higrómetro,1,Con calefacción,,,,,Operational,Original
-bufr4/0/03/021/2,003021,Calefacción del higrómetro,2,No aplicable,,,,,Operational,Original
-bufr4/0/03/021/3,003021,Calefacción del higrómetro,3,Valor faltante,,,,,Operational,Original
-bufr4/0/03/022/0,003022,Propietario del instrumento,0,Servicio Meteorológico o Hidrometeorológico Nacional,,,,,Operational,Original
-bufr4/0/03/022/1,003022,Propietario del instrumento,1,Otro,,,,,Operational,Original
-bufr4/0/03/022/2,003022,Propietario del instrumento,2,Instituto de normalización,,,,,Operational,Original
-bufr4/0/03/022/3-6,003022,Propietario del instrumento,3-6,Reservadas para uso futuro,,,,,Operational,Original
-bufr4/0/03/022/7,003022,Propietario del instrumento,7,Valor faltante,,,,,Operational,Original
-bufr4/0/03/023/0,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,0,Persianas en sección v simple,,,,,Operational,Original
-bufr4/0/03/023/1,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,1,Persianas superpuestas,,,,,Operational,Original
-bufr4/0/03/023/2,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,2,Persianas en sección v doble,,,,,Operational,Original
-bufr4/0/03/023/3,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,3,Persianas no superpuestas,,,,,Operational,Original
-bufr4/0/03/023/4,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,4,"Ventilado, sin persianas",,,,,Operational,Original
-bufr4/0/03/023/5,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,5,No aplicable,,,,,Operational,Original
-bufr4/0/03/023/6,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,6,Reservadas para uso futuro,,,,,Operational,Original
-bufr4/0/03/023/7,003023,Configuración de las persianas del abrigo del termómetro/higrómetro,7,Valor faltante,,,,,Operational,Original
+bufr4/0/03/020/0,003020,Material del abrigo del termómetro/higrómetro Significado,0,Madera,,,,,Operational,Original
+bufr4/0/03/020/1,003020,Material del abrigo del termómetro/higrómetro Significado,1,Aleación metálica,,,,,Operational,Original
+bufr4/0/03/020/2,003020,Material del abrigo del termómetro/higrómetro Significado,2,Plástico/plástico reforzado con fibra de vidrio,,,,,Operational,Original
+bufr4/0/03/020/3,003020,Material del abrigo del termómetro/higrómetro Significado,3,Caña/hierba/hoja,,,,,Operational,Original
+bufr4/0/03/020/4-6,003020,Material del abrigo del termómetro/higrómetro Significado,4-6,Reservadas para uso futuro,,,,,Operational,Original
+bufr4/0/03/020/7,003020,Material del abrigo del termómetro/higrómetro Significado,7,Valor faltante,,,,,Operational,Original
+bufr4/0/03/021/0,003021,Calefacción del higrómetro Significado,0,Sin calefacción,,,,,Operational,Original
+bufr4/0/03/021/1,003021,Calefacción del higrómetro Significado,1,Con calefacción,,,,,Operational,Original
+bufr4/0/03/021/2,003021,Calefacción del higrómetro Significado,2,No aplicable,,,,,Operational,Original
+bufr4/0/03/021/3,003021,Calefacción del higrómetro Significado,3,Valor faltante,,,,,Operational,Original
+bufr4/0/03/022/0,003022,Propietario del instrumento Significado,0,Servicio Meteorológico o Hidrometeorológico Nacional,,,,,Operational,Original
+bufr4/0/03/022/1,003022,Propietario del instrumento Significado,1,Otro,,,,,Operational,Original
+bufr4/0/03/022/2,003022,Propietario del instrumento Significado,2,Instituto de normalización,,,,,Operational,Original
+bufr4/0/03/022/3-6,003022,Propietario del instrumento Significado,3-6,Reservadas para uso futuro,,,,,Operational,Original
+bufr4/0/03/022/7,003022,Propietario del instrumento Significado,7,Valor faltante,,,,,Operational,Original
+bufr4/0/03/023/0,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,0,Persianas en sección v simple,,,,,Operational,Original
+bufr4/0/03/023/1,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,1,Persianas superpuestas,,,,,Operational,Original
+bufr4/0/03/023/2,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,2,Persianas en sección v doble,,,,,Operational,Original
+bufr4/0/03/023/3,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,3,Persianas no superpuestas,,,,,Operational,Original
+bufr4/0/03/023/4,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,4,"Ventilado, sin persianas",,,,,Operational,Original
+bufr4/0/03/023/5,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,5,No aplicable,,,,,Operational,Original
+bufr4/0/03/023/6,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,6,Reservadas para uso futuro,,,,,Operational,Original
+bufr4/0/03/023/7,003023,Configuración de las persianas del abrigo del termómetro/higrómetro Significado,7,Valor faltante,,,,,Operational,Original
 bufr4/0/03/027/0,003027,Tipo de mecanismo de vuelo,0,Solo (radiosonda individual),,,,,Operational,Original
 bufr4/0/03/027/1,003027,Tipo de mecanismo de vuelo,1,Bloque,,,,,Operational,Original
 bufr4/0/03/027/2,003027,Tipo de mecanismo de vuelo,2,Barra,,,,,Operational,Original
@@ -141,7 +134,7 @@ bufr4/0/03/027/6,003027,Tipo de mecanismo de vuelo,6,Complejo,,,,,Operational,Or
 bufr4/0/03/027/7-14,003027,Tipo de mecanismo de vuelo,7-14,Reservadas,,,,,Operational,Original
 bufr4/0/03/027/15,003027,Tipo de mecanismo de vuelo,15,Valor faltante,,,,,Operational,Original
 bufr4/0/03/028/0,003028,Método de medición del equivalente en agua de la nieve,0,Examen manual multipunto de la nieve,,,,,Operational,Original
-bufr4/0/03/028/1,003028,Método de medición del equivalente en agua de la nieve,1,Medición manual del equivalente en agua de la nieve en un solo punto,,,,,Operational,Original
+bufr4/0/03/028/1,003028,Método de medición del equivalente en agua de la nieve,1,Medición  manual del equivalente en agua de la nieve en un solo punto,,,,,Operational,Original
 bufr4/0/03/028/2,003028,Método de medición del equivalente en agua de la nieve,2,Colchón de nieve o escala de nieve,,,,,Operational,Original
 bufr4/0/03/028/3,003028,Método de medición del equivalente en agua de la nieve,3,Gamma pasiva,,,,,Operational,Original
 bufr4/0/03/028/4,003028,Método de medición del equivalente en agua de la nieve,4,Métodos GNSS/GPS,,,,,Operational,Original

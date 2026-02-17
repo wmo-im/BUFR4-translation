@@ -1,0 +1,97 @@
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
+bufr4/0/35/000/000-099,035000,Número de clave FM y regional,000-099,Claves FM internacionales,,,,,Operational,Original
+bufr4/0/35/000/100-199,035000,Número de clave FM y regional,100-199,Claves de la AR I,,,,,Operational,Original
+bufr4/0/35/000/200-299,035000,Número de clave FM y regional,200-299,Claves de la AR II,,,,,Operational,Original
+bufr4/0/35/000/300-399,035000,Número de clave FM y regional,300-399,Claves de la AR III,,,,,Operational,Original
+bufr4/0/35/000/400-499,035000,Número de clave FM y regional,400-499,Claves de la AR IV,,,,,Operational,Original
+bufr4/0/35/000/500-599,035000,Número de clave FM y regional,500-599,Claves de la AR V,,,,,Operational,Original
+bufr4/0/35/000/600-699,035000,Número de clave FM y regional,600-699,Claves de la AR VI,,,,,Operational,Original
+bufr4/0/35/000/700-799,035000,Número de clave FM y regional,700-799,Claves de la Antártida,,,,,Operational,Original
+bufr4/0/35/000/800-999,035000,Número de clave FM y regional,800-999,Reservadas,,,,,Operational,Original
+bufr4/0/35/000/1000-1022,035000,Número de clave FM y regional,1000-1022,No utilizadas,,,,,Operational,Original
+bufr4/0/35/000/1023,035000,Número de clave FM y regional,1023,Valor faltante,,,,,Operational,Original
+bufr4/0/35/001/0,035001,Plazo de tiempo para el control,0,Tiempo real,,,,,Operational,Original
+bufr4/0/35/001/1,035001,Plazo de tiempo para el control,1,Tiempo casi real,,,,,Operational,Original
+bufr4/0/35/001/2,035001,Plazo de tiempo para el control,2,Tiempo no real,,,,,Operational,Original
+bufr4/0/35/001/3-6,035001,Plazo de tiempo para el control,3-6,Reservadas,,,,,Operational,Original
+bufr4/0/35/001/7,035001,Plazo de tiempo para el control,7,Valor faltante,,,,,Operational,Original
+bufr4/0/35/030/0,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,0,Ninguna discrepancia,,,,,Operational,Original
+bufr4/0/35/030/1,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,1,"Discrepancia con las prácticas y procedimientos normalizados y recomendados, incluidos los del control",,,,,Operational,Original
+bufr4/0/35/030/2,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,2,Catálogos de boletines meteorológicos no actualizados oportunamente,,,,,Operational,Original
+bufr4/0/35/030/3,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,3,Directorios de encaminamiento incorrectos,,,,,Operational,Original
+bufr4/0/35/030/4,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,4,Falta de flexibilidad en las disposiciones de encaminamiento,,,,,Operational,Original
+bufr4/0/35/030/5,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,5,Deficiencias en el funcionamiento de los centros y circuitos del SMT,,,,,Operational,Original
+bufr4/0/35/030/6,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,6,Pérdida de datos o retardos en la retransmisión de datos por el SMT,,,,,Operational,Original
+bufr4/0/35/030/7,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,7,Encaminamiento de datos diferente del encaminamiento que figura en el plan,,,,,Operational,Original
+bufr4/0/35/030/8,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,8,Prácticas incorrectas diversas,,,,,Operational,Original
+bufr4/0/35/030/9-14,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,9-14,Reservadas,,,,,Operational,Original
+bufr4/0/35/030/15,035030,Discrepancias en cuanto a la disponibilidad de datos esperados,15,Valor faltante,,,,,Operational,Original
+bufr4/0/35/031/1,035031,Calificador de los resultados del control,1,Suficientes y todos de calidad aceptable,,,,,Operational,Original
+bufr4/0/35/031/2,035031,Calificador de los resultados del control,2,"Suficientes, pero parcialmente de calidad aceptable",,,,,Operational,Original
+bufr4/0/35/031/3,035031,Calificador de los resultados del control,3,"Insuficientes, pero todos de calidad aceptable",,,,,Operational,Original
+bufr4/0/35/031/4,035031,Calificador de los resultados del control,4,Insuficientes y de calidad inaceptable,,,,,Operational,Original
+bufr4/0/35/031/5,035031,Calificador de los resultados del control,5,Algunos mensajes incompletos,,,,,Operational,Original
+bufr4/0/35/031/6,035031,Calificador de los resultados del control,6,Imposibilidad de interpretar con fiabilidad grupos sospechosos o incorrectamente cifrados,,,,,Operational,Original
+bufr4/0/35/031/7,035031,Calificador de los resultados del control,7,Errores de cifrado importantes,,,,,Operational,Original
+bufr4/0/35/031/8,035031,Calificador de los resultados del control,8,Orden de transmisión secuencial no respetado,,,,,Operational,Original
+bufr4/0/35/031/9,035031,Calificador de los resultados del control,9,"Informe trastocado y, por consiguiente, descartado",,,,,Operational,Original
+bufr4/0/35/031/10,035031,Calificador de los resultados del control,10,Deficiencias identificadas y rectificadas,,,,,Operational,Original
+bufr4/0/35/031/11,035031,Calificador de los resultados del control,11,"Deficiencias identificadas, pero no rectificadas",,,,,Operational,Original
+bufr4/0/35/031/12,035031,Calificador de los resultados del control,12,Deficiencias no identificadas,,,,,Operational,Original
+bufr4/0/35/031/13,035031,Calificador de los resultados del control,13,Errores de medición,,,,,Operational,Original
+bufr4/0/35/031/14,035031,Calificador de los resultados del control,14,Incongruencia recíproca,,,,,Operational,Original
+bufr4/0/35/031/15,035031,Calificador de los resultados del control,15,Incongruencia temporal,,,,,Operational,Original
+bufr4/0/35/031/16,035031,Calificador de los resultados del control,16,Error de predicción,,,,,Operational,Original
+bufr4/0/35/031/17,035031,Calificador de los resultados del control,17,Error sistemático,,,,,Operational,Original
+bufr4/0/35/031/18,035031,Calificador de los resultados del control,18,Mejora del sistema de control de calidad,,,,,Operational,Original
+bufr4/0/35/031/19,035031,Calificador de los resultados del control,19,Ampliación de los programas de formación,,,,,Operational,Original
+bufr4/0/35/031/20-98,035031,Calificador de los resultados del control,20-98,Reservadas,,,,,Operational,Original
+bufr4/0/35/031/99-126,035031,Calificador de los resultados del control,99-126,No utilizadas,,,,,Operational,Original
+bufr4/0/35/031/127,035031,Calificador de los resultados del control,127,Valor faltante,,,,,Operational,Original
+bufr4/0/35/032/1,035032,Causa de los datos faltantes,1,Grupos de datos faltantes por desvanecimiento de señal de radio,,,,,Operational,Original
+bufr4/0/35/032/2,035032,Causa de los datos faltantes,2,Grupos de datos faltantes por interrupción de funcionamiento de un centro,,,,,Operational,Original
+bufr4/0/35/032/3,035032,Causa de los datos faltantes,3,Grupos de datos faltantes por interrupción de funcionamiento de un circuito,,,,,Operational,Original
+bufr4/0/35/032/4,035032,Causa de los datos faltantes,4,No implementación o mantenimiento de la densidad requerida para la RSBR,,,,,Operational,Original
+bufr4/0/35/032/5,035032,Causa de los datos faltantes,5,Insuficiencia de personal calificado para atender las estaciones,,,,,Operational,Original
+bufr4/0/35/032/6,035032,Causa de los datos faltantes,6,Falta de material fungible,,,,,Operational,Original
+bufr4/0/35/032/7,035032,Causa de los datos faltantes,7,Fallo de instrumento,,,,,Operational,Original
+bufr4/0/35/032/8,035032,Causa de los datos faltantes,8,Discordancia con los procedimientos de telecomunicación,,,,,Operational,Original
+bufr4/0/35/032/9,035032,Causa de los datos faltantes,9,Terminación de algunos programas de observación,,,,,Operational,Original
+bufr4/0/35/032/10-14,035032,Causa de los datos faltantes,10-14,No utilizadas,,,,,Operational,Original
+bufr4/0/35/032/15,035032,Causa de los datos faltantes,15,Valor faltante,,,,,Operational,Original
+bufr4/0/35/033/1,035033,Deficiencias de observación y recopilación,1,Ninguna deficiencia,,,,,Operational,Original
+bufr4/0/35/033/2,035033,Deficiencias de observación y recopilación,2,Observaciones efectuadas irregularmente,,,,,Operational,Original
+bufr4/0/35/033/3,035033,Deficiencias de observación y recopilación,3,Observaciones no efectuadas en el momento adecuado,,,,,Operational,Original
+bufr4/0/35/033/4,035033,Deficiencias de observación y recopilación,4,Observaciones efectuadas pero no difundidas,,,,,Operational,Original
+bufr4/0/35/033/5,035033,Deficiencias de observación y recopilación,5,Observaciones efectuadas y enviadas a usuarios incorrectos,,,,,Operational,Original
+bufr4/0/35/033/6,035033,Deficiencias de observación y recopilación,6,Recopilación no recibida,,,,,Operational,Original
+bufr4/0/35/033/7,035033,Deficiencias de observación y recopilación,7,Recopilación transmitida tardíamente,,,,,Operational,Original
+bufr4/0/35/033/8,035033,Deficiencias de observación y recopilación,8,Recopilación no transmitida,,,,,Operational,Original
+bufr4/0/35/033/9,035033,Deficiencias de observación y recopilación,9,Dificultades en la propagación HF y en la selección de una frecuencia adecuada,,,,,Operational,Original
+bufr4/0/35/033/10,035033,Deficiencias de observación y recopilación,10,Dificultades en el mantenimiento del equipo de comunicación en estaciones distantes,,,,,Operational,Original
+bufr4/0/35/033/11,035033,Deficiencias de observación y recopilación,11,Ninguna disposición alternativa para encaminar las observaciones meteorológicas,,,,,Operational,Original
+bufr4/0/35/033/12-99,035033,Deficiencias de observación y recopilación,12-99,Reservadas,,,,,Operational,Original
+bufr4/0/35/033/100-122,035033,Deficiencias de observación y recopilación,100-122,No utilizadas,,,,,Operational,Original
+bufr4/0/35/033/123,035033,Deficiencias de observación y recopilación,123,Valor faltante,,,,,Operational,Original
+bufr4/0/35/034/1,035034,examinado(s)),1,Mejora ligera,,,,,Operational,Original
+bufr4/0/35/034/2,035034,examinado(s)),2,Mejora importante,,,,,Operational,Original
+bufr4/0/35/034/3,035034,examinado(s)),3,Mejora muy importante,,,,,Operational,Original
+bufr4/0/35/034/4,035034,examinado(s)),4,Sin variaciones,,,,,Operational,Original
+bufr4/0/35/034/5,035034,examinado(s)),5,En disminución,,,,,Operational,Original
+bufr4/0/35/034/6,035034,examinado(s)),6,Esfuerzos requeridos para mejorar las observaciones nocturnas,,,,,Operational,Original
+bufr4/0/35/034/7,035034,examinado(s)),7,Valor faltante,,,,,Operational,Original
+bufr4/0/35/035/0,035035,Motivo de la terminación,0,Reservada,,,,,Operational,Original
+bufr4/0/35/035/1,035035,Motivo de la terminación,1,Estallido del globo,,,,,Operational,Original
+bufr4/0/35/035/2,035035,Motivo de la terminación,2,Globo obligado a descender por engelamiento,,,,,Operational,Original
+bufr4/0/35/035/3,035035,Motivo de la terminación,3,Globo con fugas o a la deriva,,,,,Operational,Original
+bufr4/0/35/035/4,035035,Motivo de la terminación,4,Señal débil o con desvanecimiento,,,,,Operational,Original
+bufr4/0/35/035/5,035035,Motivo de la terminación,5,Desperfecto de la batería,,,,,Operational,Original
+bufr4/0/35/035/6,035035,Motivo de la terminación,6,Desperfecto del equipo en tierra,,,,,Operational,Original
+bufr4/0/35/035/7,035035,Motivo de la terminación,7,Interferencia de la señal,,,,,Operational,Original
+bufr4/0/35/035/8,035035,Motivo de la terminación,8,Desperfecto de la radiosonda,,,,,Operational,Original
+bufr4/0/35/035/9,035035,Motivo de la terminación,9,Falta excesiva de tramas de datos,,,,,Operational,Original
+bufr4/0/35/035/10,035035,Motivo de la terminación,10,Reservada,,,,,Operational,Original
+bufr4/0/35/035/11,035035,Motivo de la terminación,11,Falta excesiva de temperatura,,,,,Operational,Original
+bufr4/0/35/035/12,035035,Motivo de la terminación,12,Falta excesiva de presión,,,,,Operational,Original
+bufr4/0/35/035/13,035035,Motivo de la terminación,13,Terminado por el usuario,,,,,Operational,Original
+bufr4/0/35/035/14,035035,Motivo de la terminación,14,Pérdida repentina de la señal,,,,,Operational,Original

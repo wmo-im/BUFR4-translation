@@ -1,139 +1,139 @@
 Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
-bufr4/0/21/001,21,Datos de radar,021001,Reflectividad horizontal,dB,0,-64,7,dB,0,3,,,Operational,Original
-bufr4/0/21/002,21,Datos de radar,021002,Reflectividad vertical,dB,0,-64,7,dB,0,3,,,Operational,Original
-bufr4/0/21/003,21,Datos de radar,021003,Reflectividad diferencial,dB,1,-5,7,dB,1,3,,,Operational,Original
-bufr4/0/21/004,21,Datos de radar,021004,Reflectividad diferencial,dB,2,-800,11,dB,2,4,,,Operational,Original
-bufr4/0/21/005,21,Datos de radar,021005,Relación de despolarización lineal,dB,0,-65,6,dB,0,2,,,Operational,Original
-bufr4/0/21/006,21,Datos de radar,021006,Relación de despolarización circular,dB,0,-65,6,dB,0,2,,,Operational,Original
-bufr4/0/21/011,21,Datos de radar,021011,Velocidad media Doppler en la dirección X,m s-1,0,-128,8,m s-1,0,3,,,Operational,Original
-bufr4/0/21/012,21,Datos de radar,021012,Velocidad media Doppler en la dirección Y,m s-1,0,-128,8,m s-1,0,3,,,Operational,Original
-bufr4/0/21/013,21,Datos de radar,021013,Velocidad media Doppler en la dirección Z,m s-1,0,-128,8,m s-1,0,3,,,Operational,Original
-bufr4/0/21/014,21,Datos de radar,021014,Velocidad media Doppler (radial),m s-1,1,-4096,13,m s-1,1,4,,,Operational,Original
-bufr4/0/21/017,21,Datos de radar,021017,Ancho espectral de la velocidad Doppler,m s-1,1,0,8,m s-1,1,3,,,Operational,Original
-bufr4/0/21/018,21,Datos de radar,021018,Velocidad de NYQUIST ampliada,m s-1,1,0,10,m s-1,1,4,,,Operational,Original
-bufr4/0/21/019,21,Datos de radar,021019,Velocidad de NYQUIST alta,m s-1,1,0,10,m s-1,1,3,,,Operational,Original
-bufr4/0/21/021,21,Datos de radar,021021,Altura máxima de los ecos,m,-3,0,4,m,-3,2,,,Operational,Original
-bufr4/0/21/022,21,Datos de radar,021022,Desplazamiento de la cuadrícula de alcance,m,1,0,14,m,1,5,,,Operational,Original
-bufr4/0/21/023,21,Datos de radar,021023,Tamaño de la cuadrícula de alcance,m,0,0,14,m,0,5,,,Operational,Original
-bufr4/0/21/024,21,Datos de radar,021024,Desplazamiento azimutal,°,1,0,12,°,1,4,,,Operational,Original
-bufr4/0/21/025,21,Datos de radar,021025,Resolución azimutal,°,1,0,8,°,1,3,,,Operational,Original
-bufr4/0/21/028,21,Datos de radar,021028,Fase diferencial,°,1,0,12,°,1,4,,,Operational,Original
-bufr4/0/21/029,21,Datos de radar,021029,Coeficiente de correlación de la polarización cruzada,Numérica,2,-100,8,Numérica,2,3,,,Operational,Original
-bufr4/0/21/030,21,Datos de radar,021030,Relación señal-ruido,dB,0,-32,8,dB,0,3,,,Operational,Original
-bufr4/0/21/031,21,Datos de radar,021031,Contenido de agua líquida integrado verticalmente,kg m-2,0,0,7,kg m-2,0,3,,,Operational,Original
-bufr4/0/21/036,21,Datos de radar,021036,Intensidad de las precipitaciones medidas por radar,m s-1,7,0,12,m s-1,7,4,,,Operational,Original
-bufr4/0/21/041,21,Datos de radar,021041,Altura de la banda brillante,m,-2,0,8,m,-2,3,,,Operational,Original
-bufr4/0/21/051,21,Datos de radar,021051,Potencia de la señal superior a 1 mW,dB,0,-256,8,dB,0,3,,,Operational,Original
-bufr4/0/21/062,21,Datos de radar,021062,Retrodispersión,dB,2,-5000,13,dB,2,4,,,Operational,Original
-bufr4/0/21/063,21,Datos de radar,021063,Resolución radiométrica (valor del ruido),%,1,0,10,%,1,4,,,Operational,Original
-bufr4/0/21/064,21,Datos de radar,021064,Ruido estimado de los ecos parásitos,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/065,21,Datos de radar,021065,Contador de paquetes faltantes,Numérica,0,-127,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/066,21,Datos de radar,021066,Datos sobre el grado de confianza del producto del dispersímetro de onda,Tabla de banderines,0,0,12,Tabla de banderines,0,4,,,Operational,Original
-bufr4/0/21/067,21,Datos de radar,021067,Datos sobre el grado de confianza del producto del viento,Tabla de banderines,0,0,13,Tabla de banderines,0,5,,,Operational,Original
-bufr4/0/21/068,21,Datos de radar,021068,Datos sobre el grado de confianza del producto del altímetro del radar,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational,Original
-bufr4/0/21/069,21,Datos de radar,021069,Datos sobre el grado de confianza del producto de la medición de la temperatura de la superficie del mar,Tabla de banderines,0,0,10,Tabla de banderines,0,4,,,Operational,Original
-bufr4/0/21/070,21,Datos de radar,021070,Datos sobre el grado de confianza del producto de la medición de la temperatura de la superficie del mar (SADIST-2),Tabla de banderines,0,0,23,Tabla de banderines,0,6,,,Operational,Original
-bufr4/0/21/071,21,Datos de radar,021071,Máximas,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
-bufr4/0/21/072,21,Datos de radar,021072,Estado de la calibración del altímetro del satélite,Tabla de banderines,0,0,4,Tabla de banderines,0,2,,,Operational,Original
-bufr4/0/21/073,21,Datos de radar,021073,Modo del instrumento del altímetro del satélite,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,Original
-bufr4/0/21/075,21,Datos de radar,021075,Intensidad del espectro de la imagen,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/076,21,Datos de radar,021076,Representación de intensidades,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/21/077,21,Datos de radar,021077,Corrección de la altitud (ionosfera),m,3,0,14,m,3,5,,,Operational,Original
-bufr4/0/21/078,21,Datos de radar,021078,Corrección de la altitud (troposfera seca),m,3,0,9,m,3,3,,,Operational,Original
-bufr4/0/21/079,21,Datos de radar,021079,Corrección de la altitud (troposfera húmeda),m,3,2000,10,m,3,4,,,Operational,Original
-bufr4/0/21/080,21,Datos de radar,021080,Corrección de la altitud (constante de calibración),m,3,0,11,m,3,4,,,Operational,Original
-bufr4/0/21/081,21,Datos de radar,021081,Corrección en bucle abierto (bucle altura-tiempo),m,3,0,10,m,3,4,,,Operational,Original
-bufr4/0/21/082,21,Datos de radar,021082,Corrección en bucle abierto (control automático de gacia),dB,3,-3000,14,dB,3,5,,,Operational,Original
-bufr4/0/21/083,21,Datos de radar,021083,Calibración de objetivo caliente,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
-bufr4/0/21/084,21,Datos de radar,021084,Calibración de objetivo frío,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
-bufr4/0/21/085,21,Datos de radar,021085,Número de bandas transversales del radiómetro ATSR para la exploración de la temperatura de la superficie del mar,Numérica,0,0,4,Numérica,0,2,,,Operational,Original
-bufr4/0/21/086,21,Datos de radar,021086,"Número de píxeles en el nadir solamente, promedio",Numérica,0,0,9,Numérica,0,3,,,Operational,Original
-bufr4/0/21/087,21,Datos de radar,021087,"Número de píxeles en vista dual, promedio",Numérica,0,0,9,Numérica,0,3,,,Operational,Original
-bufr4/0/21/088,21,Datos de radar,021088,Retrodifusor húmedo,dB,0,-5000,13,dB,2,4,,,Operational,Original
-bufr4/0/21/091,21,Datos de radar,021091,Momento 0 del espectro Doppler de la señal del radar,dB,0,-100,8,dB,0,3,,,Operational,Original
-bufr4/0/21/092,21,Datos de radar,021092,"Momento 0 del espectro Doppler de la señal RASS (sistema de sondeo radio-acústico), con referencia a la señal RASS",dB,0,-100,8,dB,0,3,,,Operational,Original
-bufr4/0/21/093,21,Datos de radar,021093,Máximas de la banda Ku,Numérica,3,0,16,Numérica,3,5,,,Operational,Original
-bufr4/0/21/094,21,Datos de radar,021094,Encrestamiento (máximas) de la banda S,Numérica,3,0,16,Numérica,3,5,,,Operational,Original
-bufr4/0/21/095,21,Datos de radar,021095,Coeficiente Kp A,Numérica,6,0,20,Numérica,6,7,,,Operational,Original
-bufr4/0/21/096,21,Datos de radar,021096,Coeficiente Kp B,Numérica,6,0,20,Numérica,6,7,,,Operational,Original
-bufr4/0/21/097,21,Datos de radar,021097,Coeficiente Kp C,Numérica,6,0,20,Numérica,6,7,,,Operational,Original
-bufr4/0/21/101,21,Datos de radar,021101,Número de ambigüedades del vector,Numérica,0,0,3,Numérica,0,1,,,Operational,Original
-bufr4/0/21/102,21,Datos de radar,021102,Índice del vector seleccionado del viento,Numérica,0,0,3,Numérica,0,1,,,Operational,Original
-bufr4/0/21/103,21,Datos de radar,021103,Número total de mediciones de sigma-0,Numérica,0,0,5,Numérica,0,2,,,Operational,Original
-bufr4/0/21/104,21,Datos de radar,021104,Probabilidad calculada para la solución,Numérica,3,-30000,15,Numérica,3,5,,,Operational,Original
-bufr4/0/21/105,21,Datos de radar,021105,Sección representativa normalizada del radar,dB,2,-10000,14,dB,2,5,,,Operational,Original
-bufr4/0/21/106,21,Datos de radar,021106,Coeficiente de variancia Kp (alfa),Numérica,3,0,14,Numérica,3,5,,,Operational,Original
-bufr4/0/21/107,21,Datos de radar,021107,Coeficiente de variancia Kp (beta),Numérica,8,0,16,Numérica,8,5,,,Operational,Original
-bufr4/0/21/109,21,Datos de radar,021109,Calidad del vector viento medida en el interior de la célula por SeaWinds,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,Original
-bufr4/0/21/110,21,Datos de radar,021110,Número de sigma-0 del haz interior (delante del satélite),Numérica,0,0,6,Numérica,0,2,,,Operational,Original
-bufr4/0/21/111,21,Datos de radar,021111,Número de sigma-0 del haz exterior (delante del satélite),Numérica,0,0,6,Numérica,0,2,,,Operational,Original
-bufr4/0/21/112,21,Datos de radar,021112,Número de sigma-0 del haz interior (detrás del satélite),Numérica,0,0,6,Numérica,0,2,,,Operational,Original
-bufr4/0/21/113,21,Datos de radar,021113,Número de sigma-0 del haz exterior (detrás del satélite),Numérica,0,0,6,Numérica,0,2,,,Operational,Original
-bufr4/0/21/114,21,Datos de radar,021114,Coeficiente de variancia Kp (gamma),dB,3,-140000,18,dB,3,6,,,Operational,Original
-bufr4/0/21/115,21,Datos de radar,021115,Calidad de sigma-0 determinada por SeaWinds,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,Original
-bufr4/0/21/116,21,Datos de radar,021116,Modo de sigma-0 determinado por SeaWinds,Tabla de banderines,0,0,17,Tabla de banderines,0,6,,,Operational,Original
-bufr4/0/21/117,21,Datos de radar,021117,Control de calidad de la variancia de sigma-0,Numérica,2,0,16,Numérica,2,5,,,Operational,Original
-bufr4/0/21/118,21,Datos de radar,021118,Corrección de atenuación aplicada a sigma-0,dB,2,-10000,14,dB,2,5,,,Operational,Original
-bufr4/0/21/119,21,Datos de radar,021119,Función geofísica modélica del dispersómetro de viento,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/21/120,21,Datos de radar,021120,Probabilidad de lluvia,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/121,21,Datos de radar,021121,Índice de lluvia determinado por SeaWinds a partir de una función objetiva normalizada,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/122,21,Datos de radar,021122,Corrección de atenuación aplicada a sigma-0 (a partir de tB),dB,2,-10000,14,dB,2,5,,,Operational,Original
-bufr4/0/21/123,21,Datos de radar,021123,Sección representativa normalizada del radar determinada por SeaWinds,dB,2,-30000,15,dB,2,5,,,Operational,Original
-bufr4/0/21/128,21,Datos de radar,021128,Número de puntos válidos por segundo utilizados para derivar parámetros anteriores,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/130,21,Datos de radar,021130,Energía total del espectro,Numérica,6,0,28,Numérica,6,9,,,Operational,Original
-bufr4/0/21/131,21,Datos de radar,021131,Energía máxima del espectro,Numérica,6,0,28,Numérica,6,9,,,Operational,Original
-bufr4/0/21/132,21,Datos de radar,021132,Dirección de la energía espectral máxima en la retícula de alta resolución,°,3,0,19,°,3,6,,,Operational,Original
-bufr4/0/21/133,21,Datos de radar,021133,Longitud de onda de la energía espectral máxima en la retícula de alta resolución,m,3,0,29,m,3,9,,,Operational,Original
-bufr4/0/21/134,21,Datos de radar,021134,Intervalo de resolución del espectro de covarianza transversal,rad m-1,3,0,19,rad m-1,3,6,,,Operational,Original
-bufr4/0/21/135,21,Datos de radar,021135,Parte real del número de células del espectro transversal en una retícula polar,Numérica,3,-524288,20,Numérica,3,7,,,Operational,Original
-bufr4/0/21/136,21,Datos de radar,021136,Parte imaginaria del número de células del espectro transversal en una retícula polar,Numérica,3,-524288,20,Numérica,3,7,,,Operational,Original
-bufr4/0/21/137,21,Datos de radar,021137,Coeficiente corregido de retrodispersión oceánica en banda Ku,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/138,21,Datos de radar,021138,Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/139,21,Datos de radar,021139,Corrección instrumental neta en banda Ku para control automático de gacia,dB,2,-2048,12,dB,2,4,,,Operational,Original
-bufr4/0/21/140,21,Datos de radar,021140,Coeficiente corregido de retrodispersión oceánica en banda S,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/141,21,Datos de radar,021141,Coeficiente corregido estándar de retrodispersión oceánica en banda S,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/142,21,Datos de radar,021142,Corrección instrumental neta en banda S para control automático de gacia,dB,2,-1024,11,dB,2,4,,,Operational,Original
-bufr4/0/21/143,21,Datos de radar,021143,Atenuación por lluvia en banda Ku,dB,2,-1073741824,31,dB,2,10,,,Operational,Original
-bufr4/0/21/144,21,Datos de radar,021144,Banderín de lluvia de altímetro,Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,Operational,Original
-bufr4/0/21/145,21,Datos de radar,021145,Control automático de gacia en banda Ku,dB,2,0,13,dB,2,4,,,Operational,Original
-bufr4/0/21/146,21,Datos de radar,021146,Media cuadrática del control automático de gacia en banda Ku,dB,2,0,8,dB,2,3,,,Operational,Original
-bufr4/0/21/147,21,Datos de radar,021147,Número de puntos válidos respecto del control automático de gacia en banda Ku,Numérica,0,0,5,Numérica,0,2,,,Operational,Original
-bufr4/0/21/148,21,Datos de radar,021148,Banderín de variación en borde posterior,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,,Operational,Original
-bufr4/0/21/150,21,Datos de radar,021150,Coubicación de haces,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/21/151,21,Datos de radar,021151,Error estimado en Sigma-0 en un ángulo de incidencia de 40°,dB,2,0,9,dB,2,3,,,Operational,Original
-bufr4/0/21/152,21,Datos de radar,021152,Pendiente a un ángulo de incidencia de 40°,dB grado-1,2,-80,7,dB grado-1,2,2,,,Operational,Original
-bufr4/0/21/153,21,Datos de radar,021153,Error estimado en la pendiente en un ángulo de incidencia de 40°,dB grado-1,2,-40,6,dB grado-1,2,2,,,Operational,Original
-bufr4/0/21/154,21,Datos de radar,021154,Sensibilidad de la humedad del suelo,dB,2,0,12,dB,2,4,,,Operational,Original
-bufr4/0/21/155,21,Datos de radar,021155,Calidad de la célula del vector viento,Tabla de banderines,0,0,24,Tabla de banderines,0,8,,,Operational,Original
-bufr4/0/21/156,21,Datos de radar,021156,Distancia del retrodifusor,Numérica,1,-4096,13,Numérica,1,4,,,Operational,Original
-bufr4/0/21/157,21,Datos de radar,021157,Pérdida por unidad de longitud de la atmósfera utilizada,dB m⁻¹,10,0,22,dB m-1,10,7,,,Operational,Original
-bufr4/0/21/158,21,Datos de radar,021158,Calidad de estimación de la Kp de ASCAT,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/21/159,21,Datos de radar,021159,Utilizabilidad de Sigma-0 ASCAT,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/21/160,21,Datos de radar,021160,Utilización de datos sintéticos ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/161,21,Datos de radar,021161,Cantidad de los datos sintéticos de ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/162,21,Datos de radar,021162,Calidad de la órbita y actitud satelital ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/163,21,Datos de radar,021163,Contaminación de la reflexión del panel solar ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/164,21,Datos de radar,021164,Presencia y calidad de telemetría de ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/165,21,Datos de radar,021165,Presencia de la función de referencia extrapolada de ASCAT,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/166,21,Datos de radar,021166,Fracción terrestre,Numérica,3,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/21/169,21,Datos de radar,021169,Indicador de presencia de hielo,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/21/170,21,Datos de radar,021170,Coeficiente de retrodispersión oceánica corregido en banda C,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/171,21,Datos de radar,021171,Media cuadrática del coeficiente de retrodispersión oceánica corregido en banda C,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/172,21,Datos de radar,021172,Corrección instrumental neta del CAG en banda C,dB,2,-2048,12,dB,2,4,,,Operational,Original
-bufr4/0/21/173,21,Datos de radar,021173,Control automático de gacia en banda C,dB,2,0,13,dB,2,4,,,Operational,Original
-bufr4/0/21/174,21,Datos de radar,021174,Media cuadrática del control automático de gacia en banda C,dB,2,0,9,dB,2,3,,,Operational,Original
-bufr4/0/21/175,21,Datos de radar,021175,Número de puntos válidos respecto del control automático de gacia en banda C,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/21/176,21,Datos de radar,021176,Corrección de variabilidad de alta frecuencia,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/21/177,21,Datos de radar,021177,Coeficiente corregido de retrodispersión del desplazamiento del centro de gravedad,dB,2,0,16,dB,2,5,,,Operational,Original
-bufr4/0/21/178,21,Datos de radar,021178,Desviación típica del coeficiente de retrodispersión del desplazamiento del centro de gravedad a 20 Hz,dB,2,0,16,dB,2,5,,,Operational,Original
-bufr4/0/21/179,21,Datos de radar,021179,Número de puntos válidos respecto del coeficiente de retrodispersión del desplazamiento del centro de gravedad a 20 Hz,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
-bufr4/0/21/180,21,Datos de radar,021180,Número de puntos válidos respecto del coeficiente de retrodispersión oceánico a 20 Hz,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
-bufr4/0/21/181,21,Datos de radar,021181,Coeficiente de retrodispersión oceánico a 20 Hz,dB,2,0,16,dB,2,5,,,Operational,Original
-bufr4/0/21/182,21,Datos de radar,021182,Máximas en banda Ku a 20 Hz,Numérica,3,0,16,Numérica,3,5,,,Operational,Original
-bufr4/0/21/183,21,Datos de radar,021183,Coeficiente corregido de retrodispersión oceánica en banda específica,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/184,21,Datos de radar,021184,Coeficiente corregido estándar de retrodispersión oceánica en banda específica,dB,2,-32768,16,dB,2,5,,,Operational,Original
-bufr4/0/21/185,21,Datos de radar,021185,Corrección instrumental neta en banda específica para control automático de gacia,dB,2,-2048,12,dB,2,4,,,Operational,Original
-bufr4/0/21/186,21,Datos de radar,021186,Control automático de gacia en banda específica,dB,2,0,13,dB,2,4,,,Operational,Original
-bufr4/0/21/187,21,Datos de radar,021187,Media cuadrática del control automático de gacia específica,dB,2,0,8,dB,2,3,,,Operational,Original
-bufr4/0/21/188,21,Datos de radar,021188,Número de puntos válidos respecto del control automático de gacia en banda específica,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/21/189,21,Datos de radar,021189,Coeficiente corregido de retrodispersión del desplazamiento del centro de gravedad (referencia negativa),dB,2,-32768,16,dB,2,6,,,Operational,Original
+bufr4/0/21/001,21,Clase 21 — Datos de radar BUFR/CREX,021001,Reflectividad horizontal dB,,0,-64,dB 7,0,3,,,,Operational,Original
+bufr4/0/21/002,21,Clase 21 — Datos de radar BUFR/CREX,021002,Reflectividad vertical dB,,0,-64,dB 7,0,3,,,,Operational,Original
+bufr4/0/21/003,21,Clase 21 — Datos de radar BUFR/CREX,021003,Reflectividad diferencial dB,,1,-5,dB 7,1,3,,,,Operational,Original
+bufr4/0/21/004,21,Clase 21 — Datos de radar BUFR/CREX,021004,Reflectividad diferencial dB,,2,-800,dB 11,2,4,,,,Operational,Original
+bufr4/0/21/005,21,Clase 21 — Datos de radar BUFR/CREX,021005,Relación de despolarización lineal dB,,0,-65,dB 6,0,2,,,,Operational,Original
+bufr4/0/21/006,21,Clase 21 — Datos de radar BUFR/CREX,021006,Relación de despolarización circular dB,,0,-65,dB 6,0,2,,,,Operational,Original
+bufr4/0/21/011,21,Clase 21 — Datos de radar BUFR/CREX,021011,Velocidad media Doppler en la dirección X m s,–1,0,-128,m s -1 8,0,3,,,,Operational,Original
+bufr4/0/21/012,21,Clase 21 — Datos de radar BUFR/CREX,021012,Velocidad media Doppler en la dirección Y m s,–1,0,-128,m s -1 8,0,3,,,,Operational,Original
+bufr4/0/21/013,21,Clase 21 — Datos de radar BUFR/CREX,021013,Velocidad media Doppler en la dirección Z m s,–1,0,-128,m s -1 8,0,3,,,,Operational,Original
+bufr4/0/21/014,21,Clase 21 — Datos de radar BUFR/CREX,021014,Velocidad media Doppler (radial) m s,–1,1,-4096,m s -1 13,1,4,,,,Operational,Original
+bufr4/0/21/017,21,Clase 21 — Datos de radar BUFR/CREX,021017,Ancho espectral de la velocidad Doppler m s,–1,1,0,m s -1 8,1,3,,,,Operational,Original
+bufr4/0/21/018,21,Clase 21 — Datos de radar BUFR/CREX,021018,Velocidad de NYQUIST ampliada m s,–1,1,0,m s -1 10,1,4,,,,Operational,Original
+bufr4/0/21/019,21,Clase 21 — Datos de radar BUFR/CREX,021019,Velocidad de NYQUIST alta m s,–1,1,0,m s -1 10,1,3,,,,Operational,Original
+bufr4/0/21/021,21,Clase 21 — Datos de radar BUFR/CREX,021021,Altura máxima de los ecos m,,-3,0,m 4,–3,2,,,,Operational,Original
+bufr4/0/21/022,21,Clase 21 — Datos de radar BUFR/CREX,021022,Desplazamiento de la cuadrícula de alcance m,,1,0,m 14,1,5,,,,Operational,Original
+bufr4/0/21/023,21,Clase 21 — Datos de radar BUFR/CREX,021023,Tamaño de la cuadrícula de alcance m,,0,0,m 14,0,5,,,,Operational,Original
+bufr4/0/21/024,21,Clase 21 — Datos de radar BUFR/CREX,021024,Desplazamiento azimutal º,,1,0,º 12,1,4,,,,Operational,Original
+bufr4/0/21/025,21,Clase 21 — Datos de radar BUFR/CREX,021025,Resolución azimutal º,,1,0,º 8,1,3,,,,Operational,Original
+bufr4/0/21/028,21,Clase 21 — Datos de radar BUFR/CREX,021028,Fase diferencial º,,1,0,º 12 I.2 - BUFR/CREX/Tabla B 21 - 1,1,4 (continúa),,,,Operational,Original
+bufr4/0/21/029,21,Clase 21 — Datos de radar BUFR/CREX,021029,Numérica Coeficiente de correlación de la polarización cruzada,,2,-100,Numérica 8,2,3,,,,Operational,Original
+bufr4/0/21/030,21,Clase 21 — Datos de radar BUFR/CREX,021030,Relación señal-ruido dB,,0,-32,dB 8,0,3,,,,Operational,Original
+bufr4/0/21/031,21,Clase 21 — Datos de radar BUFR/CREX,021031,kg m Contenido de agua líquida integrado verticalmente,–2,0,0,kg m -2 7,0,3,,,,Operational,Original
+bufr4/0/21/036,21,Clase 21 — Datos de radar BUFR/CREX,021036,m s Intensidad de las precipitaciones medidas por radar,–1,7,0,m s -1 12,7,4,,,,Operational,Original
+bufr4/0/21/041,21,Clase 21 — Datos de radar BUFR/CREX,021041,Altura de la banda brillante m,,-2,0,m 8,–2,3,,,,Operational,Original
+bufr4/0/21/051,21,Clase 21 — Datos de radar BUFR/CREX,021051,Potencia de la señal superior a 1 mW dB,,0,-256,dB 8,0,3,,,,Operational,Original
+bufr4/0/21/062,21,Clase 21 — Datos de radar BUFR/CREX,021062,Retrodispersión dB,,2,-5000,dB 13,2,4,,,,Operational,Original
+bufr4/0/21/063,21,Clase 21 — Datos de radar BUFR/CREX,021063,Resolución radiométrica (valor del ruido) %,,1,0,% 10,1,4,,,,Operational,Original
+bufr4/0/21/064,21,Clase 21 — Datos de radar BUFR/CREX,021064,Ruido estimado de los ecos parásitos Numérica,,0,0,Numérica 8,0,3,,,,Operational,Original
+bufr4/0/21/065,21,Clase 21 — Datos de radar BUFR/CREX,021065,Contador de paquetes faltantes Numérica,,0,-127,Numérica 8,0,3,,,,Operational,Original
+bufr4/0/21/066,21,Clase 21 — Datos de radar BUFR/CREX,021066,Datos sobre el grado de confianza del producto Tabla de del dispersímetro de onda banderines,,0,0,Tabla de 12 banderines,0,4,,,,Operational,Original
+bufr4/0/21/067,21,Clase 21 — Datos de radar BUFR/CREX,021067,Datos sobre el grado de confianza del producto Tabla de del viento banderines,,0,0,Tabla de 13 banderines,0,5,,,,Operational,Original
+bufr4/0/21/068,21,Clase 21 — Datos de radar BUFR/CREX,021068,Datos sobre el grado de confianza del producto Tabla de del altímetro del radar banderines,,0,0,Tabla de 8 banderines,0,3,,,,Operational,Original
+bufr4/0/21/069,21,Clase 21 — Datos de radar BUFR/CREX,021069,Datos sobre el grado de confianza del producto Tabla de de la medición de la temperatura de la banderines superficie del mar,,0,0,Tabla de 10 banderines,0,4 (continúa),,,,Operational,Original
+bufr4/0/21/070,21,Clase 21 — Datos de radar BUFR/CREX,021070,Datos sobre el grado de confianza del producto Tabla de de la medición de la temperatura de la banderines superficie del mar (SADIST-2),,0,0,Tabla de 23 banderines,0,6,,,,Operational,Original
+bufr4/0/21/071,21,Clase 21 — Datos de radar BUFR/CREX,021071,Máximas Numérica,,0,0,Numérica 16,0,5,,,,Operational,Original
+bufr4/0/21/072,21,Clase 21 — Datos de radar BUFR/CREX,021072,Estado de la calibración del altímetro del satélite Tabla de banderines,,0,0,Tabla de 4 banderines,0,2,,,,Operational,Original
+bufr4/0/21/073,21,Clase 21 — Datos de radar BUFR/CREX,021073,Modo del instrumento del altímetro del satélite Tabla de banderines,,0,0,Tabla de 9 banderines,0,3,,,,Operational,Original
+bufr4/0/21/075,21,Clase 21 — Datos de radar BUFR/CREX,021075,Intensidad del espectro de la imagen Numérica,,0,0,Numérica 8,0,3,,,,Operational,Original
+bufr4/0/21/076,21,Clase 21 — Datos de radar BUFR/CREX,021076,Representación de intensidades Tabla de cifrado,,0,0,Tabla de cifrado 3,0,1,,,,Operational,Original
+bufr4/0/21/077,21,Clase 21 — Datos de radar BUFR/CREX,021077,Corrección de la altitud (ionosfera) m,,3,0,m 14,3,5,,,,Operational,Original
+bufr4/0/21/078,21,Clase 21 — Datos de radar BUFR/CREX,021078,Corrección de la altitud (troposfera seca) m,,3,0,m 9,3,3,,,,Operational,Original
+bufr4/0/21/079,21,Clase 21 — Datos de radar BUFR/CREX,021079,Corrección de la altitud (troposfera húmeda) m,,3,2000,m 10,3,4,,,,Operational,Original
+bufr4/0/21/080,21,Clase 21 — Datos de radar BUFR/CREX,021080,m Corrección de la altitud (constante de calibración),,3,0,m 11,3,4,,,,Operational,Original
+bufr4/0/21/081,21,Clase 21 — Datos de radar BUFR/CREX,021081,m Corrección en bucle abierto (bucle altura-tiempo),,3,0,m 10,3,4,,,,Operational,Original
+bufr4/0/21/082,21,Clase 21 — Datos de radar BUFR/CREX,021082,dB Corrección en bucle abierto (control automático de ganancia),,3,-3000,dB 14,3,5,,,,Operational,Original
+bufr4/0/21/083,21,Clase 21 — Datos de radar BUFR/CREX,021083,Calibración de objetivo caliente Numérica,,0,0,Numérica 16,0,5,,,,Operational,Original
+bufr4/0/21/084,21,Clase 21 — Datos de radar BUFR/CREX,021084,Calibración de objetivo frío Numérica,,0,0,Numérica 16 I.2 - BUFR/CREX Tabla B/21 - 3,0,5 (continúa),,,,Operational,Original
+bufr4/0/21/085,21,Clase 21 — Datos de radar BUFR/CREX,021085,Numérica Número de bandas transversales del radiómetro ATSR para la exploración de la temperatura de la superficie del mar,,0,0,Numérica 4,0,2,,,,Operational,Original
+bufr4/0/21/086,21,Clase 21 — Datos de radar BUFR/CREX,021086,"Numérica Número de píxeles en el nadir solamente, promedio",,0,0,Numérica 9,0,3,,,,Operational,Original
+bufr4/0/21/087,21,Clase 21 — Datos de radar BUFR/CREX,021087,"Número de píxeles en vista dual, promedio Numérica",,0,0,Numérica 9,0,3,,,,Operational,Original
+bufr4/0/21/088,21,Clase 21 — Datos de radar BUFR/CREX,021088,Retrodifusor húmedo dB,,0,-5000,dB 13,2,4,,,,Operational,Original
+bufr4/0/21/091,21,Clase 21 — Datos de radar BUFR/CREX,021091,dB Momento 0 del espectro Doppler de la señal del radar,,0,-100,dB 8,0,3,,,,Operational,Original
+bufr4/0/21/092,21,Clase 21 — Datos de radar BUFR/CREX,021092,"dB Momento 0 del espectro Doppler de la señal RASS (sistema de sondeo radio–acústico), con referencia a la señal RASS",,0,-100,dB 8,0,3,,,,Operational,Original
+bufr4/0/21/093,21,Clase 21 — Datos de radar BUFR/CREX,021093,Máximas de la banda Ku Numérica,,3,0,Numérica 16,3,5,,,,Operational,Original
+bufr4/0/21/094,21,Clase 21 — Datos de radar BUFR/CREX,021094,Encrestamiento (máximas) de la banda S Numérica,,3,0,Numérica 16,3,5,,,,Operational,Original
+bufr4/0/21/095,21,Clase 21 — Datos de radar BUFR/CREX,021095,Coeficiente Kp A Numérica,,6,0,Numérica 20,6,7,,,,Operational,Original
+bufr4/0/21/096,21,Clase 21 — Datos de radar BUFR/CREX,021096,Coeficiente Kp B Numérica,,6,0,Numérica 20,6,7,,,,Operational,Original
+bufr4/0/21/097,21,Clase 21 — Datos de radar BUFR/CREX,021097,Coeficiente Kp C Numérica,,6,0,Numérica 20,6,7,,,,Operational,Original
+bufr4/0/21/101,21,Clase 21 — Datos de radar BUFR/CREX,021101,Número de ambigüedades del vector Numérica,,0,0,Numérica 3,0,1,,,,Operational,Original
+bufr4/0/21/102,21,Clase 21 — Datos de radar BUFR/CREX,021102,Índice del vector seleccionado del viento Numérica,,0,0,Numérica 3,0,1,,,,Operational,Original
+bufr4/0/21/103,21,Clase 21 — Datos de radar BUFR/CREX,021103,Número total de mediciones de sigma-0 Numérica,,0,0,Numérica 5,0,2,,,,Operational,Original
+bufr4/0/21/104,21,Clase 21 — Datos de radar BUFR/CREX,021104,Probabilidad calculada para la solución Numérica,,3,-30000,Numérica 15,3,5,,,,Operational,Original
+bufr4/0/21/105,21,Clase 21 — Datos de radar BUFR/CREX,021105,Sección representativa normalizada del radar dB,,2,-10000,dB 14,2,5 (continúa),,,,Operational,Original
+bufr4/0/21/106,21,Clase 21 — Datos de radar BUFR/CREX,021106,Coeficiente de variancia Kp (alfa) Numérica,,3,0,Numérica 14,3,5,,,,Operational,Original
+bufr4/0/21/107,21,Clase 21 — Datos de radar BUFR/CREX,021107,Coeficiente de variancia Kp (beta) Numérica,,8,0,Numérica 16,8,5,,,,Operational,Original
+bufr4/0/21/109,21,Clase 21 — Datos de radar BUFR/CREX,021109,Calidad del vector viento medida en el interior Tabla de de la célula por SeaWinds banderines,,0,0,Tabla de 17 banderines,0,6,,,,Operational,Original
+bufr4/0/21/110,21,Clase 21 — Datos de radar BUFR/CREX,021110,Numérica Número de sigma-0 del haz interior (delante del satélite),,0,0,Numérica 6,0,2,,,,Operational,Original
+bufr4/0/21/111,21,Clase 21 — Datos de radar BUFR/CREX,021111,Numérica Número de sigma-0 del haz exterior (delante del satélite),,0,0,Numérica 6,0,2,,,,Operational,Original
+bufr4/0/21/112,21,Clase 21 — Datos de radar BUFR/CREX,021112,Numérica Número de sigma-0 del haz interior (detrás del satélite),,0,0,Numérica 6,0,2,,,,Operational,Original
+bufr4/0/21/113,21,Clase 21 — Datos de radar BUFR/CREX,021113,Numérica Número de sigma-0 del haz exterior (detrás del satélite),,0,0,Numérica 6,0,2,,,,Operational,Original
+bufr4/0/21/114,21,Clase 21 — Datos de radar BUFR/CREX,021114,Coeficiente de variancia Kp (gamma) dB,,3 -140000,,dB 18,3,6,,,,Operational,Original
+bufr4/0/21/115,21,Clase 21 — Datos de radar BUFR/CREX,021115,Calidad de sigma-0 determinada por SeaWinds Tabla de banderines,,0,0,Tabla de 17 banderines,0,6,,,,Operational,Original
+bufr4/0/21/116,21,Clase 21 — Datos de radar BUFR/CREX,021116,Modo de sigma-0 determinado por SeaWinds Tabla de banderines,,0,0,Tabla de 17 banderines,0,6,,,,Operational,Original
+bufr4/0/21/117,21,Clase 21 — Datos de radar BUFR/CREX,021117,Control de calidad de la variancia de sigma-0 Numérica,,2,0,Numérica 16,2,5,,,,Operational,Original
+bufr4/0/21/118,21,Clase 21 — Datos de radar BUFR/CREX,021118,Corrección de atenuación aplicada a sigma-0 dB,,2,-10000,dB 14,2,5,,,,Operational,Original
+bufr4/0/21/119,21,Clase 21 — Datos de radar BUFR/CREX,021119,Función geofísica modélica del dispersómetro de Tabla de viento cifrado,,0,0,Tabla de cifrado 6,0,2,,,,Operational,Original
+bufr4/0/21/120,21,Clase 21 — Datos de radar BUFR/CREX,021120,Probabilidad de lluvia Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/121,21,Clase 21 — Datos de radar BUFR/CREX,021121,Numérica Índice de lluvia determinado por SeaWinds a partir de una función objetiva normalizada,,0,0,Numérica 8 I.2 - BUFR/CREX Tabla B/21 - 5,0,3 (continúa),,,,Operational,Original
+bufr4/0/21/122,21,Clase 21 — Datos de radar BUFR/CREX,021122,dB Corrección de atenuación aplicada a sigma-0 (a partir de tB),,2,-10000,dB 14,2,5,,,,Operational,Original
+bufr4/0/21/123,21,Clase 21 — Datos de radar BUFR/CREX,021123,dB Sección representativa normalizada del radar determinada por SeaWinds,,2,-30000,dB 15,2,5,,,,Operational,Original
+bufr4/0/21/128,21,Clase 21 — Datos de radar BUFR/CREX,021128,Numérica Número de puntos válidos por segundo utilizados para derivar parámetros anteriores,,0,0,Numérica 8,0,3,,,,Operational,Original
+bufr4/0/21/130,21,Clase 21 — Datos de radar BUFR/CREX,021130,Energía total del espectro Numérica,,6,0,Numérica 28,6,9,,,,Operational,Original
+bufr4/0/21/131,21,Clase 21 — Datos de radar BUFR/CREX,021131,Energía máxima del espectro Numérica,,6,0,Numérica 28,6,9,,,,Operational,Original
+bufr4/0/21/132,21,Clase 21 — Datos de radar BUFR/CREX,021132,º Dirección de la energía espectral máxima en la retícula de alta resolución,,3,0,º 19,3,6,,,,Operational,Original
+bufr4/0/21/133,21,Clase 21 — Datos de radar BUFR/CREX,021133,m Longitud de onda de la energía espectral máxima en la retícula de alta resolución,,3,0,m 29,3,9,,,,Operational,Original
+bufr4/0/21/134,21,Clase 21 — Datos de radar BUFR/CREX,021134,rad m Intervalo de resolución del espectro de covarianza transversal,–1,3,0,rad m -1 19,3,6,,,,Operational,Original
+bufr4/0/21/135,21,Clase 21 — Datos de radar BUFR/CREX,021135,Numérica Parte real del número de células del espectro transversal en una retícula polar,,3 -524288,,Numérica 20,3,7,,,,Operational,Original
+bufr4/0/21/136,21,Clase 21 — Datos de radar BUFR/CREX,021136,Numérica Parte imaginaria del número de células del espectro transversal en una retícula polar,,3 -524288,,Numérica 20,3,7,,,,Operational,Original
+bufr4/0/21/137,21,Clase 21 — Datos de radar BUFR/CREX,021137,dB Coeficiente corregido de retrodispersión oceánica en banda Ku,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/138,21,Clase 21 — Datos de radar BUFR/CREX,021138,dB Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/139,21,Clase 21 — Datos de radar BUFR/CREX,021139,dB Corrección instrumental neta en banda Ku para control automático de ganancia,,2,-2048,dB 12,2,4,,,,Operational,Original
+bufr4/0/21/140,21,Clase 21 — Datos de radar BUFR/CREX,021140,dB Coeficiente corregido de retrodispersión oceánica en banda S,,2,-32768,dB 16,2,5 (continúa),,,,Operational,Original
+bufr4/0/21/141,21,Clase 21 — Datos de radar BUFR/CREX,021141,dB Coeficiente corregido estándar de retrodispersión oceánica en banda S,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/142,21,Clase 21 — Datos de radar BUFR/CREX,021142,dB Corrección instrumental neta en banda S para control automático de ganancia,,2,-1024,dB 11,2,4,,,,Operational,Original
+bufr4/0/21/143,21,Clase 21 — Datos de radar BUFR/CREX,021143,Atenuación por lluvia en banda Ku dB,,2 -1073741824,,dB 31,2,10,,,,Operational,Original
+bufr4/0/21/144,21,Clase 21 — Datos de radar BUFR/CREX,021144,Banderín de lluvia de altímetro Tabla de banderines,,0,0,Tabla de 2 banderines,0,1,,,,Operational,Original
+bufr4/0/21/145,21,Clase 21 — Datos de radar BUFR/CREX,021145,Control automático de ganancia en banda Ku dB,,2,0,dB 13,2,4,,,,Operational,Original
+bufr4/0/21/146,21,Clase 21 — Datos de radar BUFR/CREX,021146,dB Media cuadrática del control automático de ganancia en banda Ku,,2,0,dB 8,2,3,,,,Operational,Original
+bufr4/0/21/147,21,Clase 21 — Datos de radar BUFR/CREX,021147,Numérica Número de puntos válidos respecto del control automático de ganancia en banda Ku,,0,0,Numérica 5,0,2,,,,Operational,Original
+bufr4/0/21/148,21,Clase 21 — Datos de radar BUFR/CREX,021148,Banderín de variación en borde posterior Tabla de banderines,,0,0,Tabla de 9 banderines,0,3,,,,Operational,Original
+bufr4/0/21/150,21,Clase 21 — Datos de radar BUFR/CREX,021150,Coubicación de haces Tabla de cifrado,,0,0,Tabla de cifrado 2,0,1,,,,Operational,Original
+bufr4/0/21/151,21,Clase 21 — Datos de radar BUFR/CREX,021151,dB Error estimado en Sigma-0 en un ángulo de incidencia de 40°,,2,0,dB 9,2,3,,,,Operational,Original
+bufr4/0/21/152,21,Clase 21 — Datos de radar BUFR/CREX,021152,Pendiente a un ángulo de incidencia de 40° dB grado,–1,2,-80,dB grado 7,–1 2,2,,,,Operational,Original
+bufr4/0/21/153,21,Clase 21 — Datos de radar BUFR/CREX,021153,dB grado Error estimado en la pendiente en un ángulo de incidencia de 40°,–1,2,-40,dB grado 6,–1 2,2,,,,Operational,Original
+bufr4/0/21/154,21,Clase 21 — Datos de radar BUFR/CREX,021154,Sensibilidad de la humedad del suelo dB,,2,0,dB 12,2,4,,,,Operational,Original
+bufr4/0/21/155,21,Clase 21 — Datos de radar BUFR/CREX,021155,Calidad de la célula del vector viento Tabla de banderines,,0,0,Tabla de 24 banderines,0,8,,,,Operational,Original
+bufr4/0/21/156,21,Clase 21 — Datos de radar BUFR/CREX,021156,Distancia del retrodifusor Numérica,,1,-4096,Numérica 13 I.2 - BUFR/CREX Tabla B/21 - 7,1,4 (continúa),,,,Operational,Original
+bufr4/0/21/157,21,Clase 21 — Datos de radar BUFR/CREX,021157,dB m Pérdida por unidad de longitud de la atmósfera utilizada,–1,10,0,dB m -1 22,10,7,,,,Operational,Original
+bufr4/0/21/158,21,Clase 21 — Datos de radar BUFR/CREX,021158,Calidad de estimación de la Kp de ASCAT Tabla de cifrado,,0,0,Tabla de cifrado 2,0,1,,,,Operational,Original
+bufr4/0/21/159,21,Clase 21 — Datos de radar BUFR/CREX,021159,Utilizabilidad de Sigma-0 ASCAT Tabla de cifrado,,0,0,Tabla de cifrado 2,0,1,,,,Operational,Original
+bufr4/0/21/160,21,Clase 21 — Datos de radar BUFR/CREX,021160,Utilización de datos sintéticos ASCAT Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/161,21,Clase 21 — Datos de radar BUFR/CREX,021161,Cantidad de los datos sintéticos de ASCAT Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/162,21,Clase 21 — Datos de radar BUFR/CREX,021162,Calidad de la órbita y actitud satelital ASCAT Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/163,21,Clase 21 — Datos de radar BUFR/CREX,021163,Numérica Contaminación de la reflexión del panel solar ASCAT,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/164,21,Clase 21 — Datos de radar BUFR/CREX,021164,Presencia y calidad de telemetría de ASCAT Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/165,21,Clase 21 — Datos de radar BUFR/CREX,021165,Numérica Presencia de la función de referencia extrapolada de ASCAT,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/166,21,Clase 21 — Datos de radar BUFR/CREX,021166,Fracción terrestre Numérica,,3,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/21/169,21,Clase 21 — Datos de radar BUFR/CREX,021169,Indicador de presencia de hielo Tabla de cifrado,,0,0,Tabla de cifrado 2,0,1,,,,Operational,Original
+bufr4/0/21/170,21,Clase 21 — Datos de radar BUFR/CREX,021170,dB Coeficiente de retrodispersión oceánica corregido en banda C,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/171,21,Clase 21 — Datos de radar BUFR/CREX,021171,dB Media cuadrática del coeficiente de retrodispersión oceánica corregido en banda C,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/172,21,Clase 21 — Datos de radar BUFR/CREX,021172,dB Corrección instrumental neta del CAG en banda C,,2,-2048,dB 12,2,4,,,,Operational,Original
+bufr4/0/21/173,21,Clase 21 — Datos de radar BUFR/CREX,021173,Control automático de ganancia en banda C dB,,2,0,dB 13,2,4 (continúa),,,,Operational,Original
+bufr4/0/21/174,21,Clase 21 — Datos de radar BUFR/CREX,021174,dB Media cuadrática del control automático de ganancia en banda C,,2,0,dB 9,2,3,,,,Operational,Original
+bufr4/0/21/175,21,Clase 21 — Datos de radar BUFR/CREX,021175,Numérica Número de puntos válidos respecto del control automático de ganancia en banda C,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/21/176,21,Clase 21 — Datos de radar BUFR/CREX,021176,Corrección de variabilidad de alta frecuencia m,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/21/177,21,Clase 21 — Datos de radar BUFR/CREX,021177,dB Coeficiente corregido de retrodispersión del desplazamiento del centro de gravedad,,2,0,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/178,21,Clase 21 — Datos de radar BUFR/CREX,021178,dB Desviación típica del coeficiente de retrodispersión del desplazamiento del centro de gravedad a 20 Hz,,2,0,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/179,21,Clase 21 — Datos de radar BUFR/CREX,021179,Numérica Número de puntos válidos respecto del coeficiente de retrodispersión del desplazamiento del centro de gravedad a 20 Hz,,0,0,Numérica 16,0,5,,,,Operational,Original
+bufr4/0/21/180,21,Clase 21 — Datos de radar BUFR/CREX,021180,Numérica Número de puntos válidos respecto del coeficiente de retrodispersión oceánico a 20 Hz,,0,0,Numérica 8,0,3,,,,Operational,Original
+bufr4/0/21/181,21,Clase 21 — Datos de radar BUFR/CREX,021181,Coeficiente de retrodispersión oceánico a 20 Hz dB,,2,0,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/182,21,Clase 21 — Datos de radar BUFR/CREX,021182,Máximas en banda Ku a 20 Hz Numérica,,3,0,Numérica 16,3,5,,,,Operational,Original
+bufr4/0/21/183,21,Clase 21 — Datos de radar BUFR/CREX,021183,dB Coeficiente corregido de retrodispersión oceánica en banda específica,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/184,21,Clase 21 — Datos de radar BUFR/CREX,021184,dB Coeficiente corregido estándar de retrodispersión oceánica en banda específica,,2,-32768,dB 16,2,5,,,,Operational,Original
+bufr4/0/21/185,21,Clase 21 — Datos de radar BUFR/CREX,021185,dB Corrección instrumental neta en banda específica para control automático de ganancia,,2,-2048,dB 12,2,4,,,,Operational,Original
+bufr4/0/21/186,21,Clase 21 — Datos de radar BUFR/CREX,021186,dB Control automático de ganancia en banda específica,,2,0,dB 13 I.2 - BUFR/CREX Tabla B/21 - 9,2,4 (continúa),,,,Operational,Original
+bufr4/0/21/187,21,Clase 21 — Datos de radar BUFR/CREX,021187,dB Media cuadrática del control automático de ganancia específica,,2,0,dB 8,2,3,,,,Operational,Original
+bufr4/0/21/188,21,Clase 21 — Datos de radar BUFR/CREX,021188,Numérica Número de puntos válidos respecto del control automático de ganancia en banda específica,,0,0,Numérica 7,0,3,,,,Operational,Original
+bufr4/0/21/189,21,Clase 21 — Datos de radar BUFR/CREX,021189,Coeficiente corregido de retrodispersión del dB desplazamiento del centro de gravedad (referencia negativa) (véase la nota),,2,32768 -,dB 16,2,6,,,,Operational,Original

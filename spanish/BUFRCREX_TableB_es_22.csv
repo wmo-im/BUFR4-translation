@@ -1,138 +1,138 @@
 Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
-bufr4/0/22/001,22,Elementos oceanográficos,022001,Dirección de las olas,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/002,22,Elementos oceanográficos,022002,Dirección de las olas de viento,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/003,22,Elementos oceanográficos,022003,Dirección de las olas de mar de fondo,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/004,22,Elementos oceanográficos,022004,Dirección de la corriente,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 7),,Operational,Original
-bufr4/0/22/005,22,Elementos oceanográficos,022005,Dirección de la corriente en la superficie del mar,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/011,22,Elementos oceanográficos,022011,Período de las olas,s,0,0,6,s,0,2,,,Operational,Original
-bufr4/0/22/012,22,Elementos oceanográficos,022012,Período de las olas de viento,s,0,0,6,s,0,2,,,Operational,Original
-bufr4/0/22/013,22,Elementos oceanográficos,022013,Período de las olas de mar de fondo,s,0,0,6,s,0,2,,,Operational,Original
-bufr4/0/22/021,22,Elementos oceanográficos,022021,Altura de las olas,m,1,0,10,m,1,4,,,Operational,Original
-bufr4/0/22/022,22,Elementos oceanográficos,022022,Altura de las olas de viento,m,1,0,10,m,1,4,,,Operational,Original
-bufr4/0/22/023,22,Elementos oceanográficos,022023,Altura de las olas de mar de fondo,m,1,0,10,m,1,4,,,Operational,Original
-bufr4/0/22/025,22,Elementos oceanográficos,022025,Desviación estándar de la altura de las olas,m,2,0,10,m,2,4,,,Operational,Original
-bufr4/0/22/026,22,Elementos oceanográficos,022026,Desviación estándar de la altura significativa de las olas,m,2,0,10,m,2,4,,,Operational,Original
-bufr4/0/22/031,22,Elementos oceanográficos,022031,Velocidad de la corriente,m s-1,2,0,13,m s-1,2,4,,,Operational,Original
-bufr4/0/22/032,22,Elementos oceanográficos,022032,Velocidad de la corriente en la superficie del mar,m s-1,2,0,13,m s-1,2,4,,,Operational,Original
-bufr4/0/22/035,22,Elementos oceanográficos,022035,Altura de las mareas con relación al cero hidrográfico local,m,2,0,14,m,2,4,,,Operational,Original
-bufr4/0/22/036,22,Elementos oceanográficos,022036,Altura residual meteorológica de las mareas (positiva o negativa),m,2,0,14,m,2,4,,,Operational,Original
-bufr4/0/22/037,22,Elementos oceanográficos,022037,Altura de las mareas con relación al plan de referencia nacional,m,3,-10000,15,m,3,5,,,Operational,Original
-bufr4/0/22/038,22,Elementos oceanográficos,022038,Altura de las mareas con relación al cero hidrográfico local,m,3,-10000,15,m,3,5,,,Operational,Original
-bufr4/0/22/039,22,Elementos oceanográficos,022039,Altura residual meteorológica de las mareas (positiva o negativa),m,3,-5000,13,m,3,4,(véase la nota 4),,Operational,Original
-bufr4/0/22/040,22,Elementos oceanográficos,022040,Altura residual meteorológica de las mareas (positiva o negativa),m,3,-5000,14,m,3,5,(véase la nota 4),,Operational,Original
-bufr4/0/22/041,22,Elementos oceanográficos,022041,Temperatura de la superficie del mar (media móvil en 15 días),K,1,0,12,K,1,4,,,Operational,Original
-bufr4/0/22/042,22,Elementos oceanográficos,022042,Temperatura del agua/mar,K,1,0,12,K,1,4,,,Operational,Original
-bufr4/0/22/043,22,Elementos oceanográficos,022043,Temperatura del agua/mar,K,2,0,15,K,2,5,,,Operational,Original
-bufr4/0/22/044,22,Elementos oceanográficos,022044,Velocidad del sonido,m s-1,1,0,14,m s-1,1,5,,,Operational,Original
-bufr4/0/22/045,22,Elementos oceanográficos,022045,Temperatura del agua/mar,K,3,0,19,K,3,6,,,Operational,Original
-bufr4/0/22/046,22,Elementos oceanográficos,022046,Fracción de hielo marino,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
-bufr4/0/22/049,22,Elementos oceanográficos,022049,Temperatura en la superficie del mar,K,2,0,15,K,2,5,,,Operational,Original
-bufr4/0/22/050,22,Elementos oceanográficos,022050,Desviación estándar de la temperatura de la superficie del mar,K,2,0,8,K,2,3,,,Operational,Original
-bufr4/0/22/055,22,Elementos oceanográficos,022055,Número de ciclo del flotador,Numérica,0,0,10,Numérica,0,3,,,Operational,Original
-bufr4/0/22/056,22,Elementos oceanográficos,022056,Dirección del perfil,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/22/059,22,Elementos oceanográficos,022059,Salinidad en la superficie del mar,‰,2,0,14,‰,2,5,,,Operational,Original
-bufr4/0/22/060,22,Elementos oceanográficos,022060,Estado del ancla flotante de la boya lagrangiana a la deriva,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/22/061,22,Elementos oceanográficos,022061,Estado del mar,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/22/062,22,Elementos oceanográficos,022062,Salinidad,‰,2,0,14,‰,2,5,,,Operational,Original
-bufr4/0/22/063,22,Elementos oceanográficos,022063,Profundidad total del agua,m,0,0,14,m,0,5,,,Operational,Original
-bufr4/0/22/064,22,Elementos oceanográficos,022064,Salinidad,‰,3,0,17,‰,3,6,,,Operational,Original
-bufr4/0/22/065,22,Elementos oceanográficos,022065,Presión del agua,Pa,-3,0,17,Pa,-3,6,,,Operational,Original
-bufr4/0/22/066,22,Elementos oceanográficos,022066,Conductividad del agua,S m-1,6,0,26,S m-1,6,8,,,Operational,Original
-bufr4/0/22/067,22,Elementos oceanográficos,022067,Tipo de instrumento para la medición del perfil de la temperatura/salinidad del agua,Tabla de cifrado,0,0,10,Tabla de cifrado,0,4,,,Operational,Original
-bufr4/0/22/068,22,Elementos oceanográficos,022068,Tipos de registrador del perfil de la temperatura del agua,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,Operational,Original
-bufr4/0/22/069,22,Elementos oceanográficos,022069,Densidad espectral de las olas,m² Hz-1,3,0,22,m² Hz-1,3,7,,,Operational,Original
-bufr4/0/22/070,22,Elementos oceanográficos,022070,Altura significativa de las olas,m,2,0,13,m,2,4,,,Operational,Original
-bufr4/0/22/071,22,Elementos oceanográficos,022071,Período espectral máximo de las olas,s,1,0,9,s,1,3,,,Operational,Original
-bufr4/0/22/072,22,Elementos oceanográficos,022072,Longitud espectral máxima de las olas,m,0,0,13,m,0,4,,,Operational,Original
-bufr4/0/22/073,22,Elementos oceanográficos,022073,Altura máxima de las olas,m,2,0,13,m,2,4,,,Operational,Original
-bufr4/0/22/074,22,Elementos oceanográficos,022074,Período medio de las olas,s,1,0,9,s,1,3,,,Operational,Original
-bufr4/0/22/075,22,Elementos oceanográficos,022075,Longitud media de las olas,m,0,0,13,m,0,4,,,Operational,Original
-bufr4/0/22/076,22,Elementos oceanográficos,022076,Dirección de la cual provienen las olas dominantes,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/077,22,Elementos oceanográficos,022077,Dispersión direccional de la ola dominante,°,0,0,9,°,0,3,,,Operational,Original
-bufr4/0/22/078,22,Elementos oceanográficos,022078,Duración del registro de las olas,s,0,0,12,s,0,4,,,Operational,Original
-bufr4/0/22/079,22,Elementos oceanográficos,022079,Longitud del registro de las olas,m,0,0,16,m,0,5,,,Operational,Original
-bufr4/0/22/080,22,Elementos oceanográficos,022080,Frecuencia central de las bandas de ondas,Hz,3,0,10,Hz,3,4,,,Operational,Original
-bufr4/0/22/081,22,Elementos oceanográficos,022081,Número de onda central de las bandas de ondas,m-1,5,0,13,m-1,5,4,,,Operational,Original
-bufr4/0/22/082,22,Elementos oceanográficos,022082,Densidad espectral máxima no direccional de las olas,m² s,2,0,20,m² s,2,7,,,Operational,Original
-bufr4/0/22/083,22,Elementos oceanográficos,022083,Número de onda espectral máximo no direccional,m3,2,0,20,m3,2,7,,,Operational,Original
-bufr4/0/22/084,22,Elementos oceanográficos,022084,Banda que contiene la densidad espectral máxima no direccional de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/22/085,22,Elementos oceanográficos,022085,Relación de densidad espectral de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/22/086,22,Elementos oceanográficos,022086,Dirección media de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/087,22,Elementos oceanográficos,022087,Dirección principal de donde provienen las olas,grado verdadero,0,,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/088,22,Elementos oceanográficos,022088,Primera coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
-bufr4/0/22/089,22,Elementos oceanográficos,022089,Segunda coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
-bufr4/0/22/090,22,Elementos oceanográficos,022090,Estimación espectral no direccional atendiendo la frecuencia de las olas,m² s,2,0,20,m² s,2,7,,,Operational,Original
-bufr4/0/22/091,22,Elementos oceanográficos,022091,Estimación espectral no direccional atendiendo al número de onda,m3,2,0,20,m3,2,7,,,Operational,Original
-bufr4/0/22/092,22,Elementos oceanográficos,022092,Estimación espectral direccional atendiendo a la frecuencia de las olas,m² rad-1 s,2,0,20,m² rad-1 s,2,7,,,Operational,Original
-bufr4/0/22/093,22,Elementos oceanográficos,022093,Estimación espectral direccional atendiendo al número de onda,m4,2,0,20,m4,2,7,,,Operational,Original
-bufr4/0/22/094,22,Elementos oceanográficos,022094,Número total de bandas de ondas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/22/095,22,Elementos oceanográficos,022095,Dispersión direccional de cada ola,°,0,0,8,°,0,3,,,Operational,Original
-bufr4/0/22/096,22,Elementos oceanográficos,022096,Anchura espectral de la banda,s-1,3,0,4,s-1,3,2,,,Operational,Original
-bufr4/0/22/097,22,Elementos oceanográficos,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,m,0,0,14,m,0,5,,,Operational,Original
-bufr4/0/22/098,22,Elementos oceanográficos,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,m,0,0,14,m,0,5,,,Operational,Original
-bufr4/0/22/099,22,Elementos oceanográficos,022099,Dirección media con números de onda bajos (longitud de onda > 731 m),grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/100,22,Elementos oceanográficos,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),°,0,0,9,°,0,3,,,Operational,Original
-bufr4/0/22/101,22,Elementos oceanográficos,022101,Energía total con números de onda bajos (longitud de onda > 731 m),Numérica,0,0,31,Numérica,0,10,,,Operational,Original
-bufr4/0/22/102,22,Elementos oceanográficos,022102,Densidad espectral máxima ajustada no direccional de las olas según la frecuencia,m² s,0,0,14,m² s,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/103,22,Elementos oceanográficos,022103,Densidad espectral máxima ajustada no direccional de las olas según el número de onda,m3,0,0,14,m3,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/104,22,Elementos oceanográficos,022104,Densidad espectral ajustada no direccional de las olas según la frecuencia,m² s,0,0,14,m² s,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/105,22,Elementos oceanográficos,022105,Densidad espectral ajustada no direccional de las olas según el número de onda,m3,0,0,14,m3,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/106,22,Elementos oceanográficos,022106,Densidad espectral ajustada direccional de las olas según la frecuencia,m² s rad-1,0,0,14,m² s rad-1,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/107,22,Elementos oceanográficos,022107,Densidad espectral ajustada direccional de las olas según el número de onda,m4,0,0,14,m4,0,5,(véase la nota 10),,Operational,Original
-bufr4/0/22/108,22,Elementos oceanográficos,022108,Relación de densidad espectral de las olas,%,0,0,7,%,0,3,,,Operational,Original
-bufr4/0/22/120,22,Elementos oceanográficos,022120,Verificación automática del nivel del agua en una estación de mareas,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/22/121,22,Elementos oceanográficos,022121,Verificación manual del nivel del agua en una estación de mareas,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/22/122,22,Elementos oceanográficos,022122,Verificación automática de los datos meteorológicos en una estación de mareas,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/22/123,22,Elementos oceanográficos,022123,Verificación manual de los datos meteorológicos en una estación de mareas,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/22/130,22,Elementos oceanográficos,022130,Número de puntos válidos para banda específica,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/131,22,Elementos oceanográficos,022131,Media cuadrática de la altura de ola significativa en banda específica,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/132,22,Elementos oceanográficos,022132,Número de puntos válidos para la altura de ola significativa en banda específica,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/133,22,Elementos oceanográficos,022133,Corrección instrumental neta de la altura de ola significativa en banda específica,m,3,-1000,11,m,3,4,,,Operational,Original
-bufr4/0/22/134,22,Elementos oceanográficos,022134,Número de puntos válidos para retrodispersión en banda específica,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/141,22,Elementos oceanográficos,022141,Temperatura de la superficie del mar (media móvil en 15 días),K,2,0,15,K,2,5,,,Operational,Original
-bufr4/0/22/142,22,Elementos oceanográficos,022142,Cuadrado de la altura de onda significativa,m2,3,-33554432,26,m2,3,8,,,Operational,Original
-bufr4/0/22/143,22,Elementos oceanográficos,022143,Cuadrado de la desviación estándar de la altura de ola significativa a 20 Hz,m²,3,-8388608,24,m²,3,8,,,Operational,Original
-bufr4/0/22/144,22,Elementos oceanográficos,022144,Cuadrado del número de puntos válidos a 20 Hz respecto de la altura de ola significativa,Numérica,0,0,9,Numérica,0,3,,,Operational,Original
-bufr4/0/22/145,22,Elementos oceanográficos,022145,Desviación típica del intervalo oceánico a 20 Hz,m,3,-33554432,31,m,3,10,,,Operational,Original
-bufr4/0/22/146,22,Elementos oceanográficos,022146,Intervalo de desplazamiento del centro de gravedad,m,3,0,31,m,3,10,,,Operational,Original
-bufr4/0/22/147,22,Elementos oceanográficos,022147,Desviación típica del intervalo de desplazamiento del centro de gravedad a 20 Hz,m,3,-8388608,31,m,3,10,,,Operational,Original
-bufr4/0/22/148,22,Elementos oceanográficos,022148,Número de puntos válidos respecto del intervalo oceánico a 20 Hz,Numérica,0,0,9,Numérica,0,3,,,Operational,Original
-bufr4/0/22/149,22,Elementos oceanográficos,022149,Cuadrado de la altura de ola significativa a 20 Hz,m2,3,-33554432,26,m2,3,8,,,Operational,Original
-bufr4/0/22/150,22,Elementos oceanográficos,022150,Número de puntos válidos a 18 Hz para banda Ku,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/151,22,Elementos oceanográficos,022151,Alcance oceánico en banda Ku,m,3,0,31,m,3,10,,,Operational,Original
-bufr4/0/22/152,22,Elementos oceanográficos,022152,Alcance oceánico estándar a 18Hz en banda Ku,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/153,22,Elementos oceanográficos,022153,Número de puntos válidos a 18 Hz para banda S,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/154,22,Elementos oceanográficos,022154,Alcance oceánico en banda S,m,3,0,31,m,3,10,,,Operational,Original
-bufr4/0/22/155,22,Elementos oceanográficos,022155,Alcance oceánico estándar a 18 Hz en banda S,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/156,22,Elementos oceanográficos,022156,Altura significativa de las olas en banda Ku,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/157,22,Elementos oceanográficos,022157,Altura significativa estándar de las olas a18 Hz en banda Ku,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/158,22,Elementos oceanográficos,022158,Altura significativa de las olas en banda S,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/159,22,Elementos oceanográficos,022159,Altura significativa estándar de las olas a18 Hz en banda S,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/160,22,Elementos oceanográficos,022160,Edad de ola inversa normalizada,Numérica,6,0,21,Numérica,6,7,,,Operational,Original
-bufr4/0/22/161,22,Elementos oceanográficos,022161,Espectros de las olas,m4,4,0,27,m4,4,9,,,Operational,Original
-bufr4/0/22/162,22,Elementos oceanográficos,022162,Media cuadrática del alcance oceánico en banda Ku a 20 Hz,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/163,22,Elementos oceanográficos,022163,Número de puntos válidos a 20 Hz para banda Ku,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/164,22,Elementos oceanográficos,022164,Media cuadrática de la altura de ola significativa a 20 Hz en banda Ku,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/165,22,Elementos oceanográficos,022165,Número de puntos válidos a 20 Hz para altura de ola significativa en banda Ku,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/166,22,Elementos oceanográficos,022166,Corrección instrumental neta de la altura de ola significativa en banda Ku,m,3,-1000,11,m,3,4,,,Operational,Original
-bufr4/0/22/167,22,Elementos oceanográficos,022167,Número de puntos válidos de retrodispersión en banda Ku,Numérica,0,0,10,Numérica,3,4,,,Operational,Original
-bufr4/0/22/168,22,Elementos oceanográficos,022168,Alcance oceánico en banda C,m,3,0,31,m,3,10,,,Operational,Original
-bufr4/0/22/169,22,Elementos oceanográficos,022169,Media cuadrática del alcance oceánico en banda C,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/170,22,Elementos oceanográficos,022170,Número de puntos válidos a 20 Hz en banda C,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/171,22,Elementos oceanográficos,022171,Altura de ola significativa en banda C,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/172,22,Elementos oceanográficos,022172,Media cuadrática de la altura de ola significativa a 20 Hz en banda C,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/173,22,Elementos oceanográficos,022173,Número de puntos válidos a 20 Hz respecto de la altura de ola significativa en banda C,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/174,22,Elementos oceanográficos,022174,Corrección instrumental neta respecto de la altura de ola significativa en banda C,m,3,-1000,11,m,3,4,,,Operational,Original
-bufr4/0/22/175,22,Elementos oceanográficos,022175,Número de puntos válidos respecto de la retrodispersión en banda C,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
-bufr4/0/22/177,22,Elementos oceanográficos,022177,Altura del dispositivo de lanzamiento de XBT/XCTD,m,0,0,6,m,0,3,,,Operational,Original
-bufr4/0/22/178,22,Elementos oceanográficos,022178,Tipo de dispositivo de lanzamiento de XBT/XCTD,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
-bufr4/0/22/179,22,Elementos oceanográficos,022179,Altura de ola significativa en banda específica (referencia negativa),m,3,-500,16,m,3,6,(véase la nota 13),,Operational,Original
-bufr4/0/22/182,22,Elementos oceanográficos,022182,Altura de la columna de agua,m,3,0,23,m,3,7,(véase la nota 9),,Operational,Original
-bufr4/0/22/184,22,Elementos oceanográficos,022184,Desviación de la altura de la columna de agua respecto del valor de referencia,m,3,-2000,12,m,3,4,,,Operational,Original
-bufr4/0/22/185,22,Elementos oceanográficos,022185,Recuento de transmisiones del BPR,Numérica,0,0,10,Numérica,0,3,,,Operational,Original
-bufr4/0/22/186,22,Elementos oceanográficos,022186,Dirección de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 11),,Operational,Original
-bufr4/0/22/187,22,Elementos oceanográficos,022187,Dispersión direccional de la ola,°,0,0,9,°,0,3,(véase la nota 12),,Operational,Original
-bufr4/0/22/188,22,Elementos oceanográficos,022188,Oxígeno disuelto,µmol kg-1,3,0,19,µmol kg-1,3,6,,,Operational,Original
-bufr4/0/22/189,22,Elementos oceanográficos,022189,Alcance oceánico en banda específica,m,3,0,31,m,3,10,,,Operational,Original
-bufr4/0/22/190,22,Elementos oceanográficos,022190,Altura de ola significativa en banda específica,m,3,0,16,m,3,5,,,Operational,Original
-bufr4/0/22/191,22,Elementos oceanográficos,022191,Media cuadrática del alcance oceánico en banda específica,m,4,0,16,m,4,5,,,Operational,Original
+bufr4/0/22/001,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022001,Dirección de las olas grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/002,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022002,Dirección de las olas de viento grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/003,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022003,Dirección de las olas de mar de fondo grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/004,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022004,Dirección de la corriente (véase la nota 7) grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/005,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022005,Dirección de la corriente en la superficie del mar grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/011,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022011,Período de las olas s,,0,0,s 6,0,2,,,,Operational,Original
+bufr4/0/22/012,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022012,Período de las olas de viento s,,0,0,s 6,0,2,,,,Operational,Original
+bufr4/0/22/013,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022013,Período de las olas de mar de fondo s,,0,0,s 6,0,2,,,,Operational,Original
+bufr4/0/22/021,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022021,Altura de las olas m,,1,0,m 10,1,4,,,,Operational,Original
+bufr4/0/22/022,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022022,Altura de las olas de viento m,,1,0,m 10,1,4,,,,Operational,Original
+bufr4/0/22/023,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022023,Altura de las olas de mar de fondo m,,1,0,m 10,1,4,,,,Operational,Original
+bufr4/0/22/025,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022025,Desviación estándar de la altura de las olas m,,2,0,m 10,2,4,,,,Operational,Original
+bufr4/0/22/026,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022026,m Desviación estándar de la altura significativa de las olas,,2,0,m 10,2,4,,,,Operational,Original
+bufr4/0/22/031,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022031,Velocidad de la corriente m s,–1,2,0,m s 13 -1,2,4,,,,Operational,Original
+bufr4/0/22/032,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022032,Velocidad de la corriente en la superficie del mar m s,–1,2,0,m s 13 -1,2,4,,,,Operational,Original
+bufr4/0/22/035,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022035,m Altura de las mareas con relación al cero hidrográfico local,,2,0,m 14 I.2 - BUFR/CREX Tabla B/22 - 1,2,4 (continúa),,,,Operational,Original
+bufr4/0/22/036,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022036,m Altura residual meteorológica de las mareas (positiva o negativa),,2,0,m 14,2,4,,,,Operational,Original
+bufr4/0/22/037,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022037,m Altura de las mareas con relación al plan de referencia nacional,,3,-10000,m 15,3,5,,,,Operational,Original
+bufr4/0/22/038,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022038,m Altura de las mareas con relación al cero hidrográfico local,,3,-10000,m 15,3,5,,,,Operational,Original
+bufr4/0/22/039,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022039,m Altura residual meteorológica de las mareas (positiva o negativa) (véase la nota 4),,3,-5000,m 13,3,4,,,,Operational,Original
+bufr4/0/22/040,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022040,m Altura residual meteorológica de las mareas (positiva o negativa) (véase la nota 4),,3,-5000,m 14,3,5,,,,Operational,Original
+bufr4/0/22/041,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022041,K Temperatura de la superficie del mar (media móvil en 15 días),,1,0,K 12,1,4,,,,Operational,Original
+bufr4/0/22/042,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022042,Temperatura del agua/mar K,,1,0,K 12,1,4,,,,Operational,Original
+bufr4/0/22/043,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022043,Temperatura del agua/mar K,,2,0,K 15,2,5,,,,Operational,Original
+bufr4/0/22/044,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022044,Velocidad del sonido m s,–1,1,0,m s 14 -1,1,5,,,,Operational,Original
+bufr4/0/22/045,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022045,Temperatura del agua/mar K,,3,0,K 19,3,6,,,,Operational,Original
+bufr4/0/22/046,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022046,Fracción de hielo marino Numérica,,2,0,Numérica 7,2,3,,,,Operational,Original
+bufr4/0/22/049,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022049,Temperatura en la superficie del mar K,,2,0,K 15,2,5,,,,Operational,Original
+bufr4/0/22/050,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022050,K Desviación estándar de la temperatura de la superficie del mar,,2,0,K 8,2,3,,,,Operational,Original
+bufr4/0/22/055,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022055,Número de ciclo del flotador Numérica,,0,0,Numérica 10,0,3,,,,Operational,Original
+bufr4/0/22/056,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022056,Dirección del perfil Tabla de cifrado,,0,0,Tabla de cifrado 2,0,1,,,,Operational,Original
+bufr4/0/22/059,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022059,Salinidad en la superficie del mar ‰,,2,0,‰ 14,2,5 (continúa),,,,Operational,Original
+bufr4/0/22/060,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022060,Estado del ancla flotante de la boya lagrangiana Tabla de a la deriva cifrado,,0,0,Tabla de cifrado 3,0,1,,,,Operational,Original
+bufr4/0/22/061,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022061,Estado del mar Tabla de cifrado,,0,0,Tabla de cifrado 4,0,2,,,,Operational,Original
+bufr4/0/22/062,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022062,Salinidad ‰,,2,0,‰ 14,2,5,,,,Operational,Original
+bufr4/0/22/063,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022063,Profundidad total del agua m,,0,0,m 14,0,5,,,,Operational,Original
+bufr4/0/22/064,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022064,Salinidad ‰,,3,0,‰ 17,3,6,,,,Operational,Original
+bufr4/0/22/065,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022065,Presión del agua Pa,,-3,0,Pa 17,–3,6,,,,Operational,Original
+bufr4/0/22/066,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022066,Conductividad del agua S m,–1,6,0,S m 26 -1,6,8,,,,Operational,Original
+bufr4/0/22/067,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022067,Tipo de instrumento para la medición del perfil Tabla de de la temperatura/salinidad del agua cifrado,,0,0,Tabla de cifrado 10,0,4,,,,Operational,Original
+bufr4/0/22/068,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022068,Tipos de registrador del perfil de la temperatura Tabla de del agua cifrado,,0,0,Tabla de cifrado 7,0,3,,,,Operational,Original
+bufr4/0/22/069,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022069,Densidad espectral de las olas m Hz 2,–1,3,0,m Hz 22 2 -1,3,7,,,,Operational,Original
+bufr4/0/22/070,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022070,Altura significativa de las olas m,,2,0,m 13,2,4,,,,Operational,Original
+bufr4/0/22/071,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022071,Período espectral máximo de las olas s,,1,0,s 9,1,3,,,,Operational,Original
+bufr4/0/22/072,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022072,Longitud espectral máxima de las olas m,,0,0,m 13,0,4,,,,Operational,Original
+bufr4/0/22/073,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022073,Altura máxima de las olas m,,2,0,m 13,2,4,,,,Operational,Original
+bufr4/0/22/074,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022074,Período medio de las olas s,,1,0,s 9,1,3,,,,Operational,Original
+bufr4/0/22/075,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022075,Longitud media de las olas m,,0,0,m 13,0,4,,,,Operational,Original
+bufr4/0/22/076,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022076,Dirección de la cual provienen las olas grado dominantes verdadero,,0,0,grado 9 verdadero I.2 - BUFR/CREX Tabla B/22 - 3,0,3 (continúa),,,,Operational,Original
+bufr4/0/22/077,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022077,Dispersión direccional de la ola dominante º,,0,0,º 9,0,3,,,,Operational,Original
+bufr4/0/22/078,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022078,Duración del registro de las olas s,,0,0,s 12,0,4,,,,Operational,Original
+bufr4/0/22/079,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022079,Longitud del registro de las olas m,,0,0,m 16,0,5,,,,Operational,Original
+bufr4/0/22/080,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022080,Frecuencia central de las bandas de ondas Hz,,3,0,Hz 10,3,4,,,,Operational,Original
+bufr4/0/22/081,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022081,Número de onda central de las bandas de ondas m–1,,5,0,m 13 -1,5,4,,,,Operational,Original
+bufr4/0/22/082,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022082,m s Densidad espectral máxima no direccional de las 2 olas,,2,0,m s 2 20,2,7,,,,Operational,Original
+bufr4/0/22/083,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022083,Número de onda espectral máximo no m 3 direccional,,2,0,m 20 3,2,7,,,,Operational,Original
+bufr4/0/22/084,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022084,Numérica Banda que contiene la densidad espectral máxima no direccional de las olas,,0,0,Numérica 7,0,3,,,,Operational,Original
+bufr4/0/22/085,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022085,Relación de densidad espectral de las olas Numérica,,0,0,Numérica 7,0,3,,,,Operational,Original
+bufr4/0/22/086,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022086,Dirección media de donde provienen las olas grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/087,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022087,Dirección principal de donde provienen las olas grado verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/088,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022088,Numérica Primera coordenada polar normalizada obtenida con los coeficientes de Fourier,,2,0,Numérica 7,2,3,,,,Operational,Original
+bufr4/0/22/089,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022089,Numérica Segunda coordenada polar normalizada obtenida con los coeficientes de Fourier,,2,0,Numérica 7,2,3,,,,Operational,Original
+bufr4/0/22/090,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022090,m s Estimación espectral no direccional atendiendo 2 la frecuencia de las olas,,2,0,m s 2 20,2,7,,,,Operational,Original
+bufr4/0/22/091,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022091,Estimación espectral no direccional atendiendo m 3 al número de onda,,2,0,m 20 3,2,7 (continúa),,,,Operational,Original
+bufr4/0/22/092,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022092,m rad Estimación espectral direccional atendiendo a la 2 frecuencia de las olas,s -1,2,0,m rad s 2 -1 20,2,7,,,,Operational,Original
+bufr4/0/22/093,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022093,Estimación espectral direccional atendiendo al m 4 número de onda,,2,0,m 20 4,2,7,,,,Operational,Original
+bufr4/0/22/094,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022094,Número total de bandas de ondas Numérica,,0,0,Numérica 7,0,3,,,,Operational,Original
+bufr4/0/22/095,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022095,Dispersión direccional de cada ola º,,0,0,º 8,0,3,,,,Operational,Original
+bufr4/0/22/096,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022096,Anchura espectral de la banda s -1,,3,0,s 4 -1,3,2,,,,Operational,Original
+bufr4/0/22/097,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022097,m Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,,0,0,m 14,0,5,,,,Operational,Original
+bufr4/0/22/098,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022098,m Dispersión de la longitud de onda (> 731 m) con números de onda bajos,,0,0,m 14,0,5,,,,Operational,Original
+bufr4/0/22/099,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022099,Dirección media con números de onda bajos grado (longitud de onda > 731 m) verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/100,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022100,º Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),,0,0,º 9,0,3,,,,Operational,Original
+bufr4/0/22/101,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022101,Numérica Energía total con números de onda bajos (longitud de onda > 731 m),,0,0,Numérica 31,0,10,,,,Operational,Original
+bufr4/0/22/102,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022102,m s Densidad espectral máxima ajustada no 2 direccional de las olas según la frecuencia (véase la nota 10),,0,0,m s 2 14,0,5,,,,Operational,Original
+bufr4/0/22/103,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022103,Densidad espectral máxima ajustada no m 3 direccional de las olas según el número de onda (véase la nota 10),,0,0,m 14 3,0,5,,,,Operational,Original
+bufr4/0/22/104,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022104,m s Densidad espectral ajustada no direccional de 2 las olas según la frecuencia (véase la nota 10),,0,0,m s 2 14 I.2 - BUFR/CREX Tabla B/22 - 5,0,5 (continúa),,,,Operational,Original
+bufr4/0/22/105,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022105,Densidad espectral ajustada no direccional de m 3 las olas según el número de onda (véase la nota 10),,0,0,m 14 3,0,5,,,,Operational,Original
+bufr4/0/22/106,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022106,m s rad Densidad espectral ajustada direccional de las 2 olas según la frecuencia (véase la nota 10),-1,0,0,m s rad 2 -1 14,0,5,,,,Operational,Original
+bufr4/0/22/107,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022107,Densidad espectral ajustada direccional de las m 4 olas según el número de onda (véase la nota 10),,0,0,m 14 4,0,5,,,,Operational,Original
+bufr4/0/22/108,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022108,Relación de densidad espectral de las olas %,,0,0,% 7,0,3,,,,Operational,Original
+bufr4/0/22/120,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022120,Verificación automática del nivel del agua en Tabla de una estación de mareas cifrado,,0,0,Tabla de cifrado 5,0,2,,,,Operational,Original
+bufr4/0/22/121,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022121,Verificación manual del nivel del agua en una Tabla de estación de mareas cifrado,,0,0,Tabla de cifrado 5,0,2,,,,Operational,Original
+bufr4/0/22/122,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022122,Verificación automática de los datos Tabla de meteorológicos en una estación de mareas cifrado,,0,0,Tabla de cifrado 5,0,2,,,,Operational,Original
+bufr4/0/22/123,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022123,Verificación manual de los datos meteorológicos Tabla de en una estación de mareas cifrado,,0,0,Tabla de cifrado 5,0,2,,,,Operational,Original
+bufr4/0/22/130,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022130,Número de puntos válidos para banda específica Numérica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/131,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022131,m Media cuadrática de la altura de ola significativa en banda específica,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/132,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022132,Numérica Número de puntos válidos para la altura de ola significativa en banda específica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/133,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022133,m Corrección instrumental neta de la altura de ola significativa en banda específica,,3,-1000,m 11,3,4,,,,Operational,Original
+bufr4/0/22/134,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022134,Numérica Número de puntos válidos para retrodispersión en banda específica,,0,0,Numérica 10,0,4 (continúa),,,,Operational,Original
+bufr4/0/22/141,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022141,K Temperatura de la superficie del mar (media móvil en 15 días),,2,0,K 15,2,5,,,,Operational,Original
+bufr4/0/22/142,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022142,Cuadrado de la altura de onda significativa m 2,,3 -33554432,,m 26 2,3,8,,,,Operational,Original
+bufr4/0/22/143,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022143,Cuadrado de la desviación estándar de la altura m 2 de ola significativa a 20 Hz,,3 -8388608,,m 24 2,3,8,,,,Operational,Original
+bufr4/0/22/144,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022144,Cuadrado del número de puntos válidos a 20 Hz Numérica respecto de la altura de ola significativa,,0,0,9 Numérica,0,3,,,,Operational,Original
+bufr4/0/22/145,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022145,Desviación típica del intervalo oceánico a 20 Hz m,,3 -33554432,,m 31,3,10,,,,Operational,Original
+bufr4/0/22/146,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022146,m Intervalo de desplazamiento del centro de gravedad,,3,0,m 31,3,10,,,,Operational,Original
+bufr4/0/22/147,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022147,m Desviación típica del intervalo de desplazamiento del centro de gravedad a 20 Hz,,3 -8388608,,m 31,3,10,,,,Operational,Original
+bufr4/0/22/148,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022148,Numérica Número de puntos válidos respecto del intervalo oceánico a 20 Hz,,0,0,Numérica 9,0,3,,,,Operational,Original
+bufr4/0/22/149,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022149,Cuadrado de la altura de ola significativa a 20 Hz m 2,,3 -33554432,,m 26 2,3,8,,,,Operational,Original
+bufr4/0/22/150,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022150,Número de puntos válidos a 18 Hz para banda Ku Numérica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/151,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022151,Alcance oceánico en banda Ku m,,3,0,m 31,3,10,,,,Operational,Original
+bufr4/0/22/152,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022152,Alcance oceánico estándar a 18Hz en banda Ku m,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/153,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022153,Número de puntos válidos a 18 Hz para banda S Numérica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/154,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022154,Alcance oceánico en banda S m,,3,0,m 31,3,10,,,,Operational,Original
+bufr4/0/22/155,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022155,Alcance oceánico estándar a 18 Hz en banda S m,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/156,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022156,Altura significativa de las olas en banda Ku m,,3,0,m 16 I.2 - BUFR/CREX Tabla B/22 - 7,3,5 (continúa),,,,Operational,Original
+bufr4/0/22/157,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022157,m Altura significativa estándar de las olas a18 Hz en banda Ku,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/158,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022158,Altura significativa de las olas en banda S m,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/159,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022159,m Altura significativa estándar de las olas a18 Hz en banda S,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/160,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022160,Edad de ola inversa normalizada Numérica,,6,0,Numérica 21,6,7,,,,Operational,Original
+bufr4/0/22/161,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022161,Espectros de las olas m 4,,4,0,m 27 4,4,9,,,,Operational,Original
+bufr4/0/22/162,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022162,m Media cuadrática del alcance oceánico en banda Ku a 20 Hz,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/163,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022163,Número de puntos válidos a 20 Hz para banda Ku Numérica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/164,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022164,m Media cuadrática de la altura de ola significativa a 20 Hz en banda Ku,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/165,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022165,Numérica Número de puntos válidos a 20 Hz para altura de ola significativa en banda Ku,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/166,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022166,m Corrección instrumental neta de la altura de ola significativa en banda Ku,,3,-1000,m 11,3,4,,,,Operational,Original
+bufr4/0/22/167,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022167,Numérica Número de puntos válidos de retrodispersión en banda Ku,,0,0,Numérica 10,3,4,,,,Operational,Original
+bufr4/0/22/168,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022168,Alcance oceánico en banda C m,,3,0,m 31,3,10,,,,Operational,Original
+bufr4/0/22/169,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022169,m Media cuadrática del alcance oceánico en banda C,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/170,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022170,Número de puntos válidos a 20 Hz en banda C Numérica,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/171,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022171,Altura de ola significativa en banda C m,,3,0,m 16,3,5 (continúa),,,,Operational,Original
+bufr4/0/22/172,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022172,m Media cuadrática de la altura de ola significativa a 20 Hz en banda C,,3,0,m 16,3,5,,,,Operational,Original
+bufr4/0/22/173,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022173,Numérica Número de puntos válidos a 20 Hz respecto de la altura de ola significativa en banda C,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/174,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022174,m Corrección instrumental neta respecto de la altura de ola significativa en banda C,,3,-1000,m 11,3,4,,,,Operational,Original
+bufr4/0/22/175,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022175,Numérica Número de puntos válidos respecto de la retrodispersión en banda C,,0,0,Numérica 10,0,4,,,,Operational,Original
+bufr4/0/22/177,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022177,m Altura del dispositivo de lanzamiento de XBT/XCTD,,0,0,m 6,0,3,,,,Operational,Original
+bufr4/0/22/178,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022178,Tipo de dispositivo de lanzamiento de XBT/XCTD Tabla de cifrado,,0,0,Tabla de cifrado 8,0,3,,,,Operational,Original
+bufr4/0/22/179,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022179,m Altura de ola significativa en banda específica (referencia negativa) (véase la nota 13),,3,-500,m 16,3,6,,,,Operational,Original
+bufr4/0/22/182,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022182,Altura de la columna de agua (véase la nota 9) m,,3,0,m 23,3,7,,,,Operational,Original
+bufr4/0/22/184,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022184,m Desviación de la altura de la columna de agua respecto del valor de referencia,,3,-2000,m 12,3,4,,,,Operational,Original
+bufr4/0/22/185,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022185,Recuento de transmisiones del BPR Numérica,,0,0,Numérica 10,0,3,,,,Operational,Original
+bufr4/0/22/186,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022186,Dirección de donde provienen las olas (véase la grado nota 11) verdadero,,0,0,grado 9 verdadero,0,3,,,,Operational,Original
+bufr4/0/22/187,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022187,° Dispersión direccional de la ola (véase la nota 12),,0,0,° 9,0,3,,,,Operational,Original
+bufr4/0/22/188,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022188,Oxígeno disuelto μmol kg,–1,3,0,-1 μmol kg 19,3,6,,,,Operational,Original
+bufr4/0/22/189,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022189,Alcance oceánico en banda específica m,,3,0,m 31,3,10,,,,Operational,Original
+bufr4/0/22/190,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022190,Altura de ola significativa en banda específica m,,3,0,m 16 I.2 - BUFR/CREX Tabla B/22 - 9,3,5 (continúa),,,,Operational,Original
+bufr4/0/22/191,22,Clase 22 — Elementos oceanográficos BUFR/CREX,022191,"m Media cuadrática del alcance oceánico en banda específica  1, y la dirección principal de las olas por el ángulo × cos (alpha – alpha 1) + r × cos (2 (alpha – alpha 2))) / pi 1 2 es el espectro no direccional; y la parte de la derecha de esta expresión son los dos primeros 11 097 gama nominal de valores de entrada 0 – 10 000 098 gama nominal de valores de entrada 0 – 10 000 099 gama nominal de valores de entrada 0 – 359 100 gama nominal de valores de entrada 0 – 359 101 gama nominal de valores de entrada 0 – 2 x 106, pero podría ser mayor debido a la incertidumbre.",,4,"0  2, en la expresión S(f, alpha) es aproximadamente",m 16,4,5 (continúa),,,,Operational,Original

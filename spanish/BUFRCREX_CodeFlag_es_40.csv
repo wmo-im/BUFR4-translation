@@ -1,0 +1,199 @@
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
+bufr4/0/40/005/1,040005,Banderín de corrección de la humedad del suelo,1,Humedad del suelo entre -20% y 0%,,,,,Operational,Original
+bufr4/0/40/005/2,040005,Banderín de corrección de la humedad del suelo,2,Humedad del suelo entre 100% y 120%,,,,,Operational,Original
+bufr4/0/40/005/3,040005,Banderín de corrección de la humedad del suelo,3,Corrección de la referencia del retrodispersor húmedo,,,,,Operational,Original
+bufr4/0/40/005/4,040005,Banderín de corrección de la humedad del suelo,4,Corrección de la referencia del retrodispersor seco,,,,,Operational,Original
+bufr4/0/40/005/5,040005,Banderín de corrección de la humedad del suelo,5,Corrección del volumen de dispersión en la arena,,,,,Operational,Original
+bufr4/0/40/005/6-7,040005,Banderín de corrección de la humedad del suelo,6-7,"Reservados Los 8 Valor faltante Nota: El alcance nominal de la humedad del suelo en superficie es 0% - 100%. En casos extremos, el retrodispersor extrapolado a un ángulo de incidencia de 40 grados puede ser superior a la referencia del retrodispersor húmedo o seco. En tales casos, el valor proporcionado por el proceso de medición de la humedad del suelo en superficie es menor de 0% o mayor de 100%, respectivamente.",,,,,Operational,Original
+bufr4/0/40/006/1,040006,Banderín de cálculo de la humedad del suelo,1,No hay suelo,,,,,Operational,Original
+bufr4/0/40/006/2,040006,Banderín de cálculo de la humedad del suelo,2,Sensibilidad a la humedad del suelo por debajo del límite,,,,,Operational,Original
+bufr4/0/40/006/3,040006,Banderín de cálculo de la humedad del suelo,3,Ruido azimutal por encima del límite,,,,,Operational,Original
+bufr4/0/40/006/4,040006,Banderín de cálculo de la humedad del suelo,4,Haz del retrodispersor proa-popa fuera de alcance,,,,,Operational,Original
+bufr4/0/40/006/5,040006,Banderín de cálculo de la humedad del suelo,5,Haz de la pendiente media proa fuera de alcance,,,,,Operational,Original
+bufr4/0/40/006/6,040006,Banderín de cálculo de la humedad del suelo,6,Haz de la pendiente media-popa fuera de alcance,,,,,Operational,Original
+bufr4/0/40/006/7,040006,Banderín de cálculo de la humedad del suelo,7,Humedad del suelo por debajo de -20%,,,,,Operational,Original
+bufr4/0/40/006/8,040006,Banderín de cálculo de la humedad del suelo,8,Humedad del suelo por encima de 120%,,,,,Operational,Original
+bufr4/0/40/006/9-15,040006,Banderín de cálculo de la humedad del suelo,9-15,Reservados Los 16 Valor faltante Nota: Véase la nota de la Tabla de banderines 0 40 005.,,,,,Operational,Original
+bufr4/0/40/011/1,040011,Banderín de interpolación,1,Banderín de interpolación del valor medio de la superficie del mar,,,,,Operational,Original
+bufr4/0/40/011/2,040011,Banderín de interpolación,2,"Banderín de interpolación - Marea oceánica, solución 1 (0=4 puntos sobre el océano, 1=menos de 4 puntos)",,,,,Operational,Original
+bufr4/0/40/011/3,040011,Banderín de interpolación,3,"Banderín de interpolación - Marea oceánica, solución 2 (0=4 puntos sobre el océano, 1=menos de 4 puntos)",,,,,Operational,Original
+bufr4/0/40/011/4,040011,Banderín de interpolación,4,"Banderín de interpolación de datos meteorológicos (0=4 puntos sobre el océano, 1=menos de 4 puntos)",,,,,Operational,Original
+bufr4/0/40/011/5-7,040011,Banderín de interpolación,5-7,Reservados Los 8 Valor faltante,,,,,Operational,Original
+bufr4/0/40/012/1,040012,"Banderín de calidad de datos radiométricos (0 es satisfactorio, 1 es insatisfactorio)",1,"Temperatura de brillo a 18,7 GHz",,,,,Operational,Original
+bufr4/0/40/012/2,040012,"Banderín de calidad de datos radiométricos (0 es satisfactorio, 1 es insatisfactorio)",2,"Temperatura de brillo a 23,8 GHz",,,,,Operational,Original
+bufr4/0/40/012/3,040012,"Banderín de calidad de datos radiométricos (0 es satisfactorio, 1 es insatisfactorio)",3,Temperatura de brillo a 34 GHz,,,,,Operational,Original
+bufr4/0/40/012/4-7,040012,"Banderín de calidad de datos radiométricos (0 es satisfactorio, 1 es insatisfactorio)",4-7,Reservados Los 8 Valor faltante,,,,,Operational,Original
+bufr4/0/40/013/0,040013,Banderín de interpretación de la temperatura de brillo radiométrica,0,Interpolación sin huecos entre datos de RMJ *,,,,,Operational,Original
+bufr4/0/40/013/1,040013,Banderín de interpretación de la temperatura de brillo radiométrica,1,Interpolación con huecos entre datos de RMJ *,,,,,Operational,Original
+bufr4/0/40/013/2,040013,Banderín de interpretación de la temperatura de brillo radiométrica,2,Extrapolación de datos de RMJ *,,,,,Operational,Original
+bufr4/0/40/013/3,040013,Banderín de interpretación de la temperatura de brillo radiométrica,3,Sin extrapolación ni interpolación,,,,,Operational,Original
+bufr4/0/40/013/4-6,040013,Banderín de interpretación de la temperatura de brillo radiométrica,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/013/7,040013,Banderín de interpretación de la temperatura de brillo radiométrica,7,Valor faltante _____________ * RMJ: radiómetro en microondas JASON-1,,,,,Operational,Original
+bufr4/0/40/020/1,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,1,NZPD y error de calibración complejo,,,,,Operational,Original
+bufr4/0/40/020/2,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,2,Banda 3 afectada por protrusiones,,,,,Operational,Original
+bufr4/0/40/020/3,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,3,Banda 3 afectada por saturaciones,,,,,Operational,Original
+bufr4/0/40/020/4,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,4,Banda 2 afectada por protrusiones,,,,,Operational,Original
+bufr4/0/40/020/5,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,5,Banda 1 afectada por protrusiones,,,,,Operational,Original
+bufr4/0/40/020/6,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,6,Sobreflujo/subflujo,,,,,Operational,Original
+bufr4/0/40/020/7,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,7,Error de procesamiento a bordo,,,,,Operational,Original
+bufr4/0/40/020/8,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,8,Error de calibración espectral,,,,,Operational,Original
+bufr4/0/40/020/9,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,9,Error de calibración radiométrica,,,,,Operational,Original
+bufr4/0/40/020/10,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,10,Datos AVHRR faltantes,,,,,Operational,Original
+bufr4/0/40/020/11,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,11,Datos sobre la irradiancia solar en superficie (IIS) faltantes,,,,,Operational,Original
+bufr4/0/40/020/12,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,12,Datos de sonda faltantes,,,,,Operational,Original
+bufr4/0/40/020/13,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,13,Banderín de resumen de GqisFlagQual para todas las bandas,,,,,Operational,Original
+bufr4/0/40/020/14,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,14,Error de procesamiento sobre el terreno,,,,,Operational,Original
+bufr4/0/40/020/15,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,15,Error de intercalibración de IASI/AVHRR,,,,,Operational,Original
+bufr4/0/40/020/16,040020,GqisFlagQualDetailed — Banderín de calidad del sistema,16,Reservado Todos los 17 Valor faltante,,,,,Operational,Original
+bufr4/0/40/023/1,040023,Banderines de estado del altímetro auxiliar,1,"Secuencia de bandas (0 = 3Ku_1C_3Ku, 1 = 2Ku_1C_2Ku)",,,,,Operational,Original
+bufr4/0/40/023/2,040023,Banderines de estado del altímetro auxiliar,2,"Frecuencia de la banda C (0 = 320 MHz, 1 = 100 MHz)",,,,,Operational,Original
+bufr4/0/40/023/3,040023,Banderines de estado del altímetro auxiliar,3,"Estado de la banda C (0 = activo, 1 = inactivo)",,,,,Operational,Original
+bufr4/0/40/023/4,040023,Banderines de estado del altímetro auxiliar,4,"Estado de la banda Ku (0 = activo, 1 = inactivo) Todos los 5 Valor faltante 0 40 24 Disponibilidad de mapa meteorológico Cifra de clave",,,,,Operational,Original
+bufr4/0/40/023/0,040023,Banderines de estado del altímetro auxiliar,0,2 mapas disponibles (con un intervalo de 6 horas),,,,,Operational,Original
+bufr4/0/40/023/1,040023,Banderines de estado del altímetro auxiliar,1,2 mapas disponibles (con un intervalo > a 6 horas),,,,,Operational,Original
+bufr4/0/40/023/2,040023,Banderines de estado del altímetro auxiliar,2,1 mapa disponible; datos extrapolados,,,,,Operational,Original
+bufr4/0/40/023/3,040023,Banderines de estado del altímetro auxiliar,3,No se han utilizado mapas,,,,,Operational,Original
+bufr4/0/40/023/4-6,040023,Banderines de estado del altímetro auxiliar,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/023/7,040023,Banderines de estado del altímetro auxiliar,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/025/0,040025,Banderín de interpolación para la marea diurna media,0,Bueno,,,,,Operational,Original
+bufr4/0/40/025/1,040025,Banderín de interpolación para la marea diurna media,1,Defectuoso,,,,,Operational,Original
+bufr4/0/40/025/2,040025,Banderín de interpolación para la marea diurna media,2,Reservada,,,,,Operational,Original
+bufr4/0/40/025/3,040025,Banderín de interpolación para la marea diurna media,3,Valor faltante,,,,,Operational,Original
+bufr4/0/40/028/0,040028,Banderín de calidad GMI,0,Datos de calidad,,,,,Operational,Original
+bufr4/0/40/028/1,040028,Banderín de calidad GMI,1,Posible destello solar,,,,,Operational,Original
+bufr4/0/40/028/2,040028,Banderín de calidad GMI,2,Posible interferencia de radiofrecuencias,,,,,Operational,Original
+bufr4/0/40/028/3,040028,Banderín de calidad GMI,3,Datos de geolocalización de calidad degradada,,,,,Operational,Original
+bufr4/0/40/028/4,040028,Banderín de calidad GMI,4,Datos corregidos por infiltración de carga caliente,,,,,Operational,Original
+bufr4/0/40/028/5,040028,Banderín de calidad GMI,5,Exploración en blanco,,,,,Operational,Original
+bufr4/0/40/028/6,040028,Banderín de calidad GMI,6,Datos faltantes en el archivo o ilegibles,,,,,Operational,Original
+bufr4/0/40/028/7,040028,Banderín de calidad GMI,7,Temperatura de luminancia no física,,,,,Operational,Original
+bufr4/0/40/028/8,040028,Banderín de calidad GMI,8,Error en los datos de geolocalización,,,,,Operational,Original
+bufr4/0/40/028/9,040028,Banderín de calidad GMI,9,Datos faltantes en un canal,,,,,Operational,Original
+bufr4/0/40/028/10,040028,Banderín de calidad GMI,10,Datos faltantes en varios canales,,,,,Operational,Original
+bufr4/0/40/028/11,040028,Banderín de calidad GMI,11,Valores de latitud y longitud fuera de intervalo,,,,,Operational,Original
+bufr4/0/40/028/12,040028,Banderín de calidad GMI,12,Modos de situación anormales,,,,,Operational,Original
+bufr4/0/40/028/13,040028,Banderín de calidad GMI,13,Distancia al píxel de baja frecuencia correspondiente > 7 km,,,,,Operational,Original
+bufr4/0/40/028/14,040028,Banderín de calidad GMI,14,Reservada,,,,,Operational,Original
+bufr4/0/40/028/15,040028,Banderín de calidad GMI,15,Valor faltante (no se dispone de la información sobre la calidad),,,,,Operational,Original
+bufr4/0/40/036/0,040036,Tipo de clasificación de productos Lidar L2b,0,Despejado,,,,,Operational,Original
+bufr4/0/40/036/1,040036,Tipo de clasificación de productos Lidar L2b,1,Nuboso,,,,,Operational,Original
+bufr4/0/40/036/2-14,040036,Tipo de clasificación de productos Lidar L2b,2-14,Reservadas,,,,,Operational,Original
+bufr4/0/40/036/15,040036,Tipo de clasificación de productos Lidar L2b,15,Valor faltante,,,,,Operational,Original
+bufr4/0/40/043/0,040043,Indicador de maniobras del satélite,0,La plataforma no está realizando una maniobra,,,,,Operational,Original
+bufr4/0/40/043/1,040043,Indicador de maniobras del satélite,1,"La plataforma está realizando una maniobra, proceso nominal",,,,,Operational,Original
+bufr4/0/40/043/2,040043,Indicador de maniobras del satélite,2,"La plataforma está realizando una maniobra, ningún proceso",,,,,Operational,Original
+bufr4/0/40/043/3-6,040043,Indicador de maniobras del satélite,3-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/043/7,040043,Indicador de maniobras del satélite,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/045/1,040045,Formación de nubes y determinación de la altura,1,Productos de nubes recuperados con el método de chi-cuadrado,,,,,Operational,Original
+bufr4/0/40/045/2,040045,Formación de nubes y determinación de la altura,2,Productos de nubes recuperados con el método de fraccionamiento de CO,2,,,,Operational,Original
+bufr4/0/40/045/3,040045,Formación de nubes y determinación de la altura,3,Determinación de la altura mediante la recuperación estadística de primera aproximación,,,,,Operational,Original
+bufr4/0/40/045/4,040045,Formación de nubes y determinación de la altura,4,Determinación de la altura mediante predicción numérica del tiempo Todos los 5 Valor faltante,,,,,Operational,Original
+bufr4/0/40/046/0,040046,Resumen de nubosidad,0,El campo visual instantáneo del IASI está despejado,,,,,Operational,Original
+bufr4/0/40/046/1,040046,Resumen de nubosidad,1,Existe la posibilidad de una pequeña contaminación por nubes,,,,,Operational,Original
+bufr4/0/40/046/2,040046,Resumen de nubosidad,2,El campo visual instantáneo del IASI está parcialmente cubierto de nubes,,,,,Operational,Original
+bufr4/0/40/046/3,040046,Resumen de nubosidad,3,Existe una cobertura de nubes alta o completa,,,,,Operational,Original
+bufr4/0/40/046/4-6,040046,Resumen de nubosidad,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/046/7,040046,Resumen de nubosidad,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/047/0,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,0,Las mediciones del IASI y la información conexa están disponibles y son de buena calidad para el procesamiento de nivel 2,,,,,Operational,Original
+bufr4/0/40/047/1,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,1,"Los productos L1c del IASI son de calidad degradada de acuerdo con los banderines L1c del IASI, no se realiza procesamiento de nivel 2",,,,,Operational,Original
+bufr4/0/40/047/2,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,2,"El control de calidad indica que los datos L1c del IASI son de calidad degradada (no está indicado por los banderines L1c del IASI), no se realiza procesamiento de nivel 2",,,,,Operational,Original
+bufr4/0/40/047/3-6,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,3-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/048/0,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AMSU-A,0,"Se dispone de las mediciones con la sonda AMSU previstas, son de buena calidad y están coubicadas con el IASI para su procesamiento",,,,,Operational,Original
+bufr4/0/40/048/1,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AMSU-A,1,Se dispone de los datos obtenidos con la sonda AMSU-A pero su calidad está degradada (de acuerdo con los banderines AMSU de nivel 1 o las pruebas de control de calidad) y no se utilizan para el procesamiento,,,,,Operational,Original
+bufr4/0/40/048/2,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AMSU-A,2,No se dispone de mediciones con la sonda AMSU coincidentes (en el tiempo y el espacio) para su procesamiento,,,,,Operational,Original
+bufr4/0/40/048/3-6,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AMSU-A,3-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/048/7,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AMSU-A,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/049/1-3,040049,Realización de pruebas de nubes y resultados,1-3,Reservados,,,,,Operational,Original
+bufr4/0/40/049/4,040049,Realización de pruebas de nubes y resultados,4,El espesor óptico de la nube medido con el IASI indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/5,040049,Realización de pruebas de nubes y resultados,5,Se ha calculado el espesor óptico de la nube con el IASI,,,,,Operational,Original
+bufr4/0/40/049/6,040049,Realización de pruebas de nubes y resultados,6,La prueba de heterogeneidad realizada con el AVHRR indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/7,040049,Realización de pruebas de nubes y resultados,7,Se ha realizado la prueba de heterogeneidad con el AVHRR,,,,,Operational,Original
+bufr4/0/40/049/8,040049,Realización de pruebas de nubes y resultados,8,La prueba de nubes con RNA IASI-AVHRR indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/9,040049,Realización de pruebas de nubes y resultados,9,Se ha realizado la prueba de nubes con RNA IASI-AVHRR,,,,,Operational,Original
+bufr4/0/40/049/10,040049,Realización de pruebas de nubes y resultados,10,La fracción de nube integrada mediante el AVHRR indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/11,040049,Realización de pruebas de nubes y resultados,11,Se ha evaluado la fracción de nube integrada mediante el AVHRR,,,,,Operational,Original
+bufr4/0/40/049/12,040049,Realización de pruebas de nubes y resultados,12,La prueba de nubes realizada con la AMSU indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/13,040049,Realización de pruebas de nubes y resultados,13,Se ha realizado la prueba de nubes con la AMSU,,,,,Operational,Original
+bufr4/0/40/049/14,040049,Realización de pruebas de nubes y resultados,14,La prueba de nubes mediante el IASI Window indica la presencia de una nube,,,,,Operational,Original
+bufr4/0/40/049/15,040049,Realización de pruebas de nubes y resultados,15,Se ha realizado la prueba de nubes mediante el IASI Window Todos los 16 Valor faltante,,,,,Operational,Original
+bufr4/0/40/050/1-4,040050,Inicialización de la recuperación,1-4,Reservados,,,,,Operational,Original
+bufr4/0/40/050/5,040050,Inicialización de la recuperación,5,MHS incluido,,,,,Operational,Original
+bufr4/0/40/050/6,040050,Inicialización de la recuperación,6,AMSU incluida,,,,,Operational,Original
+bufr4/0/40/050/7,040050,Inicialización de la recuperación,7,IASI incluido Todos los 8 Valor faltante,,,,,Operational,Original
+bufr4/0/40/051/0,040051,Convergencia de la recuperación iterativa,0,No se ha aplicado el método de estimación óptima,,,,,Operational,Original
+bufr4/0/40/051/1,040051,Convergencia de la recuperación iterativa,1,Se ha suspendido el método de estimación óptima porque hay demasiados residuos de la primera aproximación,,,,,Operational,Original
+bufr4/0/40/051/2,040051,Convergencia de la recuperación iterativa,2,"La minimización no converge, se rechaza el sondeo",,,,,Operational,Original
+bufr4/0/40/051/3,040051,Convergencia de la recuperación iterativa,3,"La minimización no converge, se acepta el sondeo",,,,,Operational,Original
+bufr4/0/40/051/4,040051,Convergencia de la recuperación iterativa,4,"La minimización converge, pero se rechaza el sondeo",,,,,Operational,Original
+bufr4/0/40/051/5,040051,Convergencia de la recuperación iterativa,5,"La minimización converge, se acepta el sondeo",,,,,Operational,Original
+bufr4/0/40/051/6,040051,Convergencia de la recuperación iterativa,6,Reservada,,,,,Operational,Original
+bufr4/0/40/051/7,040051,Convergencia de la recuperación iterativa,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/052/1-3,040052,Indicación de superadiabático y supersaturación en la recuperación final,1-3,Reservados,,,,,Operational,Original
+bufr4/0/40/052/4,040052,Indicación de superadiabático y supersaturación en la recuperación final,4,Condiciones de supersaturación en la recuperación mediante el método de estimación óptima,,,,,Operational,Original
+bufr4/0/40/052/5,040052,Indicación de superadiabático y supersaturación en la recuperación final,5,Condiciones superadiabáticas en la recuperación mediante el método de estimación óptima,,,,,Operational,Original
+bufr4/0/40/052/6,040052,Indicación de superadiabático y supersaturación en la recuperación final,6,Condiciones de supersaturación en la primera aproximación,,,,,Operational,Original
+bufr4/0/40/052/7,040052,Indicación de superadiabático y supersaturación en la recuperación final,7,Condiciones superadiabáticas en la primera aproximación Todos los 8 Valor faltante,,,,,Operational,Original
+bufr4/0/40/054/1,040054,Errores potenciales de cálculo y en las entradas,1,Se ha detectado un error,,,,,Operational,Original
+bufr4/0/40/054/2,040054,Errores potenciales de cálculo y en las entradas,2,Mensaje de nivel 1,,,,,Operational,Original
+bufr4/0/40/054/3,040054,Errores potenciales de cálculo y en las entradas,3,Mensaje de nivel 2,,,,,Operational,Original
+bufr4/0/40/054/4,040054,Errores potenciales de cálculo y en las entradas,4,Mensaje a partir de datos auxiliares,,,,,Operational,Original
+bufr4/0/40/054/5,040054,Errores potenciales de cálculo y en las entradas,5,Mensaje a partir del procedimiento de ajuste,,,,,Operational,Original
+bufr4/0/40/054/6,040054,Errores potenciales de cálculo y en las entradas,6,Apertura del archivo,,,,,Operational,Original
+bufr4/0/40/054/7,040054,Errores potenciales de cálculo y en las entradas,7,Lectura del archivo,,,,,Operational,Original
+bufr4/0/40/054/8,040054,Errores potenciales de cálculo y en las entradas,8,Banderín de calidad,,,,,Operational,Original
+bufr4/0/40/054/9,040054,Errores potenciales de cálculo y en las entradas,9,La “regresión lineal” (F_Qual) de nivel 2 indica un píxel en el que el nivel 2 no es completamente fiable,,,,,Operational,Original
+bufr4/0/40/054/10,040054,Errores potenciales de cálculo y en las entradas,10,Campo o datos vacíos,,,,,Operational,Original
+bufr4/0/40/054/11,040054,Errores potenciales de cálculo y en las entradas,11,Valor de presión en superficie faltante,,,,,Operational,Original
+bufr4/0/40/054/12,040054,Errores potenciales de cálculo y en las entradas,12,Filtrado de radiancia Todos los 13 Valor faltante,,,,,Operational,Original
+bufr4/0/40/055/1,040055,Diagnóstico de recuperación,1,Filtrado de radiancia,,,,,Operational,Original
+bufr4/0/40/055/2,040055,Diagnóstico de recuperación,2,Regiones polares,,,,,Operational,Original
+bufr4/0/40/055/3,040055,Diagnóstico de recuperación,3,Ubicación en la noche,,,,,Operational,Original
+bufr4/0/40/055/4,040055,Diagnóstico de recuperación,4,Altura negativa superficie por debajo del nivel medio del mar,,,,,Operational,Original
+bufr4/0/40/055/5,040055,Diagnóstico de recuperación,5,Escena cubierta de nubes,,,,,Operational,Original
+bufr4/0/40/055/6,040055,Diagnóstico de recuperación,6,Escena sobre el mar,,,,,Operational,Original
+bufr4/0/40/055/7,040055,Diagnóstico de recuperación,7,Escena sobre el desierto,,,,,Operational,Original
+bufr4/0/40/055/8,040055,Diagnóstico de recuperación,8,Temperatura de la capa superficial,,,,,Operational,Original
+bufr4/0/40/055/9,040055,Diagnóstico de recuperación,9,Diferencial de temperatura de la capa superficial,,,,,Operational,Original
+bufr4/0/40/055/10,040055,Diagnóstico de recuperación,10,El contraste de la línea espectral es muy débil,,,,,Operational,Original
+bufr4/0/40/055/11,040055,Diagnóstico de recuperación,11,Se ha superado el número máximo de iteraciones,,,,,Operational,Original
+bufr4/0/40/055/12,040055,Diagnóstico de recuperación,12,Columnas parciales negativas,,,,,Operational,Original
+bufr4/0/40/055/13,040055,Diagnóstico de recuperación,13,Matriz mal condicionada,,,,,Operational,Original
+bufr4/0/40/055/14,040055,Diagnóstico de recuperación,14,El ajuste diverge,,,,,Operational,Original
+bufr4/0/40/055/15,040055,Diagnóstico de recuperación,15,Error en el uso de la Biblioteca Científica GNU (GSL),,,,,Operational,Original
+bufr4/0/40/055/16,040055,Diagnóstico de recuperación,16,Residuos “sesgados”,,,,,Operational,Original
+bufr4/0/40/055/17,040055,Diagnóstico de recuperación,17,Residuos en “en gradiente”,,,,,Operational,Original
+bufr4/0/40/055/18,040055,Diagnóstico de recuperación,18,El error cuadrático medio residual es importante,,,,,Operational,Original
+bufr4/0/40/055/19,040055,Diagnóstico de recuperación,19,Averaging Kernels extraños,,,,,Operational,Original
+bufr4/0/40/055/20,040055,Diagnóstico de recuperación,20,Se ha detectado la presencia de hielo Todos los 21 Valor faltante,,,,,Operational,Original
+bufr4/0/40/056/0,040056,Calidad general de la recuperación,0,Uso no recomendado,,,,,Operational,Original
+bufr4/0/40/056/1,040056,Calidad general de la recuperación,1,Úsese con precaución,,,,,Operational,Original
+bufr4/0/40/056/2,040056,Calidad general de la recuperación,2,Calidad óptima,,,,,Operational,Original
+bufr4/0/40/056/3-6,040056,Calidad general de la recuperación,3-6,Reservadas,,,,,Operational,Original
+bufr4/0/40/056/7,040056,Calidad general de la recuperación,7,Valor faltante,,,,,Operational,Original
+bufr4/0/40/057/1,040057,Banderines de recuperación de IASI de nivel 2,1,Se ha detectado un error,,,,,Operational,Original
+bufr4/0/40/057/2,040057,Banderines de recuperación de IASI de nivel 2,2,Mensaje de nivel 1,,,,,Operational,Original
+bufr4/0/40/057/3,040057,Banderines de recuperación de IASI de nivel 2,3,Mensaje de nivel 2,,,,,Operational,Original
+bufr4/0/40/057/4,040057,Banderines de recuperación de IASI de nivel 2,4,Mensaje a partir de datos auxiliares,,,,,Operational,Original
+bufr4/0/40/057/5,040057,Banderines de recuperación de IASI de nivel 2,5,Mensaje a partir del procedimiento de ajuste,,,,,Operational,Original
+bufr4/0/40/057/6,040057,Banderines de recuperación de IASI de nivel 2,6,Reservado,,,,,Operational,Original
+bufr4/0/40/057/7,040057,Banderines de recuperación de IASI de nivel 2,7,Banderín de nivel 1 o nivel 2 incorrectamente usado,,,,,Operational,Original
+bufr4/0/40/057/8,040057,Banderines de recuperación de IASI de nivel 2,8,El nivel 2 no es completamente fiable,,,,,Operational,Original
+bufr4/0/40/057/9,040057,Banderines de recuperación de IASI de nivel 2,9,Faltan los niveles de temperatura o humedad en el perfil vertical,,,,,Operational,Original
+bufr4/0/40/057/10,040057,Banderines de recuperación de IASI de nivel 2,10,Falta el valor de presión en superficie,,,,,Operational,Original
+bufr4/0/40/057/11,040057,Banderines de recuperación de IASI de nivel 2,11,Filtrado de radiancia,,,,,Operational,Original
+bufr4/0/40/068/0,040068,Banderín de calidad general de recuperación del SO 2,0,Valores calculados con IASI de nivel 2,,,,,Operational,Original
+bufr4/0/40/068/1,040068,Banderín de calidad general de recuperación del SO 2,1,Perfiles de presión y temperatura faltantes en los datos IASI de nivel 2; se usaron datos de modelos y predicciones en su lugar,,,,,Operational,Original
+bufr4/0/40/068/2,040068,Banderín de calidad general de recuperación del SO 2,2,Calidad óptima,,,,,Operational,Original
+bufr4/0/40/068/3-14,040068,Banderín de calidad general de recuperación del SO 2,3-14,Reservadas,,,,,Operational,Original
+bufr4/0/40/068/15,040068,Banderín de calidad general de recuperación del SO 2,15,Valor faltante,,,,,Operational,Original
+bufr4/0/40/074/1,040074,Banderines de calidad de interferometría general,1,Incompatibilidad de un ángulo de exploración para electroencefalograma,,,,,Operational,Original
+bufr4/0/40/074/2,040074,Banderines de calidad de interferometría general,2,"Problema de calibración (se alcanzó el límite de temperatura de cuerpo negro, no hay fuentes suficientes para interferometría, etc.)",,,,,Operational,Original
+bufr4/0/40/074/3,040074,Banderines de calidad de interferometría general,3,Geolocalización realizada tomando en cuenta la la orientación del vehículo espacial y usando el catálogo de estrellas,,,,,Operational,Original
+bufr4/0/40/074/4,040074,Banderines de calidad de interferometría general,4,"Se alcanzó un alto nivel de sedimento criogénico, que exigió la desgasificación del enfriador radiativo. Se determinó cuando se traspasó el nivel NESR del umbral de la cubierta de hielo",,,,,Operational,Original
+bufr4/0/40/074/5,040074,Banderines de calidad de interferometría general,5,Banderín para el conjunto de elementos de interferometría,,,,,Operational,Original
+bufr4/0/40/074/6,040074,Banderines de calidad de interferometría general,6,Banderín de exactitud general,,,,,Operational,Original
+bufr4/0/40/074/7,040074,Banderines de calidad de interferometría general,7,Ruido durante la interferometría,,,,,Operational,Original
+bufr4/0/40/074/8,040074,Banderines de calidad de interferometría general,8,Desgasficación de enfriador radiativo,,,,,Operational,Original
+bufr4/0/40/074/9,040074,Banderines de calidad de interferometría general,9,Banderín que precede la marca de las primeras 24 horas/día (fijada como regla),,,,,Operational,Original
+bufr4/0/40/074/10,040074,Banderines de calidad de interferometría general,10,Banderín para el conjunto de elementos de telemetría,,,,,Operational,Original
+bufr4/0/40/074/11-15,040074,Banderines de calidad de interferometría general,11-15,Reservadas Las 16 Valor faltante,,,,,Operational,Original

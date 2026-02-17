@@ -1,0 +1,14 @@
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
+bufr4/0/31/021/0,031021,Significación del campo asociado (adicional),0,Reservada,,,,,Operational,Original
+bufr4/0/31/021/1,031021,Significación del campo asociado (adicional),1,Indicador de calidad de 1 bit 0 = bueno 1 = dudoso o malo,,,,,Operational,Original
+bufr4/0/31/021/2,031021,Significación del campo asociado (adicional),2,Indicador de calidad de 2 bits 0 = bueno 1 = ligeramente dudoso 2 = muy dudoso 3 = malo,,,,,Operational,Original
+bufr4/0/31/021/3-5,031021,Significación del campo asociado (adicional),3-5,Reservadas,,,,,Operational,Original
+bufr4/0/31/021/6,031021,Significación del campo asociado (adicional),6,"Indicador de 4 bits de clase de 0 = Sin calificación control de calidad según el 1 = Valor correcto (todos los controles GTSPP pasados) 2 = Probablemente bueno, pero el valor no es coherente con las estadísticas (diferente de la climatología) 3 = Probablemente malo (variaciones repentinas, gradientes, ... si se pasaron otros controles) 4 = Valor malo, valor imposible (fuera de la escala, inestabilidad vertical, perfil constante) 5 = Valor modificado durante el control de calidad 6–7 = No utilizadas (reservadas) 8 = Valor interpolado 9 = Valor faltante 0 = No sospechado",,,,,Operational,Original
+bufr4/0/31/021/7,031021,Significación del campo asociado (adicional),7,Porcentaje de confianza 1 = Sospechoso,,,,,Operational,Original
+bufr4/0/31/021/8,031021,Significación del campo asociado (adicional),8,"2 = Reservado 3 = Información no requerida 0 = Datos presentes, buenos, coubicados",,,,,Operational,Original
+bufr4/0/31/021/9,031021,Significación del campo asociado (adicional),9,Estado de los datos auxiliares 1 = Datos disponibles pero de calidad degradada y no utilizados 2 = No se dispone de datos coubicados espaciotemporalmente 3-14 = No utilizadas (reservadas) 15 = Valor faltante,,,,,Operational,Original
+bufr4/0/31/021/10-20,031021,Significación del campo asociado (adicional),10-20,Reservadas 0 = valor original,,,,,Operational,Original
+bufr4/0/31/021/21,031021,Significación del campo asociado (adicional),21,Indicador de corrección de 1 bit (véase la nota 2) 1 = valor sustituido/corregido,,,,,Operational,Original
+bufr4/0/31/021/22-62,031021,Significación del campo asociado (adicional),22-62,Reservadas para uso local,,,,,Operational,Original
+bufr4/0/31/021/63,031021,Significación del campo asociado (adicional),63,Valor faltante Notas: 1) Se utilizará inicialmente la significación del campo asociado (adicional) en relación con la calidad de los datos observados. 2) La cifra de clave 21 puede utilizarse en mensajes corregidos con los valores sustituidos/corregidos identificados. 3) Se elaborarán aplicaciones ulteriores.,,,,,Operational,Original
+bufr4/0/31/031/1,031031,Indicador de datos presentes Valor Significado,1,0 Datos presentes 1 Datos no presentes,,,,,Operational,Original

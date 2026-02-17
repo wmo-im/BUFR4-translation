@@ -7,7 +7,7 @@ bufr4/0/19/001/4,019001,Tipo de característica sinóptica,4,Tifón,,,,,Operatio
 bufr4/0/19/001/5-9,019001,Tipo de característica sinóptica,5-9,Reservadas,,,,,Operational,Original
 bufr4/0/19/001/10,019001,Tipo de característica sinóptica,10,Tempestad de polvo/arena,,,,,Operational,Original
 bufr4/0/19/001/11-62,019001,Tipo de característica sinóptica,11-62,Reservadas,,,,,Operational,Original
-bufr4/0/19/001/63,019001,Tipo de característica sinóptica,63,Valor faltante,,,,,Operational,Original
+bufr4/0/19/001/63,019001,Tipo de característica sinóptica,63,Valor faltante Nota: En caso necesario se agregarán nuevos nombres locales para las tormentas de distintas intensidades.,,,,,Operational,Original
 bufr4/0/19/008/0,019008,Extensión vertical de la circulación,0,Reservada,,,,,Operational,Original
 bufr4/0/19/008/1,019008,Extensión vertical de la circulación,1,Poco profundo (tope de la circulación por debajo del nivel de 700 hPa),,,,,Operational,Original
 bufr4/0/19/008/2,019008,Extensión vertical de la circulación,2,Medio (tope entre los niveles de 700 y 400 hPa),,,,,Operational,Original
@@ -42,8 +42,8 @@ bufr4/0/19/101/10,019101,Precisión de la posición del centro del ciclón tropi
 bufr4/0/19/101/11-14,019101,Precisión de la posición del centro del ciclón tropical,11-14,No utilizadas,,,,,Operational,Original
 bufr4/0/19/101/15,019101,Precisión de la posición del centro del ciclón tropical,15,Valor faltante,,,,,Operational,Original
 bufr4/0/19/102/0,019102,Forma y definición del ojo del ciclón tropical,0,Circular,,,,,Operational,Original
-bufr4/0/19/102/1,019102,Forma y definición del ojo del ciclón tropical,1,"Elíptica – la longitud del eje menor alcanza, por lo menos, los 3/4 del eje mayor",,,,,Operational,Original
-bufr4/0/19/102/2,019102,Forma y definición del ojo del ciclón tropical,2,Elíptica - la longitud del eje menor es inferior a 3/4 del eje mayor,,,,,Operational,Original
+bufr4/0/19/102/1,019102,Forma y definición del ojo del ciclón tropical,1,"Elíptica ─ la longitud del eje menor alcanza, por lo menos, los 3/4 del eje mayor",,,,,Operational,Original
+bufr4/0/19/102/2,019102,Forma y definición del ojo del ciclón tropical,2,Elíptica ─ la longitud del eje menor es inferior a 3/4 del eje mayor,bien definido,,,,Operational,Original
 bufr4/0/19/102/3,019102,Forma y definición del ojo del ciclón tropical,3,Doble ojo aparente,,,,,Operational,Original
 bufr4/0/19/102/4,019102,Forma y definición del ojo del ciclón tropical,4,Otra forma,,,,,Operational,Original
 bufr4/0/19/102/5,019102,Forma y definición del ojo del ciclón tropical,5,Mal definido,,,,,Operational,Original
@@ -59,8 +59,6 @@ bufr4/0/19/103/7,019103,Diámetro del eje principal del ojo del ciclón tropical
 bufr4/0/19/103/8,019103,Diámetro del eje principal del ojo del ciclón tropical,8,De 40 a menos de 50 km,,,,,Operational,Original
 bufr4/0/19/103/9,019103,Diámetro del eje principal del ojo del ciclón tropical,9,Más de 50 km,,,,,Operational,Original
 bufr4/0/19/103/10,019103,Diámetro del eje principal del ojo del ciclón tropical,10,Indeterminado,,,,,Operational,Original
-bufr4/0/19/103/11-14,019103,Diámetro del eje principal del ojo del ciclón tropical,11-14,No utilizadas,,,,,Operational,Original
-bufr4/0/19/103/15,019103,Diámetro del eje principal del ojo del ciclón tropical,15,Valor faltante,,,,,Operational,Original
 bufr4/0/19/104/0,019104,Cambio de naturaleza del ojo durante los 30 minutos,0,El ojo comenzó a hacerse visible durante los 30 minutos anteriores,,,,,Operational,Original
 bufr4/0/19/104/1,019104,Cambio de naturaleza del ojo durante los 30 minutos,1,No ha habido cambio significativo en las características o el tamaño del ojo,,,,,Operational,Original
 bufr4/0/19/104/2,019104,Cambio de naturaleza del ojo durante los 30 minutos,2,El ojo se ha hecho más pequeño sin ningún otro cambio significativo de las características,,,,,Operational,Original
@@ -86,65 +84,63 @@ bufr4/0/19/105/8-9,019105,Distancia entre el fin de la banda en espiral y el cen
 bufr4/0/19/105/10,019105,Distancia entre el fin de la banda en espiral y el centro,10,Dudosa o indeterminada,,,,,Operational,Original
 bufr4/0/19/105/11-14,019105,Distancia entre el fin de la banda en espiral y el centro,11-14,No utilizadas,,,,,Operational,Original
 bufr4/0/19/105/15,019105,Distancia entre el fin de la banda en espiral y el centro,15,Valor faltante,,,,,Operational,Original
-bufr4/0/19/107/0,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,0,Menos de una hora,,,,,Operational,Original
-bufr4/0/19/107/1,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,1,De 1 a menos de 2 horas,,,,,Operational,Original
-bufr4/0/19/107/2,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,2,De 2 a menos de 3 horas,,,,,Operational,Original
-bufr4/0/19/107/3,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,3,De 3 a menos de 6 horas,,,,,Operational,Original
-bufr4/0/19/107/4,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,4,De 6 a menos de 9 horas,,,,,Operational,Original
-bufr4/0/19/107/5,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,5,De 9 a menos de 12 horas,,,,,Operational,Original
-bufr4/0/19/107/6,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,6,De 12 a menos de 15 horas,,,,,Operational,Original
-bufr4/0/19/107/7,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,7,De 15 a menos de 18 horas,,,,,Operational,Original
-bufr4/0/19/107/8,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,8,De 18 a menos de 21 horas,,,,,Operational,Original
-bufr4/0/19/107/9,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,9,De 21 a menos de 30 horas,,,,,Operational,Original
-bufr4/0/19/107/10-14,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,10-14,No utilizadas,,,,,Operational,Original
-bufr4/0/19/107/15,019107,Intervalo de tiempo respect del que se ha calculado el desplazamiento del ciclón tropical,15,Valor faltante,,,,,Operational,Original
-bufr4/0/19/108/0,019108,Precisión de la posición geográfica del ciclón tropical,0,Centro del ciclón a menos de 10 km de la posición transmitida,,,,,Operational,Original
-bufr4/0/19/108/1,019108,Precisión de la posición geográfica del ciclón tropical,1,Centro del ciclón a menos de 20 km de la posición transmitida,,,,,Operational,Original
-bufr4/0/19/108/2,019108,Precisión de la posición geográfica del ciclón tropical,2,Centro del ciclón a menos de 50 km de la posición transmitida,,,,,Operational,Original
-bufr4/0/19/108/3,019108,Precisión de la posición geográfica del ciclón tropical,3,Centro del ciclón a menos de 100 km de la posición transmitida,,,,,Operational,Original
-bufr4/0/19/108/4,019108,Precisión de la posición geográfica del ciclón tropical,4,Centro del ciclón a menos de 200 km de la posición transmitida,,,,,Operational,Original
-bufr4/0/19/108/5,019108,Precisión de la posición geográfica del ciclón tropical,5,Centro del ciclón a menos de 300 km de la posición transmitida,,,,,Operational,Original
+bufr4/0/19/107/0,019107,tropical,0,Menos de una hora,,,,,Operational,Original
+bufr4/0/19/107/1,019107,tropical,1,De 1 a menos de 2 horas,,,,,Operational,Original
+bufr4/0/19/107/2,019107,tropical,2,De 2 a menos de 3 horas,,,,,Operational,Original
+bufr4/0/19/107/3,019107,tropical,3,De 3 a menos de 6 horas,,,,,Operational,Original
+bufr4/0/19/107/4,019107,tropical,4,De 6 a menos de 9 horas,,,,,Operational,Original
+bufr4/0/19/107/5,019107,tropical,5,De 9 a menos de 12 horas,,,,,Operational,Original
+bufr4/0/19/107/6,019107,tropical,6,De 12 a menos de 15 horas,,,,,Operational,Original
+bufr4/0/19/107/7,019107,tropical,7,De 15 a menos de 18 horas,,,,,Operational,Original
+bufr4/0/19/107/8,019107,tropical,8,De 18 a menos de 21 horas,,,,,Operational,Original
+bufr4/0/19/107/9,019107,tropical,9,De 21 a menos de 30 horas,,,,,Operational,Original
+bufr4/0/19/108/0,019108,Precisión de la posición geográfica del ciclón tropical,0,Centro del ciclón a menos de 10 km de la posición  transmitida,,,,,Operational,Original
+bufr4/0/19/108/1,019108,Precisión de la posición geográfica del ciclón tropical,1,Centro del ciclón a menos de 20 km de la posición  transmitida,,,,,Operational,Original
+bufr4/0/19/108/2,019108,Precisión de la posición geográfica del ciclón tropical,2,Centro del ciclón a menos de 50 km de la posición  transmitida,,,,,Operational,Original
+bufr4/0/19/108/3,019108,Precisión de la posición geográfica del ciclón tropical,3,Centro del ciclón a menos de 100 km de la posición  transmitida,,,,,Operational,Original
+bufr4/0/19/108/4,019108,Precisión de la posición geográfica del ciclón tropical,4,Centro del ciclón a menos de 200 km de la posición  transmitida,,,,,Operational,Original
+bufr4/0/19/108/5,019108,Precisión de la posición geográfica del ciclón tropical,5,Centro del ciclón a menos de 300 km de la posición  transmitida,,,,,Operational,Original
 bufr4/0/19/108/6,019108,Precisión de la posición geográfica del ciclón tropical,6,Centro del ciclón indeterminado,,,,,Operational,Original
 bufr4/0/19/108/7,019108,Precisión de la posición geográfica del ciclón tropical,7,Valor faltante,,,,,Operational,Original
-bufr4/0/19/109/0,019109,Diámetro medio de la cobertura nubosa del cicló tropical,0,Menos de 1º de latitud,,,,,Operational,Original
-bufr4/0/19/109/1,019109,Diámetro medio de la cobertura nubosa del cicló tropical,1,De 1 a menos de 2º de latitud,,,,,Operational,Original
-bufr4/0/19/109/2,019109,Diámetro medio de la cobertura nubosa del cicló tropical,2,De 2 a menos de 3º de latitud,,,,,Operational,Original
-bufr4/0/19/109/3,019109,Diámetro medio de la cobertura nubosa del cicló tropical,3,De 3 a menos de 4º de latitud,,,,,Operational,Original
-bufr4/0/19/109/4,019109,Diámetro medio de la cobertura nubosa del cicló tropical,4,De 4 a menos de 5º de latitud,,,,,Operational,Original
-bufr4/0/19/109/5,019109,Diámetro medio de la cobertura nubosa del cicló tropical,5,De 5 a menos de 6º de latitud,,,,,Operational,Original
-bufr4/0/19/109/6,019109,Diámetro medio de la cobertura nubosa del cicló tropical,6,De 6 a menos de 7º de latitud,,,,,Operational,Original
+bufr4/0/19/109/0,019109,Diámetro medio de la cobertura nubosa del cicló tropical,0,Menos de 1° de latitud,,,,,Operational,Original
+bufr4/0/19/109/1,019109,Diámetro medio de la cobertura nubosa del cicló tropical,1,De 1 a menos de 2° de latitud,,,,,Operational,Original
+bufr4/0/19/109/2,019109,Diámetro medio de la cobertura nubosa del cicló tropical,2,De 2 a menos de 3° de latitud,,,,,Operational,Original
+bufr4/0/19/109/3,019109,Diámetro medio de la cobertura nubosa del cicló tropical,3,De 3 a menos de 4° de latitud,,,,,Operational,Original
+bufr4/0/19/109/4,019109,Diámetro medio de la cobertura nubosa del cicló tropical,4,De 4 a menos de 5° de latitud,,,,,Operational,Original
+bufr4/0/19/109/5,019109,Diámetro medio de la cobertura nubosa del cicló tropical,5,De 5 a menos de 6° de latitud,,,,,Operational,Original
+bufr4/0/19/109/6,019109,Diámetro medio de la cobertura nubosa del cicló tropical,6,De 6 a menos de 7° de latitud,,,,,Operational,Original
 bufr4/0/19/109/7,019109,Diámetro medio de la cobertura nubosa del cicló tropical,7,De 7 a menos de 8° de latitud,,,,,Operational,Original
 bufr4/0/19/109/8,019109,Diámetro medio de la cobertura nubosa del cicló tropical,8,De 8 a menos de 9° de latitud,,,,,Operational,Original
 bufr4/0/19/109/9,019109,Diámetro medio de la cobertura nubosa del cicló tropical,9,9° de latitud o más,,,,,Operational,Original
 bufr4/0/19/109/10,019109,Diámetro medio de la cobertura nubosa del cicló tropical,10,Indeterminada,,,,,Operational,Original
 bufr4/0/19/109/11-14,019109,Diámetro medio de la cobertura nubosa del cicló tropical,11-14,No utilizadas,,,,,Operational,Original
 bufr4/0/19/109/15,019109,Diámetro medio de la cobertura nubosa del cicló tropical,15,Valor faltante,,,,,Operational,Original
-bufr4/0/19/110/0,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,0,Debilitándose mucho,,,,,Operational,Original
-bufr4/0/19/110/1,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,1,Debilitándose,,,,,Operational,Original
-bufr4/0/19/110/2,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,2,Ningún cambio,,,,,Operational,Original
-bufr4/0/19/110/3,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,3,Intensificación,,,,,Operational,Original
-bufr4/0/19/110/4,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,4,Fuerte intensificación,,,,,Operational,Original
-bufr4/0/19/110/5-8,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,5-8,Reservadas,,,,,Operational,Original
-bufr4/0/19/110/9,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,9,No observado anteriormente,,,,,Operational,Original
-bufr4/0/19/110/10,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,10,Indeterminada,,,,,Operational,Original
-bufr4/0/19/110/11-14,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,11-14,No utilizadas,,,,,Operational,Original
-bufr4/0/19/110/15,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical,15,Valor faltante,,,,,Operational,Original
-bufr4/0/19/113/1,019113,Tipo de configuración nubosa del número de DT,1,Banda curvada,,,,,Operational,Original
-bufr4/0/19/113/2,019113,Tipo de configuración nubosa del número de DT,2,Cortante,,,,,Operational,Original
-bufr4/0/19/113/3,019113,Tipo de configuración nubosa del número de DT,3,Ojo,,,,,Operational,Original
-bufr4/0/19/113/4,019113,Tipo de configuración nubosa del número de DT,4,Ojo en franja,,,,,Operational,Original
-bufr4/0/19/113/5,019113,Tipo de configuración nubosa del número de DT,5,Cobertura central densa (CDO),,,,,Operational,Original
-bufr4/0/19/113/6,019113,Tipo de configuración nubosa del número de DT,6,Centro subsumido,,,,,Operational,Original
-bufr4/0/19/113/7,019113,Tipo de configuración nubosa del número de DT,7,Cubierta fría central (CCC),,,,,Operational,Original
-bufr4/0/19/113/8-14,019113,Tipo de configuración nubosa del número de DT,8-14,Reservadas,,,,,Operational,Original
-bufr4/0/19/113/15,019113,Tipo de configuración nubosa del número de DT,15,Valor faltante,,,,,Operational,Original
-bufr4/0/19/117/1,019117,Tipo de imagen de la nube del número de PT,1,A (bandada curvada),,,,,Operational,Original
-bufr4/0/19/117/2,019117,Tipo de imagen de la nube del número de PT,2,B (CDO),,,,,Operational,Original
-bufr4/0/19/117/3,019117,Tipo de imagen de la nube del número de PT,3,C (cortante),,,,,Operational,Original
-bufr4/0/19/117/4-6,019117,Tipo de imagen de la nube del número de PT,4-6,Reservadas,,,,,Operational,Original
-bufr4/0/19/117/7,019117,Tipo de imagen de la nube del número de PT,7,Valor faltante,,,,,Operational,Original
-bufr4/0/19/119/1,019119,Tipo del número T final,1,Número DT,,,,,Operational,Original
-bufr4/0/19/119/2,019119,Tipo del número T final,2,Número PT,,,,,Operational,Original
-bufr4/0/19/119/3,019119,Tipo del número T final,3,Número MET,,,,,Operational,Original
-bufr4/0/19/119/4-6,019119,Tipo del número T final,4-6,Reservadas,,,,,Operational,Original
-bufr4/0/19/119/7,019119,Tipo del número T final,7,Valor faltante,,,,,Operational,Original
+bufr4/0/19/110/0,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,0,Debilitándose mucho,,,,,Operational,Original
+bufr4/0/19/110/1,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,1,Debilitándose,,,,,Operational,Original
+bufr4/0/19/110/2,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,2,Ningún cambio,,,,,Operational,Original
+bufr4/0/19/110/3,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,3,Intensificación,,,,,Operational,Original
+bufr4/0/19/110/4,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,4,Fuerte intensificación,,,,,Operational,Original
+bufr4/0/19/110/5-8,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,5-8,Reservadas,,,,,Operational,Original
+bufr4/0/19/110/9,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,9,No observado anteriormente,,,,,Operational,Original
+bufr4/0/19/110/10,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,10,Indeterminada,,,,,Operational,Original
+bufr4/0/19/110/11-14,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,11-14,No utilizadas,,,,,Operational,Original
+bufr4/0/19/110/15,019110,Cambio aparente en 24 horas de la intensidad del clicón tropical Tipo,15,Valor faltante,,,,,Operational,Original
+bufr4/0/19/113/1,019113,Tipo de configuración nubosa del número de DT Tipo,1,Banda curvada,,,,,Operational,Original
+bufr4/0/19/113/2,019113,Tipo de configuración nubosa del número de DT Tipo,2,Cortante,,,,,Operational,Original
+bufr4/0/19/113/3,019113,Tipo de configuración nubosa del número de DT Tipo,3,Ojo,,,,,Operational,Original
+bufr4/0/19/113/4,019113,Tipo de configuración nubosa del número de DT Tipo,4,Ojo en franja,,,,,Operational,Original
+bufr4/0/19/113/5,019113,Tipo de configuración nubosa del número de DT Tipo,5,Cobertura central densa (CDO),,,,,Operational,Original
+bufr4/0/19/113/6,019113,Tipo de configuración nubosa del número de DT Tipo,6,Centro subsumido,,,,,Operational,Original
+bufr4/0/19/113/7,019113,Tipo de configuración nubosa del número de DT Tipo,7,Cubierta fría central (CCC),,,,,Operational,Original
+bufr4/0/19/113/8-14,019113,Tipo de configuración nubosa del número de DT Tipo,8-14,Reservadas,,,,,Operational,Original
+bufr4/0/19/113/15,019113,Tipo de configuración nubosa del número de DT Tipo,15,Valor faltante,,,,,Operational,Original
+bufr4/0/19/117/1,019117,Tipo de imagen de la nube del número de PT Tipo,1,A ( bandada curvada),,,,,Operational,Original
+bufr4/0/19/117/2,019117,Tipo de imagen de la nube del número de PT Tipo,2,B (CDO),,,,,Operational,Original
+bufr4/0/19/117/3,019117,Tipo de imagen de la nube del número de PT Tipo,3,C (cortante),,,,,Operational,Original
+bufr4/0/19/117/4-6,019117,Tipo de imagen de la nube del número de PT Tipo,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/19/117/7,019117,Tipo de imagen de la nube del número de PT Tipo,7,Valor faltante,,,,,Operational,Original
+bufr4/0/19/119/1,019119,Tipo del número T final Tipo,1,Número DT,,,,,Operational,Original
+bufr4/0/19/119/2,019119,Tipo del número T final Tipo,2,Número PT,,,,,Operational,Original
+bufr4/0/19/119/3,019119,Tipo del número T final Tipo,3,Número MET,,,,,Operational,Original
+bufr4/0/19/119/4-6,019119,Tipo del número T final Tipo,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/19/119/7,019119,Tipo del número T final Tipo,7,Valor faltante,,,,,Operational,Original

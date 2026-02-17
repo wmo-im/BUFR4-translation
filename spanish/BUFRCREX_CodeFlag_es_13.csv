@@ -20,11 +20,11 @@ bufr4/0/13/040/9,013040,Banderín de superficie,9,Hielo marino,,,,,Operational,O
 bufr4/0/13/040/10,013040,Banderín de superficie,10,Agua estancada,,,,,Operational,Original
 bufr4/0/13/040/11,013040,Banderín de superficie,11,Nieve,,,,,Operational,Original
 bufr4/0/13/040/12-14,013040,Banderín de superficie,12-14,Reservadas,,,,,Operational,Original
-bufr4/0/13/040/15,013040,Banderín de superficie,15,Valor faltante,,,,,Operational,Original
+bufr4/0/13/040/15,013040,Banderín de superficie,15,"Valor faltante _____________ * Las aguas interiores comprenden ríos, lagos, humedales y pantanos.",,,,,Operational,Original
 bufr4/0/13/041/1,013041,Categoría de estabilidad de Pasquill-Gifford,1,A,,,,,Operational,Original
-bufr4/0/13/041/2,013041,Categoría de estabilidad de Pasquill-Gifford,2,A-B,,,,,Operational,Original
+bufr4/0/13/041/2,013041,Categoría de estabilidad de Pasquill-Gifford,2,A – B,,,,,Operational,Original
 bufr4/0/13/041/3,013041,Categoría de estabilidad de Pasquill-Gifford,3,B,,,,,Operational,Original
-bufr4/0/13/041/4,013041,Categoría de estabilidad de Pasquill-Gifford,4,B-C,,,,,Operational,Original
+bufr4/0/13/041/4,013041,Categoría de estabilidad de Pasquill-Gifford,4,B – C,,,,,Operational,Original
 bufr4/0/13/041/5,013041,Categoría de estabilidad de Pasquill-Gifford,5,C,,,,,Operational,Original
 bufr4/0/13/041/6,013041,Categoría de estabilidad de Pasquill-Gifford,6,D,,,,,Operational,Original
 bufr4/0/13/041/7,013041,Categoría de estabilidad de Pasquill-Gifford,7,E,,,,,Operational,Original
@@ -50,7 +50,7 @@ bufr4/0/13/056/5,013056,Naturaleza e intensidad de la precipitación,5,Escasa y 
 bufr4/0/13/056/6,013056,Naturaleza e intensidad de la precipitación,6,Moderada y continua,,,,,Operational,Original
 bufr4/0/13/056/7,013056,Naturaleza e intensidad de la precipitación,7,Abundante y continua,,,,,Operational,Original
 bufr4/0/13/056/8,013056,Naturaleza e intensidad de la precipitación,8,Muy abundante y continua,,,,,Operational,Original
-bufr4/0/13/056/9,013056,Naturaleza e intensidad de la precipitación,9,Variable alternadamente escasa y abundante,,,,,Operational,Original
+bufr4/0/13/056/9,013056,Naturaleza e intensidad de la precipitación,9,Variable – alternadamente escasa y abundante,,,,,Operational,Original
 bufr4/0/13/056/10-14,013056,Naturaleza e intensidad de la precipitación,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/13/056/15,013056,Naturaleza e intensidad de la precipitación,15,Valor faltante,,,,,Operational,Original
 bufr4/0/13/057/0,013057,Hora de comienzo o fin de la precipitación,0,No hay precipitación,,,,,Operational,Original
