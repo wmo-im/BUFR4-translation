@@ -1,0 +1,174 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/01/003/0,001003,WMO Region number/geographical area Code table 0 01 003,0,Antarctica,,,,,Operational
+bufr4/0/01/003/1,001003,WMO Region number/geographical area Code table 0 01 003,1,Region I,,,,,Operational
+bufr4/0/01/003/2,001003,WMO Region number/geographical area Code table 0 01 003,2,Region II,,,,,Operational
+bufr4/0/01/003/3,001003,WMO Region number/geographical area Code table 0 01 003,3,Region III,,,,,Operational
+bufr4/0/01/003/4,001003,WMO Region number/geographical area Code table 0 01 003,4,Region IV,,,,,Operational
+bufr4/0/01/003/5,001003,WMO Region number/geographical area Code table 0 01 003,5,Region V,,,,,Operational
+bufr4/0/01/003/6,001003,WMO Region number/geographical area Code table 0 01 003,6,Region VI,,,,,Operational
+bufr4/0/01/003/7,001003,WMO Region number/geographical area Code table 0 01 003,7,Missing value,,,,,Operational
+bufr4/0/01/007,001007,Satellite identifier,,(See common Code table C–5 Part C/c.),,,,,Operational
+bufr4/0/01/024/0,001024,Wind speed source Code table 0 01 024,0,No wind speed data available,,,,,Operational
+bufr4/0/01/024/1,001024,Wind speed source Code table 0 01 024,1,AMSR-E data,,,,,Operational
+bufr4/0/01/024/2,001024,Wind speed source Code table 0 01 024,2,TMI data,,,,,Operational
+bufr4/0/01/024/3,001024,Wind speed source Code table 0 01 024,3,NWP: ECMWF,,,,,Operational
+bufr4/0/01/024/4,001024,Wind speed source Code table 0 01 024,4,NWP: UK Met Office,,,,,Operational
+bufr4/0/01/024/5,001024,Wind speed source Code table 0 01 024,5,NWP: NCEP,,,,,Operational
+bufr4/0/01/024/6,001024,Wind speed source Code table 0 01 024,6,Reference climatology,,,,,Operational
+bufr4/0/01/024/7,001024,Wind speed source Code table 0 01 024,7,ERS_scatterometer,,,,,Operational
+bufr4/0/01/024/8-30,001024,Wind speed source Code table 0 01 024,8-30,Reserved for future use,,,,,Operational
+bufr4/0/01/024/31,001024,Wind speed source Code table 0 01 024,31,Missing value,,,,,Operational
+bufr4/0/01/028/0,001028,Aerosol optical depth (AOD) source Code table 0 01 028,0,No AOD data available,,,,,Operational
+bufr4/0/01/028/1,001028,Aerosol optical depth (AOD) source Code table 0 01 028,1,NESDIS,,,,,Operational
+bufr4/0/01/028/2,001028,Aerosol optical depth (AOD) source Code table 0 01 028,2,NAVOCEANO,,,,,Operational
+bufr4/0/01/028/3,001028,Aerosol optical depth (AOD) source Code table 0 01 028,3,NAAPS,,,,,Operational
+bufr4/0/01/028/4,001028,Aerosol optical depth (AOD) source Code table 0 01 028,4,MERIS,,,,,Operational
+bufr4/0/01/028/5,001028,Aerosol optical depth (AOD) source Code table 0 01 028,5,AATSR,,,,,Operational
+bufr4/0/01/028/6-30,001028,Aerosol optical depth (AOD) source Code table 0 01 028,6-30,Reserved for future use,,,,,Operational
+bufr4/0/01/028/31,001028,Aerosol optical depth (AOD) source Code table 0 01 028,31,Missing value,,,,,Operational
+bufr4/0/01/029/0,001029,SSI* source Code table 0 01 029,0,No SSI data available,,,,,Operational
+bufr4/0/01/029/1,001029,SSI* source Code table 0 01 029,1,MSG_SEVIRI,,,,,Operational
+bufr4/0/01/029/2,001029,SSI* source Code table 0 01 029,2,GOES East,,,,,Operational
+bufr4/0/01/029/3,001029,SSI* source Code table 0 01 029,3,GOES West,,,,,Operational
+bufr4/0/01/029/4,001029,SSI* source Code table 0 01 029,4,ECMWF,,,,,Operational
+bufr4/0/01/029/5,001029,SSI* source Code table 0 01 029,5,NCEP,,,,,Operational
+bufr4/0/01/029/6,001029,SSI* source Code table 0 01 029,6,UK Met Office,,,,,Operational
+bufr4/0/01/029/7-30,001029,SSI* source Code table 0 01 029,7-30,Reserved for future use,,,,,Operational
+bufr4/0/01/029/31,001029,SSI* source Code table 0 01 029,31,Missing value _____________________ * Surface solar irradiance,,,,,Operational
+bufr4/0/01/031,001031,Identification of originating/generating centre,,(See common Code table C–1 in Part C/c.),,,,,Operational
+bufr4/0/01/033,001033,Identification of originating/generating centre,,(See common Code table C–1 in Part C/c.),,,,,Operational
+bufr4/0/01/034,001034,Identification of originating/generating sub-centre (To be defined by centres themselves – See common Code table C–12 in Part C/c.),,,,,,,Operational
+bufr4/0/01/036/0-36000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,0-36000,Reserved,,,,,Operational
+bufr4/0/01/036/36001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,36001,"Australia, Bureau of Meteorology (BoM)",,,,,Operational
+bufr4/0/01/036/36002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,36002,"Australia, Joint Australian Facility for Ocean Observing Systems (JAFOOS)",,,,,Operational
+bufr4/0/01/036/36003,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,36003,"Australia, the Commonwealth Scientific and Industrial Research Organization (CSIRO)",,,,,Operational
+bufr4/0/01/036/36004-124000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,36004-124000,Reserved,,,,,Operational
+bufr4/0/01/036/124001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124001,"Canada, Marine Environmental Data Service (MEDS)",,,,,Operational
+bufr4/0/01/036/124002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124002,"Canada, Institute of Ocean Sciences (IOS)",,,,,Operational
+bufr4/0/01/036/124003-124172,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124003-124172,Reserved,,,,,Operational
+bufr4/0/01/036/124173,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124173,"Canada, Environment Canada",,,,,Operational
+bufr4/0/01/036/124174,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124174,"Canada, Department of National Defence",,,,,Operational
+bufr4/0/01/036/124175,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124175,"Canada, Nav Canada",,,,,Operational
+bufr4/0/01/036/124176-156000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,124176-156000,Reserved,,,,,Operational
+bufr4/0/01/036/156001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,156001,"China, The State Oceanic Administration",,,,,Operational
+bufr4/0/01/036/156002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,156002,"China, Second Institute of Oceanography, State Oceanic Administration",,,,,Operational
+bufr4/0/01/036/156003,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,156003,"China, Institute of Ocean Technology",,,,,Operational
+bufr4/0/01/036/156004-250000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,156004-250000,Reserved,,,,,Operational
+bufr4/0/01/036/250001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,250001,"France, Institut de Recherche pour le Développement (IRD)",,,,,Operational
+bufr4/0/01/036/250002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,250002,"France, Institut Français de Recherche pour l’Exploitation de la mer (IFREMER)",,,,,Operational
+bufr4/0/01/036/250003-276000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,250003-276000,Reserved,,,,,Operational
+bufr4/0/01/036/276001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,276001,"Germany, Bundesamt fuer Seeschiffahrt und Hydrographie (BSH)",,,,,Operational
+bufr4/0/01/036/276002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,276002,"Germany, Institut fuer Meereskunde, Kiel",,,,,Operational
+bufr4/0/01/036/276003-356000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,276003-356000,Reserved,,,,,Operational
+bufr4/0/01/036/356001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,356001,"India, National Institute of Oceanography (NIO)",,,,,Operational
+bufr4/0/01/036/356002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,356002,"India, National Institute for Ocean Technology (NIOT)",,,,,Operational
+bufr4/0/01/036/356003,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,356003,"India, National Centre for Ocean Information Service",,,,,Operational
+bufr4/0/01/036/356004-392000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,356004-392000,Reserved,,,,,Operational
+bufr4/0/01/036/392001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,392001,"Japan, Japan Meteorological Agency (JMA)",,,,,Operational
+bufr4/0/01/036/392002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,392002,"Japan, Frontier Observational Research System for Global Change",,,,,Operational
+bufr4/0/01/036/392003,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,392003,"Japan, Japan Marine Science and Technology Centre (JAMSTEC)",,,,,Operational
+bufr4/0/01/036/392004-410000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,392004-410000,Reserved,,,,,Operational
+bufr4/0/01/036/410001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,410001,"Republic of Korea, Seoul National University",,,,,Operational
+bufr4/0/01/036/410002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,410002,"Republic of Korea, Korea Ocean Research and Development Institute (KORDI)",,,,,Operational
+bufr4/0/01/036/410003,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,410003,"Republic of Korea, Meteorological Research Institute",,,,,Operational
+bufr4/0/01/036/410004-540000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,410004-540000,Reserved,,,,,Operational
+bufr4/0/01/036/540001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,540001,"New Caledonia, Institut de Recherche pour le Développement (IRD)",,,,,Operational
+bufr4/0/01/036/540002-554000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,540002-554000,Reserved,,,,,Operational
+bufr4/0/01/036/554001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,554001,"New Zealand, National Institute of Water and Atmospheric Research (NIWA)",,,,,Operational
+bufr4/0/01/036/554002-643000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,554002-643000,Reserved,,,,,Operational
+bufr4/0/01/036/643001,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,643001,"Russian Federation, State Oceanographic Institute of Roshydromet",,,,,Operational
+bufr4/0/01/036/643002,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,643002,"Russian Federation, Federal Service for Hydrometeorology and Environmental Monitoring",,,,,Operational
+bufr4/0/01/036/643003-724000,001036,Agency in charge of operating the observing platform (The first three digits represent the ISO country code) Code table 0 01 036,643003-724000,Reserved,,,,,Operational
+bufr4/0/01/038/0,001038,Source of sea-ice fraction Code table 0 01 038,0,No sea-ice set,,,,,Operational
+bufr4/0/01/038/1,001038,Source of sea-ice fraction Code table 0 01 038,1,NSIDC SSM/I Cavalieri et al (1992),,,,,Operational
+bufr4/0/01/038/2,001038,Source of sea-ice fraction Code table 0 01 038,2,AMSR-E,,,,,Operational
+bufr4/0/01/038/3,001038,Source of sea-ice fraction Code table 0 01 038,3,ECMWF,,,,,Operational
+bufr4/0/01/038/4,001038,Source of sea-ice fraction Code table 0 01 038,4,CMS (France) cloud mask used by Medspiration,,,,,Operational
+bufr4/0/01/038/5,001038,Source of sea-ice fraction Code table 0 01 038,5,EUMETSAT OSI-SAF,,,,,Operational
+bufr4/0/01/038/6-30,001038,Source of sea-ice fraction Code table 0 01 038,6-30,Reserved for future use,,,,,Operational
+bufr4/0/01/038/31,001038,Source of sea-ice fraction Code table 0 01 038,31,Missing value,,,,,Operational
+bufr4/0/01/044/0,001044,Standard generating application Code table 0 01 044,0,Reserved,,,,,Operational
+bufr4/0/01/044/1,001044,Standard generating application Code table 0 01 044,1,Full weighted mixture of individual quality tests,,,,,Operational
+bufr4/0/01/044/2,001044,Standard generating application Code table 0 01 044,2,"Weighted mixture of individual tests, but excluding forecast comparison",,,,,Operational
+bufr4/0/01/044/3,001044,Standard generating application Code table 0 01 044,3,Recursive filter function,,,,,Operational
+bufr4/0/01/044/4,001044,Standard generating application Code table 0 01 044,4,Common quality index (QI) without forecast,,,,,Operational
+bufr4/0/01/044/5,001044,Standard generating application Code table 0 01 044,5,QI without forecast,,,,,Operational
+bufr4/0/01/044/6,001044,Standard generating application Code table 0 01 044,6,QI with forecast,,,,,Operational
+bufr4/0/01/044/7,001044,Standard generating application Code table 0 01 044,7,Estimated error in m/s converted to a percent confidence,,,,,Operational
+bufr4/0/01/044/8-254,001044,Standard generating application Code table 0 01 044,8-254,Reserved,,,,,Operational
+bufr4/0/01/044/255,001044,Standard generating application Code table 0 01 044,255,Missing value,,,,,Operational
+bufr4/0/01/052/0,001052,Platform transmitter ID Code table 0 01 052,0,Primary,,,,,Operational
+bufr4/0/01/052/1,001052,Platform transmitter ID Code table 0 01 052,1,Secondary,,,,,Operational
+bufr4/0/01/052/2,001052,Platform transmitter ID Code table 0 01 052,2,Reserved,,,,,Operational
+bufr4/0/01/052/3,001052,Platform transmitter ID Code table 0 01 052,3,Missing value,,,,,Operational
+bufr4/0/01/090/0,001090,Technique for making up initial perturbations Code table 0 01 090,0,Lagged-average forecasting (LAF),,,,,Operational
+bufr4/0/01/090/1,001090,Technique for making up initial perturbations Code table 0 01 090,1,Breeding,,,,,Operational
+bufr4/0/01/090/2,001090,Technique for making up initial perturbations Code table 0 01 090,2,Singular vectors,,,,,Operational
+bufr4/0/01/090/3,001090,Technique for making up initial perturbations Code table 0 01 090,3,Multiple analysis cycles,,,,,Operational
+bufr4/0/01/090/4-191,001090,Technique for making up initial perturbations Code table 0 01 090,4-191,Reserved,,,,,Operational
+bufr4/0/01/090/192-254,001090,Technique for making up initial perturbations Code table 0 01 090,192-254,Reserved for local use,,,,,Operational
+bufr4/0/01/090/255,001090,Technique for making up initial perturbations Code table 0 01 090,255,Missing value,,,,,Operational
+bufr4/0/01/092/0,001092,Type of ensemble forecast Code table 0 01 092,0,Unperturbed high-resolution control forecast,,,,,Operational
+bufr4/0/01/092/1,001092,Type of ensemble forecast Code table 0 01 092,1,Unperturbed low-resolution control forecast,,,,,Operational
+bufr4/0/01/092/2,001092,Type of ensemble forecast Code table 0 01 092,2,Negatively perturbed forecast,,,,,Operational
+bufr4/0/01/092/3,001092,Type of ensemble forecast Code table 0 01 092,3,Positively perturbed forecast,,,,,Operational
+bufr4/0/01/092/4,001092,Type of ensemble forecast Code table 0 01 092,4,Perturbed forecast,,,,,Operational
+bufr4/0/01/092/5-191,001092,Type of ensemble forecast Code table 0 01 092,5-191,Reserved,,,,,Operational
+bufr4/0/01/092/192-254,001092,Type of ensemble forecast Code table 0 01 092,192-254,Reserved for local use,,,,,Operational
+bufr4/0/01/092/255,001092,Type of ensemble forecast Code table 0 01 092,255,Missing value,,,,,Operational
+bufr4/0/01/101/0-99,001101,State identifier Code table 0 01 101,0-99,Reserved,,,,,Operational
+bufr4/0/01/101/100,001101,State identifier Code table 0 01 101,100,Algeria,,,,,Operational
+bufr4/0/01/101/101,001101,State identifier Code table 0 01 101,101,Angola,,,,,Operational
+bufr4/0/01/101/102,001101,State identifier Code table 0 01 101,102,Benin,,,,,Operational
+bufr4/0/01/101/103,001101,State identifier Code table 0 01 101,103,Botswana,,,,,Operational
+bufr4/0/01/101/104,001101,State identifier Code table 0 01 101,104,Burkina Faso,,,,,Operational
+bufr4/0/01/101/105,001101,State identifier Code table 0 01 101,105,Burundi,,,,,Operational
+bufr4/0/01/101/106,001101,State identifier Code table 0 01 101,106,Cameroon,,,,,Operational
+bufr4/0/01/101/107,001101,State identifier Code table 0 01 101,107,Cabo Verde,,,,,Operational
+bufr4/0/01/101/108,001101,State identifier Code table 0 01 101,108,Central African Republic,,,,,Operational
+bufr4/0/01/101/109,001101,State identifier Code table 0 01 101,109,Chad,,,,,Operational
+bufr4/0/01/101/110,001101,State identifier Code table 0 01 101,110,Comoros,,,,,Operational
+bufr4/0/01/101/111,001101,State identifier Code table 0 01 101,111,Congo,,,,,Operational
+bufr4/0/01/101/112,001101,State identifier Code table 0 01 101,112,Côte d’Ivoire,,,,,Operational
+bufr4/0/01/101/113,001101,State identifier Code table 0 01 101,113,Democratic Republic of the Congo,,,,,Operational
+bufr4/0/01/101/114,001101,State identifier Code table 0 01 101,114,Djibouti,,,,,Operational
+bufr4/0/01/101/115,001101,State identifier Code table 0 01 101,115,Egypt,,,,,Operational
+bufr4/0/01/101/116,001101,State identifier Code table 0 01 101,116,Eritrea,,,,,Operational
+bufr4/0/01/101/117,001101,State identifier Code table 0 01 101,117,Ethiopia,,,,,Operational
+bufr4/0/01/101/118,001101,State identifier Code table 0 01 101,118,France (RA I),,,,,Operational
+bufr4/0/01/101/119,001101,State identifier Code table 0 01 101,119,Gabon,,,,,Operational
+bufr4/0/01/101/120,001101,State identifier Code table 0 01 101,120,Gambia,,,,,Operational
+bufr4/0/01/101/121,001101,State identifier Code table 0 01 101,121,Ghana,,,,,Operational
+bufr4/0/01/101/122,001101,State identifier Code table 0 01 101,122,Guinea,,,,,Operational
+bufr4/0/01/101/123,001101,State identifier Code table 0 01 101,123,Guinea-Bissau,,,,,Operational
+bufr4/0/01/101/124,001101,State identifier Code table 0 01 101,124,Kenya,,,,,Operational
+bufr4/0/01/101/125,001101,State identifier Code table 0 01 101,125,Lesotho,,,,,Operational
+bufr4/0/01/101/126,001101,State identifier Code table 0 01 101,126,Liberia,,,,,Operational
+bufr4/0/01/101/127,001101,State identifier Code table 0 01 101,127,Libya,,,,,Operational
+bufr4/0/01/101/128,001101,State identifier Code table 0 01 101,128,Madagascar,,,,,Operational
+bufr4/0/01/101/129,001101,State identifier Code table 0 01 101,129,Malawi,,,,,Operational
+bufr4/0/01/101/130,001101,State identifier Code table 0 01 101,130,Mali,,,,,Operational
+bufr4/0/01/101/131,001101,State identifier Code table 0 01 101,131,Mauritania,,,,,Operational
+bufr4/0/01/101/132,001101,State identifier Code table 0 01 101,132,Mauritius,,,,,Operational
+bufr4/0/01/101/133,001101,State identifier Code table 0 01 101,133,Morocco,,,,,Operational
+bufr4/0/01/101/134,001101,State identifier Code table 0 01 101,134,Mozambique,,,,,Operational
+bufr4/0/01/101/135,001101,State identifier Code table 0 01 101,135,Namibia,,,,,Operational
+bufr4/0/01/101/136,001101,State identifier Code table 0 01 101,136,Niger,,,,,Operational
+bufr4/0/01/101/137,001101,State identifier Code table 0 01 101,137,Nigeria,,,,,Operational
+bufr4/0/01/101/138,001101,State identifier Code table 0 01 101,138,Portugal (RA I),,,,,Operational
+bufr4/0/01/101/139,001101,State identifier Code table 0 01 101,139,Rwanda,,,,,Operational
+bufr4/0/01/101/140,001101,State identifier Code table 0 01 101,140,Sao Tome and Principe,,,,,Operational
+bufr4/0/01/101/141,001101,State identifier Code table 0 01 101,141,Senegal,,,,,Operational
+bufr4/0/01/101/142,001101,State identifier Code table 0 01 101,142,Seychelles,,,,,Operational
+bufr4/0/01/150/0,001150,Coordinate reference system Code table 0 01 150,0,"WGS84, as used by ICAO since 1998",,,,,Operational
+bufr4/0/01/150/1,001150,Coordinate reference system Code table 0 01 150,1,"ETRS89, as defined by EPSG:4258",,,,,Operational
+bufr4/0/01/150/2,001150,Coordinate reference system Code table 0 01 150,2,"NAD83, as defined by EPSG:4269",,,,,Operational
+bufr4/0/01/150/3,001150,Coordinate reference system Code table 0 01 150,3,"DHDN, as defined by EPSG:4314",,,,,Operational
+bufr4/0/01/150/4,001150,Coordinate reference system Code table 0 01 150,4,"Ellipsoidal datum using the International Reference Meridian and the International Reference Pole as the prime meridian and prime pole, respectively, and the origin of the International Terrestrial Reference System (ITRS) (see Note 2). The International Reference Meridian, International Reference Pole and ITRS are maintained by the International Earth Rotation and Reference Systems Service (IERS)",,,,,Operational
+bufr4/0/01/150/5,001150,Coordinate reference system Code table 0 01 150,5,"Earth-centred, Earth-fixed (ECEF) coordinate system or Earth-centred rotational (ECR) system. This is a right-handed Cartesian coordinate system (X, Y, Z) rotating with the Earth. The origin is defined by the centre of mass of the Earth. (Footnote (5) of class 27 does not apply if ECEF coordinates are specified.)",,,,,Operational
+bufr4/0/01/150/6-65534,001150,Coordinate reference system Code table 0 01 150,6-65534,Reserved,,,,,Operational
+bufr4/0/01/150/65535,001150,Coordinate reference system Code table 0 01 150,65535,"Missing value Notes: (1) EPSG is a dataset of coordinate system and coordinate system transformations, originally produced and maintained by the European Petroleum Survey Group. It is now maintained by the Geodesy Subcommittee of the International Association of Oil and Gas Producers Geomatics Committee. (2) When Code figure 4 is used to specify a custom coordinate reference system, the ellipsoidal datum shall be an oblate ellipsoid of revolution, where the major axis is uniplanar with the equatorial plane and the minor axis traverses the prime meridian towards the prime pole. North corresponds to the direction from the Equator to the prime pole. East corresponds to the counterclockwise direction from the prime meridian as viewed from above the North Pole. In this case, the semi-major and semi-minor axes must be specified (e.g. by descriptors 0 01 152 and 0 01 153).",,,,,Operational
+bufr4/0/01/151/0,001151,Fixed mean sea-level reference datum Code table 0 01 151,0,Earth Gravitational Model 1996,,,,,Operational
+bufr4/0/01/151/1,001151,Fixed mean sea-level reference datum Code table 0 01 151,1,Baltic height system 1977,,,,,Operational
+bufr4/0/01/151/2-4094,001151,Fixed mean sea-level reference datum Code table 0 01 151,2-4094,Reserved,,,,,Operational
+bufr4/0/01/151/4095,001151,Fixed mean sea-level reference datum Code table 0 01 151,4095,Missing value,,,,,Operational

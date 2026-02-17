@@ -1,0 +1,63 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/13/038/0,013038,Superadiabatic indicator Code table 0 13 038,0,Not superadiabatic,,,,,Operational
+bufr4/0/13/038/1,013038,Superadiabatic indicator Code table 0 13 038,1,Superadiabatic,,,,,Operational
+bufr4/0/13/038/2,013038,Superadiabatic indicator Code table 0 13 038,2,Reserved,,,,,Operational
+bufr4/0/13/038/3,013038,Superadiabatic indicator Code table 0 13 038,3,Missing value,,,,,Operational
+bufr4/0/13/039/0,013039,Terrain type (ice/snow) Code table 0 13 039,0,Sea ice,,,,,Operational
+bufr4/0/13/039/1,013039,Terrain type (ice/snow) Code table 0 13 039,1,Snow on land,,,,,Operational
+bufr4/0/13/039/2-6,013039,Terrain type (ice/snow) Code table 0 13 039,2-6,Reserved,,,,,Operational
+bufr4/0/13/039/7,013039,Terrain type (ice/snow) Code table 0 13 039,7,Missing value,,,,,Operational
+bufr4/0/13/040/0,013040,Surface flag Code table 0 13 040,0,Land,,,,,Operational
+bufr4/0/13/040/1,013040,Surface flag Code table 0 13 040,1,Reserved,,,,,Operational
+bufr4/0/13/040/2,013040,Surface flag Code table 0 13 040,2,Near coast,,,,,Operational
+bufr4/0/13/040/3,013040,Surface flag Code table 0 13 040,3,Ice,,,,,Operational
+bufr4/0/13/040/4,013040,Surface flag Code table 0 13 040,4,Possible ice,,,,,Operational
+bufr4/0/13/040/5,013040,Surface flag Code table 0 13 040,5,Ocean,,,,,Operational
+bufr4/0/13/040/6,013040,Surface flag Code table 0 13 040,6,Coast,,,,,Operational
+bufr4/0/13/040/7,013040,Surface flag Code table 0 13 040,7,Inland water*,,,,,Operational
+bufr4/0/13/040/8,013040,Surface flag Code table 0 13 040,8,Snow cover,,,,,Operational
+bufr4/0/13/040/9,013040,Surface flag Code table 0 13 040,9,Sea ice,,,,,Operational
+bufr4/0/13/040/10,013040,Surface flag Code table 0 13 040,10,Standing water,,,,,Operational
+bufr4/0/13/040/11,013040,Surface flag Code table 0 13 040,11,Snow,,,,,Operational
+bufr4/0/13/040/12-14,013040,Surface flag Code table 0 13 040,12-14,Reserved,,,,,Operational
+bufr4/0/13/040/15,013040,Surface flag Code table 0 13 040,15,"Missing value _____________________ * Inland water includes rivers, lakes, wetlands and swamps.",,,,,Operational
+bufr4/0/13/041/1,013041,Pasquill-Gifford stability category Code table 0 13 041,1,A,,,,,Operational
+bufr4/0/13/041/2,013041,Pasquill-Gifford stability category Code table 0 13 041,2,A – B,,,,,Operational
+bufr4/0/13/041/3,013041,Pasquill-Gifford stability category Code table 0 13 041,3,B,,,,,Operational
+bufr4/0/13/041/4,013041,Pasquill-Gifford stability category Code table 0 13 041,4,B – C,,,,,Operational
+bufr4/0/13/041/5,013041,Pasquill-Gifford stability category Code table 0 13 041,5,C,,,,,Operational
+bufr4/0/13/041/6,013041,Pasquill-Gifford stability category Code table 0 13 041,6,D,,,,,Operational
+bufr4/0/13/041/7,013041,Pasquill-Gifford stability category Code table 0 13 041,7,E,,,,,Operational
+bufr4/0/13/041/8,013041,Pasquill-Gifford stability category Code table 0 13 041,8,F,,,,,Operational
+bufr4/0/13/041/9,013041,Pasquill-Gifford stability category Code table 0 13 041,9,G,,,,,Operational
+bufr4/0/13/041/10-14,013041,Pasquill-Gifford stability category Code table 0 13 041,10-14,Reserved,,,,,Operational
+bufr4/0/13/041/15,013041,Pasquill-Gifford stability category Code table 0 13 041,15,Missing value,,,,,Operational
+bufr4/0/13/051/0,013051,"Frequency group, precipitation Code table 0 13 051",0,Smaller than any value in the 30-year period,,,,,Operational
+bufr4/0/13/051/1,013051,"Frequency group, precipitation Code table 0 13 051",1,In the first quintile,,,,,Operational
+bufr4/0/13/051/2,013051,"Frequency group, precipitation Code table 0 13 051",2,In the second quintile,,,,,Operational
+bufr4/0/13/051/3,013051,"Frequency group, precipitation Code table 0 13 051",3,In the third quintile,,,,,Operational
+bufr4/0/13/051/4,013051,"Frequency group, precipitation Code table 0 13 051",4,In the fourth quintile,,,,,Operational
+bufr4/0/13/051/5,013051,"Frequency group, precipitation Code table 0 13 051",5,In the fifth quintile,,,,,Operational
+bufr4/0/13/051/6,013051,"Frequency group, precipitation Code table 0 13 051",6,Greater than any value in the 30-year period,,,,,Operational
+bufr4/0/13/051/7-14,013051,"Frequency group, precipitation Code table 0 13 051",7-14,Reserved,,,,,Operational
+bufr4/0/13/051/15,013051,"Frequency group, precipitation Code table 0 13 051",15,Missing value,,,,,Operational
+bufr4/0/13/056/0,013056,Character and intensity of precipitation Code table 0 13 056,0,No precipitation,,,,,Operational
+bufr4/0/13/056/1,013056,Character and intensity of precipitation Code table 0 13 056,1,Light intermittent,,,,,Operational
+bufr4/0/13/056/2,013056,Character and intensity of precipitation Code table 0 13 056,2,Moderate intermittent,,,,,Operational
+bufr4/0/13/056/3,013056,Character and intensity of precipitation Code table 0 13 056,3,Heavy intermittent,,,,,Operational
+bufr4/0/13/056/4,013056,Character and intensity of precipitation Code table 0 13 056,4,Very heavy intermittent,,,,,Operational
+bufr4/0/13/056/5,013056,Character and intensity of precipitation Code table 0 13 056,5,Light continuous,,,,,Operational
+bufr4/0/13/056/6,013056,Character and intensity of precipitation Code table 0 13 056,6,Moderate continuous,,,,,Operational
+bufr4/0/13/056/7,013056,Character and intensity of precipitation Code table 0 13 056,7,Heavy continuous,,,,,Operational
+bufr4/0/13/057/0,013057,Time of beginning or end of precipitation Code table 0 13 057,0,No precipitation,,,,,Operational
+bufr4/0/13/057/1,013057,Time of beginning or end of precipitation Code table 0 13 057,1,Within the last hour,,,,,Operational
+bufr4/0/13/057/2,013057,Time of beginning or end of precipitation Code table 0 13 057,2,1 to 2 hours ago,,,,,Operational
+bufr4/0/13/057/3,013057,Time of beginning or end of precipitation Code table 0 13 057,3,2 to 3 hours ago,,,,,Operational
+bufr4/0/13/057/4,013057,Time of beginning or end of precipitation Code table 0 13 057,4,3 to 4 hours ago,,,,,Operational
+bufr4/0/13/057/5,013057,Time of beginning or end of precipitation Code table 0 13 057,5,4 to 5 hours ago,,,,,Operational
+bufr4/0/13/057/6,013057,Time of beginning or end of precipitation Code table 0 13 057,6,5 to 6 hours ago,,,,,Operational
+bufr4/0/13/057/7,013057,Time of beginning or end of precipitation Code table 0 13 057,7,6 to 8 hours ago,,,,,Operational
+bufr4/0/13/057/8,013057,Time of beginning or end of precipitation Code table 0 13 057,8,8 to 10 hours ago,,,,,Operational
+bufr4/0/13/057/9,013057,Time of beginning or end of precipitation Code table 0 13 057,9,More than 10 hours ago,,,,,Operational
+bufr4/0/13/057/10-14,013057,Time of beginning or end of precipitation Code table 0 13 057,10-14,Reserved,,,,,Operational
+bufr4/0/13/057/15,013057,Time of beginning or end of precipitation Code table 0 13 057,15,Missing value,,,,,Operational

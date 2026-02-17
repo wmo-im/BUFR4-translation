@@ -1,0 +1,16 @@
+Id,ClassNo,ClassName_en,FXY,ElementName_en,BUFR_Unit_en,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_en,CREX_Scale,CREX_DataWidth_Char,Note_en,noteIDs,Status
+bufr4/0/06/001,06,BUFR/CREX Location (horizontal – 2),006001,Longitude (high accuracy),°,5,-18000000,26,°,5,8,,,Operational
+bufr4/0/06/002,06,BUFR/CREX Location (horizontal – 2),006002,Longitude (coarse accuracy),°,2,-18000,16,°,2,5,,,Operational
+bufr4/0/06/011,06,BUFR/CREX Location (horizontal – 2),006011,Longitude increment (high accuracy),°,5,-18000000,26,°,5,8,,,Operational
+bufr4/0/06/012,06,BUFR/CREX Location (horizontal – 2),006012,Longitude increment (coarse accuracy),°,2,-18000,16,°,2,5,,,Operational
+bufr4/0/06/015,06,BUFR/CREX Location (horizontal – 2),006015,Longitude displacement (high accuracy),°,5,-18000000,26,°,5,8,,,Operational
+bufr4/0/06/016,06,BUFR/CREX Location (horizontal – 2),006016,Longitude displacement (coarse accuracy),°,2,-18000,16,°,2,5,,,Operational
+bufr4/0/06/021,06,BUFR/CREX Location (horizontal – 2),006021,Distance,m,-1,0,13,m,-1,4,,,Operational
+bufr4/0/06/029,06,BUFR/CREX Location (horizontal – 2),006029,Wave number,m–1,1,0,22,m–1,1,7,,,Operational
+bufr4/0/06/030,06,BUFR/CREX Location (horizontal – 2),006030,Wave number (spectral),rad m–1,5,0,13,rad m–1,5,4,,,Operational
+bufr4/0/06/031,06,BUFR/CREX Location (horizontal – 2),006031,Column number,Numeric,0,0,12,Numeric,0,4,,,Operational
+bufr4/0/06/032,06,BUFR/CREX Location (horizontal – 2),006032,X offset,m,2,-1073741824,31,m,2,11,(see Note 6),,Operational
+bufr4/0/06/033,06,BUFR/CREX Location (horizontal – 2),006033,Pixel size on horizontal – 2,m,-1,0,16,m,-1,5,,,Operational
+bufr4/0/06/034,06,BUFR/CREX Location (horizontal – 2),006034,Cross-track cell number,Numeric,0,0,7,Numeric,0,3,,,Operational
+bufr4/0/06/035,06,BUFR/CREX Location (horizontal – 2),006035,Maximum size of y-dimension,Numeric,0,0,12,Numeric,0,4,,,Operational
+bufr4/0/06/040,06,BUFR/CREX Location (horizontal – 2),006040,Radius of confidence,m I.2 – BUFR/CREX Table B/06 — 1,0,0,13,m,0,4,,,Operational

@@ -1,0 +1,14 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/31/021/0,031021,Associated field significance Code table 0 31 021,0,Reserved,,,,,Operational
+bufr4/0/31/021/1,031021,Associated field significance Code table 0 31 021,1,1-bit indicator of quality 0 = good 1 = suspect or bad,,,,,Operational
+bufr4/0/31/021/2,031021,Associated field significance Code table 0 31 021,2,2-bit indicator of quality 0 = good 1 = slightly suspect 2 = highly suspect 3 = bad,,,,,Operational
+bufr4/0/31/021/3-5,031021,Associated field significance Code table 0 31 021,3-5,Reserved,,,,,Operational
+bufr4/0/31/021/6,031021,Associated field significance Code table 0 31 021,6,"4-bit indicator of quality 0 = Unqualified control class according to GTSPP 1 = Correct value (all checks passed) 2 = Probably good but value inconsistent with statistics (differ from climatology) 3 = Probably bad (spike, gradient, ... if other tests passed) 4 = Bad value, impossible value (out of scale, vertical instability, constant profile) 5 = Value modified during quality control 6–7 = Not used (reserved) 8 = Interpolated value 9 = Missing value",,,,,Operational
+bufr4/0/31/021/7,031021,Associated field significance Code table 0 31 021,7,Percentage confidence,,,,,Operational
+bufr4/0/31/021/8,031021,Associated field significance Code table 0 31 021,8,0 = Not suspected 1 = Suspected 2 = Reserved 3 = Information not required,,,,,Operational
+bufr4/0/31/021/9,031021,Associated field significance Code table 0 31 021,9,"Status of ancillary data 0 = Data present, good, collocated 1 = Data available but of degraded quality and not used 2 = No spatiotemporally collocated data available 3–14 = Not used (reserved) 15 = Missing value",,,,,Operational
+bufr4/0/31/021/10-20,031021,Associated field significance Code table 0 31 021,10-20,Reserved,,,,,Operational
+bufr4/0/31/021/21,031021,Associated field significance Code table 0 31 021,21,1-bit indicator of correction 0 = original value (see Note 2) 1 = substituted/corrected value,,,,,Operational
+bufr4/0/31/021/22-62,031021,Associated field significance Code table 0 31 021,22-62,Reserved for local use,,,,,Operational
+bufr4/0/31/021/63,031021,Associated field significance Code table 0 31 021,63,Missing value Notes: (1) Associated field significance shall be used initially in conjunction with the quality of observed data. (2) The code figure 21 may be used within corrected messages with the substituted/corrected values identified. (3) Further applications may be developed.,,,,,Operational
+bufr4/0/31/031/1,031031,Data present indicator Flag table 0 31 031,1,0 Data present 1 Data not present,,,,,Operational

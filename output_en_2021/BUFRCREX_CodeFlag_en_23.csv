@@ -1,0 +1,80 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/23/001/0,023001,Accident early notification – article applicable Code table 0 23 001,0,Reserved,,,,,Operational
+bufr4/0/23/001/1,023001,Accident early notification – article applicable Code table 0 23 001,1,Articles 1 and 2,,,,,Operational
+bufr4/0/23/001/2,023001,Accident early notification – article applicable Code table 0 23 001,2,Article 3,,,,,Operational
+bufr4/0/23/001/3,023001,Accident early notification – article applicable Code table 0 23 001,3,Article 5.2,,,,,Operational
+bufr4/0/23/001/4-6,023001,Accident early notification – article applicable Code table 0 23 001,4-6,Reserved,,,,,Operational
+bufr4/0/23/001/7,023001,Accident early notification – article applicable Code table 0 23 001,7,Missing value,,,,,Operational
+bufr4/0/23/002/0,023002,Activity or facility involved in incident Code table 0 23 002,0,Reserved,,,,,Operational
+bufr4/0/23/002/1,023002,Activity or facility involved in incident Code table 0 23 002,1,Nuclear reactor on ground,,,,,Operational
+bufr4/0/23/002/2,023002,Activity or facility involved in incident Code table 0 23 002,2,Nuclear reactor at sea,,,,,Operational
+bufr4/0/23/002/3,023002,Activity or facility involved in incident Code table 0 23 002,3,Nuclear reactor in space,,,,,Operational
+bufr4/0/23/002/4,023002,Activity or facility involved in incident Code table 0 23 002,4,Nuclear fuel facility,,,,,Operational
+bufr4/0/23/002/5,023002,Activity or facility involved in incident Code table 0 23 002,5,Radioactive waste management facility,,,,,Operational
+bufr4/0/23/002/6,023002,Activity or facility involved in incident Code table 0 23 002,6,Transport of nuclear fuel or radioactive waste,,,,,Operational
+bufr4/0/23/002/7,023002,Activity or facility involved in incident Code table 0 23 002,7,Storage of nuclear fuel or radioactive waste,,,,,Operational
+bufr4/0/23/002/8,023002,Activity or facility involved in incident Code table 0 23 002,8,Manufacture of radio-isotopes,,,,,Operational
+bufr4/0/23/002/9,023002,Activity or facility involved in incident Code table 0 23 002,9,Use of radio-isotopes,,,,,Operational
+bufr4/0/23/002/10,023002,Activity or facility involved in incident Code table 0 23 002,10,Storage of radio-isotopes,,,,,Operational
+bufr4/0/23/002/11,023002,Activity or facility involved in incident Code table 0 23 002,11,Disposal of radio-isotopes,,,,,Operational
+bufr4/0/23/002/12,023002,Activity or facility involved in incident Code table 0 23 002,12,Transport of radio-isotopes,,,,,Operational
+bufr4/0/23/002/13,023002,Activity or facility involved in incident Code table 0 23 002,13,Use of radio-isotopes for power generation,,,,,Operational
+bufr4/0/23/002/14-29,023002,Activity or facility involved in incident Code table 0 23 002,14-29,Reserved,,,,,Operational
+bufr4/0/23/002/30,023002,Activity or facility involved in incident Code table 0 23 002,30,Other,,,,,Operational
+bufr4/0/23/002/31,023002,Activity or facility involved in incident Code table 0 23 002,31,Missing value,,,,,Operational
+bufr4/0/23/003/0,023003,Type of release Code table 0 23 003,0,No release,,,,,Operational
+bufr4/0/23/003/1,023003,Type of release Code table 0 23 003,1,Release to atmosphere,,,,,Operational
+bufr4/0/23/003/2,023003,Type of release Code table 0 23 003,2,Release to water,,,,,Operational
+bufr4/0/23/003/3,023003,Type of release Code table 0 23 003,3,Release to both atmosphere and water,,,,,Operational
+bufr4/0/23/003/4,023003,Type of release Code table 0 23 003,4,Expected release to atmosphere,,,,,Operational
+bufr4/0/23/003/5,023003,Type of release Code table 0 23 003,5,Expected release to water,,,,,Operational
+bufr4/0/23/003/6,023003,Type of release Code table 0 23 003,6,Expected release to both atmosphere and water,,,,,Operational
+bufr4/0/23/003/7,023003,Type of release Code table 0 23 003,7,Missing value,,,,,Operational
+bufr4/0/23/004/0,023004,Countermeasures taken near border Code table 0 23 004,0,No countermeasures,,,,,Operational
+bufr4/0/23/004/1,023004,Countermeasures taken near border Code table 0 23 004,1,Evacuation,,,,,Operational
+bufr4/0/23/004/2,023004,Countermeasures taken near border Code table 0 23 004,2,Sheltering,,,,,Operational
+bufr4/0/23/004/3,023004,Countermeasures taken near border Code table 0 23 004,3,Prophylaxis,,,,,Operational
+bufr4/0/23/004/4,023004,Countermeasures taken near border Code table 0 23 004,4,Water,,,,,Operational
+bufr4/0/23/004/5-6,023004,Countermeasures taken near border Code table 0 23 004,5-6,Reserved,,,,,Operational
+bufr4/0/23/004/7,023004,Countermeasures taken near border Code table 0 23 004,7,Missing value,,,,,Operational
+bufr4/0/23/005/0,023005,Cause of incident Code table 0 23 005,0,Incident State does not understand what happened,,,,,Operational
+bufr4/0/23/005/1,023005,Cause of incident Code table 0 23 005,1,Incident State knows the cause of the incident,,,,,Operational
+bufr4/0/23/005/2,023005,Cause of incident Code table 0 23 005,2,Reserved,,,,,Operational
+bufr4/0/23/005/3,023005,Cause of incident Code table 0 23 005,3,Missing value,,,,,Operational
+bufr4/0/23/006/0,023006,Incident situation Code table 0 23 006,0,No improvement,,,,,Operational
+bufr4/0/23/006/1,023006,Incident situation Code table 0 23 006,1,Unstable,,,,,Operational
+bufr4/0/23/006/2,023006,Incident situation Code table 0 23 006,2,No deterioration,,,,,Operational
+bufr4/0/23/006/3,023006,Incident situation Code table 0 23 006,3,Improving,,,,,Operational
+bufr4/0/23/006/4,023006,Incident situation Code table 0 23 006,4,Stable,,,,,Operational
+bufr4/0/23/006/5,023006,Incident situation Code table 0 23 006,5,Deteriorating,,,,,Operational
+bufr4/0/23/006/6,023006,Incident situation Code table 0 23 006,6,Reserved,,,,,Operational
+bufr4/0/23/006/7,023006,Incident situation Code table 0 23 006,7,Missing value,,,,,Operational
+bufr4/0/23/007/0,023007,Characteristics of release Code table 0 23 007,0,No release,,,,,Operational
+bufr4/0/23/007/1,023007,Characteristics of release Code table 0 23 007,1,Release has stopped,,,,,Operational
+bufr4/0/23/007/2,023007,Characteristics of release Code table 0 23 007,2,Release,,,,,Operational
+bufr4/0/23/007/3,023007,Characteristics of release Code table 0 23 007,3,Release is continuing,,,,,Operational
+bufr4/0/23/007/4-6,023007,Characteristics of release Code table 0 23 007,4-6,Reserved,,,,,Operational
+bufr4/0/23/007/7,023007,Characteristics of release Code table 0 23 007,7,Missing value 0 23 008/0 23 009 State of current or expected release Code table 0 0 23 008/0 23 009,,,,,Operational
+bufr4/0/23/007/0,023007,Characteristics of release Code table 0 23 007,0,Gaseous,,,,,Operational
+bufr4/0/23/007/1,023007,Characteristics of release Code table 0 23 007,1,Particulate,,,,,Operational
+bufr4/0/23/007/2,023007,Characteristics of release Code table 0 23 007,2,Mixture of gaseous and particulate,,,,,Operational
+bufr4/0/23/007/3,023007,Characteristics of release Code table 0 23 007,3,Missing value,,,,,Operational
+bufr4/0/23/016/0,023016,Possibility of significant chemical toxic health effect Code table 0 23 016,0,No significant chemical toxic health effect,,,,,Operational
+bufr4/0/23/016/1,023016,Possibility of significant chemical toxic health effect Code table 0 23 016,1,Significant chemical toxic health effect possible,,,,,Operational
+bufr4/0/23/016/2,023016,Possibility of significant chemical toxic health effect Code table 0 23 016,2,Reserved,,,,,Operational
+bufr4/0/23/016/3,023016,Possibility of significant chemical toxic health effect Code table 0 23 016,3,Missing value,,,,,Operational
+bufr4/0/23/018/0,023018,Release behaviour over time Code table 0 23 018,0,Release no longer occurring,,,,,Operational
+bufr4/0/23/018/1,023018,Release behaviour over time Code table 0 23 018,1,Release still occurring,,,,,Operational
+bufr4/0/23/018/2,023018,Release behaviour over time Code table 0 23 018,2,Release expected to increase in next six hours,,,,,Operational
+bufr4/0/23/018/3,023018,Release behaviour over time Code table 0 23 018,3,Release expected to remain constant in next six hours,,,,,Operational
+bufr4/0/23/018/4,023018,Release behaviour over time Code table 0 23 018,4,Release expected to decrease in next six hours,,,,,Operational
+bufr4/0/23/018/5-6,023018,Release behaviour over time Code table 0 23 018,5-6,Reserved,,,,,Operational
+bufr4/0/23/018/7,023018,Release behaviour over time Code table 0 23 018,7,Missing value,,,,,Operational
+bufr4/0/23/031/0,023031,Possibility that plume will encounter precipitation in State in which incident occurred Code table 0 23 031,0,Plume will not encounter rain in incident State,,,,,Operational
+bufr4/0/23/031/1,023031,Possibility that plume will encounter precipitation in State in which incident occurred Code table 0 23 031,1,Plume will encounter rain in incident State,,,,,Operational
+bufr4/0/23/031/2,023031,Possibility that plume will encounter precipitation in State in which incident occurred Code table 0 23 031,2,Reserved,,,,,Operational
+bufr4/0/23/031/3,023031,Possibility that plume will encounter precipitation in State in which incident occurred Code table 0 23 031,3,Missing value,,,,,Operational
+bufr4/0/23/032/0,023032,Plume will encounter change in wind direction and/or speed flag Code table 0 23 032,0,No significant change expected within the next six hours,,,,,Operational
+bufr4/0/23/032/1,023032,Plume will encounter change in wind direction and/or speed flag Code table 0 23 032,1,Anticipated significant change expected within the next six hours,,,,,Operational
+bufr4/0/23/032/2,023032,Plume will encounter change in wind direction and/or speed flag Code table 0 23 032,2,Reserved,,,,,Operational
+bufr4/0/23/032/3,023032,Plume will encounter change in wind direction and/or speed flag Code table 0 23 032,3,Missing value,,,,,Operational

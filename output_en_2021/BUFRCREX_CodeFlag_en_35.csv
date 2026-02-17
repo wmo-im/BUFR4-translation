@@ -1,0 +1,92 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/35/000/000-099,035000,FM and Regional Code number Code table 0 35 000,000-099,International FM Codes,,,,,Operational
+bufr4/0/35/000/100-199,035000,FM and Regional Code number Code table 0 35 000,100-199,RA I Codes,,,,,Operational
+bufr4/0/35/000/200-299,035000,FM and Regional Code number Code table 0 35 000,200-299,RA II Codes,,,,,Operational
+bufr4/0/35/000/300-399,035000,FM and Regional Code number Code table 0 35 000,300-399,RA III Codes,,,,,Operational
+bufr4/0/35/000/400-499,035000,FM and Regional Code number Code table 0 35 000,400-499,RA IV Codes,,,,,Operational
+bufr4/0/35/000/500-599,035000,FM and Regional Code number Code table 0 35 000,500-599,RA V Codes,,,,,Operational
+bufr4/0/35/000/600-699,035000,FM and Regional Code number Code table 0 35 000,600-699,RA VI Codes,,,,,Operational
+bufr4/0/35/000/700-799,035000,FM and Regional Code number Code table 0 35 000,700-799,Antarctic Codes,,,,,Operational
+bufr4/0/35/000/800-999,035000,FM and Regional Code number Code table 0 35 000,800-999,Reserved,,,,,Operational
+bufr4/0/35/000/1000-1022,035000,FM and Regional Code number Code table 0 35 000,1000-1022,Not used,,,,,Operational
+bufr4/0/35/000/1023,035000,FM and Regional Code number Code table 0 35 000,1023,Missing value,,,,,Operational
+bufr4/0/35/001/0,035001,Time frame for monitoring Code table 0 35 001,0,Real time,,,,,Operational
+bufr4/0/35/001/1,035001,Time frame for monitoring Code table 0 35 001,1,Near-real time,,,,,Operational
+bufr4/0/35/001/2,035001,Time frame for monitoring Code table 0 35 001,2,Non-real time,,,,,Operational
+bufr4/0/35/001/3-6,035001,Time frame for monitoring Code table 0 35 001,3-6,Reserved,,,,,Operational
+bufr4/0/35/001/7,035001,Time frame for monitoring Code table 0 35 001,7,Missing value,,,,,Operational
+bufr4/0/35/030/0,035030,Discrepancies in the availability of expected data Code table 0 35 030,0,No discrepancies,,,,,Operational
+bufr4/0/35/030/1,035030,Discrepancies in the availability of expected data Code table 0 35 030,1,Non-compliance with standard and recommended practices and procedures including those of monitoring,,,,,Operational
+bufr4/0/35/030/2,035030,Discrepancies in the availability of expected data Code table 0 35 030,2,Catalogues of meteorological bulletins not updated in a timely manner,,,,,Operational
+bufr4/0/35/030/3,035030,Discrepancies in the availability of expected data Code table 0 35 030,3,Incorrect routing directories,,,,,Operational
+bufr4/0/35/030/4,035030,Discrepancies in the availability of expected data Code table 0 35 030,4,Lack of flexibility in the routing arrangements,,,,,Operational
+bufr4/0/35/030/5,035030,Discrepancies in the availability of expected data Code table 0 35 030,5,Deficiencies in the operation of GTS centres and circuits,,,,,Operational
+bufr4/0/35/030/6,035030,Discrepancies in the availability of expected data Code table 0 35 030,6,Loss of data or delays in relaying data on the GTS,,,,,Operational
+bufr4/0/35/030/7,035030,Discrepancies in the availability of expected data Code table 0 35 030,7,Routing of data different from the routing provided in the plan,,,,,Operational
+bufr4/0/35/030/8,035030,Discrepancies in the availability of expected data Code table 0 35 030,8,Various malpractices,,,,,Operational
+bufr4/0/35/030/9-14,035030,Discrepancies in the availability of expected data Code table 0 35 030,9-14,Reserved,,,,,Operational
+bufr4/0/35/030/15,035030,Discrepancies in the availability of expected data Code table 0 35 030,15,Missing value,,,,,Operational
+bufr4/0/35/031/1,035031,Qualifier on monitoring results Code table 0 35 031,1,Sufficient and all of acceptable quality,,,,,Operational
+bufr4/0/35/031/2,035031,Qualifier on monitoring results Code table 0 35 031,2,Sufficient but partly of acceptable quality,,,,,Operational
+bufr4/0/35/031/3,035031,Qualifier on monitoring results Code table 0 35 031,3,Insufficient but all of acceptable quality,,,,,Operational
+bufr4/0/35/031/4,035031,Qualifier on monitoring results Code table 0 35 031,4,Insufficient and of unacceptable quality,,,,,Operational
+bufr4/0/35/031/5,035031,Qualifier on monitoring results Code table 0 35 031,5,Some messages not complete,,,,,Operational
+bufr4/0/35/031/6,035031,Qualifier on monitoring results Code table 0 35 031,6,Suspect or wrongly coded groups could not be interpreted confidently,,,,,Operational
+bufr4/0/35/031/7,035031,Qualifier on monitoring results Code table 0 35 031,7,Gross coding errors,,,,,Operational
+bufr4/0/35/031/8,035031,Qualifier on monitoring results Code table 0 35 031,8,Transmission sequential order not observed,,,,,Operational
+bufr4/0/35/031/9,035031,Qualifier on monitoring results Code table 0 35 031,9,Report completely garbled and thus discarded,,,,,Operational
+bufr4/0/35/031/10,035031,Qualifier on monitoring results Code table 0 35 031,10,Deficiencies identified and rectified,,,,,Operational
+bufr4/0/35/031/11,035031,Qualifier on monitoring results Code table 0 35 031,11,Deficiencies identified but not rectified,,,,,Operational
+bufr4/0/35/031/12,035031,Qualifier on monitoring results Code table 0 35 031,12,Deficiencies not identified,,,,,Operational
+bufr4/0/35/031/13,035031,Qualifier on monitoring results Code table 0 35 031,13,Measuring errors,,,,,Operational
+bufr4/0/35/031/14,035031,Qualifier on monitoring results Code table 0 35 031,14,Mutual inconsistency,,,,,Operational
+bufr4/0/35/031/15,035031,Qualifier on monitoring results Code table 0 35 031,15,Temporal inconsistency,,,,,Operational
+bufr4/0/35/031/16,035031,Qualifier on monitoring results Code table 0 35 031,16,Forecast error,,,,,Operational
+bufr4/0/35/031/17,035031,Qualifier on monitoring results Code table 0 35 031,17,Bias,,,,,Operational
+bufr4/0/35/031/18,035031,Qualifier on monitoring results Code table 0 35 031,18,Improve system of quality control,,,,,Operational
+bufr4/0/35/031/19,035031,Qualifier on monitoring results Code table 0 35 031,19,Expand training programmes,,,,,Operational
+bufr4/0/35/031/20-98,035031,Qualifier on monitoring results Code table 0 35 031,20-98,Reserved,,,,,Operational
+bufr4/0/35/031/99-126,035031,Qualifier on monitoring results Code table 0 35 031,99-126,Not used,,,,,Operational
+bufr4/0/35/031/127,035031,Qualifier on monitoring results Code table 0 35 031,127,Missing value,,,,,Operational
+bufr4/0/35/032/1,035032,Cause of missing data Code table 0 35 032,1,Data groups missing due to radio fading,,,,,Operational
+bufr4/0/35/032/2,035032,Cause of missing data Code table 0 35 032,2,Data groups missing due to outage of centre,,,,,Operational
+bufr4/0/35/032/3,035032,Cause of missing data Code table 0 35 032,3,Data groups missing due to outage of circuit,,,,,Operational
+bufr4/0/35/032/4,035032,Cause of missing data Code table 0 35 032,4,Non-implementation or maintenance of required RBSN density,,,,,Operational
+bufr4/0/35/032/5,035032,Cause of missing data Code table 0 35 032,5,Shortage of qualified staff to man stations,,,,,Operational
+bufr4/0/35/032/6,035032,Cause of missing data Code table 0 35 032,6,Lack of consumables,,,,,Operational
+bufr4/0/35/032/7,035032,Cause of missing data Code table 0 35 032,7,Instrument failure,,,,,Operational
+bufr4/0/35/032/8,035032,Cause of missing data Code table 0 35 032,8,Non-adherence to telecommunication procedures,,,,,Operational
+bufr4/0/35/032/9,035032,Cause of missing data Code table 0 35 032,9,Some observing programmes ceased,,,,,Operational
+bufr4/0/35/032/10-14,035032,Cause of missing data Code table 0 35 032,10-14,Not used,,,,,Operational
+bufr4/0/35/032/15,035032,Cause of missing data Code table 0 35 032,15,Missing value,,,,,Operational
+bufr4/0/35/033/1,035033,Observation and collection deficiencies Code table 0 35 033,1,No deficiency,,,,,Operational
+bufr4/0/35/033/2,035033,Observation and collection deficiencies Code table 0 35 033,2,Observations not made regularly,,,,,Operational
+bufr4/0/35/033/3,035033,Observation and collection deficiencies Code table 0 35 033,3,Observations not made at right time,,,,,Operational
+bufr4/0/35/033/4,035033,Observation and collection deficiencies Code table 0 35 033,4,Observations made but not disseminated,,,,,Operational
+bufr4/0/35/033/5,035033,Observation and collection deficiencies Code table 0 35 033,5,Observations made and sent to incorrect users,,,,,Operational
+bufr4/0/35/033/6,035033,Observation and collection deficiencies Code table 0 35 033,6,Collection not received,,,,,Operational
+bufr4/0/35/033/7,035033,Observation and collection deficiencies Code table 0 35 033,7,Collection transmitted late,,,,,Operational
+bufr4/0/35/033/8,035033,Observation and collection deficiencies Code table 0 35 033,8,Collection not transmitted,,,,,Operational
+bufr4/0/35/033/9,035033,Observation and collection deficiencies Code table 0 35 033,9,Difficulties in HF propagation and selection of suitable frequency,,,,,Operational
+bufr4/0/35/033/10,035033,Observation and collection deficiencies Code table 0 35 033,10,Difficulties in maintenance of communication equipment at remote stations,,,,,Operational
+bufr4/0/35/033/11,035033,Observation and collection deficiencies Code table 0 35 033,11,No alternative arrangement for routing meteorological observation,,,,,Operational
+bufr4/0/35/033/12-99,035033,Observation and collection deficiencies Code table 0 35 033,12-99,Reserved,,,,,Operational
+bufr4/0/35/033/100-122,035033,Observation and collection deficiencies Code table 0 35 033,100-122,Not used,,,,,Operational
+bufr4/0/35/033/123,035033,Observation and collection deficiencies Code table 0 35 033,123,Missing value,,,,,Operational
+bufr4/0/35/034/1,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,1,Slight improvement,,,,,Operational
+bufr4/0/35/034/2,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,2,Significant improvement,,,,,Operational
+bufr4/0/35/034/3,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,3,Most significant improvement,,,,,Operational
+bufr4/0/35/034/4,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,4,Steady,,,,,Operational
+bufr4/0/35/034/5,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,5,Decreasing,,,,,Operational
+bufr4/0/35/034/6,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,6,Efforts required to improve night-time observations,,,,,Operational
+bufr4/0/35/034/7,035034,Statistical trends for availability of data (during the survey period(s)) Code table 0 35 001,7,Missing value,,,,,Operational
+bufr4/0/35/035/0,035035,Reason for termination Code table 0 35 035,0,Reserved,,,,,Operational
+bufr4/0/35/035/1,035035,Reason for termination Code table 0 35 035,1,Balloon burst,,,,,Operational
+bufr4/0/35/035/2,035035,Reason for termination Code table 0 35 035,2,Balloon forced down by icing,,,,,Operational
+bufr4/0/35/035/3,035035,Reason for termination Code table 0 35 035,3,Leaking or floating balloon,,,,,Operational
+bufr4/0/35/035/4,035035,Reason for termination Code table 0 35 035,4,Weak or fading signal,,,,,Operational
+bufr4/0/35/035/5,035035,Reason for termination Code table 0 35 035,5,Battery failure,,,,,Operational
+bufr4/0/35/035/6,035035,Reason for termination Code table 0 35 035,6,Ground equipment failure,,,,,Operational
+bufr4/0/35/035/7,035035,Reason for termination Code table 0 35 035,7,Signal interference,,,,,Operational
+bufr4/0/35/035/8,035035,Reason for termination Code table 0 35 035,8,Radiosonde failure,,,,,Operational
+bufr4/0/35/035/9,035035,Reason for termination Code table 0 35 035,9,Excessive missing data frames,,,,,Operational

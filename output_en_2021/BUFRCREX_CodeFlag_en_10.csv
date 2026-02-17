@@ -1,0 +1,17 @@
+Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status
+bufr4/0/10/063/0,010063,Characteristic of pressure tendency Code table 0 10 063,0,"Increasing, then decreasing; atmospheric pressure the same or higher than three hours ago",,,,,Operational
+bufr4/0/10/063/1,010063,Characteristic of pressure tendency Code table 0 10 063,1,"Increasing, then steady; or increasing, then increasing more slowly Atmospheric pressure now",,,,,Operational
+bufr4/0/10/063/2,010063,Characteristic of pressure tendency Code table 0 10 063,2,Increasing (steadily or unsteadily) higher than three hours ago,,,,,Operational
+bufr4/0/10/063/3,010063,Characteristic of pressure tendency Code table 0 10 063,3,"Decreasing or steady, then increasing; or increasing, then increasing more rapidly",,,,,Operational
+bufr4/0/10/063/4,010063,Characteristic of pressure tendency Code table 0 10 063,4,Steady; atmospheric pressure the same as three hours ago,,,,,Operational
+bufr4/0/10/063/5,010063,Characteristic of pressure tendency Code table 0 10 063,5,"Decreasing, then increasing; atmospheric pressure the same or lower than three hours ago",,,,,Operational
+bufr4/0/10/063/6,010063,Characteristic of pressure tendency Code table 0 10 063,6,"Decreasing, then steady; or decreasing, then decreasing more slowly Atmospheric pressure now lower",,,,,Operational
+bufr4/0/10/063/7,010063,Characteristic of pressure tendency Code table 0 10 063,7,Decreasing (steadily or unsteadily) than three hours ago,,,,,Operational
+bufr4/0/10/063/8,010063,Characteristic of pressure tendency Code table 0 10 063,8,"Steady or increasing, then decreasing; or decreasing, then decreasing more rapidly",,,,,Operational
+bufr4/0/10/063/9-14,010063,Characteristic of pressure tendency Code table 0 10 063,9-14,Reserved,,,,,Operational
+bufr4/0/10/063/15,010063,Characteristic of pressure tendency Code table 0 10 063,15,"Missing value Notes: (1) In reports from automatic stations, code figure 2 shall be used when tendency is positive, 7 when negative, and 4 when pressure is the same as three hours before. (2) In reports from tropical stations reporting 24-hour pressure changes, code figure 2 shall be used when tendency is positive, 7 when negative, and 4 when pressure is the same as 24 hours before.",,,,,Operational
+bufr4/0/10/064/0,010064,SIGMET cruising level Code table 0 10 064,0,Subsonic,,,,,Operational
+bufr4/0/10/064/1,010064,SIGMET cruising level Code table 0 10 064,1,Transonic,,,,,Operational
+bufr4/0/10/064/2,010064,SIGMET cruising level Code table 0 10 064,2,Supersonic,,,,,Operational
+bufr4/0/10/064/3-6,010064,SIGMET cruising level Code table 0 10 064,3-6,Reserved,,,,,Operational
+bufr4/0/10/064/7,010064,SIGMET cruising level Code table 0 10 064,7,Missing value,,,,,Operational
