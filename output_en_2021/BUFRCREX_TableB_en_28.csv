@@ -1,7 +1,0 @@
-Id,ClassNo,ClassName_en,FXY,ElementName_en,BUFR_Unit_en,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_en,CREX_Scale,CREX_DataWidth_Char,Note_en,noteIDs,Status
-bufr4/0/28/001,28,BUFR/CREX Non-coordinate location (horizontal – 2),028001,Longitude (high accuracy),°,5,-18000000,26,°,5,8,,,Operational
-bufr4/0/28/002,28,BUFR/CREX Non-coordinate location (horizontal – 2),028002,Longitude (coarse accuracy),°,2,-18000,16,°,2,5,,,Operational
-bufr4/0/28/003,28,BUFR/CREX Non-coordinate location (horizontal – 2),028003,Alternate longitude (coarse accuracy),°,2,-18000,16,°,2,5,,,Operational
-bufr4/0/28/004,28,BUFR/CREX Non-coordinate location (horizontal – 2),028004,Alternate longitude (high accuracy),°,5,-18000000,26,°,5,8,,,Operational
-bufr4/0/28/010,28,BUFR/CREX Non-coordinate location (horizontal – 2),028010,Footprint axis 2,m,-1,0,14,m,-1,5,,,Operational
-bufr4/0/28/031,28,BUFR/CREX Non-coordinate location (horizontal – 2),028031,"In direction 90 degrees East, distance from the Earth's centre",m I.2 – BUFR/CREX Table B/28 — 1,2,-1073741824,31,m,2,10,,,Operational
