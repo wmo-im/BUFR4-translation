@@ -1,0 +1,187 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/21/001/1/002101,21,Radar report sequences,321001,Type of antenna,,002101,Type of antenna,,,,Operational
+bufr4/3/21/001/2/002114,21,Radar report sequences,321001,Type of antenna,,002114,Antenna effective surface area,,,,Operational
+bufr4/3/21/001/3/002105,21,Radar report sequences,321001,Type of antenna,,002105,Maximum antenna gain,,,,Operational
+bufr4/3/21/001/4/002106,21,Radar report sequences,321001,Type of antenna,,002106,3-dB beamwidth,,,,Operational
+bufr4/3/21/001/5/002107,21,Radar report sequences,321001,Type of antenna,,002107,Sidelobe suppression,,,,Operational
+bufr4/3/21/001/6/002121,21,Radar report sequences,321001,Type of antenna,,002121,Mean frequency (Wind profiler – moment data),,,,Operational
+bufr4/3/21/003/1/021051,21,Radar report sequences,321003,Signal power above 1 mW,,021051,Signal power above 1 mW,,,,Operational
+bufr4/3/21/003/2/021014,21,Radar report sequences,321003,Signal power above 1 mW,,021014,Doppler mean velocity (radial),,,,Operational
+bufr4/3/21/003/3/021017,21,Radar report sequences,321003,Signal power above 1 mW,,021017,Doppler velocity spectral width,,,,Operational
+bufr4/3/21/003/4/021030,21,Radar report sequences,321003,Signal power above 1 mW,,021030,Signal to noise ratio (Wind profiler – moment data sounding),,,,Operational
+bufr4/3/21/004/1/301031,21,Radar report sequences,321004,"Identification and type of station, date/time, location (high accuracy), height of station",,301031,"Identification and type of station, date/time, location (high accuracy), height of station",,,,Operational
+bufr4/3/21/004/2/002003,21,Radar report sequences,321004,"Identification and type of station, date/time, location (high accuracy), height of station",,002003,Type of measuring equipment used,,,,Operational
+bufr4/3/21/004/3/101000,21,Radar report sequences,321004,"Identification and type of station, date/time, location (high accuracy), height of station",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/21/004/4/031001,21,Radar report sequences,321004,"Identification and type of station, date/time, location (high accuracy), height of station",,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/21/004/5/321003,21,Radar report sequences,321004,"Identification and type of station, date/time, location (high accuracy), height of station",,321003,Wind profiler – moment data (Transmitter-receiver characteristics),,,,Operational
+bufr4/3/21/005/1/025004,21,Radar report sequences,321005,Echo processing,,025004,Echo processing,,,,Operational
+bufr4/3/21/005/2/002121,21,Radar report sequences,321005,Echo processing,,002121,Mean frequency,,,,Operational
+bufr4/3/21/005/3/002122,21,Radar report sequences,321005,Echo processing,,002122,Frequency agility range,,,,Operational
+bufr4/3/21/005/4/002123,21,Radar report sequences,321005,Echo processing,,002123,Peak power,,,,Operational
+bufr4/3/21/005/5/002124,21,Radar report sequences,321005,Echo processing,,002124,Average power,,,,Operational
+bufr4/3/21/005/6/002125,21,Radar report sequences,321005,Echo processing,,002125,Pulse repetition frequency,,,,Operational
+bufr4/3/21/005/7/002126,21,Radar report sequences,321005,Echo processing,,002126,Pulse width,,,,Operational
+bufr4/3/21/005/8/002127,21,Radar report sequences,321005,Echo processing,,002127,Receiver intermediate frequency,,,,Operational
+bufr4/3/21/005/9/002128,21,Radar report sequences,321005,Echo processing,,002128,Intermediate frequency bandwidth,,,,Operational
+bufr4/3/21/005/10/002129,21,Radar report sequences,321005,Echo processing,,002129,Minimum detectable signal,,,,Operational
+bufr4/3/21/005/11/002130,21,Radar report sequences,321005,Echo processing,,002130,Dynamic range,,,,Operational
+bufr4/3/21/005/12/002131,21,Radar report sequences,321005,Echo processing,,002131,Sensitivity time control (STC) (Integration characteristics),,,,Operational
+bufr4/3/21/006/1/025001,21,Radar report sequences,321006,Range-gate length,,025001,Range-gate length,,,,Operational
+bufr4/3/21/006/2/025002,21,Radar report sequences,321006,Range-gate length,,025002,Number of gates averaged,,,,Operational
+bufr4/3/21/006/3/025003,21,Radar report sequences,321006,Range-gate length,,025003,Number of integrated pulses,,,,Operational
+bufr4/3/21/006/4/025005,21,Radar report sequences,321006,Range-gate length,,025005,Echo integration (Corrections),,,,Operational
+bufr4/3/21/007/1/025009,21,Radar report sequences,321007,Calibration method,,025009,Calibration method,,,,Operational
+bufr4/3/21/007/2/025010,21,Radar report sequences,321007,Calibration method,,025010,Clutter treatment,,,,Operational
+bufr4/3/21/007/3/025011,21,Radar report sequences,321007,Calibration method,,025011,Ground occultation correction (screening),,,,Operational
+bufr4/3/21/007/4/025012,21,Radar report sequences,321007,Calibration method,,025012,Range attenuation correction,,,,Operational
+bufr4/3/21/007/5/025013,21,Radar report sequences,321007,Calibration method,,025013,Bright-band correction,,,,Operational
+bufr4/3/21/007/6/025015,21,Radar report sequences,321007,Calibration method,,025015,Radome attenuation correction,,,,Operational
+bufr4/3/21/007/7/025016,21,Radar report sequences,321007,Calibration method,,025016,Clear-air attenuation correction,,,,Operational
+bufr4/3/21/007/8/025017,21,Radar report sequences,321007,Calibration method,,025017,Precipitation attenuation correction I.2,(continued) – BUFR Table D/21 — 1,,,Operational
+bufr4/3/21/008/1/025006,21,Radar report sequences,321008,Z to R conversion,,025006,Z to R conversion,,,,Operational
+bufr4/3/21/008/2/025007,21,Radar report sequences,321008,Z to R conversion,,025007,Z to R conversion factor,,,,Operational
+bufr4/3/21/008/3/025008,21,Radar report sequences,321008,Z to R conversion,,025008,Z to R conversion exponent (A to Z law),,,,Operational
+bufr4/3/21/009/1/025018,21,Radar report sequences,321009,A to Z law for attenuation factor,,025018,A to Z law for attenuation factor,,,,Operational
+bufr4/3/21/009/2/025019,21,Radar report sequences,321009,A to Z law for attenuation factor,,025019,A to Z law for attenuation exponent (Antenna characteristics),,,,Operational
+bufr4/3/21/010/1/002101,21,Radar report sequences,321010,Type of antenna,,002101,Type of antenna,,,,Operational
+bufr4/3/21/010/2/007002,21,Radar report sequences,321010,Type of antenna,,007002,Height or altitude,Altitude of the tower base,,,Operational
+bufr4/3/21/010/3/002102,21,Radar report sequences,321010,Type of antenna,,002102,Antenna height above tower base,,,,Operational
+bufr4/3/21/010/4/002103,21,Radar report sequences,321010,Type of antenna,,002103,Radome,,,,Operational
+bufr4/3/21/010/5/002104,21,Radar report sequences,321010,Type of antenna,,002104,Antenna polarization,,,,Operational
+bufr4/3/21/010/6/002105,21,Radar report sequences,321010,Type of antenna,,002105,Maximum antenna gain,,,,Operational
+bufr4/3/21/010/7/002106,21,Radar report sequences,321010,Type of antenna,,002106,3-dB beamwidth,,,,Operational
+bufr4/3/21/010/8/002107,21,Radar report sequences,321010,Type of antenna,,002107,Sidelobe suppression,,,,Operational
+bufr4/3/21/010/9/002108,21,Radar report sequences,321010,Type of antenna,,002108,Crosspol discrimination (on axis),,,,Operational
+bufr4/3/21/010/10/002109,21,Radar report sequences,321010,Type of antenna,,002109,Antenna speed (azimuth),,,,Operational
+bufr4/3/21/010/11/002110,21,Radar report sequences,321010,Type of antenna,,002110,Antenna speed (elevation),,,,Operational
+bufr4/3/21/010/12/002132,21,Radar report sequences,321010,Type of antenna,,002132,Azimuth pointing accuracy,,,,Operational
+bufr4/3/21/010/13/002133,21,Radar report sequences,321010,Type of antenna,,002133,Elevation pointing accuracy (General characteristics),,,,Operational
+bufr4/3/21/011/1/030031,21,Radar report sequences,321011,Picture type,,030031,Picture type,,,,Operational
+bufr4/3/21/011/2/030032,21,Radar report sequences,321011,Picture type,,030032,Combination with other data,,,,Operational
+bufr4/3/21/011/3/029002,21,Radar report sequences,321011,Picture type,,029002,Coordinate grid type (Antenna elevations),,,,Operational
+bufr4/3/21/012/1/101000,21,Radar report sequences,321012,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/21/012/2/031001,21,Radar report sequences,321012,Delayed replication of 1 descriptor,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/21/012/3/002135,21,Radar report sequences,321012,Delayed replication of 1 descriptor,,002135,Antenna elevation (Basic information (system/site header) on wind profiler/RASS),,,,Operational
+bufr4/3/21/021/1/002003,21,Radar report sequences,321021,Type of measuring equipment used,,002003,Type of measuring equipment used,,,,Operational
+bufr4/3/21/021/2/002101,21,Radar report sequences,321021,Type of measuring equipment used,,002101,Type of antenna,,,,Operational
+bufr4/3/21/021/3/201130,21,Radar report sequences,321021,Type of measuring equipment used,,201130,Change data width,8 bits long,,,Operational
+bufr4/3/21/021/4/002106,21,Radar report sequences,321021,Type of measuring equipment used,,002106,3-dB beamwidth,,,,Operational
+bufr4/3/21/021/5/201000,21,Radar report sequences,321021,Type of measuring equipment used,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/021/6/201132,21,Radar report sequences,321021,Type of measuring equipment used,,201132,Change data width,11 bits long,,,Operational
+bufr4/3/21/021/7/202130,21,Radar report sequences,321021,Type of measuring equipment used,,202130,Change scale,Scale:–6,,,Operational
+bufr4/3/21/021/8/002121,21,Radar report sequences,321021,Type of measuring equipment used,,002121,Mean frequency,,,,Operational
+bufr4/3/21/021/9/202000,21,Radar report sequences,321021,Type of measuring equipment used,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/021/10/201000,21,Radar report sequences,321021,Type of measuring equipment used,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/021/11/201133,21,Radar report sequences,321021,Type of measuring equipment used,,201133,Change data width,11 bits long,,,Operational
+bufr4/3/21/021/12/202129,21,Radar report sequences,321021,Type of measuring equipment used,,202129,Change scale,Scale: 0,,,Operational
+bufr4/3/21/021/13/025001,21,Radar report sequences,321021,Type of measuring equipment used,,025001,Range-gate length,,,,Operational
+bufr4/3/21/021/14/202000,21,Radar report sequences,321021,Type of measuring equipment used,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/021/15/201000,21,Radar report sequences,321021,Type of measuring equipment used,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/022/1/007007,21,Radar report sequences,321022,Height,,007007,Height,,,,Operational
+bufr4/3/21/022/2/204001,21,Radar report sequences,321022,Height,,204001,Add associated field,1 bit long,,,Operational
+bufr4/3/21/022/3/031021,21,Radar report sequences,321022,Height,,031021,Associated field significance,,,,Operational
+bufr4/3/21/022/4/011001,21,Radar report sequences,321022,Height,,011001,Wind direction,,,,Operational
+bufr4/3/21/022/5/204000,21,Radar report sequences,321022,Height,,204000,Add associated field,Cancel,,,Operational
+bufr4/3/21/022/6/011002,21,Radar report sequences,321022,Height,,011002,Wind speed,,,,Operational
+bufr4/3/21/022/7/204001,21,Radar report sequences,321022,Height,,204001,Add associated field,1 bit long,,,Operational
+bufr4/3/21/022/8/031021,21,Radar report sequences,321022,Height,,031021,Associated field significance,,,,Operational
+bufr4/3/21/022/9/011006,21,Radar report sequences,321022,Height,,011006,w-component,,,,Operational
+bufr4/3/21/022/10/204000,21,Radar report sequences,321022,Height,,204000,Add associated field,Cancel,,,Operational
+bufr4/3/21/022/11/021030,21,Radar report sequences,321022,Height,,021030,Signal to noise ratio (Wind profiler: raw-data winds),,,,Operational
+bufr4/3/21/023/1/007007,21,Radar report sequences,321023,Height,,007007,Height,,,,Operational
+bufr4/3/21/023/2/021091,21,Radar report sequences,321023,Height,,021091,Radar signal Doppler spectrum 0th moment,,,,Operational
+bufr4/3/21/023/3/021030,21,Radar report sequences,321023,Height,,021030,Signal to noise ratio,,,,Operational
+bufr4/3/21/023/4/202129,21,Radar report sequences,321023,Height,,202129,Change scale,Scale: 2,,,Operational
+bufr4/3/21/023/5/021014,21,Radar report sequences,321023,Height,,021014,Doppler mean velocity (radial),,,,Operational
+bufr4/3/21/023/6/201129,21,Radar report sequences,321023,Height,,201129,Change data width,9 bits long,,,Operational
+bufr4/3/21/023/7/021017,21,Radar report sequences,321023,Height,,021017,Doppler velocity spectral width,,,,Operational
+bufr4/3/21/023/8/202000,21,Radar report sequences,321023,Height,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/023/9/201000,21,Radar report sequences,321023,Height,,201000,Change data width (RASS-mode: processed-data RASS),Cancel,,,Operational
+bufr4/3/21/024/1/007007,21,Radar report sequences,321024,Height,,007007,Height,,,,Operational
+bufr4/3/21/024/2/204001,21,Radar report sequences,321024,Height,,204001,Add associated field,1 bit long,,,Operational
+bufr4/3/21/024/3/031021,21,Radar report sequences,321024,Height,,031021,Associated field significance,,,,Operational
+bufr4/3/21/024/4/012007,21,Radar report sequences,321024,Height,,012007,Virtual temperature,,,,Operational
+bufr4/3/21/024/5/011006,21,Radar report sequences,321024,Height,,011006,w-component,,,,Operational
+bufr4/3/21/024/6/204000,21,Radar report sequences,321024,Height,,204000,Add associated field,Cancel,,,Operational
+bufr4/3/21/024/7/021030,21,Radar report sequences,321024,Height,,021030,Signal to noise ratio (RASS-mode: raw-data RASS),,,,Operational
+bufr4/3/21/025/1/007007,21,Radar report sequences,321025,Height,,007007,Height,,,,Operational
+bufr4/3/21/025/2/021091,21,Radar report sequences,321025,Height,,021091,Radar signal Doppler spectrum 0th moment,,,,Operational
+bufr4/3/21/025/3/021030,21,Radar report sequences,321025,Height,,021030,Signal to noise ratio,,,,Operational
+bufr4/3/21/025/4/202129,21,Radar report sequences,321025,Height,,202129,Change scale,Scale: 2,,,Operational
+bufr4/3/21/025/5/021014,21,Radar report sequences,321025,Height,,021014,Doppler mean velocity (radial),,,,Operational
+bufr4/3/21/025/6/201129,21,Radar report sequences,321025,Height,,201129,Change data width,9 bits long,,,Operational
+bufr4/3/21/025/7/021017,21,Radar report sequences,321025,Height,,021017,Doppler velocity spectral width,,,,Operational
+bufr4/3/21/025/8/202000,21,Radar report sequences,321025,Height,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/025/9/201000,21,Radar report sequences,321025,Height,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/025/10/021092,21,Radar report sequences,321025,Height,,021092,"RASS signal Doppler spectrum 0th moment, referring to RASS signal",,,,Operational
+bufr4/3/21/025/11/021030,21,Radar report sequences,321025,Height,,021030,Signal to noise ratio,Referring to RASS signal,,,Operational
+bufr4/3/21/025/12/025092,21,Radar report sequences,321025,Height,,025092,Acoustic propagation velocity,,,,Operational
+bufr4/3/21/025/13/201129,21,Radar report sequences,321025,Height,,201129,Change data width,9 bits long,,,Operational
+bufr4/3/21/025/14/202129,21,Radar report sequences,321025,Height,,202129,Change scale,Scale: 2,,,Operational
+bufr4/3/21/025/15/021017,21,Radar report sequences,321025,Height,,021017,Doppler velocity spectral width,Referring to RASS signal,,,Operational
+bufr4/3/21/025/16/202000,21,Radar report sequences,321025,Height,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/025/17/201000,21,Radar report sequences,321025,Height,,201000,Change data width I.2,Cancel (continued) – BUFR Table D/21 — 3,,,Operational
+bufr4/3/21/026/1/007007,21,Radar report sequences,321026,Height,,007007,Height,,,,Operational
+bufr4/3/21/026/2/204001,21,Radar report sequences,321026,Height,,204001,Add associated field,1 bit long,,,Operational
+bufr4/3/21/026/3/031021,21,Radar report sequences,321026,Height,,031021,Associated field significance,,,,Operational
+bufr4/3/21/026/4/012007,21,Radar report sequences,321026,Height,,012007,Virtual temperature 2,,,,Operational
+bufr4/3/21/026/5/025091,21,Radar report sequences,321026,Height,,025091,Structure constant of the refraction index (C ) n,,,,Operational
+bufr4/3/21/026/6/011071,21,Radar report sequences,321026,Height,,011071,Turbulent vertical momentum flux,,,,Operational
+bufr4/3/21/026/7/011072,21,Radar report sequences,321026,Height,,011072,Turbulent vertical buoyancy flux,,,,Operational
+bufr4/3/21/026/8/011073,21,Radar report sequences,321026,Height,,011073,Turbulent kinetic energy,,,,Operational
+bufr4/3/21/026/9/011074,21,Radar report sequences,321026,Height,,011074,Dissipation energy,,,,Operational
+bufr4/3/21/026/10/204000,21,Radar report sequences,321026,Height,,204000,"Add associated field (Radar specification, normalized radar cross-section, Kp variance coefficient)",Cancel,,,Operational
+bufr4/3/21/027/1/021118,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/21/027/2/202129,21,Radar report sequences,321027,Attenuation correction on sigma-0,,202129,Change scale,,,,Operational
+bufr4/3/21/027/3/201132,21,Radar report sequences,321027,Attenuation correction on sigma-0,,201132,Change data width,,,,Operational
+bufr4/3/21/027/4/002112,21,Radar report sequences,321027,Attenuation correction on sigma-0,,002112,Radar look angle,,,,Operational
+bufr4/3/21/027/5/201000,21,Radar report sequences,321027,Attenuation correction on sigma-0,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/027/6/201131,21,Radar report sequences,321027,Attenuation correction on sigma-0,,201131,Change data width,,,,Operational
+bufr4/3/21/027/7/002111,21,Radar report sequences,321027,Attenuation correction on sigma-0,,002111,Radar incidence angle,,,,Operational
+bufr4/3/21/027/8/201000,21,Radar report sequences,321027,Attenuation correction on sigma-0,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/027/9/202000,21,Radar report sequences,321027,Attenuation correction on sigma-0,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/027/10/002104,21,Radar report sequences,321027,Attenuation correction on sigma-0,,002104,Antenna polarization,,,,Operational
+bufr4/3/21/027/11/021105,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021105,Normalized radar cross-section,,,,Operational
+bufr4/3/21/027/12/021106,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021106,Kp variance coefficient (alpha),,,,Operational
+bufr4/3/21/027/13/021107,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021107,Kp variance coefficient (beta),,,,Operational
+bufr4/3/21/027/14/021114,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021114,Kp variance coefficient (gamma),,,,Operational
+bufr4/3/21/027/15/021115,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021115,SEAWINDS sigma-0 quality,,,,Operational
+bufr4/3/21/027/16/021116,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021116,SEAWINDS sigma-0 mode,,,,Operational
+bufr4/3/21/027/17/008018,21,Radar report sequences,321027,Attenuation correction on sigma-0,,008018,SEAWINDS land/ice surface type,,,,Operational
+bufr4/3/21/027/18/021117,21,Radar report sequences,321027,Attenuation correction on sigma-0,,021117,"Sigma-0 variance quality control (Radar specification, SEAWINDS normalized radar cross-section, Kp variance coefficient)",,,,Operational
+bufr4/3/21/028/1/021118,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/21/028/2/202129,21,Radar report sequences,321028,Attenuation correction on sigma-0,,202129,Change scale,,,,Operational
+bufr4/3/21/028/3/201132,21,Radar report sequences,321028,Attenuation correction on sigma-0,,201132,Change data width,,,,Operational
+bufr4/3/21/028/4/002112,21,Radar report sequences,321028,Attenuation correction on sigma-0,,002112,Radar look angle,,,,Operational
+bufr4/3/21/028/5/201000,21,Radar report sequences,321028,Attenuation correction on sigma-0,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/028/6/201131,21,Radar report sequences,321028,Attenuation correction on sigma-0,,201131,Change data width,,,,Operational
+bufr4/3/21/028/7/002111,21,Radar report sequences,321028,Attenuation correction on sigma-0,,002111,Radar incidence angle,,,,Operational
+bufr4/3/21/028/8/201000,21,Radar report sequences,321028,Attenuation correction on sigma-0,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/028/9/202000,21,Radar report sequences,321028,Attenuation correction on sigma-0,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/028/10/002104,21,Radar report sequences,321028,Attenuation correction on sigma-0,,002104,Antenna polarization,,,,Operational
+bufr4/3/21/028/11/021123,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021123,SEAWINDS normalized radar cross-section,,,,Operational
+bufr4/3/21/028/12/021106,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021106,Kp variance coefficient (alpha),,,,Operational
+bufr4/3/21/028/13/021107,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021107,Kp variance coefficient (beta),,,,Operational
+bufr4/3/21/028/14/021114,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021114,Kp variance coefficient (gamma),,,,Operational
+bufr4/3/21/028/15/021115,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021115,SEAWINDS sigma-0 quality,,,,Operational
+bufr4/3/21/028/16/021116,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021116,SEAWINDS sigma-0 mode,,,,Operational
+bufr4/3/21/028/17/008018,21,Radar report sequences,321028,Attenuation correction on sigma-0,,008018,SEAWINDS land/ice surface type,,,,Operational
+bufr4/3/21/028/18/021117,21,Radar report sequences,321028,Attenuation correction on sigma-0,,021117,Sigma-0 variance quality control,,,,Operational
+bufr4/3/21/030/1/008085,21,Radar report sequences,321030,Beam identifier,,008085,Beam identifier,1,,,Operational
+bufr4/3/21/030/2/202129,21,Radar report sequences,321030,Beam identifier,,202129,Change scale,Increase scale by 10,,,Operational
+bufr4/3/21/030/3/201131,21,Radar report sequences,321030,Beam identifier,,201131,Change data width,Increase width by 3 bits,,,Operational
+bufr4/3/21/030/4/002111,21,Radar report sequences,321030,Beam identifier,,002111,Radar incidence angle,,,,Operational
+bufr4/3/21/030/5/201000,21,Radar report sequences,321030,Beam identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/21/030/6/202000,21,Radar report sequences,321030,Beam identifier,,202000,Change scale,Cancel,,,Operational
+bufr4/3/21/030/7/002134,21,Radar report sequences,321030,Beam identifier,,002134,Antenna beam azimuth,,,,Operational
+bufr4/3/21/030/8/021062,21,Radar report sequences,321030,Beam identifier,,021062,Backscatter,,,,Operational
+bufr4/3/21/030/9/021063,21,Radar report sequences,321030,Beam identifier,,021063,Radiometric resolution (noise value),,,,Operational
+bufr4/3/21/030/10/021158,21,Radar report sequences,321030,Beam identifier,,021158,ASCAT Kp estimate quality,,,,Operational
+bufr4/3/21/030/11/021159,21,Radar report sequences,321030,Beam identifier,,021159,ASCAT sigma-0 usability,,,,Operational
+bufr4/3/21/030/12/021160,21,Radar report sequences,321030,Beam identifier,,021160,ASCAT use of synthetic data,,,,Operational
+bufr4/3/21/030/13/021161,21,Radar report sequences,321030,Beam identifier,,021161,ASCAT synthetic data quantity,,,,Operational
+bufr4/3/21/030/14/021162,21,Radar report sequences,321030,Beam identifier,,021162,ASCAT satellite orbit and attitude quality,,,,Operational
+bufr4/3/21/030/15/021163,21,Radar report sequences,321030,Beam identifier,,021163,ASCAT solar array reflection contamination,,,,Operational
+bufr4/3/21/030/16/021164,21,Radar report sequences,321030,Beam identifier,,021164,ASCAT telemetry presence and quality,,,,Operational
+bufr4/3/21/030/17/021165,21,Radar report sequences,321030,Beam identifier,,021165,ASCAT extrapolated reference function presence,,,,Operational
+bufr4/3/21/030/18/021166,21,Radar report sequences,321030,Beam identifier,,021166,Land fraction I.2,– BUFR Table D/21 — 5,,,Operational

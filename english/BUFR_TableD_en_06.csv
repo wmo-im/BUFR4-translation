@@ -1,0 +1,306 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/06/001/1/002032,06,Meteorological or oceanographic sequences,306001,Indicator for digitization,,002032,Indicator for digitization,,,,Operational
+bufr4/3/06/001/2/102000,06,Meteorological or oceanographic sequences,306001,Indicator for digitization,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/06/001/3/031001,06,Meteorological or oceanographic sequences,306001,Indicator for digitization,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/001/4/007062,06,Meteorological or oceanographic sequences,306001,Indicator for digitization,,007062,Depth below sea/water surface,,,,Operational
+bufr4/3/06/001/5/022042,06,Meteorological or oceanographic sequences,306001,Indicator for digitization,,022042,Sea/water temperature (Current),,,,Operational
+bufr4/3/06/002/1/002031,06,Meteorological or oceanographic sequences,306002,Duration and time of current measurement,,002031,Duration and time of current measurement,,,,Operational
+bufr4/3/06/002/2/022004,06,Meteorological or oceanographic sequences,306002,Duration and time of current measurement,,022004,Direction of current,,,,Operational
+bufr4/3/06/002/3/022031,06,Meteorological or oceanographic sequences,306002,Duration and time of current measurement,,022031,Speed of current (Surface wind and temperature),,,,Operational
+bufr4/3/06/003/1/002002,06,Meteorological or oceanographic sequences,306003,Type of instrumentation for wind measurement,,002002,Type of instrumentation for wind measurement,,,,Operational
+bufr4/3/06/003/2/011011,06,Meteorological or oceanographic sequences,306003,Type of instrumentation for wind measurement,,011011,Wind direction at 10 m,,,,Operational
+bufr4/3/06/003/3/011012,06,Meteorological or oceanographic sequences,306003,Type of instrumentation for wind measurement,,011012,Wind speed at 10 m,,,,Operational
+bufr4/3/06/003/4/012004,06,Meteorological or oceanographic sequences,306003,Type of instrumentation for wind measurement,,012004,"Air temperature at 2 m (Depth, temperature, salinity)",,,,Operational
+bufr4/3/06/004/1/002032,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,002032,Indicator for digitization,,,,Operational
+bufr4/3/06/004/2/002033,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,002033,Method of salinity/depth measurement,,,,Operational
+bufr4/3/06/004/3/103000,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,103000,Delayed replication of 3 descriptors,,,,Operational
+bufr4/3/06/004/4/031001,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/004/5/007062,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,007062,Depth below sea/water surface,,,,Operational
+bufr4/3/06/004/6/022043,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,022043,Sea/water temperature,,,,Operational
+bufr4/3/06/004/7/022062,06,Meteorological or oceanographic sequences,306004,Indicator for digitization,,022062,Salinity,,,,Operational
+bufr4/3/06/005/1/002031,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,002031,Duration and time of current measurement,,,,Operational
+bufr4/3/06/005/2/103000,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,103000,Delayed replication of 3 descriptors,,,,Operational
+bufr4/3/06/005/3/031001,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/005/4/007062,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,007062,Depth below sea/water surface,,,,Operational
+bufr4/3/06/005/5/022004,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,022004,Direction of current,,,,Operational
+bufr4/3/06/005/6/022031,06,Meteorological or oceanographic sequences,306005,Duration and time of current measurement,,022031,Speed of current (Under water sounding (optional) parameters),,,,Operational
+bufr4/3/06/006/1/306003,06,Meteorological or oceanographic sequences,306006,Surface wind and temperature,,306003,Surface wind and temperature,,,,Operational
+bufr4/3/06/006/2/306002,06,Meteorological or oceanographic sequences,306006,Surface wind and temperature,,306002,Current,,,,Operational
+bufr4/3/06/006/3/022063,06,Meteorological or oceanographic sequences,306006,Surface wind and temperature,,022063,Total water depth (Buoy spare block parameters),,,,Operational
+bufr4/3/06/007/1/001012,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,001012,Direction of motion of moving observing platform,,,,Operational
+bufr4/3/06/007/2/001014,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,001014,Platform drift speed (high precision),,,,Operational
+bufr4/3/06/007/3/306008,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,306008,Buoy instrumentation parameters,,,,Operational
+bufr4/3/06/007/4/004024,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,004024,Time period or displacement,,,,Operational
+bufr4/3/06/007/5/027003,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,027003,Alternate latitude (coarse accuracy),,,,Operational
+bufr4/3/06/007/6/028003,06,Meteorological or oceanographic sequences,306007,Direction of motion of moving observing platform,,028003,Alternate longitude (coarse accuracy) I.2,(continued) – BUFR Table D/06 — 1,,,Operational
+bufr4/3/06/008/1/002034,06,Meteorological or oceanographic sequences,306008,Drogue type,,002034,Drogue type,,,,Operational
+bufr4/3/06/008/2/002035,06,Meteorological or oceanographic sequences,306008,Drogue type,,002035,Cable length,,,,Operational
+bufr4/3/06/008/3/002036,06,Meteorological or oceanographic sequences,306008,Drogue type,,002036,"Buoy type (Sequence for representation of tide station identification, method of transmission, time the message is transmitted and reference time for reports in a time series)",,,,Operational
+bufr4/3/06/011/1/301021,06,Meteorological or oceanographic sequences,306011,Latitude/longitude (high accuracy),,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/06/011/2/001075,06,Meteorological or oceanographic sequences,306011,Latitude/longitude (high accuracy),,001075,Tide station identification,Alphanumeric ID (5 characters),,,Operational
+bufr4/3/06/011/3/002147,06,Meteorological or oceanographic sequences,306011,Latitude/longitude (high accuracy),,002147,Method of transmission to collection centre,,,,Operational
+bufr4/3/06/011/4/301011,06,Meteorological or oceanographic sequences,306011,Latitude/longitude (high accuracy),,301011,"Year, month, day",,,,Operational
+bufr4/3/06/011/5/301013,06,Meteorological or oceanographic sequences,306011,Latitude/longitude (high accuracy),,301013,"Hour, minute, second (Sequence for representation of sensor type, significant qualifier for sensor and status of operation)",,,,Operational
+bufr4/3/06/012/1/002007,06,Meteorological or oceanographic sequences,306012,Type of sensor for water level measuring instrument,,002007,Type of sensor for water level measuring instrument,,,,Operational
+bufr4/3/06/012/2/008015,06,Meteorological or oceanographic sequences,306012,Type of sensor for water level measuring instrument,,008015,Significant qualifier for sensor,,,,Operational
+bufr4/3/06/012/3/008032,06,Meteorological or oceanographic sequences,306012,Type of sensor for water level measuring instrument,,008032,Status of operation,,,,Operational
+bufr4/3/06/012/4/306029,06,Meteorological or oceanographic sequences,306012,Type of sensor for water level measuring instrument,,306029,Sequence for representation of tsunameter sampling information for water column heights in the time series report (Sequence for representation of water level and residual in the time series),,,,Operational
+bufr4/3/06/013/1/306012,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,306012,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,,,Operational
+bufr4/3/06/013/2/301011,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,301011,"Year, month, day",Reference date for the time series,,,Operational
+bufr4/3/06/013/3/301013,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,301013,"Hour, minute, second",Reference time for the time series,,,Operational
+bufr4/3/06/013/4/022120,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,022120,Tide station automated water level check,,,,Operational
+bufr4/3/06/013/5/022121,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,022121,Tide station manual water level check,,,,Operational
+bufr4/3/06/013/6/004015,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,004015,Time increment,Added to reset the reference time,,,Operational
+bufr4/3/06/013/7/004065,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,004065,Short time increment,Added to each data value in the time series,,,Operational
+bufr4/3/06/013/8/102000,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/06/013/9/031001,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/013/10/022038,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,022038,Tidal elevation with respect to local chart datum,,,,Operational
+bufr4/3/06/013/11/022040,06,Meteorological or oceanographic sequences,306013,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,022040,"Meteorological residual tidal elevation (surge or offset) (Sequence for representation of water level in the time series, similar to 3 06 013 but with no residual)",,,,Operational
+bufr4/3/06/014/1/306012,06,Meteorological or oceanographic sequences,306014,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,306012,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,,,Operational
+bufr4/3/06/014/2/301011,06,Meteorological or oceanographic sequences,306014,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,301011,"Year, month, day",Reference date for the time series,,,Operational
+bufr4/3/06/014/3/301013,06,Meteorological or oceanographic sequences,306014,"Sequence for representation of sensor type, significant qualifier for sensor and status of operation",,301013,"Hour, minute, second",Reference time for the time series,,,Operational
+bufr4/3/06/014/1/022120,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,022120,Tide station automated water level check,,,,Operational
+bufr4/3/06/014/2/022121,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,022121,Tide station manual water level check,,,,Operational
+bufr4/3/06/014/3/004015,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,004015,Time increment,Added to reset the reference time,,,Operational
+bufr4/3/06/014/4/004065,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,004065,Short time increment,Added to each data value in the time series,,,Operational
+bufr4/3/06/014/5/101000,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/06/014/6/031001,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/014/7/022038,06,Meteorological or oceanographic sequences,306014,Tide station automated water level check,,022038,Tidal elevation with respect to local chart datum (Sequence for representation of ancillary meteorological data associated with water level data),,,,Operational
+bufr4/3/06/016/1/301011,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,301011,"Year, month, day",Reference date for the time series,,,Operational
+bufr4/3/06/016/2/301013,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,301013,"Hour, minute, second",Reference time for the time series,,,Operational
+bufr4/3/06/016/3/010004,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,010004,Pressure,Station level,,,Operational
+bufr4/3/06/016/4/010051,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/06/016/5/302032,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,302032,Temperature and humidity data,,,,Operational
+bufr4/3/06/016/6/007032,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,007032,Height of sensor above local ground (or deck of marine platform),,,,Operational
+bufr4/3/06/016/7/002002,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,002002,Type of instrumentation for wind measurement,,,,Operational
+bufr4/3/06/016/8/008021,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,008021,Time significance,= 2 Time averaged,,,Operational
+bufr4/3/06/016/9/004025,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,004025,Time period or displacement,"E.g. = 1 for 1 minute, = 10 for 10 minutes",,,Operational
+bufr4/3/06/016/10/011001,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,011001,Wind direction,,,,Operational
+bufr4/3/06/016/11/011002,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,011002,Wind speed,,,,Operational
+bufr4/3/06/016/12/004025,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,004025,Time period or displacement,In minutes,,,Operational
+bufr4/3/06/016/13/011043,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,011043,Maximum wind gust direction,,,,Operational
+bufr4/3/06/016/14/011041,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,011041,Maximum wind gust speed,,,,Operational
+bufr4/3/06/016/15/025026,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,025026,Battery voltage (large range),AWS battery voltage,,,Operational
+bufr4/3/06/016/16/012060,06,Meteorological or oceanographic sequences,306016,"Year, month, day",,012060,AWS enclosure internal temperature (Subsurface temperature profile (high accuracy/precision) with quality flags),,,,Operational
+bufr4/3/06/017/1/002032,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,002032,Indicator for digitization,= 0 Fixed sensor depths,,,Operational
+bufr4/3/06/017/2/008034,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,008034,Temperature/salinity measurement qualifier,,,,Operational
+bufr4/3/06/017/3/106000,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/06/017/4/031002,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,031002,Extended delayed descriptor replication factor,Number of depths,,,Operational
+bufr4/3/06/017/5/007065,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,007065,Water pressure,In Pa,,,Operational
+bufr4/3/06/017/6/008080,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/017/7/033050,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/017/8/022045,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,022045,Sea/water temperature,In K to 3 decimal places,,,Operational
+bufr4/3/06/017/9/008080,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/017/10/033050,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/017/11/008034,06,Meteorological or oceanographic sequences,306017,Indicator for digitization,,008034,Temperature/salinity measurement qualifier I.2,Set to missing (cancel) (continued) – BUFR Table D/06 — 3,,,Operational
+bufr4/3/06/018/1/002032,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,002032,Indicator for digitization,= 0 Fixed sensor depths,,,Operational
+bufr4/3/06/018/2/008034,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,008034,Temperature/salinity measurement qualifier,,,,Operational
+bufr4/3/06/018/3/109000,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,109000,Delayed replication of 9 descriptors,,,,Operational
+bufr4/3/06/018/4/031002,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,031002,Extended delayed descriptor replication factor,Number of depths,,,Operational
+bufr4/3/06/018/5/007065,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,007065,Water pressure,In Pa,,,Operational
+bufr4/3/06/018/6/008080,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/018/7/033050,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/018/8/022045,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,022045,Sea/water temperature,In K to 3 decimal places,,,Operational
+bufr4/3/06/018/9/008080,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/018/10/033050,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/018/11/022064,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,022064,Salinity,,,,Operational
+bufr4/3/06/018/12/008080,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/018/13/033050,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/018/14/008034,06,Meteorological or oceanographic sequences,306018,Indicator for digitization,,008034,"Temperature/salinity measurement qualifier (Tide report identification, water level checks, time increments)",Set to missing (cancel),,,Operational
+bufr4/3/06/019/1/001075,06,Meteorological or oceanographic sequences,306019,Tide station identification,,001075,Tide station identification,Alphanumeric,,,Operational
+bufr4/3/06/019/2/301011,06,Meteorological or oceanographic sequences,306019,Tide station identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/06/019/3/301012,06,Meteorological or oceanographic sequences,306019,Tide station identification,,301012,"Hour, minute",,,,Operational
+bufr4/3/06/019/4/022042,06,Meteorological or oceanographic sequences,306019,Tide station identification,,022042,Sea/water temperature,,,,Operational
+bufr4/3/06/019/5/022120,06,Meteorological or oceanographic sequences,306019,Tide station identification,,022120,Tide station automated water level check,,,,Operational
+bufr4/3/06/019/6/022121,06,Meteorological or oceanographic sequences,306019,Tide station identification,,022121,Tide station manual water level check,,,,Operational
+bufr4/3/06/019/7/004015,06,Meteorological or oceanographic sequences,306019,Tide station identification,,004015,Time increment (see Note 1),Minutes,,,Operational
+bufr4/3/06/019/8/004065,06,Meteorological or oceanographic sequences,306019,Tide station identification,,004065,"Short time increment (Tide report identification, water level checks, time period or displacement, time increment) (see Note 2)",,,,Operational
+bufr4/3/06/020/1/001075,06,Meteorological or oceanographic sequences,306020,Tide station identification,,001075,Tide station identification,Alphanumeric,,,Operational
+bufr4/3/06/020/2/301011,06,Meteorological or oceanographic sequences,306020,Tide station identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/06/020/3/301012,06,Meteorological or oceanographic sequences,306020,Tide station identification,,301012,"Hour, minute",,,,Operational
+bufr4/3/06/020/4/022042,06,Meteorological or oceanographic sequences,306020,Tide station identification,,022042,Sea/water temperature,,,,Operational
+bufr4/3/06/020/5/022120,06,Meteorological or oceanographic sequences,306020,Tide station identification,,022120,Tide station automated water level check,,,,Operational
+bufr4/3/06/020/6/022121,06,Meteorological or oceanographic sequences,306020,Tide station identification,,022121,Tide station manual water level check,,,,Operational
+bufr4/3/06/020/7/004075,06,Meteorological or oceanographic sequences,306020,Tide station identification,,004075,Short time period or displacement,,,,Operational
+bufr4/3/06/020/8/004065,06,Meteorological or oceanographic sequences,306020,Tide station identification,,004065,Short time increment (Meteorological parameters in tide station),,,,Operational
+bufr4/3/06/021/1/001075,06,Meteorological or oceanographic sequences,306021,Tide station identification,,001075,Tide station identification,Alphanumeric,,,Operational
+bufr4/3/06/021/2/301011,06,Meteorological or oceanographic sequences,306021,Tide station identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/06/021/3/301012,06,Meteorological or oceanographic sequences,306021,Tide station identification,,301012,"Hour, minute",,,,Operational
+bufr4/3/06/021/4/022122,06,Meteorological or oceanographic sequences,306021,Tide station identification,,022122,Tide station automated meteorological data check,,,,Operational
+bufr4/3/06/021/5/022123,06,Meteorological or oceanographic sequences,306021,Tide station identification,,022123,Tide station manual meteorological data check,,,,Operational
+bufr4/3/06/021/6/012001,06,Meteorological or oceanographic sequences,306021,Tide station identification,,012001,Temperature/air temperature,,,,Operational
+bufr4/3/06/021/7/303002,06,Meteorological or oceanographic sequences,306021,Tide station identification,,303002,Wind at pressure level,,,,Operational
+bufr4/3/06/022/1/001075,06,Meteorological or oceanographic sequences,306022,Tide station identification,,001075,Tide station identification,,,,Operational
+bufr4/3/06/022/2/301011,06,Meteorological or oceanographic sequences,306022,Tide station identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/06/022/3/301012,06,Meteorological or oceanographic sequences,306022,Tide station identification,,301012,"Hour, minute",,,,Operational
+bufr4/3/06/022/4/022038,06,Meteorological or oceanographic sequences,306022,Tide station identification,,022038,Tidal elevation with respect to local chart datum,,,,Operational
+bufr4/3/06/022/5/022039,06,Meteorological or oceanographic sequences,306022,Tide station identification,,022039,Meteorological residual tidal elevation (surge or offset),,,,Operational
+bufr4/3/06/023/1/001015,06,Meteorological or oceanographic sequences,306023,Station or site name,,001015,Station or site name,,,,Operational
+bufr4/3/06/023/2/301023,06,Meteorological or oceanographic sequences,306023,Station or site name,,301023,Latitude/longitude (coarse accuracy),,,,Operational
+bufr4/3/06/023/3/301011,06,Meteorological or oceanographic sequences,306023,Station or site name,,301011,"Year, month, day",,,,Operational
+bufr4/3/06/023/4/301012,06,Meteorological or oceanographic sequences,306023,Station or site name,,301012,"Hour, minute",,,,Operational
+bufr4/3/06/023/5/022038,06,Meteorological or oceanographic sequences,306023,Station or site name,,022038,Tidal elevation with respect to local chart datum,,,,Operational
+bufr4/3/06/023/6/022039,06,Meteorological or oceanographic sequences,306023,Station or site name,,022039,Meteorological residual tidal elevation (surge or offset),,,,Operational
+bufr4/3/06/023/7/022120,06,Meteorological or oceanographic sequences,306023,Station or site name,,022120,Tide station automated water level check,,,,Operational
+bufr4/3/06/023/8/022121,06,Meteorological or oceanographic sequences,306023,Station or site name,,022121,Tide station manual water level check (Tide elevation series) (see Note 3),,,,Operational
+bufr4/3/06/024/1/306020,06,Meteorological or oceanographic sequences,306024,"Tide report identification, water level checks, time period or displacement, time increment",,306020,"Tide report identification, water level checks, time period or displacement, time increment",,,,Operational
+bufr4/3/06/024/2/102006,06,Meteorological or oceanographic sequences,306024,"Tide report identification, water level checks, time period or displacement, time increment",,102006,Replicate 2 descriptors 6 times,,,,Operational
+bufr4/3/06/024/3/022038,06,Meteorological or oceanographic sequences,306024,"Tide report identification, water level checks, time period or displacement, time increment",,022038,Tidal elevation with respect to local chart datum,,,,Operational
+bufr4/3/06/024/4/022039,06,Meteorological or oceanographic sequences,306024,"Tide report identification, water level checks, time period or displacement, time increment",,022039,Meteorological residual tidal elevation (surge or offset) (Tide elevation series),,,,Operational
+bufr4/3/06/025/1/306019,06,Meteorological or oceanographic sequences,306025,"Tide report identification, water level checks, time increments",,306019,"Tide report identification, water level checks, time increments",,,,Operational
+bufr4/3/06/025/2/102006,06,Meteorological or oceanographic sequences,306025,"Tide report identification, water level checks, time increments",,102006,Replicate 2 descriptors 6 times,,,,Operational
+bufr4/3/06/025/3/022038,06,Meteorological or oceanographic sequences,306025,"Tide report identification, water level checks, time increments",,022038,Tidal elevation with respect to local chart datum,,,,Operational
+bufr4/3/06/025/4/022039,06,Meteorological or oceanographic sequences,306025,"Tide report identification, water level checks, time increments",,022039,"Meteorological residual tidal elevation (surge or offset) (Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system)",,,,Operational
+bufr4/3/06/027/1/001005,06,Meteorological or oceanographic sequences,306027,Buoy/platform identifier,,001005,Buoy/platform identifier,,,,Operational
+bufr4/3/06/027/2/001052,06,Meteorological or oceanographic sequences,306027,Buoy/platform identifier,,001052,Platform transmitter ID,,,,Operational
+bufr4/3/06/027/3/002047,06,Meteorological or oceanographic sequences,306027,Buoy/platform identifier,,002047,Deep-ocean tsunameter type,,,,Operational
+bufr4/3/06/027/4/301011,06,Meteorological or oceanographic sequences,306027,Buoy/platform identifier,,301011,"Year, month, day",Time the message is transmitted to the ground system,,,Operational
+bufr4/3/06/027/5/301013,06,Meteorological or oceanographic sequences,306027,Buoy/platform identifier,,301013,"Hour, minute, second (Sequence for representation of time of observation and DART buoy position daily report)",,,,Operational
+bufr4/3/06/028/1/306027,06,Meteorological or oceanographic sequences,306028,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,306027,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,,,Operational
+bufr4/3/06/028/2/301011,06,Meteorological or oceanographic sequences,306028,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301011,"Year, month, day",Observation time,,,Operational
+bufr4/3/06/028/3/301013,06,Meteorological or oceanographic sequences,306028,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301013,"Hour, minute, second",,,,Operational
+bufr4/3/06/028/4/301021,06,Meteorological or oceanographic sequences,306028,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301021,Latitude/longitude (high accuracy) I.2,(continued) – BUFR Table D/06 — 5,,,Operational
+bufr4/3/06/029/1/025170,06,Meteorological or oceanographic sequences,306029,Sampling interval (time),,025170,Sampling interval (time),Seconds,,,Operational
+bufr4/3/06/029/2/025171,06,Meteorological or oceanographic sequences,306029,Sampling interval (time),,025171,Sample averaging period,Seconds,,,Operational
+bufr4/3/06/029/3/025172,06,Meteorological or oceanographic sequences,306029,Sampling interval (time),,025172,Number of samples (Sequence for representation of DART buoy standard hourly report),,,,Operational
+bufr4/3/06/030/1/306027,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,306027,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,,,Operational
+bufr4/3/06/030/2/306029,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,306029,Sequence for representation of tsunameter sampling information for water column heights in the time series report,,,,Operational
+bufr4/3/06/030/3/111000,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,111000,Delayed replication of 11 descriptors,,,,Operational
+bufr4/3/06/030/4/031001,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/030/5/033002,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,033002,Quality information,Message status,,,Operational
+bufr4/3/06/030/6/301011,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301011,"Year, month, day",Reference date/time for the time series,,,Operational
+bufr4/3/06/030/7/301013,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301013,"Hour, minute, second",,,,Operational
+bufr4/3/06/030/8/025025,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,025025,Battery voltage,BPR CPU,,,Operational
+bufr4/3/06/030/9/025025,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,025025,Battery voltage,Acoustic modem DSP,,,Operational
+bufr4/3/06/030/10/025026,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,025026,Battery voltage (large range),Acoustic modem,,,Operational
+bufr4/3/06/030/11/022185,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,022185,BPR transmission count,,,,Operational
+bufr4/3/06/030/12/004015,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,004015,Time increment,Added to reset the reference time,,,Operational
+bufr4/3/06/030/13/004065,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,004065,Short time increment,Added to each data value in the time series,,,Operational
+bufr4/3/06/030/14/101004,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,101004,Replicate 1 descriptor 4 times,,,,Operational
+bufr4/3/06/030/15/022182,06,Meteorological or oceanographic sequences,306030,"Sequence for representation of DART buoy identi-fication, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,022182,Water column height (Sequence for representation of DART buoy tsunami event reports and extended tsunami event reports),,,,Operational
+bufr4/3/06/031/1/306027,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,306027,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,,,Operational
+bufr4/3/06/031/2/306029,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,306029,Sequence for representation of tsunameter sampling information for water column heights in the time series report,,,,Operational
+bufr4/3/06/031/3/001053,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,001053,Tsunameter report sequence number triggered by a tsunami event,,,,Operational
+bufr4/3/06/031/4/033002,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,033002,Quality information,Message status,,,Operational
+bufr4/3/06/031/5/301011,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301011,"Year, month, day",Time when tsunami is detected,,,Operational
+bufr4/3/06/031/6/301013,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301013,"Hour, minute, second",,,,Operational
+bufr4/3/06/031/7/301011,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301011,"Year, month, day",Reference date/time for the time series,,,Operational
+bufr4/3/06/031/8/301013,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,301013,"Hour, minute, second",,,,Operational
+bufr4/3/06/031/9/022185,06,Meteorological or oceanographic sequences,306031,"Sequence for representation of DART buoy identification, transmitter ID, type of tsunameter and the time the message is transmitted to the ground system",,022185,BPR transmission count,,,,Operational
+bufr4/3/06/031/1/022182,06,Meteorological or oceanographic sequences,306031,Water column height,,022182,Water column height,Determination of actual value reported in the time series,,,Operational
+bufr4/3/06/031/2/004016,06,Meteorological or oceanographic sequences,306031,Water column height,,004016,Time increment,Added to reset the reference time,,,Operational
+bufr4/3/06/031/3/004066,06,Meteorological or oceanographic sequences,306031,Water column height,,004066,Short time increment,Added to each data value in the time series,,,Operational
+bufr4/3/06/031/4/101000,06,Meteorological or oceanographic sequences,306031,Water column height,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/06/031/5/031001,06,Meteorological or oceanographic sequences,306031,Water column height,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/06/031/6/022184,06,Meteorological or oceanographic sequences,306031,Water column height,,022184,Water column height deviation from the reference value (Surface salinity),,,,Operational
+bufr4/3/06/033/1/002033,06,Meteorological or oceanographic sequences,306033,Method of salinity/depth measurement,,002033,Method of salinity/depth measurement,,,,Operational
+bufr4/3/06/033/2/007063,06,Meteorological or oceanographic sequences,306033,Method of salinity/depth measurement,,007063,Depth below sea/water surface (cm),,,,Operational
+bufr4/3/06/033/3/022064,06,Meteorological or oceanographic sequences,306033,Method of salinity/depth measurement,,022064,Salinity (Surface current),,,,Operational
+bufr4/3/06/034/1/002031,06,Meteorological or oceanographic sequences,306034,Duration and time of current measurement,,002031,Duration and time of current measurement,,,,Operational
+bufr4/3/06/034/2/003010,06,Meteorological or oceanographic sequences,306034,Duration and time of current measurement,,003010,Method of sea/water current measurement,,,,Operational
+bufr4/3/06/034/3/002040,06,Meteorological or oceanographic sequences,306034,Duration and time of current measurement,,002040,Method of removing velocity and motion of platform from current,,,,Operational
+bufr4/3/06/034/4/022005,06,Meteorological or oceanographic sequences,306034,Duration and time of current measurement,,022005,Direction of sea-surface current,,,,Operational
+bufr4/3/06/034/5/022032,06,Meteorological or oceanographic sequences,306034,Duration and time of current measurement,,022032,Speed of sea-surface current (Temperature and salinity profile),,,,Operational
+bufr4/3/06/035/1/112000,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,112000,Delayed replication of 12 descriptors,,,,Operational
+bufr4/3/06/035/2/031002,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/06/035/3/007062,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,007062,Depth below sea/water surface,In metres,,,Operational
+bufr4/3/06/035/4/008080,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,008080,Qualifier for GTSPP quality flag,= 13 Depth at a level,,,Operational
+bufr4/3/06/035/5/033050,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/035/6/007065,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,007065,Water pressure,,,,Operational
+bufr4/3/06/035/7/008080,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,008080,Qualifier for GTSPP quality flag,= 10 Pressure at a level,,,Operational
+bufr4/3/06/035/8/033050,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/035/9/022043,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,022043,Sea/water temperature,,,,Operational
+bufr4/3/06/035/10/008080,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,008080,Qualifier for GTSPP quality flag,= 11 Temperature at a level,,,Operational
+bufr4/3/06/035/11/033050,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/035/12/022064,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,022064,Salinity,= 12 Salinity at a level,,,Operational
+bufr4/3/06/035/13/008080,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/06/035/14/033050,06,Meteorological or oceanographic sequences,306035,Delayed replication of 12 descriptors,,033050,Global GTSPP quality flag (Current profile),,,,Operational
+bufr4/3/06/036/1/112000,06,Meteorological or oceanographic sequences,306036,Delayed replication of 12 descriptors,,112000,Delayed replication of 12 descriptors,,,,Operational
+bufr4/3/06/036/2/031002,06,Meteorological or oceanographic sequences,306036,Delayed replication of 12 descriptors,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/06/036/3/007062,06,Meteorological or oceanographic sequences,306036,Delayed replication of 12 descriptors,,007062,Depth below sea/water surface,In metres,,,Operational
+bufr4/3/06/036/4/008080,06,Meteorological or oceanographic sequences,306036,Delayed replication of 12 descriptors,,008080,Qualifier for GTSPP quality flag,= 13 Depth at a level,,,Operational
+bufr4/3/06/036/5/033050,06,Meteorological or oceanographic sequences,306036,Delayed replication of 12 descriptors,,033050,Global GTSPP quality flag I.2,(continued) – BUFR Table D/06 — 7,,,Operational
+bufr4/3/06/036/1/007065,06,Meteorological or oceanographic sequences,306036,Water pressure,,007065,Water pressure,,,,Operational
+bufr4/3/06/036/2/008080,06,Meteorological or oceanographic sequences,306036,Water pressure,,008080,Qualifier for GTSPP quality flag,= 10 Pressure at a level,,,Operational
+bufr4/3/06/036/3/033050,06,Meteorological or oceanographic sequences,306036,Water pressure,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/036/4/022031,06,Meteorological or oceanographic sequences,306036,Water pressure,,022031,Speed of current,,,,Operational
+bufr4/3/06/036/5/008080,06,Meteorological or oceanographic sequences,306036,Water pressure,,008080,Qualifier for GTSPP quality flag,= 14 Current speed at a level,,,Operational
+bufr4/3/06/036/6/033050,06,Meteorological or oceanographic sequences,306036,Water pressure,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/036/7/022004,06,Meteorological or oceanographic sequences,306036,Water pressure,,022004,Direction of current,,,,Operational
+bufr4/3/06/036/8/008080,06,Meteorological or oceanographic sequences,306036,Water pressure,,008080,Qualifier for GTSPP quality flag,= 15 Current direction at a level,,,Operational
+bufr4/3/06/036/9/033050,06,Meteorological or oceanographic sequences,306036,Water pressure,,033050,Global GTSPP quality flag (Dissolved oxygen profile data),,,,Operational
+bufr4/3/06/037/1/109000,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,109000,Delayed replication of 9 descriptors,,,,Operational
+bufr4/3/06/037/2/031002,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/06/037/3/007062,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,007062,Depth below sea / water surface,,,,Operational
+bufr4/3/06/037/4/008080,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,008080,Qualifier for GTSPP quality flag,= 13 Depth at a level,,,Operational
+bufr4/3/06/037/5/033050,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/037/6/007065,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,007065,Water pressure,,,,Operational
+bufr4/3/06/037/7/008080,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,008080,Qualifier for GTSPP quality flag,= 10 Pressure at a level,,,Operational
+bufr4/3/06/037/8/033050,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/06/037/9/022188,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,022188,Dissolved oxygen,,,,Operational
+bufr4/3/06/037/10/008080,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,008080,Qualifier for GTSPP quality flag,= 16 Dissolved oxygen at a level,,,Operational
+bufr4/3/06/037/11/033050,06,Meteorological or oceanographic sequences,306037,Delayed replication of 9 descriptors,,033050,Global GTSPP quality flag (Sequence for representation of standard surface marine meteorological observations from moored buoys),,,,Operational
+bufr4/3/06/038/1/010004,06,Meteorological or oceanographic sequences,306038,Pressure,,010004,Pressure,,,,Operational
+bufr4/3/06/038/2/010051,06,Meteorological or oceanographic sequences,306038,Pressure,,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/06/038/3/007033,06,Meteorological or oceanographic sequences,306038,Pressure,,007033,Height of sensor above water surface,Height of air temperature/humidity sensor,,,Operational
+bufr4/3/06/038/4/012101,06,Meteorological or oceanographic sequences,306038,Pressure,,012101,Temperature/air temperature,At observation height,,,Operational
+bufr4/3/06/038/5/012103,06,Meteorological or oceanographic sequences,306038,Pressure,,012103,Dewpoint temperature,At observation height,,,Operational
+bufr4/3/06/038/6/013003,06,Meteorological or oceanographic sequences,306038,Pressure,,013003,Relative humidity,With respect to water at all temperatures,,,Operational
+bufr4/3/06/038/7/007033,06,Meteorological or oceanographic sequences,306038,Pressure,,007033,Height of sensor above water surface,Height of wind speed sensor,,,Operational
+bufr4/3/06/038/8/008021,06,Meteorological or oceanographic sequences,306038,Pressure,,008021,Time significance,= 2 Time averaged,,,Operational
+bufr4/3/06/038/9/004025,06,Meteorological or oceanographic sequences,306038,Pressure,,004025,Time period or displacement,Period over which winds are averaged,,,Operational
+bufr4/3/06/038/10/011001,06,Meteorological or oceanographic sequences,306038,Pressure,,011001,Wind direction,At observation height,,,Operational
+bufr4/3/06/038/11/011002,06,Meteorological or oceanographic sequences,306038,Pressure,,011002,Wind speed,At observation height,,,Operational
+bufr4/3/06/038/12/008021,06,Meteorological or oceanographic sequences,306038,Pressure,,008021,Time significance,Set to missing (cancel),,,Operational
+bufr4/3/06/038/1/004025,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,004025,Time period or displacement,Time period over which maximum gust observed,,,Operational
+bufr4/3/06/038/2/011041,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,011041,Maximum wind gust speed,,,,Operational
+bufr4/3/06/038/3/004025,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,004025,Time period or displacement,Set to missing (cancel),,,Operational
+bufr4/3/06/038/4/007033,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/06/038/5/002005,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,002005,Precision of temperature observation,,,,Operational
+bufr4/3/06/038/6/007063,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,007063,Depth below sea/water surface (cm),,,,Operational
+bufr4/3/06/038/7/022049,06,Meteorological or oceanographic sequences,306038,Time period or displacement,,022049,Sea-surface temperature (Sequence for representation of basic wave measurements),,,,Operational
+bufr4/3/06/039/1/022078,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022078,Duration of wave record,,,,Operational
+bufr4/3/06/039/2/022070,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022070,Significant wave height,,,,Operational
+bufr4/3/06/039/3/022073,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022073,Maximum wave height,,,,Operational
+bufr4/3/06/039/4/022074,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022074,Average wave period,,,,Operational
+bufr4/3/06/039/5/022071,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022071,Spectral peak wave period,,,,Operational
+bufr4/3/06/039/6/022076,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022076,Direction from which dominant waves are coming,,,,Operational
+bufr4/3/06/039/7/022077,06,Meteorological or oceanographic sequences,306039,Duration of wave record,,022077,Directional spread of dominant wave (Sequence for representation of detailed spectral wave measurements),,,,Operational
+bufr4/3/06/040/1/022078,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022078,Duration of wave record,,,,Operational
+bufr4/3/06/040/2/022082,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022082,Maximum non-directional spectral wave density,,,,Operational
+bufr4/3/06/040/3/106000,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/06/040/4/031001,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,031001,Delayed descriptor replication factor,Number of frequency bins,,,Operational
+bufr4/3/06/040/5/022080,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022080,Waveband central frequency,,,,Operational
+bufr4/3/06/040/6/022069,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022069,Spectral wave density,,,,Operational
+bufr4/3/06/040/7/022086,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022086,Mean direction from which waves are coming,,,,Operational
+bufr4/3/06/040/8/022087,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022087,Principal direction from which waves are coming,,,,Operational
+bufr4/3/06/040/9/022088,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022088,First normalized polar coordinate from Fourier coefficients,,,,Operational
+bufr4/3/06/040/10/022089,06,Meteorological or oceanographic sequences,306040,Duration of wave record,,022089,Second normalized polar coordinate from Fourier coefficients (Depth and temperature profile (high accuracy/ precision)),,,,Operational
+bufr4/3/06/041/1/002032,06,Meteorological or oceanographic sequences,306041,Indicator for digitization,,002032,Indicator for digitization,= 0 Fixed sensor depths,,,Operational
+bufr4/3/06/041/2/102000,06,Meteorological or oceanographic sequences,306041,Indicator for digitization,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/06/041/3/031001,06,Meteorological or oceanographic sequences,306041,Indicator for digitization,,031001,Delayed descriptor replication factor,Number of depths,,,Operational
+bufr4/3/06/041/4/007062,06,Meteorological or oceanographic sequences,306041,Indicator for digitization,,007062,Depth below sea/water surface,,,,Operational
+bufr4/3/06/041/5/022043,06,Meteorological or oceanographic sequences,306041,Indicator for digitization,,022043,Sea/water temperature I.2,(continued) – BUFR Table D/06 — 9,,,Operational
+bufr4/3/06/042/1/002169,06,Meteorological or oceanographic sequences,306042,Anemometer type,,002169,Anemometer type,"E.g. = 2 WOTAN, = 3 Sonic anemometer",,,Operational
+bufr4/3/06/042/2/007033,06,Meteorological or oceanographic sequences,306042,Anemometer type,,007033,Height of sensor above water surface,Height of anemometer above water surface or effective height for WOTAN,,,Operational
+bufr4/3/06/042/3/008021,06,Meteorological or oceanographic sequences,306042,Anemometer type,,008021,Time significance,= 2 Time averaged,,,Operational
+bufr4/3/06/042/4/004025,06,Meteorological or oceanographic sequences,306042,Anemometer type,,004025,Time period or displacement,Averaging period in minutes,,,Operational
+bufr4/3/06/042/5/011001,06,Meteorological or oceanographic sequences,306042,Anemometer type,,011001,Wind direction,At measurement height,,,Operational
+bufr4/3/06/042/6/011002,06,Meteorological or oceanographic sequences,306042,Anemometer type,,011002,Wind speed (Marine biogeochemical and radiation observations),At measurement height,,,Operational
+bufr4/3/06/043/1/041001,06,Meteorological or oceanographic sequences,306043,pCO 2,,041001,pCO 2,,,,Operational
+bufr4/3/06/043/2/008043,06,Meteorological or oceanographic sequences,306043,pCO 2,,008043,Atmospheric chemical or physical constituent type,Set to 3 (carbon dioxide),,,Operational
+bufr4/3/06/043/3/015028,06,Meteorological or oceanographic sequences,306043,pCO 2,,015028,Mole fraction of atmospheric constituent/pollutant in dry air,,,,Operational
+bufr4/3/06/043/4/008043,06,Meteorological or oceanographic sequences,306043,pCO 2,,008043,Atmospheric chemical or physical constituent type,Cancel,,,Operational
+bufr4/3/06/043/5/013080,06,Meteorological or oceanographic sequences,306043,pCO 2,,013080,Water pH,,,,Operational
+bufr4/3/06/043/6/041005,06,Meteorological or oceanographic sequences,306043,pCO 2,,041005,Turbidity,,,,Operational
+bufr4/3/06/043/7/041003,06,Meteorological or oceanographic sequences,306043,pCO 2,,041003,Dissolved nitrates,,,,Operational
+bufr4/3/06/043/8/022188,06,Meteorological or oceanographic sequences,306043,pCO 2,,022188,Dissolved oxygen,,,,Operational
+bufr4/3/06/043/9/041002,06,Meteorological or oceanographic sequences,306043,pCO 2,,041002,Fluorescence,,,,Operational
+bufr4/3/06/043/10/106000,06,Meteorological or oceanographic sequences,306043,pCO 2,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/06/043/11/031000,06,Meteorological or oceanographic sequences,306043,pCO 2,,031000,Short delayed replication factor,,,,Operational
+bufr4/3/06/043/12/004024,06,Meteorological or oceanographic sequences,306043,pCO 2,,004024,Time period or displacement (hours),Set to–1 (preceding hour),,,Operational
+bufr4/3/06/043/13/014002,06,Meteorological or oceanographic sequences,306043,pCO 2,,014002,"Long-wave radiation, integrated over period specified",Downwelling long-wave radiation,,,Operational
+bufr4/3/06/043/14/014002,06,Meteorological or oceanographic sequences,306043,pCO 2,,014002,"Long-wave radiation, integrated over period specified",Upwelling long-wave radiation,,,Operational
+bufr4/3/06/043/15/014012,06,Meteorological or oceanographic sequences,306043,pCO 2,,014012,"Net long-wave radiation, integrated over period specified",,,,Operational
+bufr4/3/06/043/16/014004,06,Meteorological or oceanographic sequences,306043,pCO 2,,014004,"Short-wave radiation, integrated over period specified",,,,Operational
+bufr4/3/06/043/17/004024,06,Meteorological or oceanographic sequences,306043,pCO 2,,004024,Time period or displacement (hours),Cancel,,,Operational

@@ -1,0 +1,795 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/40/001/1/001007,40,Additional satellite report sequences,340001,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/001/2/001031,40,Additional satellite report sequences,340001,Satellite identifier,,001031,Identification of originating/generating centre,,,,Operational
+bufr4/3/40/001/3/002019,40,Additional satellite report sequences,340001,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/001/4/002020,40,Additional satellite report sequences,340001,Satellite identifier,,002020,Satellite classification,,,,Operational
+bufr4/3/40/001/5/004001,40,Additional satellite report sequences,340001,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/001/6/004002,40,Additional satellite report sequences,340001,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/001/7/004003,40,Additional satellite report sequences,340001,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/001/8/004004,40,Additional satellite report sequences,340001,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/001/9/004005,40,Additional satellite report sequences,340001,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/001/10/202131,40,Additional satellite report sequences,340001,Satellite identifier,,202131,Change scale,Add 3 to scale,,,Operational
+bufr4/3/40/001/11/201138,40,Additional satellite report sequences,340001,Satellite identifier,,201138,Change data width,Add 10 to width,,,Operational
+bufr4/3/40/001/12/004006,40,Additional satellite report sequences,340001,Satellite identifier,,004006,Second,,,,Operational
+bufr4/3/40/001/13/201000,40,Additional satellite report sequences,340001,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/001/14/202000,40,Additional satellite report sequences,340001,Satellite identifier,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/001/15/005001,40,Additional satellite report sequences,340001,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/001/16/006001,40,Additional satellite report sequences,340001,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/001/17/007024,40,Additional satellite report sequences,340001,Satellite identifier,,007024,Satellite zenith angle,,,,Operational
+bufr4/3/40/001/18/005021,40,Additional satellite report sequences,340001,Satellite identifier,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/001/19/007025,40,Additional satellite report sequences,340001,Satellite identifier,,007025,Solar zenith angle,,,,Operational
+bufr4/3/40/001/20/005022,40,Additional satellite report sequences,340001,Satellite identifier,,005022,Solar azimuth,,,,Operational
+bufr4/3/40/001/21/005043,40,Additional satellite report sequences,340001,Satellite identifier,,005043,Field of view number,,,,Operational
+bufr4/3/40/001/22/005040,40,Additional satellite report sequences,340001,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/001/23/201133,40,Additional satellite report sequences,340001,Satellite identifier,,201133,Change data width,Add 5 to width,,,Operational
+bufr4/3/40/001/24/005041,40,Additional satellite report sequences,340001,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/001/25/201000,40,Additional satellite report sequences,340001,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/001/26/201132,40,Additional satellite report sequences,340001,Satellite identifier,,201132,Change data width,Add 4 to width,,,Operational
+bufr4/3/40/001/27/025070,40,Additional satellite report sequences,340001,Satellite identifier,,025070,Major frame count,,,,Operational
+bufr4/3/40/001/28/201000,40,Additional satellite report sequences,340001,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/001/29/202126,40,Additional satellite report sequences,340001,Satellite identifier,,202126,Change scale,Subtract 2 from scale,,,Operational
+bufr4/3/40/001/30/007001,40,Additional satellite report sequences,340001,Satellite identifier,,007001,Height of station,,,,Operational
+bufr4/3/40/001/31/202000,40,Additional satellite report sequences,340001,Satellite identifier,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/001/32/033060,40,Additional satellite report sequences,340001,Satellite identifier,,033060,GqisFlagQual – individual IASI-System quality flag,,,,Operational
+bufr4/3/40/001/33/033061,40,Additional satellite report sequences,340001,Satellite identifier,,033061,GqisQualIndex – indicator for instrument noise performance (contributions from spectral and radiometric calibration),,,,Operational
+bufr4/3/40/001/34/033062,40,Additional satellite report sequences,340001,Satellite identifier,,033062,GqisQualIndexLoc – indicator for geometric quality index,,,,Operational
+bufr4/3/40/001/35/033063,40,Additional satellite report sequences,340001,Satellite identifier,,033063,GqisQualIndexRad – indicator for instrument noise performance (contributions from radiometric calibration),,,,Operational
+bufr4/3/40/001/36/033064,40,Additional satellite report sequences,340001,Satellite identifier,,033064,GqisQualIndexSpect – indicator for instrument noise performance (contributions from spectral calibration),,,,Operational
+bufr4/3/40/001/37/033065,40,Additional satellite report sequences,340001,Satellite identifier,,033065,GqisSysTecSondQual – output of system TEC (Technical Expertise Centre) quality function,,,,Operational
+bufr4/3/40/001/38/101010,40,Additional satellite report sequences,340001,Satellite identifier,,101010,Replicate 1 descriptor 10 times,,,,Operational
+bufr4/3/40/001/39/340002,40,Additional satellite report sequences,340001,Satellite identifier,,340002,Band description,,,,Operational
+bufr4/3/40/001/40/101087,40,Additional satellite report sequences,340001,Satellite identifier,,101087,Replicate 1 descriptor 87 times,,,,Operational
+bufr4/3/40/001/41/340003,40,Additional satellite report sequences,340001,Satellite identifier,,340003,IASI Level 1c 100 channels,,,,Operational
+bufr4/3/40/001/42/002019,40,Additional satellite report sequences,340001,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/001/43/025051,40,Additional satellite report sequences,340001,Satellite identifier,,025051,AVHRR channel combination,,,,Operational
+bufr4/3/40/001/44/101007,40,Additional satellite report sequences,340001,Satellite identifier,,101007,Replicate 1 descriptor 7 times,,,,Operational
+bufr4/3/40/001/45/340004,40,Additional satellite report sequences,340001,Satellite identifier,,340004,IASI Level 1c AVHRR single scene I.2,(continued) – BUFR Table D/40 — 1,,,Operational
+bufr4/3/40/002/1/025140,40,Additional satellite report sequences,340002,Start channel,,025140,Start channel,,,,Operational
+bufr4/3/40/002/2/025141,40,Additional satellite report sequences,340002,Start channel,,025141,End channel,,,,Operational
+bufr4/3/40/002/3/025142,40,Additional satellite report sequences,340002,Start channel,,025142,Channel scale factor (IASI Level 1c 100 channels),,,,Operational
+bufr4/3/40/003/1/104100,40,Additional satellite report sequences,340003,Replicate 4 descriptors 100 times,,104100,Replicate 4 descriptors 100 times,,,,Operational
+bufr4/3/40/003/2/201136,40,Additional satellite report sequences,340003,Replicate 4 descriptors 100 times,,201136,Change data width,Add 8 to width,,,Operational
+bufr4/3/40/003/3/005042,40,Additional satellite report sequences,340003,Replicate 4 descriptors 100 times,,005042,Channel number,,,,Operational
+bufr4/3/40/003/4/201000,40,Additional satellite report sequences,340003,Replicate 4 descriptors 100 times,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/003/5/014046,40,Additional satellite report sequences,340003,Replicate 4 descriptors 100 times,,014046,Scaled radiance (IASI Level 1c AVHRR single scene),,,,Operational
+bufr4/3/40/004/1/005060,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,005060,Y angular position from centre of gravity,,,,Operational
+bufr4/3/40/004/2/005061,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,005061,Z angular position from centre of gravity,,,,Operational
+bufr4/3/40/004/3/025085,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,025085,Fraction of clear pixels in HIRS FOV,,,,Operational
+bufr4/3/40/004/4/105006,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,105006,Replicate 5 descriptors 6 times,,,,Operational
+bufr4/3/40/004/5/005042,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,005042,Channel number,,,,Operational
+bufr4/3/40/004/6/025142,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,025142,Channel scale factor,,,,Operational
+bufr4/3/40/004/7/014047,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,014047,Scaled mean AVHRR radiance,,,,Operational
+bufr4/3/40/004/8/025142,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,025142,Channel scale factor,,,,Operational
+bufr4/3/40/004/9/014048,40,Additional satellite report sequences,340004,Y angular position from centre of gravity,,014048,Scaled standard deviation AVHRR radiance (JASON2 OGDR data),,,,Operational
+bufr4/3/40/005/1/001007,40,Additional satellite report sequences,340005,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/005/2/002019,40,Additional satellite report sequences,340005,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/005/3/001096,40,Additional satellite report sequences,340005,Satellite identifier,,001096,Station acquisition,,,,Operational
+bufr4/3/40/005/4/025061,40,Additional satellite report sequences,340005,Satellite identifier,,025061,Software identification and version number,,,,Operational
+bufr4/3/40/005/5/005044,40,Additional satellite report sequences,340005,Satellite identifier,,005044,Satellite cycle number,,,,Operational
+bufr4/3/40/005/6/005040,40,Additional satellite report sequences,340005,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/005/7/001030,40,Additional satellite report sequences,340005,Satellite identifier,,001030,Numerical model identifier Datation,,,,Operational
+bufr4/3/40/005/8/004001,40,Additional satellite report sequences,340005,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/005/9/004002,40,Additional satellite report sequences,340005,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/005/10/004003,40,Additional satellite report sequences,340005,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/005/11/004004,40,Additional satellite report sequences,340005,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/005/12/004005,40,Additional satellite report sequences,340005,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/005/13/004007,40,Additional satellite report sequences,340005,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy) Location and surface type,,,,Operational
+bufr4/3/40/005/14/005001,40,Additional satellite report sequences,340005,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/005/15/006001,40,Additional satellite report sequences,340005,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/005/16/008029,40,Additional satellite report sequences,340005,Satellite identifier,,008029,Surface type,,,,Operational
+bufr4/3/40/005/17/008074,40,Additional satellite report sequences,340005,Satellite identifier,,008074,Altimeter echo type,,,,Operational
+bufr4/3/40/005/18/008077,40,Additional satellite report sequences,340005,Satellite identifier,,008077,Radiometer sensed surface type Flags,,,,Operational
+bufr4/3/40/005/19/040011,40,Additional satellite report sequences,340005,Satellite identifier,,040011,Interpolation flag,,,,Operational
+bufr4/3/40/005/20/025097,40,Additional satellite report sequences,340005,Satellite identifier,,025097,Three-dimensional error estimate of the navigator orbit,,,,Operational
+bufr4/3/40/005/1/025095,40,Additional satellite report sequences,340005,Altimeter state flag,,025095,Altimeter state flag,,,,Operational
+bufr4/3/40/005/2/025098,40,Additional satellite report sequences,340005,Altimeter state flag,,025098,Altimeter data quality flag,,,,Operational
+bufr4/3/40/005/3/025099,40,Additional satellite report sequences,340005,Altimeter state flag,,025099,Altimeter correction quality flag,,,,Operational
+bufr4/3/40/005/4/021144,40,Additional satellite report sequences,340005,Altimeter state flag,,021144,Altimeter rain flag,,,,Operational
+bufr4/3/40/005/5/025096,40,Additional satellite report sequences,340005,Altimeter state flag,,025096,Radiometer state flag,,,,Operational
+bufr4/3/40/005/6/040012,40,Additional satellite report sequences,340005,Altimeter state flag,,040012,Radiometer data quality flag,,,,Operational
+bufr4/3/40/005/7/040013,40,Additional satellite report sequences,340005,Altimeter state flag,,040013,Radiometer brightness temperature interpretation flag,,,,Operational
+bufr4/3/40/005/8/021169,40,Additional satellite report sequences,340005,Altimeter state flag,,021169,Ice presence indicator Altimeter: Ku band,,,,Operational
+bufr4/3/40/005/9/022151,40,Additional satellite report sequences,340005,Altimeter state flag,,022151,Ku band ocean range,,,,Operational
+bufr4/3/40/005/10/022162,40,Additional satellite report sequences,340005,Altimeter state flag,,022162,RMS of 20 Hz Ku band ocean range,,,,Operational
+bufr4/3/40/005/11/022163,40,Additional satellite report sequences,340005,Altimeter state flag,,022163,Number of 20 Hz valid points for Ku band,,,,Operational
+bufr4/3/40/005/12/025160,40,Additional satellite report sequences,340005,Altimeter state flag,,025160,Ku band net instrumental correction,,,,Operational
+bufr4/3/40/005/13/025133,40,Additional satellite report sequences,340005,Altimeter state flag,,025133,Sea state bias correction on Ku band,,,,Operational
+bufr4/3/40/005/14/022156,40,Additional satellite report sequences,340005,Altimeter state flag,,022156,Ku band significant wave height,,,,Operational
+bufr4/3/40/005/15/022164,40,Additional satellite report sequences,340005,Altimeter state flag,,022164,RMS 20 Hz Ku band significant wave height,,,,Operational
+bufr4/3/40/005/16/022165,40,Additional satellite report sequences,340005,Altimeter state flag,,022165,Number of 20 Hz valid points for Ku band significant wave height,,,,Operational
+bufr4/3/40/005/17/022166,40,Additional satellite report sequences,340005,Altimeter state flag,,022166,Ku band net instrumental correction for significant wave height,,,,Operational
+bufr4/3/40/005/18/021137,40,Additional satellite report sequences,340005,Altimeter state flag,,021137,Ku band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/005/19/021138,40,Additional satellite report sequences,340005,Altimeter state flag,,021138,STD Ku band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/005/20/022167,40,Additional satellite report sequences,340005,Altimeter state flag,,022167,Number of valid points for Ku band backscatter,,,,Operational
+bufr4/3/40/005/21/021139,40,Additional satellite report sequences,340005,Altimeter state flag,,021139,Ku band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/005/22/021118,40,Additional satellite report sequences,340005,Altimeter state flag,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/40/005/23/021145,40,Additional satellite report sequences,340005,Altimeter state flag,,021145,Ku band automatic gain control,,,,Operational
+bufr4/3/40/005/24/021146,40,Additional satellite report sequences,340005,Altimeter state flag,,021146,RMS Ku band automatic gain control,,,,Operational
+bufr4/3/40/005/25/021147,40,Additional satellite report sequences,340005,Altimeter state flag,,021147,Number of valid points for Ku band automatic gain control Altimeter: C band,,,,Operational
+bufr4/3/40/005/26/022168,40,Additional satellite report sequences,340005,Altimeter state flag,,022168,C band ocean range,,,,Operational
+bufr4/3/40/005/27/022169,40,Additional satellite report sequences,340005,Altimeter state flag,,022169,RMS of C band ocean range,,,,Operational
+bufr4/3/40/005/28/022170,40,Additional satellite report sequences,340005,Altimeter state flag,,022170,Number of 20 Hz valid points for C band,,,,Operational
+bufr4/3/40/005/29/025161,40,Additional satellite report sequences,340005,Altimeter state flag,,025161,C band net instrumental correction,,,,Operational
+bufr4/3/40/005/30/025162,40,Additional satellite report sequences,340005,Altimeter state flag,,025162,Sea state bias correction on C band,,,,Operational
+bufr4/3/40/005/31/022171,40,Additional satellite report sequences,340005,Altimeter state flag,,022171,C band significant wave height,,,,Operational
+bufr4/3/40/005/32/022172,40,Additional satellite report sequences,340005,Altimeter state flag,,022172,RMS 20 Hz C band significant wave height,,,,Operational
+bufr4/3/40/005/33/022173,40,Additional satellite report sequences,340005,Altimeter state flag,,022173,Number of 20 Hz valid points for C band significant wave height,,,,Operational
+bufr4/3/40/005/34/022174,40,Additional satellite report sequences,340005,Altimeter state flag,,022174,C band net instrumental correction for significant wave height,,,,Operational
+bufr4/3/40/005/35/021170,40,Additional satellite report sequences,340005,Altimeter state flag,,021170,C band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/005/36/021171,40,Additional satellite report sequences,340005,Altimeter state flag,,021171,RMS C band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/005/37/022175,40,Additional satellite report sequences,340005,Altimeter state flag,,022175,Number of valid points for C band backscatter,,,,Operational
+bufr4/3/40/005/38/021172,40,Additional satellite report sequences,340005,Altimeter state flag,,021172,C band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/005/39/021118,40,Additional satellite report sequences,340005,Altimeter state flag,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/40/005/40/021173,40,Additional satellite report sequences,340005,Altimeter state flag,,021173,C band automatic gain control,,,,Operational
+bufr4/3/40/005/41/021174,40,Additional satellite report sequences,340005,Altimeter state flag,,021174,RMS C band automatic gain control,,,,Operational
+bufr4/3/40/005/42/021175,40,Additional satellite report sequences,340005,Altimeter state flag,,021175,Number of valid points for C band automatic gain control I.2,(continued) – BUFR Table D/40 — 3,,,Operational
+bufr4/3/40/005/1/002153,40,Additional satellite report sequences,340005,Radiometer,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/005/2/012063,40,Additional satellite report sequences,340005,Radiometer,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/005/3/002153,40,Additional satellite report sequences,340005,Radiometer,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/005/4/012063,40,Additional satellite report sequences,340005,Radiometer,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/005/5/002153,40,Additional satellite report sequences,340005,Radiometer,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/005/6/012063,40,Additional satellite report sequences,340005,Radiometer,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/005/7/013090,40,Additional satellite report sequences,340005,Radiometer,,013090,Radiometer water vapour content,,,,Operational
+bufr4/3/40/005/8/013091,40,Additional satellite report sequences,340005,Radiometer,,013091,Radiometer liquid content Wind,,,,Operational
+bufr4/3/40/005/9/007002,40,Additional satellite report sequences,340005,Radiometer,,007002,Height or altitude,,,,Operational
+bufr4/3/40/005/10/011097,40,Additional satellite report sequences,340005,Radiometer,,011097,Wind speed from altimeter,,,,Operational
+bufr4/3/40/005/11/011098,40,Additional satellite report sequences,340005,Radiometer,,011098,Wind speed from radiometer,,,,Operational
+bufr4/3/40/005/12/007002,40,Additional satellite report sequences,340005,Radiometer,,007002,Height or altitude,,,,Operational
+bufr4/3/40/005/13/011095,40,Additional satellite report sequences,340005,Radiometer,,011095,u-component of the model wind vector,,,,Operational
+bufr4/3/40/005/14/011096,40,Additional satellite report sequences,340005,Radiometer,,011096,v-component of the model wind vector Dynamic topography,,,,Operational
+bufr4/3/40/005/15/010096,40,Additional satellite report sequences,340005,Radiometer,,010096,Mean dynamic topography,,,,Operational
+bufr4/3/40/005/16/010081,40,Additional satellite report sequences,340005,Radiometer,,010081,Altitude of COG above reference ellipsoid,,,,Operational
+bufr4/3/40/005/17/010082,40,Additional satellite report sequences,340005,Radiometer,,010082,Instantaneous altitude rate,,,,Operational
+bufr4/3/40/005/18/010083,40,Additional satellite report sequences,340005,Radiometer,,010083,Squared off nadir angle of the satellite from platform data,,,,Operational
+bufr4/3/40/005/19/010101,40,Additional satellite report sequences,340005,Radiometer,,010101,Squared off nadir angle of the satellite from waveform data,,,,Operational
+bufr4/3/40/005/20/025132,40,Additional satellite report sequences,340005,Radiometer,,025132,Ionospheric correction from model on Ku band,,,,Operational
+bufr4/3/40/005/21/025163,40,Additional satellite report sequences,340005,Radiometer,,025163,Altimeter ionospheric correction on Ku band,,,,Operational
+bufr4/3/40/005/22/025126,40,Additional satellite report sequences,340005,Radiometer,,025126,Model dry tropospheric correction,,,,Operational
+bufr4/3/40/005/23/025128,40,Additional satellite report sequences,340005,Radiometer,,025128,Model wet tropospheric correction,,,,Operational
+bufr4/3/40/005/24/025164,40,Additional satellite report sequences,340005,Radiometer,,025164,Radiometer wet tropospheric correction,,,,Operational
+bufr4/3/40/005/25/010085,40,Additional satellite report sequences,340005,Radiometer,,010085,Mean sea-surface height,,,,Operational
+bufr4/3/40/005/26/010097,40,Additional satellite report sequences,340005,Radiometer,,010097,Mean sea-surface height from altimeter only,,,,Operational
+bufr4/3/40/005/27/010086,40,Additional satellite report sequences,340005,Radiometer,,010086,Geoid’s height,,,,Operational
+bufr4/3/40/005/28/010087,40,Additional satellite report sequences,340005,Radiometer,,010087,Ocean depth/land elevation,,,,Operational
+bufr4/3/40/005/29/010092,40,Additional satellite report sequences,340005,Radiometer,,010092,Solid Earth tide height,,,,Operational
+bufr4/3/40/005/30/010088,40,Additional satellite report sequences,340005,Radiometer,,010088,Total geocentric ocean tide height (solution 1),,,,Operational
+bufr4/3/40/005/31/010089,40,Additional satellite report sequences,340005,Radiometer,,010089,Total geocentric ocean tide height (solution 2),,,,Operational
+bufr4/3/40/005/32/010098,40,Additional satellite report sequences,340005,Radiometer,,010098,Loading tide height geocentric ocean tide solution 1,,,,Operational
+bufr4/3/40/005/33/010099,40,Additional satellite report sequences,340005,Radiometer,,010099,Loading tide height geocentric ocean tide solution 2,,,,Operational
+bufr4/3/40/005/34/010090,40,Additional satellite report sequences,340005,Radiometer,,010090,Long period tide height,,,,Operational
+bufr4/3/40/005/35/010100,40,Additional satellite report sequences,340005,Radiometer,,010100,Non-equilibrium long period tide height,,,,Operational
+bufr4/3/40/005/36/010093,40,Additional satellite report sequences,340005,Radiometer,,010093,Geocentric pole tide height,,,,Operational
+bufr4/3/40/005/37/025127,40,Additional satellite report sequences,340005,Radiometer,,025127,Inverted barometer correction,Sea-surface height correction due to pressure loading,,,Operational
+bufr4/3/40/005/38/040014,40,Additional satellite report sequences,340005,Radiometer,,040014,High-frequency fluctuations of the sea-surface topography correction,,,,Operational
+bufr4/3/40/007/1/001007,40,Additional satellite report sequences,340007,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/007/2/001031,40,Additional satellite report sequences,340007,Satellite identifier,,001031,Identification of originating/generating centre,,,,Operational
+bufr4/3/40/007/3/002019,40,Additional satellite report sequences,340007,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/007/4/002020,40,Additional satellite report sequences,340007,Satellite identifier,,002020,Satellite classification,,,,Operational
+bufr4/3/40/007/5/004001,40,Additional satellite report sequences,340007,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/007/6/004002,40,Additional satellite report sequences,340007,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/007/7/004003,40,Additional satellite report sequences,340007,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/007/8/004004,40,Additional satellite report sequences,340007,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/007/9/004005,40,Additional satellite report sequences,340007,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/007/10/202131,40,Additional satellite report sequences,340007,Satellite identifier,,202131,Change scale,Add 3 to scale,,,Operational
+bufr4/3/40/007/11/201138,40,Additional satellite report sequences,340007,Satellite identifier,,201138,Change data width,Add 10 to width,,,Operational
+bufr4/3/40/007/12/004006,40,Additional satellite report sequences,340007,Satellite identifier,,004006,Second,,,,Operational
+bufr4/3/40/007/13/201000,40,Additional satellite report sequences,340007,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/007/14/202000,40,Additional satellite report sequences,340007,Satellite identifier,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/007/15/005001,40,Additional satellite report sequences,340007,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/007/16/006001,40,Additional satellite report sequences,340007,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/007/17/007024,40,Additional satellite report sequences,340007,Satellite identifier,,007024,Satellite zenith angle,,,,Operational
+bufr4/3/40/007/18/005021,40,Additional satellite report sequences,340007,Satellite identifier,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/007/19/007025,40,Additional satellite report sequences,340007,Satellite identifier,,007025,Solar zenith angle,,,,Operational
+bufr4/3/40/007/20/005022,40,Additional satellite report sequences,340007,Satellite identifier,,005022,Solar azimuth,,,,Operational
+bufr4/3/40/007/21/005043,40,Additional satellite report sequences,340007,Satellite identifier,,005043,Field of view number,,,,Operational
+bufr4/3/40/007/22/005040,40,Additional satellite report sequences,340007,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/007/23/201133,40,Additional satellite report sequences,340007,Satellite identifier,,201133,Change data width,Add 5 to width,,,Operational
+bufr4/3/40/007/24/005041,40,Additional satellite report sequences,340007,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/007/25/201000,40,Additional satellite report sequences,340007,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/007/26/201132,40,Additional satellite report sequences,340007,Satellite identifier,,201132,Change data width,Add 4 to width,,,Operational
+bufr4/3/40/007/27/025070,40,Additional satellite report sequences,340007,Satellite identifier,,025070,Major frame count,,,,Operational
+bufr4/3/40/007/28/201000,40,Additional satellite report sequences,340007,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/007/29/202126,40,Additional satellite report sequences,340007,Satellite identifier,,202126,Change scale,Subtract 2 from scale,,,Operational
+bufr4/3/40/007/30/007001,40,Additional satellite report sequences,340007,Satellite identifier,,007001,Height of station,,,,Operational
+bufr4/3/40/007/31/202000,40,Additional satellite report sequences,340007,Satellite identifier,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/007/32/103003,40,Additional satellite report sequences,340007,Satellite identifier,,103003,Replicate 3 descriptors 3 times,,,,Operational
+bufr4/3/40/007/33/025140,40,Additional satellite report sequences,340007,Satellite identifier,,025140,Start channel,,,,Operational
+bufr4/3/40/007/34/025141,40,Additional satellite report sequences,340007,Satellite identifier,,025141,End channel,,,,Operational
+bufr4/3/40/007/35/033060,40,Additional satellite report sequences,340007,Satellite identifier,,033060,GqisFlagQual – individual IASI-System quality flag,,,,Operational
+bufr4/3/40/007/36/033061,40,Additional satellite report sequences,340007,Satellite identifier,,033061,GqisQualIndex – indicator for instrument noise performance (contributions from spectral and radiometric calibration),,,,Operational
+bufr4/3/40/007/37/033062,40,Additional satellite report sequences,340007,Satellite identifier,,033062,GqisQualIndexLoc – indicator for geometric quality index,,,,Operational
+bufr4/3/40/007/38/033063,40,Additional satellite report sequences,340007,Satellite identifier,,033063,GqisQualIndexRad – indicator for instrument noise performance (contributions from radiometric calibration),,,,Operational
+bufr4/3/40/007/39/033064,40,Additional satellite report sequences,340007,Satellite identifier,,033064,GqisQualIndexSpect – indicator for instrument noise performance (contributions from spectral calibration),,,,Operational
+bufr4/3/40/007/40/033065,40,Additional satellite report sequences,340007,Satellite identifier,,033065,GqisSysTecSondQual – output of system TEC (Technical Expertise Centre) quality function,,,,Operational
+bufr4/3/40/007/41/040020,40,Additional satellite report sequences,340007,Satellite identifier,,040020,GqisFlagQualDetailed – quality flag for the system,,,,Operational
+bufr4/3/40/007/42/101010,40,Additional satellite report sequences,340007,Satellite identifier,,101010,Replicate 1 descriptor 10 times I.2,(continued) – BUFR Table D/40 — 5,,,Operational
+bufr4/3/40/007/1/340002,40,Additional satellite report sequences,340007,Band description,,340002,Band description,,,,Operational
+bufr4/3/40/007/2/101087,40,Additional satellite report sequences,340007,Band description,,101087,Replicate 1 descriptor 87 times,,,,Operational
+bufr4/3/40/007/3/340003,40,Additional satellite report sequences,340007,Band description,,340003,IASI Level 1c 100 channels,,,,Operational
+bufr4/3/40/007/4/002019,40,Additional satellite report sequences,340007,Band description,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/007/5/025051,40,Additional satellite report sequences,340007,Band description,,025051,AVHRR channel combination,,,,Operational
+bufr4/3/40/007/6/101007,40,Additional satellite report sequences,340007,Band description,,101007,Replicate 1 descriptor 7 times,,,,Operational
+bufr4/3/40/007/7/340004,40,Additional satellite report sequences,340007,Band description,,340004,IASI Level 1c AVHRR single scene,,,,Operational
+bufr4/3/40/007/8/020081,40,Additional satellite report sequences,340007,Band description,,020081,Cloud amount in segment,,,,Operational
+bufr4/3/40/007/9/008029,40,Additional satellite report sequences,340007,Band description,,008029,Surface type,,,,Operational
+bufr4/3/40/007/10/020083,40,Additional satellite report sequences,340007,Band description,,020083,Amount of segment covered by scene,,,,Operational
+bufr4/3/40/007/11/008029,40,Additional satellite report sequences,340007,Band description,,008029,Surface type,,,,Operational
+bufr4/3/40/007/12/040018,40,Additional satellite report sequences,340007,Band description,,040018,GIacAvgImagIIS – average of imager measurements,,,,Operational
+bufr4/3/40/007/13/040019,40,Additional satellite report sequences,340007,Band description,,040019,GIacVarImagIIS – variance of imager measurements,,,,Operational
+bufr4/3/40/007/14/040021,40,Additional satellite report sequences,340007,Band description,,040021,Fraction of weighted AVHRR pixel in IASI FOV covered with snow/ice,,,,Operational
+bufr4/3/40/007/15/040022,40,Additional satellite report sequences,340007,Band description,,040022,"Number of missing, bad or failed AVHRR pixels (IASI sequence combining PC scores, channel selection and enhanced data) Satellite processing information",,,,Operational
+bufr4/3/40/008/1/001007,40,Additional satellite report sequences,340008,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/008/2/001031,40,Additional satellite report sequences,340008,Satellite identifier,,001031,Identification of originating/generating centre,,,,Operational
+bufr4/3/40/008/3/002019,40,Additional satellite report sequences,340008,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/008/4/002020,40,Additional satellite report sequences,340008,Satellite identifier,,002020,Satellite classification Date and time,,,,Operational
+bufr4/3/40/008/5/004001,40,Additional satellite report sequences,340008,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/008/6/004002,40,Additional satellite report sequences,340008,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/008/7/004003,40,Additional satellite report sequences,340008,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/008/8/004004,40,Additional satellite report sequences,340008,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/008/9/004005,40,Additional satellite report sequences,340008,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/008/10/202131,40,Additional satellite report sequences,340008,Satellite identifier,,202131,Change scale,Add 3 to scale,,,Operational
+bufr4/3/40/008/11/201138,40,Additional satellite report sequences,340008,Satellite identifier,,201138,Change data width,Add 10 to width,,,Operational
+bufr4/3/40/008/12/004006,40,Additional satellite report sequences,340008,Satellite identifier,,004006,Second,,,,Operational
+bufr4/3/40/008/13/201000,40,Additional satellite report sequences,340008,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/008/14/202000,40,Additional satellite report sequences,340008,Satellite identifier,,202000,Change scale Location information,Cancel,,,Operational
+bufr4/3/40/008/15/005001,40,Additional satellite report sequences,340008,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/008/16/006001,40,Additional satellite report sequences,340008,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/008/17/007024,40,Additional satellite report sequences,340008,Satellite identifier,,007024,Satellite zenith angle,,,,Operational
+bufr4/3/40/008/18/005021,40,Additional satellite report sequences,340008,Satellite identifier,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/008/19/007025,40,Additional satellite report sequences,340008,Satellite identifier,,007025,Solar zenith angle,,,,Operational
+bufr4/3/40/008/20/005022,40,Additional satellite report sequences,340008,Satellite identifier,,005022,Solar azimuth,,,,Operational
+bufr4/3/40/008/21/005043,40,Additional satellite report sequences,340008,Satellite identifier,,005043,Field of view number,,,,Operational
+bufr4/3/40/008/22/005040,40,Additional satellite report sequences,340008,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/008/23/201133,40,Additional satellite report sequences,340008,Satellite identifier,,201133,Change data width,Add 5 to width,,,Operational
+bufr4/3/40/008/24/005041,40,Additional satellite report sequences,340008,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/008/25/201000,40,Additional satellite report sequences,340008,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/008/26/201132,40,Additional satellite report sequences,340008,Satellite identifier,,201132,Change data width,Add 4 to width,,,Operational
+bufr4/3/40/008/27/025070,40,Additional satellite report sequences,340008,Satellite identifier,,025070,Major frame count,,,,Operational
+bufr4/3/40/008/1/201000,40,Additional satellite report sequences,340008,Change data width,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/008/2/202126,40,Additional satellite report sequences,340008,Change data width,,202126,Change scale,Subtract 2 from scale,,,Operational
+bufr4/3/40/008/3/007001,40,Additional satellite report sequences,340008,Change data width,,007001,Height of station,,,,Operational
+bufr4/3/40/008/4/202000,40,Additional satellite report sequences,340008,Change data width,,202000,Change scale Quality information,Cancel,,,Operational
+bufr4/3/40/008/5/103003,40,Additional satellite report sequences,340008,Change data width,,103003,Replicate 3 descriptors 3 times,,,,Operational
+bufr4/3/40/008/6/025140,40,Additional satellite report sequences,340008,Change data width,,025140,Start channel,,,,Operational
+bufr4/3/40/008/7/025141,40,Additional satellite report sequences,340008,Change data width,,025141,End channel,,,,Operational
+bufr4/3/40/008/8/033060,40,Additional satellite report sequences,340008,Change data width,,033060,GqisFlagQual – individual IASI-System quality flag,,,,Operational
+bufr4/3/40/008/9/033061,40,Additional satellite report sequences,340008,Change data width,,033061,GqisQualIndex – indicator for instrument noise performance (contributions from spectral and radiometric calibration),,,,Operational
+bufr4/3/40/008/10/033062,40,Additional satellite report sequences,340008,Change data width,,033062,GqisQualIndexLoc – indicator for geometric quality index,,,,Operational
+bufr4/3/40/008/11/033063,40,Additional satellite report sequences,340008,Change data width,,033063,GqisQualIndexRad – indicator for instrument noise performance (contributions from radiometric calibration),,,,Operational
+bufr4/3/40/008/12/033064,40,Additional satellite report sequences,340008,Change data width,,033064,GqisQualIndexSpect – indicator for instrument noise performance (contributions from spectral calibration),,,,Operational
+bufr4/3/40/008/13/033065,40,Additional satellite report sequences,340008,Change data width,,033065,GqisSysTecSondQual – output of system TEC (Technical Expertise Centre) quality function,,,,Operational
+bufr4/3/40/008/14/040020,40,Additional satellite report sequences,340008,Change data width,,040020,GqisFlagQualDetailed – quality flag for the system IASI subset of channels,,,,Operational
+bufr4/3/40/008/15/101010,40,Additional satellite report sequences,340008,Change data width,,101010,Replicate 1 descriptor 10 times,,,,Operational
+bufr4/3/40/008/16/340002,40,Additional satellite report sequences,340008,Change data width,,340002,Band description,,,,Operational
+bufr4/3/40/008/17/104000,40,Additional satellite report sequences,340008,Change data width,,104000,Delayed replication of 4 descriptors,,,,Operational
+bufr4/3/40/008/18/031002,40,Additional satellite report sequences,340008,Change data width,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/40/008/19/201136,40,Additional satellite report sequences,340008,Change data width,,201136,Change data width,Add 8 to width,,,Operational
+bufr4/3/40/008/20/005042,40,Additional satellite report sequences,340008,Change data width,,005042,Channel number,,,,Operational
+bufr4/3/40/008/21/201000,40,Additional satellite report sequences,340008,Change data width,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/008/22/014046,40,Additional satellite report sequences,340008,Change data width,,014046,Scaled radiance Instrument band definition,,,,Operational
+bufr4/3/40/008/23/108003,40,Additional satellite report sequences,340008,Change data width,,108003,Replicate 8 descriptors 3 times,,,,Operational
+bufr4/3/40/008/24/025140,40,Additional satellite report sequences,340008,Change data width,,025140,Start channel,,,,Operational
+bufr4/3/40/008/25/025141,40,Additional satellite report sequences,340008,Change data width,,025141,End channel,,,,Operational
+bufr4/3/40/008/26/040026,40,Additional satellite report sequences,340008,Change data width,,040026,Score quantization factor,,,,Operational
+bufr4/3/40/008/27/040016,40,Additional satellite report sequences,340008,Change data width,,040016,Residual RMS in band,,,,Operational
+bufr4/3/40/008/28/025062,40,Additional satellite report sequences,340008,Change data width,,025062,Database identification Principal component scores for band,,,,Operational
+bufr4/3/40/008/29/101000,40,Additional satellite report sequences,340008,Change data width,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/40/008/30/031002,40,Additional satellite report sequences,340008,Change data width,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/40/008/31/040017,40,Additional satellite report sequences,340008,Change data width,,040017,Non-normalized principal component score AVHRR scene analysis,,,,Operational
+bufr4/3/40/008/32/002019,40,Additional satellite report sequences,340008,Change data width,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/008/33/025051,40,Additional satellite report sequences,340008,Change data width,,025051,AVHRR channel combination,,,,Operational
+bufr4/3/40/008/34/101007,40,Additional satellite report sequences,340008,Change data width,,101007,Replicate 1 descriptor 7 times,,,,Operational
+bufr4/3/40/008/35/340004,40,Additional satellite report sequences,340008,Change data width,,340004,IASI Level 1c AVHRR single scene,,,,Operational
+bufr4/3/40/008/36/020081,40,Additional satellite report sequences,340008,Change data width,,020081,Cloud amount in segment,,,,Operational
+bufr4/3/40/008/37/008029,40,Additional satellite report sequences,340008,Change data width,,008029,Surface type I.2,(continued) – BUFR Table D/40 — 7,,,Operational
+bufr4/3/40/008/1/020083,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,020083,Amount of segment covered by scene,,,,Operational
+bufr4/3/40/008/2/008029,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,008029,Surface type,,,,Operational
+bufr4/3/40/008/3/040018,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,040018,GIacAvgImagIIS – average of imager measurements,,,,Operational
+bufr4/3/40/008/4/040019,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,040019,GIacVarImagIIS – variance of imager measurements,,,,Operational
+bufr4/3/40/008/5/040021,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,040021,Fraction of weighted AVHRR pixel in IASI FOV covered with snow/ice,,,,Operational
+bufr4/3/40/008/6/040022,40,Additional satellite report sequences,340008,Amount of segment covered by scene,,040022,"Number of missing, bad or failed AVHRR pixels (Normalized differential vegetation index (NDVI))",,,,Operational
+bufr4/3/40/009/1/001007,40,Additional satellite report sequences,340009,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/009/2/001031,40,Additional satellite report sequences,340009,Satellite identifier,,001031,Identification of originating/generating centre,,,,Operational
+bufr4/3/40/009/3/002019,40,Additional satellite report sequences,340009,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/009/4/002020,40,Additional satellite report sequences,340009,Satellite identifier,,002020,Satellite classification,,,,Operational
+bufr4/3/40/009/5/301011,40,Additional satellite report sequences,340009,Satellite identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/40/009/6/301013,40,Additional satellite report sequences,340009,Satellite identifier,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/40/009/7/005040,40,Additional satellite report sequences,340009,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/009/8/201136,40,Additional satellite report sequences,340009,Satellite identifier,,201136,Change data width,Add 8 to width,,,Operational
+bufr4/3/40/009/9/005041,40,Additional satellite report sequences,340009,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/009/10/201000,40,Additional satellite report sequences,340009,Satellite identifier,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/009/11/025071,40,Additional satellite report sequences,340009,Satellite identifier,,025071,Frame count,,,,Operational
+bufr4/3/40/009/12/005001,40,Additional satellite report sequences,340009,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/009/13/005001,40,Additional satellite report sequences,340009,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/009/14/006001,40,Additional satellite report sequences,340009,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/009/15/006001,40,Additional satellite report sequences,340009,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/009/16/107064,40,Additional satellite report sequences,340009,Satellite identifier,,107064,Replicate 7 descriptors 64 times,,,,Operational
+bufr4/3/40/009/17/106032,40,Additional satellite report sequences,340009,Satellite identifier,,106032,Replicate 6 descriptors 32 times,,,,Operational
+bufr4/3/40/009/18/008012,40,Additional satellite report sequences,340009,Satellite identifier,,008012,Land/sea qualifier,,,,Operational
+bufr4/3/40/009/19/008013,40,Additional satellite report sequences,340009,Satellite identifier,,008013,Day/night qualifier,,,,Operational
+bufr4/3/40/009/20/008065,40,Additional satellite report sequences,340009,Satellite identifier,,008065,Sun-glint indicator,,,,Operational
+bufr4/3/40/009/21/008072,40,Additional satellite report sequences,340009,Satellite identifier,,008072,Pixel(s) type,,,,Operational
+bufr4/3/40/009/22/013039,40,Additional satellite report sequences,340009,Satellite identifier,,013039,Terrain type (ice/snow),,,,Operational
+bufr4/3/40/009/23/040015,40,Additional satellite report sequences,340009,Satellite identifier,,040015,Normalized differential vegetation index (NDVI) (JASON-2 OGDR data) Satellite,,,,Operational
+bufr4/3/40/010/1/001007,40,Additional satellite report sequences,340010,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/010/2/002019,40,Additional satellite report sequences,340010,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/010/3/001096,40,Additional satellite report sequences,340010,Satellite identifier,,001096,Station acquisition,,,,Operational
+bufr4/3/40/010/4/025061,40,Additional satellite report sequences,340010,Satellite identifier,,025061,Software identification and version number,,,,Operational
+bufr4/3/40/010/5/005044,40,Additional satellite report sequences,340010,Satellite identifier,,005044,Satellite cycle number,,,,Operational
+bufr4/3/40/010/6/005040,40,Additional satellite report sequences,340010,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/010/7/001030,40,Additional satellite report sequences,340010,Satellite identifier,,001030,Numerical model identifier Datation,,,,Operational
+bufr4/3/40/010/8/004001,40,Additional satellite report sequences,340010,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/010/9/004002,40,Additional satellite report sequences,340010,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/010/10/004003,40,Additional satellite report sequences,340010,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/010/11/004004,40,Additional satellite report sequences,340010,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/010/12/004005,40,Additional satellite report sequences,340010,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/010/13/004007,40,Additional satellite report sequences,340010,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/010/1/005001,40,Additional satellite report sequences,340010,Location and surface type,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/010/2/006001,40,Additional satellite report sequences,340010,Location and surface type,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/010/3/008029,40,Additional satellite report sequences,340010,Location and surface type,,008029,Surface type,,,,Operational
+bufr4/3/40/010/4/008074,40,Additional satellite report sequences,340010,Location and surface type,,008074,Altimeter echo type,,,,Operational
+bufr4/3/40/010/5/008077,40,Additional satellite report sequences,340010,Location and surface type,,008077,Radiometer sensed surface type Flags,,,,Operational
+bufr4/3/40/010/6/040011,40,Additional satellite report sequences,340010,Location and surface type,,040011,Interpolation flag,,,,Operational
+bufr4/3/40/010/7/025097,40,Additional satellite report sequences,340010,Location and surface type,,025097,Three-dimensional error estimate of the navigator orbit,,,,Operational
+bufr4/3/40/010/8/025095,40,Additional satellite report sequences,340010,Location and surface type,,025095,Altimeter state flag,,,,Operational
+bufr4/3/40/010/9/025098,40,Additional satellite report sequences,340010,Location and surface type,,025098,Altimeter data quality flag,,,,Operational
+bufr4/3/40/010/10/025099,40,Additional satellite report sequences,340010,Location and surface type,,025099,Altimeter correction quality flag,,,,Operational
+bufr4/3/40/010/11/021144,40,Additional satellite report sequences,340010,Location and surface type,,021144,Altimeter rain flag,,,,Operational
+bufr4/3/40/010/12/025096,40,Additional satellite report sequences,340010,Location and surface type,,025096,Radiometer state flag,,,,Operational
+bufr4/3/40/010/13/040012,40,Additional satellite report sequences,340010,Location and surface type,,040012,Radiometer data quality flag,,,,Operational
+bufr4/3/40/010/14/040013,40,Additional satellite report sequences,340010,Location and surface type,,040013,Radiometer brightness temperature interpretation flag,,,,Operational
+bufr4/3/40/010/15/021169,40,Additional satellite report sequences,340010,Location and surface type,,021169,Ice presence indicator,,,,Operational
+bufr4/3/40/010/16/040023,40,Additional satellite report sequences,340010,Location and surface type,,040023,Auxiliary altimeter state flags,,,,Operational
+bufr4/3/40/010/17/040024,40,Additional satellite report sequences,340010,Location and surface type,,040024,Meteorological map availability,,,,Operational
+bufr4/3/40/010/18/040025,40,Additional satellite report sequences,340010,Location and surface type,,040025,Interpolation flag for mean diurnal tide Altimeter: Ku band,,,,Operational
+bufr4/3/40/010/19/022151,40,Additional satellite report sequences,340010,Location and surface type,,022151,Ku band ocean range,,,,Operational
+bufr4/3/40/010/20/022162,40,Additional satellite report sequences,340010,Location and surface type,,022162,RMS of 20 Hz Ku band ocean range,,,,Operational
+bufr4/3/40/010/21/022163,40,Additional satellite report sequences,340010,Location and surface type,,022163,Number of 20 Hz valid points for Ku band,,,,Operational
+bufr4/3/40/010/22/025160,40,Additional satellite report sequences,340010,Location and surface type,,025160,Ku band net instrumental correction,,,,Operational
+bufr4/3/40/010/23/025133,40,Additional satellite report sequences,340010,Location and surface type,,025133,Sea state bias correction on Ku band,,,,Operational
+bufr4/3/40/010/24/022156,40,Additional satellite report sequences,340010,Location and surface type,,022156,Ku band significant wave height,,,,Operational
+bufr4/3/40/010/25/022164,40,Additional satellite report sequences,340010,Location and surface type,,022164,RMS 20 Hz Ku band significant wave height,,,,Operational
+bufr4/3/40/010/26/022165,40,Additional satellite report sequences,340010,Location and surface type,,022165,Number of 20 Hz valid points for Ku band significant wave height,,,,Operational
+bufr4/3/40/010/27/022166,40,Additional satellite report sequences,340010,Location and surface type,,022166,Ku band net instrumental correction for significant wave height,,,,Operational
+bufr4/3/40/010/28/021137,40,Additional satellite report sequences,340010,Location and surface type,,021137,Ku band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/010/29/021138,40,Additional satellite report sequences,340010,Location and surface type,,021138,STD Ku band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/010/30/022167,40,Additional satellite report sequences,340010,Location and surface type,,022167,Number of valid points for Ku band backscatter,,,,Operational
+bufr4/3/40/010/31/021139,40,Additional satellite report sequences,340010,Location and surface type,,021139,Ku band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/010/32/021118,40,Additional satellite report sequences,340010,Location and surface type,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/40/010/33/021145,40,Additional satellite report sequences,340010,Location and surface type,,021145,Ku band automatic gain control,,,,Operational
+bufr4/3/40/010/34/021146,40,Additional satellite report sequences,340010,Location and surface type,,021146,RMS Ku band automatic gain control,,,,Operational
+bufr4/3/40/010/35/021147,40,Additional satellite report sequences,340010,Location and surface type,,021147,Number of valid points for Ku band automatic gain control Altimeter: C band,,,,Operational
+bufr4/3/40/010/36/022168,40,Additional satellite report sequences,340010,Location and surface type,,022168,C band ocean range,,,,Operational
+bufr4/3/40/010/37/022169,40,Additional satellite report sequences,340010,Location and surface type,,022169,RMS of C band ocean range,,,,Operational
+bufr4/3/40/010/38/022170,40,Additional satellite report sequences,340010,Location and surface type,,022170,Number of 20 Hz valid points for C band,,,,Operational
+bufr4/3/40/010/39/025161,40,Additional satellite report sequences,340010,Location and surface type,,025161,C band net instrumental correction,,,,Operational
+bufr4/3/40/010/40/025162,40,Additional satellite report sequences,340010,Location and surface type,,025162,Sea state bias correction on C band,,,,Operational
+bufr4/3/40/010/41/022171,40,Additional satellite report sequences,340010,Location and surface type,,022171,C band significant wave height,,,,Operational
+bufr4/3/40/010/42/022172,40,Additional satellite report sequences,340010,Location and surface type,,022172,RMS 20 Hz C band significant wave height I.2,(continued) – BUFR Table D/40 — 9,,,Operational
+bufr4/3/40/010/1/022173,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,022173,Number of 20 Hz valid points for C band significant wave height,,,,Operational
+bufr4/3/40/010/2/022174,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,022174,C band net instrumental correction for significant wave height,,,,Operational
+bufr4/3/40/010/3/021170,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021170,C band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/010/4/021171,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021171,RMS C band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/010/5/022175,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,022175,Number of valid points for C band backscatter,,,,Operational
+bufr4/3/40/010/6/021172,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021172,C band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/010/7/021118,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/40/010/8/021173,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021173,C band automatic gain control,,,,Operational
+bufr4/3/40/010/9/021174,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021174,RMS C band automatic gain control,,,,Operational
+bufr4/3/40/010/10/021175,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,021175,Number of valid points for C band automatic gain control Radiometer,,,,Operational
+bufr4/3/40/010/11/002153,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/010/12/012063,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/010/13/002153,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/010/14/012063,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/010/15/002153,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/010/16/012063,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/010/17/013090,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,013090,Radiometer water vapour content,,,,Operational
+bufr4/3/40/010/18/013091,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,013091,Radiometer liquid content Wind,,,,Operational
+bufr4/3/40/010/19/007002,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,007002,Height or altitude,,,,Operational
+bufr4/3/40/010/20/011097,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,011097,Wind speed from altimeter,,,,Operational
+bufr4/3/40/010/21/011098,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,011098,Wind speed from radiometer,,,,Operational
+bufr4/3/40/010/22/007002,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,007002,Height or altitude,,,,Operational
+bufr4/3/40/010/23/011095,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,011095,u-component of the model wind vector,,,,Operational
+bufr4/3/40/010/24/011096,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,011096,v-component of the model wind vector Dynamic topography,,,,Operational
+bufr4/3/40/010/25/010096,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010096,Mean dynamic topography,,,,Operational
+bufr4/3/40/010/26/010081,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010081,Altitude of COG above reference ellipsoid,,,,Operational
+bufr4/3/40/010/27/010082,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010082,Instantaneous altitude rate,,,,Operational
+bufr4/3/40/010/28/010083,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010083,Squared off nadir angle of the satellite from platform data,,,,Operational
+bufr4/3/40/010/29/010101,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010101,Squared off nadir angle of the satellite from waveform data,,,,Operational
+bufr4/3/40/010/30/025132,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,025132,Ionospheric correction from model on Ku band,,,,Operational
+bufr4/3/40/010/31/025163,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,025163,Altimeter ionospheric correction on Ku band,,,,Operational
+bufr4/3/40/010/32/025126,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,025126,Model dry tropospheric correction,,,,Operational
+bufr4/3/40/010/33/025128,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,025128,Model wet tropospheric correction,,,,Operational
+bufr4/3/40/010/34/025164,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,025164,Radiometer wet tropospheric correction,,,,Operational
+bufr4/3/40/010/35/010085,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010085,Mean sea-surface height,,,,Operational
+bufr4/3/40/010/36/010097,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010097,Mean sea-surface height from altimeter only,,,,Operational
+bufr4/3/40/010/37/010086,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010086,Geoid’s height,,,,Operational
+bufr4/3/40/010/38/010087,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010087,Ocean depth/land elevation,,,,Operational
+bufr4/3/40/010/39/010092,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010092,Solid Earth tide height,,,,Operational
+bufr4/3/40/010/40/010088,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010088,Total geocentric ocean tide height (solution 1),,,,Operational
+bufr4/3/40/010/41/010089,40,Additional satellite report sequences,340010,Number of 20 Hz valid points for C band significant wave height,,010089,Total geocentric ocean tide height (solution 2),,,,Operational
+bufr4/3/40/010/1/010098,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010098,Loading tide height geocentric ocean tide solution 1,,,,Operational
+bufr4/3/40/010/2/010099,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010099,Loading tide height geocentric ocean tide solution 2,,,,Operational
+bufr4/3/40/010/3/010090,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010090,Long period tide height,,,,Operational
+bufr4/3/40/010/4/010100,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010100,Non-equilibrium long period tide height,,,,Operational
+bufr4/3/40/010/5/010093,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010093,Geocentric pole tide height,,,,Operational
+bufr4/3/40/010/6/025127,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,025127,Inverted barometer correction,Sea-surface height correction due to pressure loading,,,Operational
+bufr4/3/40/010/7/040014,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,040014,High-frequency fluctuations of the sea-surface topography correction,,,,Operational
+bufr4/3/40/010/8/010102,40,Additional satellite report sequences,340010,Loading tide height geocentric ocean tide solution 1,,010102,Sea-surface height anomaly (SARAL Altika),,,,Operational
+bufr4/3/40/011/1/001007,40,Additional satellite report sequences,340011,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/011/2/002019,40,Additional satellite report sequences,340011,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/011/3/001096,40,Additional satellite report sequences,340011,Satellite identifier,,001096,Station acquisition,,,,Operational
+bufr4/3/40/011/4/025061,40,Additional satellite report sequences,340011,Satellite identifier,,025061,Software identification and version number,,,,Operational
+bufr4/3/40/011/5/005044,40,Additional satellite report sequences,340011,Satellite identifier,,005044,Satellite cycle number,,,,Operational
+bufr4/3/40/011/6/005040,40,Additional satellite report sequences,340011,Satellite identifier,,005040,Orbit number,,,,Operational
+bufr4/3/40/011/7/001030,40,Additional satellite report sequences,340011,Satellite identifier,,001030,Numerical model identifier,,,,Operational
+bufr4/3/40/011/8/004001,40,Additional satellite report sequences,340011,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/011/9/004002,40,Additional satellite report sequences,340011,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/011/10/004003,40,Additional satellite report sequences,340011,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/011/11/004004,40,Additional satellite report sequences,340011,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/011/12/004005,40,Additional satellite report sequences,340011,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/011/13/004007,40,Additional satellite report sequences,340011,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/011/14/005001,40,Additional satellite report sequences,340011,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/011/15/006001,40,Additional satellite report sequences,340011,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/011/16/008029,40,Additional satellite report sequences,340011,Satellite identifier,,008029,Surface type,,,,Operational
+bufr4/3/40/011/17/008077,40,Additional satellite report sequences,340011,Satellite identifier,,008077,Radiometer sensed surface type,,,,Operational
+bufr4/3/40/011/18/040011,40,Additional satellite report sequences,340011,Satellite identifier,,040011,Interpolation flag,,,,Operational
+bufr4/3/40/011/19/025097,40,Additional satellite report sequences,340011,Satellite identifier,,025097,Three-dimensional error estimate of the navigator orbit,,,,Operational
+bufr4/3/40/011/20/025112,40,Additional satellite report sequences,340011,Satellite identifier,,025112,Band specific altimeter data quality flag,,,,Operational
+bufr4/3/40/011/21/025113,40,Additional satellite report sequences,340011,Satellite identifier,,025113,Band specific altimeter correction quality flag,,,,Operational
+bufr4/3/40/011/22/021148,40,Additional satellite report sequences,340011,Satellite identifier,,021148,Trailing edge variation flag,,,,Operational
+bufr4/3/40/011/23/021169,40,Additional satellite report sequences,340011,Satellite identifier,,021169,Ice presence indicator,,,,Operational
+bufr4/3/40/011/24/040024,40,Additional satellite report sequences,340011,Satellite identifier,,040024,Meteorological map availability,,,,Operational
+bufr4/3/40/011/25/040025,40,Additional satellite report sequences,340011,Satellite identifier,,040025,Interpolation flag for mean diurnal tide,,,,Operational
+bufr4/3/40/011/26/002153,40,Additional satellite report sequences,340011,Satellite identifier,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/011/27/022189,40,Additional satellite report sequences,340011,Satellite identifier,,022189,Specific band ocean range,,,,Operational
+bufr4/3/40/011/28/022191,40,Additional satellite report sequences,340011,Satellite identifier,,022191,RMS of specific band ocean range,,,,Operational
+bufr4/3/40/011/29/022130,40,Additional satellite report sequences,340011,Satellite identifier,,022130,Number of valid points for specific band,,,,Operational
+bufr4/3/40/011/30/025167,40,Additional satellite report sequences,340011,Satellite identifier,,025167,Specific band net instrumental correction,,,,Operational
+bufr4/3/40/011/31/025166,40,Additional satellite report sequences,340011,Satellite identifier,,025166,Sea state bias correction on specific band,,,,Operational
+bufr4/3/40/011/32/022190,40,Additional satellite report sequences,340011,Satellite identifier,,022190,Specific band significant wave height,,,,Operational
+bufr4/3/40/011/33/022131,40,Additional satellite report sequences,340011,Satellite identifier,,022131,RMS specific band significant wave height,,,,Operational
+bufr4/3/40/011/34/022132,40,Additional satellite report sequences,340011,Satellite identifier,,022132,Number of valid points for specific band significant wave height I.2 – BUFR Table D/40 — 11,,,,Operational
+bufr4/3/40/011/1/022133,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,022133,Specific band net instrument correction for significant wave height,,,,Operational
+bufr4/3/40/011/2/021183,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021183,Specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/011/3/021184,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021184,STD specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/011/4/022134,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,022134,Number of valid points for specific band backscatter,,,,Operational
+bufr4/3/40/011/5/021185,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021185,Specific band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/011/6/021118,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021118,Attenuation correction on sigma-0,,,,Operational
+bufr4/3/40/011/7/021186,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021186,Specific band automatic gain control,,,,Operational
+bufr4/3/40/011/8/021187,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021187,RMS specific band automatic gain control,,,,Operational
+bufr4/3/40/011/9/021188,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,021188,Number of valid points for specific band automatic gain control,,,,Operational
+bufr4/3/40/011/10/002153,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/011/11/012063,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/011/12/002153,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/011/13/012063,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/011/14/013090,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,013090,Radiometer water vapour content,,,,Operational
+bufr4/3/40/011/15/013160,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,013160,Radiometer liquid content,,,,Operational
+bufr4/3/40/011/16/007002,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,007002,Height or altitude,,,,Operational
+bufr4/3/40/011/17/011097,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,011097,Wind speed from altimeter,,,,Operational
+bufr4/3/40/011/18/007002,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,007002,Height or altitude,,,,Operational
+bufr4/3/40/011/19/011095,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,011095,u-component of the model wind vector,,,,Operational
+bufr4/3/40/011/20/011096,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,011096,v-component of the model wind vector,,,,Operational
+bufr4/3/40/011/21/010096,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010096,Mean dynamic topography,,,,Operational
+bufr4/3/40/011/22/010081,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010081,Altitude of COG above reference ellipsoid,,,,Operational
+bufr4/3/40/011/23/010082,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010082,Instantaneous altitude rate,,,,Operational
+bufr4/3/40/011/24/010083,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010083,Squared off-nadir angle of the satellite from platform data,,,,Operational
+bufr4/3/40/011/25/010101,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010101,Squared off-nadir angle of the satellite from waveform data,,,,Operational
+bufr4/3/40/011/26/002153,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/011/27/025165,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,025165,Ionospheric correction from model on specific band,,,,Operational
+bufr4/3/40/011/28/025126,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,025126,Model dry tropospheric correction,,,,Operational
+bufr4/3/40/011/29/025128,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,025128,Model wet tropospheric correction,,,,Operational
+bufr4/3/40/011/30/025164,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,025164,Radiometer wet tropospheric correction,,,,Operational
+bufr4/3/40/011/31/010085,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010085,Mean sea-surface height,,,,Operational
+bufr4/3/40/011/32/010086,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010086,Geoid's height,,,,Operational
+bufr4/3/40/011/33/010087,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010087,Ocean depth/land elevation,,,,Operational
+bufr4/3/40/011/34/010092,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010092,Solid Earth tide height,,,,Operational
+bufr4/3/40/011/35/010088,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010088,Total geocentric ocean tide height (solution 1),,,,Operational
+bufr4/3/40/011/36/010089,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010089,Total geocentric ocean tide height (solution 2),,,,Operational
+bufr4/3/40/011/37/010098,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010098,Loading tide height geocentric ocean tide solution 1,,,,Operational
+bufr4/3/40/011/38/010099,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010099,Loading tide height geocentric ocean tide solution 2,,,,Operational
+bufr4/3/40/011/39/010090,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010090,Long period tide height,,,,Operational
+bufr4/3/40/011/40/010100,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010100,Non-equilibrium long period tide height,,,,Operational
+bufr4/3/40/011/41/010093,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010093,Geocentric pole tide height,,,,Operational
+bufr4/3/40/011/42/025127,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,025127,Inverted barometer correction,,,,Operational
+bufr4/3/40/011/43/040014,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,040014,High-frequency fluctuations of the sea-surface topography correction,,,,Operational
+bufr4/3/40/011/44/010102,40,Additional satellite report sequences,340011,Specific band net instrument correction for significant wave height,,010102,Sea-surface height anomaly,,,,Operational
+bufr4/3/40/012/1/001007,40,Additional satellite report sequences,340012,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/012/2/002019,40,Additional satellite report sequences,340012,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/012/3/008091,40,Additional satellite report sequences,340012,Satellite identifier,,008091,Coordinates significance,= 0 Satellite coordinates,,,Operational
+bufr4/3/40/012/4/005001,40,Additional satellite report sequences,340012,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/012/5/006001,40,Additional satellite report sequences,340012,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/012/6/007002,40,Additional satellite report sequences,340012,Satellite identifier,,007002,Height or altitude,,,,Operational
+bufr4/3/40/012/7/005063,40,Additional satellite report sequences,340012,Satellite identifier,,005063,Spacecraft roll,,,,Operational
+bufr4/3/40/012/8/005064,40,Additional satellite report sequences,340012,Satellite identifier,,005064,Spacecraft pitch,,,,Operational
+bufr4/3/40/012/9/005066,40,Additional satellite report sequences,340012,Satellite identifier,,005066,Spacecraft yaw,,,,Operational
+bufr4/3/40/012/10/005041,40,Additional satellite report sequences,340012,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/012/11/005067,40,Additional satellite report sequences,340012,Satellite identifier,,005067,Number of scan lines,,,,Operational
+bufr4/3/40/012/12/301011,40,Additional satellite report sequences,340012,Satellite identifier,,301011,"Year, moth, day",,,,Operational
+bufr4/3/40/012/13/301012,40,Additional satellite report sequences,340012,Satellite identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/40/012/14/004007,40,Additional satellite report sequences,340012,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/012/15/008091,40,Additional satellite report sequences,340012,Satellite identifier,,008091,Coordinates significance,= 1 Observation coordinates,,,Operational
+bufr4/3/40/012/16/005001,40,Additional satellite report sequences,340012,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/012/17/006001,40,Additional satellite report sequences,340012,Satellite identifier,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/012/18/107000,40,Additional satellite report sequences,340012,Satellite identifier,,107000,Delayed replication of 7 descriptors,,,,Operational
+bufr4/3/40/012/19/031001,40,Additional satellite report sequences,340012,Satellite identifier,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/40/012/20/005042,40,Additional satellite report sequences,340012,Satellite identifier,,005042,Channel number,,,,Operational
+bufr4/3/40/012/21/002153,40,Additional satellite report sequences,340012,Satellite identifier,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/012/22/002104,40,Additional satellite report sequences,340012,Satellite identifier,,002104,Antenna polarization,,,,Operational
+bufr4/3/40/012/23/040028,40,Additional satellite report sequences,340012,Satellite identifier,,040028,GMI quality flag,,,,Operational
+bufr4/3/40/012/24/007024,40,Additional satellite report sequences,340012,Satellite identifier,,007024,Satellite zenith angle,,,,Operational
+bufr4/3/40/012/25/040027,40,Additional satellite report sequences,340012,Satellite identifier,,040027,Sun glint angle,,,,Operational
+bufr4/3/40/012/26/012063,40,Additional satellite report sequences,340012,Satellite identifier,,012063,Brightness temperature (Atmospheric Laser Doppler Instrument (ALADIN) L2b data),,,,Operational
+bufr4/3/40/013/1/001007,40,Additional satellite report sequences,340013,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/013/2/002019,40,Additional satellite report sequences,340013,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/013/3/001033,40,Additional satellite report sequences,340013,Satellite identifier,,001033,Identification of originating/generating centre,,,,Operational
+bufr4/3/40/013/4/001034,40,Additional satellite report sequences,340013,Satellite identifier,,001034,Identification of originating/generating sub-centre,,,,Operational
+bufr4/3/40/013/5/004001,40,Additional satellite report sequences,340013,Satellite identifier,,004001,Year,,,,Operational
+bufr4/3/40/013/6/004002,40,Additional satellite report sequences,340013,Satellite identifier,,004002,Month,,,,Operational
+bufr4/3/40/013/7/004003,40,Additional satellite report sequences,340013,Satellite identifier,,004003,Day,,,,Operational
+bufr4/3/40/013/8/004004,40,Additional satellite report sequences,340013,Satellite identifier,,004004,Hour,,,,Operational
+bufr4/3/40/013/9/004005,40,Additional satellite report sequences,340013,Satellite identifier,,004005,Minute,,,,Operational
+bufr4/3/40/013/10/004007,40,Additional satellite report sequences,340013,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/013/11/005068,40,Additional satellite report sequences,340013,Satellite identifier,,005068,Profile number,,,,Operational
+bufr4/3/40/013/12/005070,40,Additional satellite report sequences,340013,Satellite identifier,,005070,Observation identifier,,,,Operational
+bufr4/3/40/013/13/005069,40,Additional satellite report sequences,340013,Satellite identifier,,005069,Receiver channel,,,,Operational
+bufr4/3/40/013/14/040036,40,Additional satellite report sequences,340013,Satellite identifier,,040036,Lidar L2b classification type,,,,Operational
+bufr4/3/40/013/15/008091,40,Additional satellite report sequences,340013,Satellite identifier,,008091,Coordinates significance,= 2 Start of observation,,,Operational
+bufr4/3/40/013/16/005001,40,Additional satellite report sequences,340013,Satellite identifier,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/013/17/006001,40,Additional satellite report sequences,340013,Satellite identifier,,006001,Longitude (high accuracy) I.2 – BUFR Table D/40 — 13,,,,Operational
+bufr4/3/40/013/1/004016,40,Additional satellite report sequences,340013,Time increment,,004016,Time increment,,,,Operational
+bufr4/3/40/013/2/008091,40,Additional satellite report sequences,340013,Time increment,,008091,Coordinates significance,= 3 End of observation,,,Operational
+bufr4/3/40/013/3/005001,40,Additional satellite report sequences,340013,Time increment,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/013/4/006001,40,Additional satellite report sequences,340013,Time increment,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/013/5/004016,40,Additional satellite report sequences,340013,Time increment,,004016,Time increment,,,,Operational
+bufr4/3/40/013/6/008091,40,Additional satellite report sequences,340013,Time increment,,008091,Coordinates significance,= 4 Horizontal centre of gravity of observation,,,Operational
+bufr4/3/40/013/7/005001,40,Additional satellite report sequences,340013,Time increment,,005001,Latitude (high accuracy),,,,Operational
+bufr4/3/40/013/8/006001,40,Additional satellite report sequences,340013,Time increment,,006001,Longitude (high accuracy),,,,Operational
+bufr4/3/40/013/9/004016,40,Additional satellite report sequences,340013,Time increment,,004016,Time increment,,,,Operational
+bufr4/3/40/013/10/008091,40,Additional satellite report sequences,340013,Time increment,,008091,Coordinates significance,= 6 Top of observation,,,Operational
+bufr4/3/40/013/11/007071,40,Additional satellite report sequences,340013,Time increment,,007071,Height (high resolution),,,,Operational
+bufr4/3/40/013/12/005021,40,Additional satellite report sequences,340013,Time increment,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/013/13/007021,40,Additional satellite report sequences,340013,Time increment,,007021,Elevation,,,,Operational
+bufr4/3/40/013/14/040035,40,Additional satellite report sequences,340013,Time increment,,040035,Satellite range,,,,Operational
+bufr4/3/40/013/15/008091,40,Additional satellite report sequences,340013,Time increment,,008091,Coordinates significance,= 7 Bottom of observation,,,Operational
+bufr4/3/40/013/16/007071,40,Additional satellite report sequences,340013,Time increment,,007071,Height (high resolution),,,,Operational
+bufr4/3/40/013/17/005021,40,Additional satellite report sequences,340013,Time increment,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/013/18/007021,40,Additional satellite report sequences,340013,Time increment,,007021,Elevation,,,,Operational
+bufr4/3/40/013/19/040035,40,Additional satellite report sequences,340013,Time increment,,040035,Satellite range,,,,Operational
+bufr4/3/40/013/20/008091,40,Additional satellite report sequences,340013,Time increment,,008091,Coordinates significance,= 5 Vertical centre of gravity of observation,,,Operational
+bufr4/3/40/013/21/007071,40,Additional satellite report sequences,340013,Time increment,,007071,Height (high resolution),,,,Operational
+bufr4/3/40/013/22/005021,40,Additional satellite report sequences,340013,Time increment,,005021,Bearing or azimuth,,,,Operational
+bufr4/3/40/013/23/007021,40,Additional satellite report sequences,340013,Time increment,,007021,Elevation,,,,Operational
+bufr4/3/40/013/24/040035,40,Additional satellite report sequences,340013,Time increment,,040035,Satellite range,,,,Operational
+bufr4/3/40/013/25/040029,40,Additional satellite report sequences,340013,Time increment,,040029,Horizontal observation integration length,,,,Operational
+bufr4/3/40/013/26/040030,40,Additional satellite report sequences,340013,Time increment,,040030,Horizontal line of sight wind,,,,Operational
+bufr4/3/40/013/27/040031,40,Additional satellite report sequences,340013,Time increment,,040031,Error estimate of horizontal line of sight wind,,,,Operational
+bufr4/3/40/013/28/025187,40,Additional satellite report sequences,340013,Time increment,,025187,Confidence flag,,,,Operational
+bufr4/3/40/013/29/010004,40,Additional satellite report sequences,340013,Time increment,,010004,Pressure,,,,Operational
+bufr4/3/40/013/30/012001,40,Additional satellite report sequences,340013,Time increment,,012001,Temperature/air temperature,,,,Operational
+bufr4/3/40/013/31/040037,40,Additional satellite report sequences,340013,Time increment,,040037,Backscatter ratio,,,,Operational
+bufr4/3/40/013/32/040032,40,Additional satellite report sequences,340013,Time increment,,040032,Derivative wind to pressure,,,,Operational
+bufr4/3/40/013/33/040033,40,Additional satellite report sequences,340013,Time increment,,040033,Derivative wind to temperature,,,,Operational
+bufr4/3/40/013/34/040034,40,Additional satellite report sequences,340013,Time increment,,040034,Derivative wind to backscatter ratio (Global Precipitation Measurement (GPM) precipitation data),,,,Operational
+bufr4/3/40/015/1/001007,40,Additional satellite report sequences,340015,Satellite identifier,,001007,Satellite identifier,,,,Operational
+bufr4/3/40/015/2/002019,40,Additional satellite report sequences,340015,Satellite identifier,,002019,Satellite instruments,,,,Operational
+bufr4/3/40/015/3/301011,40,Additional satellite report sequences,340015,Satellite identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/40/015/4/301012,40,Additional satellite report sequences,340015,Satellite identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/40/015/5/004007,40,Additional satellite report sequences,340015,Satellite identifier,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/015/6/201133,40,Additional satellite report sequences,340015,Satellite identifier,,201133,Change data width,Increase bit width,,,Operational
+bufr4/3/40/015/7/005041,40,Additional satellite report sequences,340015,Satellite identifier,,005041,Scan line number,,,,Operational
+bufr4/3/40/015/1/201000,40,Additional satellite report sequences,340015,Change data width,,201000,Change data width,Cancel increase bit width,,,Operational
+bufr4/3/40/015/2/201130,40,Additional satellite report sequences,340015,Change data width,,201130,Change data width,Increase bit width,,,Operational
+bufr4/3/40/015/3/005043,40,Additional satellite report sequences,340015,Change data width,,005043,Field of view number,,,,Operational
+bufr4/3/40/015/4/201000,40,Additional satellite report sequences,340015,Change data width,,201000,Change data width,Cancel increase bit width,,,Operational
+bufr4/3/40/015/5/207001,40,Additional satellite report sequences,340015,Change data width,,207001,"Increase scale, reference value and data width",,,,Operational
+bufr4/3/40/015/6/005002,40,Additional satellite report sequences,340015,Change data width,,005002,Latitude (coarse accuracy),,,,Operational
+bufr4/3/40/015/7/006002,40,Additional satellite report sequences,340015,Change data width,,006002,Longitude (coarse accuracy),,,,Operational
+bufr4/3/40/015/8/207000,40,Additional satellite report sequences,340015,Change data width,,207000,"Increase scale, reference value and data width",Cancel,,,Operational
+bufr4/3/40/015/9/040027,40,Additional satellite report sequences,340015,Change data width,,040027,Sun glint angle,,,,Operational
+bufr4/3/40/015/10/013040,40,Additional satellite report sequences,340015,Change data width,,013040,Surface flag,,,,Operational
+bufr4/3/40/015/11/021120,40,Additional satellite report sequences,340015,Change data width,,021120,Probability of rain,,,,Operational
+bufr4/3/40/015/12/207003,40,Additional satellite report sequences,340015,Change data width,,207003,"Increase scale, reference value and data width",,,,Operational
+bufr4/3/40/015/13/102003,40,Additional satellite report sequences,340015,Change data width,,102003,Replicate 2 descriptors 3 times,,,,Operational
+bufr4/3/40/015/14/002186,40,Additional satellite report sequences,340015,Change data width,,002186,"Capability to detect precipitation phenomena Set bit 1 = unknown/unspecified (total precipitation) in the first replication, Set bit 6 = solid precipitation in the second replication, Set bit 24 = convective precipitation in the third replication",/see left column,,,Operational
+bufr4/3/40/015/15/013155,40,Additional satellite report sequences,340015,Change data width,,013155,Intensity of precipitation (high accuracy),,,,Operational
+bufr4/3/40/015/16/207000,40,Additional satellite report sequences,340015,Change data width,,207000,"Increase scale, reference value and data width",Cancel,,,Operational
+bufr4/3/40/015/17/033003,40,Additional satellite report sequences,340015,Change data width,,033003,"Quality information (Principal component scores, channel selection and enhanced data collected on board a geostationary platform)",,,,Operational
+bufr4/3/40/016/1/301129,40,Additional satellite report sequences,340016,Observing satellite and instruments,,301129,Observing satellite and instruments,,,,Operational
+bufr4/3/40/016/2/301130,40,Additional satellite report sequences,340016,Observing satellite and instruments,,301130,High precision timestamp,,,,Operational
+bufr4/3/40/016/3/301131,40,Additional satellite report sequences,340016,Observing satellite and instruments,,301131,Pixel geolocation,,,,Operational
+bufr4/3/40/016/4/202134,40,Additional satellite report sequences,340016,Observing satellite and instruments,,202134,Change scale,Add 6 to scale,,,Operational
+bufr4/3/40/016/5/007001,40,Additional satellite report sequences,340016,Observing satellite and instruments,,007001,Height of station,,,,Operational
+bufr4/3/40/016/6/202000,40,Additional satellite report sequences,340016,Observing satellite and instruments,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/016/7/101000,40,Additional satellite report sequences,340016,Observing satellite and instruments,,101000,Delayed replicator of 1 descriptor,,,,Operational
+bufr4/3/40/016/8/031002,40,Additional satellite report sequences,340016,Observing satellite and instruments,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/40/016/9/340002,40,Additional satellite report sequences,340016,Observing satellite and instruments,,340002,Band description,,,,Operational
+bufr4/3/40/016/10/101000,40,Additional satellite report sequences,340016,Observing satellite and instruments,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/40/016/11/031002,40,Additional satellite report sequences,340016,Observing satellite and instruments,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/40/016/12/304039,40,Additional satellite report sequences,340016,Observing satellite and instruments,,304039,Radiance in channel,,,,Operational
+bufr4/3/40/016/13/101000,40,Additional satellite report sequences,340016,Observing satellite and instruments,,101000,Delayed replicator of 1 descriptor,,,,Operational
+bufr4/3/40/016/14/031002,40,Additional satellite report sequences,340016,Observing satellite and instruments,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/40/016/15/304040,40,Additional satellite report sequences,340016,Observing satellite and instruments,,304040,Principal component score in band (Sentinel-3 (S3) Level 2 Water Product),,,,Operational
+bufr4/3/40/017/1/001007,40,Additional satellite report sequences,340017,Satellite identifier,,001007,Satellite identifier,= 61 Sentinel 3A or = 65 Sentinel 3B,,,Operational
+bufr4/3/40/017/2/002019,40,Additional satellite report sequences,340017,Satellite identifier,,002019,Satellite instruments,178 (SRAL),,,Operational
+bufr4/3/40/017/3/005044,40,Additional satellite report sequences,340017,Satellite identifier,,005044,Satellite cycle number,,,,Operational
+bufr4/3/40/017/4/001096,40,Additional satellite report sequences,340017,Satellite identifier,,001096,Station acquisition I.2 – BUFR Table D/40 — 15,,,,Operational
+bufr4/3/40/017/1/005040,40,Additional satellite report sequences,340017,Orbit number,,005040,Orbit number,,,,Operational
+bufr4/3/40/017/2/001040,40,Additional satellite report sequences,340017,Orbit number,,001040,Processing centre ID code,,,,Operational
+bufr4/3/40/017/3/025061,40,Additional satellite report sequences,340017,Orbit number,,025061,Software identification and version number,,,,Operational
+bufr4/3/40/017/4/025182,40,Additional satellite report sequences,340017,Orbit number,,025182,L1 processing flag,,,,Operational
+bufr4/3/40/017/5/025183,40,Additional satellite report sequences,340017,Orbit number,,025183,L1 processing quality,,,,Operational
+bufr4/3/40/017/6/025181,40,Additional satellite report sequences,340017,Orbit number,,025181,L2 processing flag,,,,Operational
+bufr4/3/40/017/7/025184,40,Additional satellite report sequences,340017,Orbit number,,025184,L2 product status,,,,Operational
+bufr4/3/40/017/8/301011,40,Additional satellite report sequences,340017,Orbit number,,301011,"Year, month, day",,,,Operational
+bufr4/3/40/017/9/301013,40,Additional satellite report sequences,340017,Orbit number,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/40/017/10/004007,40,Additional satellite report sequences,340017,Orbit number,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/017/11/301021,40,Additional satellite report sequences,340017,Orbit number,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/40/017/12/005063,40,Additional satellite report sequences,340017,Orbit number,,005063,Spacecraft roll,,,,Operational
+bufr4/3/40/017/13/005064,40,Additional satellite report sequences,340017,Orbit number,,005064,Spacecraft pitch,,,,Operational
+bufr4/3/40/017/14/005066,40,Additional satellite report sequences,340017,Orbit number,,005066,Spacecraft yaw,,,,Operational
+bufr4/3/40/017/15/010081,40,Additional satellite report sequences,340017,Orbit number,,010081,Altitude of COG above reference ellipsoid,,,,Operational
+bufr4/3/40/017/16/010082,40,Additional satellite report sequences,340017,Orbit number,,010082,Instantaneous altitude rate,,,,Operational
+bufr4/3/40/017/17/008075,40,Additional satellite report sequences,340017,Orbit number,,008075,Ascending/descending orbit qualifier,,,,Operational
+bufr4/3/40/017/18/025090,40,Additional satellite report sequences,340017,Orbit number,,025090,Orbit state flag,,,,Operational
+bufr4/3/40/017/19/008029,40,Additional satellite report sequences,340017,Orbit number,,008029,Surface type,,,,Operational
+bufr4/3/40/017/20/201137,40,Additional satellite report sequences,340017,Orbit number,,201137,Change data width,Increase data width by 9 bits,,,Operational
+bufr4/3/40/017/21/202129,40,Additional satellite report sequences,340017,Orbit number,,202129,Change scale,Add 1 to scale,,,Operational
+bufr4/3/40/017/22/006021,40,Additional satellite report sequences,340017,Orbit number,,006021,Distance,,,,Operational
+bufr4/3/40/017/23/202000,40,Additional satellite report sequences,340017,Orbit number,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/017/24/201000,40,Additional satellite report sequences,340017,Orbit number,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/017/25/010087,40,Additional satellite report sequences,340017,Orbit number,,010087,Ocean depth/land elevation,,,,Operational
+bufr4/3/40/017/26/025096,40,Additional satellite report sequences,340017,Orbit number,,025096,Radiometer state flag,,,,Operational
+bufr4/3/40/017/27/040012,40,Additional satellite report sequences,340017,Orbit number,,040012,Radiometer data quality flag,,,,Operational
+bufr4/3/40/017/28/008077,40,Additional satellite report sequences,340017,Orbit number,,008077,Radiometer sensed surface type,,,,Operational
+bufr4/3/40/017/29/104002,40,Additional satellite report sequences,340017,Orbit number,,104002,Replicate 4 descriptors 2 times,,,,Operational
+bufr4/3/40/017/30/002153,40,Additional satellite report sequences,340017,Orbit number,,002153,Satellite channel centre frequency,,,,Operational
+bufr4/3/40/017/31/012063,40,Additional satellite report sequences,340017,Orbit number,,012063,Brightness temperature,,,,Operational
+bufr4/3/40/017/32/012065,40,Additional satellite report sequences,340017,Orbit number,,012065,Standard deviation brightness temperature,,,,Operational
+bufr4/3/40/017/33/040013,40,Additional satellite report sequences,340017,Orbit number,,040013,Radiometer brightness temperature interpretation flag,,,,Operational
+bufr4/3/40/017/34/007002,40,Additional satellite report sequences,340017,Orbit number,,007002,Height or altitude,,,,Operational
+bufr4/3/40/017/35/011098,40,Additional satellite report sequences,340017,Orbit number,,011098,Wind speed from radiometer,,,,Operational
+bufr4/3/40/017/36/013090,40,Additional satellite report sequences,340017,Orbit number,,013090,Radiometer water vapour content,,,,Operational
+bufr4/3/40/017/37/013091,40,Additional satellite report sequences,340017,Orbit number,,013091,Radiometer liquid content,,,,Operational
+bufr4/3/40/017/38/025164,40,Additional satellite report sequences,340017,Orbit number,,025164,Radiometer wet tropospheric correction,,,,Operational
+bufr4/3/40/017/39/025095,40,Additional satellite report sequences,340017,Orbit number,,025095,Altimeter state flag,,,,Operational
+bufr4/3/40/017/40/040023,40,Additional satellite report sequences,340017,Orbit number,,040023,Auxiliary altimeter state flags,,,,Operational
+bufr4/3/40/017/41/025113,40,Additional satellite report sequences,340017,Orbit number,,025113,Band specific altimeter correction quality flag,,,,Operational
+bufr4/3/40/017/42/008074,40,Additional satellite report sequences,340017,Orbit number,,008074,Altimeter echo type,,,,Operational
+bufr4/3/40/017/43/025190,40,Additional satellite report sequences,340017,Orbit number,,025190,Altimeter echo processing mode,,,,Operational
+bufr4/3/40/017/44/021144,40,Additional satellite report sequences,340017,Orbit number,,021144,Altimeter rain flag,,,,Operational
+bufr4/3/40/017/45/025191,40,Additional satellite report sequences,340017,Orbit number,,025191,Altimeter tracking mode,,,,Operational
+bufr4/3/40/017/46/021143,40,Additional satellite report sequences,340017,Orbit number,,021143,Ku band rain attenuation,,,,Operational
+bufr4/3/40/017/1/013055,40,Additional satellite report sequences,340017,Intensity of precipitation,,013055,Intensity of precipitation,,,,Operational
+bufr4/3/40/017/2/021169,40,Additional satellite report sequences,340017,Intensity of precipitation,,021169,Ice presence indicator,,,,Operational
+bufr4/3/40/017/3/010101,40,Additional satellite report sequences,340017,Intensity of precipitation,,010101,Squared off-nadir angle of the satellite from waveform data,,,,Operational
+bufr4/3/40/017/4/015012,40,Additional satellite report sequences,340017,Intensity of precipitation,,015012,Total electron count per square metre,,,,Operational
+bufr4/3/40/017/5/007002,40,Additional satellite report sequences,340017,Intensity of precipitation,,007002,Height or altitude,,,,Operational
+bufr4/3/40/017/6/011097,40,Additional satellite report sequences,340017,Intensity of precipitation,,011097,Wind speed from altimeter,,,,Operational
+bufr4/3/40/017/7/040024,40,Additional satellite report sequences,340017,Intensity of precipitation,,040024,Meteorological map availability,,,,Operational
+bufr4/3/40/017/8/007002,40,Additional satellite report sequences,340017,Intensity of precipitation,,007002,Height or altitude,,,,Operational
+bufr4/3/40/017/9/025126,40,Additional satellite report sequences,340017,Intensity of precipitation,,025126,Model dry tropospheric correction,,,,Operational
+bufr4/3/40/017/10/025128,40,Additional satellite report sequences,340017,Intensity of precipitation,,025128,Model wet tropospheric correction,,,,Operational
+bufr4/3/40/017/11/040011,40,Additional satellite report sequences,340017,Intensity of precipitation,,040011,Interpolation flag,,,,Operational
+bufr4/3/40/017/12/007002,40,Additional satellite report sequences,340017,Intensity of precipitation,,007002,Height or altitude,,,,Operational
+bufr4/3/40/017/13/011095,40,Additional satellite report sequences,340017,Intensity of precipitation,,011095,u-component of the model wind vector,,,,Operational
+bufr4/3/40/017/14/011096,40,Additional satellite report sequences,340017,Intensity of precipitation,,011096,v-component of the model wind vector,,,,Operational
+bufr4/3/40/017/15/010088,40,Additional satellite report sequences,340017,Intensity of precipitation,,010088,Total geocentric ocean tide height (solution 1),,,,Operational
+bufr4/3/40/017/16/010089,40,Additional satellite report sequences,340017,Intensity of precipitation,,010089,Total geocentric ocean tide height (solution 2),,,,Operational
+bufr4/3/40/017/17/010090,40,Additional satellite report sequences,340017,Intensity of precipitation,,010090,Long period tide height,,,,Operational
+bufr4/3/40/017/18/010092,40,Additional satellite report sequences,340017,Intensity of precipitation,,010092,Solid Earth tide height,,,,Operational
+bufr4/3/40/017/19/010093,40,Additional satellite report sequences,340017,Intensity of precipitation,,010093,Geocentric pole tide height,,,,Operational
+bufr4/3/40/017/20/010098,40,Additional satellite report sequences,340017,Intensity of precipitation,,010098,Loading tide height geocentric ocean tide solution 1,,,,Operational
+bufr4/3/40/017/21/010099,40,Additional satellite report sequences,340017,Intensity of precipitation,,010099,Loading tide height geocentric ocean tide solution 2,,,,Operational
+bufr4/3/40/017/22/010100,40,Additional satellite report sequences,340017,Intensity of precipitation,,010100,Non-equilibrium long period tide height,,,,Operational
+bufr4/3/40/017/23/025127,40,Additional satellite report sequences,340017,Intensity of precipitation,,025127,Inverted barometer correction,,,,Operational
+bufr4/3/40/017/24/040014,40,Additional satellite report sequences,340017,Intensity of precipitation,,040014,High-frequency fluctuations of the sea-surface topography correction,,,,Operational
+bufr4/3/40/017/25/010085,40,Additional satellite report sequences,340017,Intensity of precipitation,,010085,Mean sea-surface height,,,,Operational
+bufr4/3/40/017/26/010086,40,Additional satellite report sequences,340017,Intensity of precipitation,,010086,Geoid's height,,,,Operational
+bufr4/3/40/017/27/010096,40,Additional satellite report sequences,340017,Intensity of precipitation,,010096,Mean dynamic topography,,,,Operational
+bufr4/3/40/017/28/010103,40,Additional satellite report sequences,340017,Intensity of precipitation,,010103,Mean dynamic topography accuracy,,,,Operational
+bufr4/3/40/017/29/010102,40,Additional satellite report sequences,340017,Intensity of precipitation,,010102,Sea-surface height anomaly,,,,Operational
+bufr4/3/40/017/30/022080,40,Additional satellite report sequences,340017,Intensity of precipitation,,022080,Waveband central frequency,,,,Operational
+bufr4/3/40/017/31/008076,40,Additional satellite report sequences,340017,Intensity of precipitation,,008076,Type of band,,,,Operational
+bufr4/3/40/017/32/022189,40,Additional satellite report sequences,340017,Intensity of precipitation,,022189,Specific band ocean range,,,,Operational
+bufr4/3/40/017/33/022191,40,Additional satellite report sequences,340017,Intensity of precipitation,,022191,RMS of specific band ocean range,,,,Operational
+bufr4/3/40/017/34/022130,40,Additional satellite report sequences,340017,Intensity of precipitation,,022130,Number of valid points for specific band,,,,Operational
+bufr4/3/40/017/35/025165,40,Additional satellite report sequences,340017,Intensity of precipitation,,025165,Ionospheric correction from model on specific band,,,,Operational
+bufr4/3/40/017/36/025166,40,Additional satellite report sequences,340017,Intensity of precipitation,,025166,Sea state bias correction on specific band,,,,Operational
+bufr4/3/40/017/37/025167,40,Additional satellite report sequences,340017,Intensity of precipitation,,025167,Specific band net instrumental correction,,,,Operational
+bufr4/3/40/017/38/021183,40,Additional satellite report sequences,340017,Intensity of precipitation,,021183,Specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/39/021184,40,Additional satellite report sequences,340017,Intensity of precipitation,,021184,STD specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/40/022134,40,Additional satellite report sequences,340017,Intensity of precipitation,,022134,Number of valid points for specific band backscatter,,,,Operational
+bufr4/3/40/017/41/021122,40,Additional satellite report sequences,340017,Intensity of precipitation,,021122,Attenuation correction on sigma-0 (from tB),,,,Operational
+bufr4/3/40/017/42/022190,40,Additional satellite report sequences,340017,Intensity of precipitation,,022190,Specific band significant wave height,,,,Operational
+bufr4/3/40/017/43/022131,40,Additional satellite report sequences,340017,Intensity of precipitation,,022131,RMS specific band significant wave height I.2 – BUFR Table D/40 — 17,,,,Operational
+bufr4/3/40/017/1/022132,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022132,Number of valid points for specific band significant wave height,,,,Operational
+bufr4/3/40/017/2/022133,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022133,Specific band net instrument correction for significant wave height,,,,Operational
+bufr4/3/40/017/3/021186,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021186,Specific band automatic gain control,,,,Operational
+bufr4/3/40/017/4/021187,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021187,RMS specific band automatic gain control,,,,Operational
+bufr4/3/40/017/5/021188,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021188,Number of valid points for specific band automatic gain control,,,,Operational
+bufr4/3/40/017/6/021185,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021185,Specific band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/017/7/025112,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025112,Band specific altimeter data quality flag,,,,Operational
+bufr4/3/40/017/8/025113,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025113,Band specific altimeter correction quality flag,,,,Operational
+bufr4/3/40/017/9/033092,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,033092,Band specific ocean quality flag,,,,Operational
+bufr4/3/40/017/10/008076,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,008076,Type of band,,,,Operational
+bufr4/3/40/017/11/022189,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022189,Specific band ocean range,,,,Operational
+bufr4/3/40/017/12/022191,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022191,RMS of specific band ocean range,,,,Operational
+bufr4/3/40/017/13/022130,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022130,Number of valid points for specific band,,,,Operational
+bufr4/3/40/017/14/025165,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025165,Ionospheric correction from model on specific band,,,,Operational
+bufr4/3/40/017/15/025166,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025166,Sea state bias correction on specific band,,,,Operational
+bufr4/3/40/017/16/025167,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025167,Specific band net instrumental correction,,,,Operational
+bufr4/3/40/017/17/021183,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021183,Specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/18/021184,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021184,STD specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/19/022134,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022134,Number of valid points for specific band backscatter,,,,Operational
+bufr4/3/40/017/20/021122,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021122,Attenuation correction on sigma-0 (from tB),,,,Operational
+bufr4/3/40/017/21/022190,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022190,Specific band significant wave height,,,,Operational
+bufr4/3/40/017/22/022131,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022131,RMS specific band significant wave height,,,,Operational
+bufr4/3/40/017/23/022132,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022132,Number of valid points for specific band significant wave height,,,,Operational
+bufr4/3/40/017/24/022133,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,022133,Specific band net instrument correction for significant wave height,,,,Operational
+bufr4/3/40/017/25/021186,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021186,Specific band automatic gain control,,,,Operational
+bufr4/3/40/017/26/021187,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021187,RMS specific band automatic gain control,,,,Operational
+bufr4/3/40/017/27/021188,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021188,Number of valid points for specific band automatic gain control,,,,Operational
+bufr4/3/40/017/28/021185,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021185,Specific band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/017/29/025112,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025112,Band specific altimeter data quality flag,,,,Operational
+bufr4/3/40/017/30/025113,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025113,Band specific altimeter correction quality flag,,,,Operational
+bufr4/3/40/017/31/033092,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,033092,Band specific ocean quality flag,,,,Operational
+bufr4/3/40/017/32/025190,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025190,Altimeter echo processing mode,,,,Operational
+bufr4/3/40/017/33/011097,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,011097,Wind speed from altimeter,,,,Operational
+bufr4/3/40/017/34/013090,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,013090,Radiometer water vapour content,,,,Operational
+bufr4/3/40/017/35/013091,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,013091,Radiometer liquid content,,,,Operational
+bufr4/3/40/017/36/021143,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021143,Ku band rain attenuation,,,,Operational
+bufr4/3/40/017/37/021184,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,021184,STD specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/38/025128,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025128,Model wet tropospheric correction,,,,Operational
+bufr4/3/40/017/39/025163,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025163,Altimeter ionospheric correction on Ku band,,,,Operational
+bufr4/3/40/017/40/025164,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,025164,Radiometer wet tropospheric correction,,,,Operational
+bufr4/3/40/017/41/010102,40,Additional satellite report sequences,340017,Number of valid points for specific band significant wave height,,010102,Sea-surface height anomaly,,,,Operational
+bufr4/3/40/017/1/022189,40,Additional satellite report sequences,340017,Specific band ocean range,,022189,Specific band ocean range,,,,Operational
+bufr4/3/40/017/2/022191,40,Additional satellite report sequences,340017,Specific band ocean range,,022191,RMS of specific band ocean range,,,,Operational
+bufr4/3/40/017/3/022130,40,Additional satellite report sequences,340017,Specific band ocean range,,022130,Number of valid points for specific band,,,,Operational
+bufr4/3/40/017/4/025166,40,Additional satellite report sequences,340017,Specific band ocean range,,025166,Sea state bias correction on specific band,,,,Operational
+bufr4/3/40/017/5/021183,40,Additional satellite report sequences,340017,Specific band ocean range,,021183,Specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/6/021184,40,Additional satellite report sequences,340017,Specific band ocean range,,021184,STD specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/7/022134,40,Additional satellite report sequences,340017,Specific band ocean range,,022134,Number of valid points for specific band backscatter,,,,Operational
+bufr4/3/40/017/8/022190,40,Additional satellite report sequences,340017,Specific band ocean range,,022190,Specific band significant wave height,,,,Operational
+bufr4/3/40/017/9/022131,40,Additional satellite report sequences,340017,Specific band ocean range,,022131,RMS specific band significant wave height,,,,Operational
+bufr4/3/40/017/10/022132,40,Additional satellite report sequences,340017,Specific band ocean range,,022132,Number of valid points for specific band significant wave height,,,,Operational
+bufr4/3/40/017/11/025112,40,Additional satellite report sequences,340017,Specific band ocean range,,025112,Band specific altimeter data quality flag,,,,Operational
+bufr4/3/40/017/12/025113,40,Additional satellite report sequences,340017,Specific band ocean range,,025113,Band specific altimeter correction quality flag,,,,Operational
+bufr4/3/40/017/13/033092,40,Additional satellite report sequences,340017,Specific band ocean range,,033092,Band specific ocean quality flag,,,,Operational
+bufr4/3/40/017/14/008049,40,Additional satellite report sequences,340017,Specific band ocean range,,008049,Number of observations,,,,Operational
+bufr4/3/40/017/15/022080,40,Additional satellite report sequences,340017,Specific band ocean range,,022080,Waveband central frequency,,,,Operational
+bufr4/3/40/017/16/134021,40,Additional satellite report sequences,340017,Specific band ocean range,,134021,Replicate 34 descriptors 21 times,,,,Operational
+bufr4/3/40/017/17/301011,40,Additional satellite report sequences,340017,Specific band ocean range,,301011,"Year, month, day",,,,Operational
+bufr4/3/40/017/18/301013,40,Additional satellite report sequences,340017,Specific band ocean range,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/40/017/19/004007,40,Additional satellite report sequences,340017,Specific band ocean range,,004007,Seconds within a minute (microsecond accuracy),,,,Operational
+bufr4/3/40/017/20/301021,40,Additional satellite report sequences,340017,Specific band ocean range,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/40/017/21/010081,40,Additional satellite report sequences,340017,Specific band ocean range,,010081,Altitude of COG above reference ellipsoid,,,,Operational
+bufr4/3/40/017/22/010082,40,Additional satellite report sequences,340017,Specific band ocean range,,010082,Instantaneous altitude rate,,,,Operational
+bufr4/3/40/017/23/008029,40,Additional satellite report sequences,340017,Specific band ocean range,,008029,Surface type,,,,Operational
+bufr4/3/40/017/24/201137,40,Additional satellite report sequences,340017,Specific band ocean range,,201137,Change data width,Add 9 bits to data width,,,Operational
+bufr4/3/40/017/25/202129,40,Additional satellite report sequences,340017,Specific band ocean range,,202129,Change scale,Add 1 to scale,,,Operational
+bufr4/3/40/017/26/006021,40,Additional satellite report sequences,340017,Specific band ocean range,,006021,Distance,,,,Operational
+bufr4/3/40/017/27/202000,40,Additional satellite report sequences,340017,Specific band ocean range,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/017/28/201000,40,Additional satellite report sequences,340017,Specific band ocean range,,201000,Change data width,Cancel,,,Operational
+bufr4/3/40/017/29/025191,40,Additional satellite report sequences,340017,Specific band ocean range,,025191,Altimeter tracking mode,,,,Operational
+bufr4/3/40/017/30/021071,40,Additional satellite report sequences,340017,Specific band ocean range,,021071,Peakiness,,,,Operational
+bufr4/3/40/017/31/010085,40,Additional satellite report sequences,340017,Specific band ocean range,,010085,Mean sea-surface height,,,,Operational
+bufr4/3/40/017/32/040011,40,Additional satellite report sequences,340017,Specific band ocean range,,040011,Interpolation flag,,,,Operational
+bufr4/3/40/017/33/010102,40,Additional satellite report sequences,340017,Specific band ocean range,,010102,Sea-surface height anomaly,,,,Operational
+bufr4/3/40/017/34/022189,40,Additional satellite report sequences,340017,Specific band ocean range,,022189,Specific band ocean range,,,,Operational
+bufr4/3/40/017/35/022146,40,Additional satellite report sequences,340017,Specific band ocean range,,022146,OCOG range,,,,Operational
+bufr4/3/40/017/36/025165,40,Additional satellite report sequences,340017,Specific band ocean range,,025165,Ionospheric correction from model on specific band,,,,Operational
+bufr4/3/40/017/37/025167,40,Additional satellite report sequences,340017,Specific band ocean range,,025167,Specific band net instrumental correction,,,,Operational
+bufr4/3/40/017/38/021183,40,Additional satellite report sequences,340017,Specific band ocean range,,021183,Specific band corrected ocean backscatter coefficient,,,,Operational
+bufr4/3/40/017/39/022190,40,Additional satellite report sequences,340017,Specific band ocean range,,022190,Specific band significant wave height,,,,Operational
+bufr4/3/40/017/40/022133,40,Additional satellite report sequences,340017,Specific band ocean range,,022133,Specific band net instrument correction for significant wave height,,,,Operational
+bufr4/3/40/017/41/021177,40,Additional satellite report sequences,340017,Specific band ocean range,,021177,Corrected OCOG backscatter coefficient,,,,Operational
+bufr4/3/40/017/42/021185,40,Additional satellite report sequences,340017,Specific band ocean range,,021185,Specific band net instrumental correction for AGC,,,,Operational
+bufr4/3/40/017/43/013164,40,Additional satellite report sequences,340017,Specific band ocean range,,013164,Sea-ice freeboard I.2 – BUFR Table D/40 — 19,,,,Operational
+bufr4/3/40/017/1/202126,40,Additional satellite report sequences,340017,Change scale,,202126,Change scale,Subtract 2 bits from scale,,,Operational
+bufr4/3/40/017/2/022046,40,Additional satellite report sequences,340017,Change scale,,022046,Sea-ice fraction,,,,Operational
+bufr4/3/40/017/3/202000,40,Additional satellite report sequences,340017,Change scale,,202000,Change scale,Cancel,,,Operational
+bufr4/3/40/017/4/013117,40,Additional satellite report sequences,340017,Change scale,,013117,Snow density (liquid water content),,,,Operational
+bufr4/3/40/017/5/013013,40,Additional satellite report sequences,340017,Change scale,,013013,Total snow depth,,,,Operational
+bufr4/3/40/017/6/025112,40,Additional satellite report sequences,340017,Change scale,,025112,Band specific altimeter data quality flag,,,,Operational
+bufr4/3/40/017/7/033092,40,Additional satellite report sequences,340017,Change scale,,033092,Band specific ocean quality flag,,,,Operational

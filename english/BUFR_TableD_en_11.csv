@@ -1,0 +1,219 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/11/001/1/301051,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,301051,"Flight number, navigational system, date/time, location, phase of flight",ASDAR,,,Operational
+bufr4/3/11/001/2/007002,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,007002,Height or altitude,,,,Operational
+bufr4/3/11/001/3/012001,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,012001,Temperature/air temperature,,,,Operational
+bufr4/3/11/001/4/011001,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,011001,Wind direction,,,,Operational
+bufr4/3/11/001/5/011002,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,011002,Wind speed,,,,Operational
+bufr4/3/11/001/6/011031,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,011031,Degree of turbulence,,,,Operational
+bufr4/3/11/001/7/011032,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,011032,Height of base of turbulence,,,,Operational
+bufr4/3/11/001/8/011033,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,011033,Height of top of turbulence,,,,Operational
+bufr4/3/11/001/9/020041,11,Single level report sequences (conventional data),311001,"Flight number, navigational system, date/time, location, phase of flight",,020041,Airframe icing (ACARS reports),,,,Operational
+bufr4/3/11/002/1/301065,11,Single level report sequences (conventional data),311002,ACARS identification,,301065,ACARS identification,,,,Operational
+bufr4/3/11/002/2/301066,11,Single level report sequences (conventional data),311002,ACARS identification,,301066,ACARS location,,,,Operational
+bufr4/3/11/002/3/311003,11,Single level report sequences (conventional data),311002,ACARS identification,,311003,ACARS standard reported variables,,,,Operational
+bufr4/3/11/002/4/311004,11,Single level report sequences (conventional data),311002,ACARS identification,,311004,ACARS supplementary reported variables (ACARS standard reported variables),,,,Operational
+bufr4/3/11/003/1/010070,11,Single level report sequences (conventional data),311003,Indicated aircraft altitude,,010070,Indicated aircraft altitude,,,,Operational
+bufr4/3/11/003/2/011001,11,Single level report sequences (conventional data),311003,Indicated aircraft altitude,,011001,Wind direction,,,,Operational
+bufr4/3/11/003/3/011002,11,Single level report sequences (conventional data),311003,Indicated aircraft altitude,,011002,Wind speed,,,,Operational
+bufr4/3/11/003/4/012001,11,Single level report sequences (conventional data),311003,Indicated aircraft altitude,,012001,Temperature/air temperature,,,,Operational
+bufr4/3/11/003/5/013002,11,Single level report sequences (conventional data),311003,Indicated aircraft altitude,,013002,Mixing ratio (ACARS supplementary reported variables),,,,Operational
+bufr4/3/11/004/1/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/2/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/3/011034,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,011034,Vertical gust velocity,,,,Operational
+bufr4/3/11/004/4/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/5/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/6/011035,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,011035,Vertical gust acceleration,,,,Operational
+bufr4/3/11/004/7/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/8/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/9/011075,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,011075,Mean turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/004/10/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/11/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/12/011076,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,011076,Peak turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/004/13/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/14/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/15/033025,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,033025,ACARS interpolated values indicator,,,,Operational
+bufr4/3/11/004/16/101000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/004/17/031000,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/004/18/033026,11,Single level report sequences (conventional data),311004,Delayed replication of 1 descriptor,,033026,Moisture quality (Standard AMDAR reports),,,,Operational
+bufr4/3/11/005/1/001008,11,Single level report sequences (conventional data),311005,Aircraft registration number or other identification,,001008,Aircraft registration number or other identification,,,,Operational
+bufr4/3/11/005/2/001023,11,Single level report sequences (conventional data),311005,Aircraft registration number or other identification,,001023,Observation sequence number,,,,Operational
+bufr4/3/11/005/3/301021,11,Single level report sequences (conventional data),311005,Aircraft registration number or other identification,,301021,Latitude/longitude (high accuracy) I.2,(continued) – BUFR Table D/11 — 1,,,Operational
+bufr4/3/11/005/1/301011,11,Single level report sequences (conventional data),311005,"Year, month, day",,301011,"Year, month, day",,,,Operational
+bufr4/3/11/005/2/301013,11,Single level report sequences (conventional data),311005,"Year, month, day",,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/005/3/007010,11,Single level report sequences (conventional data),311005,"Year, month, day",,007010,Flight level,,,,Operational
+bufr4/3/11/005/4/008009,11,Single level report sequences (conventional data),311005,"Year, month, day",,008009,Detailed phase of flight,,,,Operational
+bufr4/3/11/005/5/011001,11,Single level report sequences (conventional data),311005,"Year, month, day",,011001,Wind direction,,,,Operational
+bufr4/3/11/005/6/011002,11,Single level report sequences (conventional data),311005,"Year, month, day",,011002,Wind speed,,,,Operational
+bufr4/3/11/005/7/011031,11,Single level report sequences (conventional data),311005,"Year, month, day",,011031,Degree of turbulence,,,,Operational
+bufr4/3/11/005/8/011036,11,Single level report sequences (conventional data),311005,"Year, month, day",,011036,Maximum derived equivalent vertical gust speed,,,,Operational
+bufr4/3/11/005/9/012101,11,Single level report sequences (conventional data),311005,"Year, month, day",,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/005/10/033025,11,Single level report sequences (conventional data),311005,"Year, month, day",,033025,ACARS interpolated values indicator (AMDAR data or aircraft data for one level without latitude/longitude),,,,Operational
+bufr4/3/11/006/1/007010,11,Single level report sequences (conventional data),311006,Flight level,,007010,Flight level,,,,Operational
+bufr4/3/11/006/2/011001,11,Single level report sequences (conventional data),311006,Flight level,,011001,Wind direction,,,,Operational
+bufr4/3/11/006/3/011002,11,Single level report sequences (conventional data),311006,Flight level,,011002,Wind speed,,,,Operational
+bufr4/3/11/006/4/002064,11,Single level report sequences (conventional data),311006,Flight level,,002064,Aircraft roll angle quality,,,,Operational
+bufr4/3/11/006/5/012101,11,Single level report sequences (conventional data),311006,Flight level,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/006/6/012103,11,Single level report sequences (conventional data),311006,Flight level,,012103,Dewpoint temperature (Aircraft data for one level with latitude/longitude indicated),,,,Operational
+bufr4/3/11/007/1/007010,11,Single level report sequences (conventional data),311007,Flight level,,007010,Flight level,,,,Operational
+bufr4/3/11/007/2/301021,11,Single level report sequences (conventional data),311007,Flight level,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/11/007/3/011001,11,Single level report sequences (conventional data),311007,Flight level,,011001,Wind direction,,,,Operational
+bufr4/3/11/007/4/011002,11,Single level report sequences (conventional data),311007,Flight level,,011002,Wind speed,,,,Operational
+bufr4/3/11/007/5/002064,11,Single level report sequences (conventional data),311007,Flight level,,002064,Aircraft roll angle quality,,,,Operational
+bufr4/3/11/007/6/012101,11,Single level report sequences (conventional data),311007,Flight level,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/007/7/012103,11,Single level report sequences (conventional data),311007,Flight level,,012103,Dewpoint temperature (Aircraft ascent/descent profile without latitude/longitude indicated at each level),,,,Operational
+bufr4/3/11/008/1/001008,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,001008,Aircraft registration number or other identification,,,,Operational
+bufr4/3/11/008/2/301011,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/11/008/3/301013,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/008/4/301021,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/11/008/5/008004,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,008004,Phase of aircraft flight,,,,Operational
+bufr4/3/11/008/6/101000,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/008/7/031001,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/008/8/311006,11,Single level report sequences (conventional data),311008,Aircraft registration number or other identification,,311006,AMDAR data or aircraft data for one level without latitude/longitude (Aircraft ascent/descent profile with latitude/longitude given for each level),,,,Operational
+bufr4/3/11/009/1/001008,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,001008,Aircraft registration number or other identification,,,,Operational
+bufr4/3/11/009/2/301011,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/11/009/3/301013,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/009/4/301021,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/11/009/5/008004,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,008004,Phase of aircraft flight,,,,Operational
+bufr4/3/11/009/6/101000,11,Single level report sequences (conventional data),311009,Aircraft registration number or other identification,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/009/1/031001,11,Single level report sequences (conventional data),311009,Delayed descriptor replication factor,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/009/2/311007,11,Single level report sequences (conventional data),311009,Delayed descriptor replication factor,,311007,"Aircraft data for one level with latitude/longitude indicated (BUFR template for AMDAR, version 7)",,,,Operational
+bufr4/3/11/010/1/001008,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001008,Aircraft registration number or other identification,,,,Operational
+bufr4/3/11/010/2/001023,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001023,Observation sequence number,,,,Operational
+bufr4/3/11/010/3/001006,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001006,Aircraft flight number,,,,Operational
+bufr4/3/11/010/4/001110,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001110,Aircraft tail number,,,,Operational
+bufr4/3/11/010/5/001111,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001111,Origination airport,,,,Operational
+bufr4/3/11/010/6/001112,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,001112,Destination airport,,,,Operational
+bufr4/3/11/010/7/204002,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,204002,Add associated field,2 bits long,,,Operational
+bufr4/3/11/010/8/031021,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,031021,Associated field significance,= 8 Two bits quality information,,,Operational
+bufr4/3/11/010/9/301011,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/11/010/10/301013,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/010/11/301021,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/11/010/12/007010,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,007010,Flight level,Pressure altitude,,,Operational
+bufr4/3/11/010/13/010053,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,010053,Global navigation satellite system altitude,,,,Operational
+bufr4/3/11/010/14/008009,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,008009,Detailed phase of flight,,,,Operational
+bufr4/3/11/010/15/011001,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011001,Wind direction,,,,Operational
+bufr4/3/11/010/16/011002,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011002,Wind speed,,,,Operational
+bufr4/3/11/010/17/002064,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,002064,Aircraft roll angle quality,,,,Operational
+bufr4/3/11/010/18/011100,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011100,Aircraft true airspeed,,,,Operational
+bufr4/3/11/010/19/011101,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011101,Aircraft ground speed u-component,,,,Operational
+bufr4/3/11/010/20/011102,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011102,Aircraft ground speed v-component,,,,Operational
+bufr4/3/11/010/21/011103,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011103,Aircraft ground speed w-component,,,,Operational
+bufr4/3/11/010/22/011104,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,011104,"True heading of aircraft, ship or other mobile platform True heading of aircraft",,,,Operational
+bufr4/3/11/010/23/012101,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/010/24/002170,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,002170,Aircraft humidity sensors,,,,Operational
+bufr4/3/11/010/25/201144,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,201144,Change data width,,,,Operational
+bufr4/3/11/010/26/202133,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,202133,Change scale,,,,Operational
+bufr4/3/11/010/27/013002,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,013002,Mixing ratio,,,,Operational
+bufr4/3/11/010/28/202000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,202000,Change scale,Cancel,,,Operational
+bufr4/3/11/010/29/201000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/010/30/201135,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,201135,Change data width,,,,Operational
+bufr4/3/11/010/31/202130,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,202130,Change scale,,,,Operational
+bufr4/3/11/010/32/013003,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,013003,Relative humidity,,,,Operational
+bufr4/3/11/010/33/202000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,202000,Change scale,Cancel,,,Operational
+bufr4/3/11/010/34/201000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/010/35/101000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/010/36/031000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/37/012103,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,012103,Dewpoint temperature,,,,Operational
+bufr4/3/11/010/38/033026,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,033026,Moisture quality,,,,Operational
+bufr4/3/11/010/39/101000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/010/40/031000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/41/020042,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,020042,Airframe icing present,,,,Operational
+bufr4/3/11/010/42/103000,11,Single level report sequences (conventional data),311010,Aircraft registration number or other identification,,103000,Delayed replication of 3 descriptors I.2,(continued) – BUFR Table D/11 — 3,,,Operational
+bufr4/3/11/010/1/031000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/2/020043,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,020043,Peak liquid water content,,,,Operational
+bufr4/3/11/010/3/020044,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,020044,Average liquid water content,,,,Operational
+bufr4/3/11/010/4/020045,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,020045,Supercooled large droplet (SLD) conditions,,,,Operational
+bufr4/3/11/010/5/101000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/11/010/6/031000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/7/033025,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,033025,ACARS interpolated values indicator,,,,Operational
+bufr4/3/11/010/8/103000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,103000,Delayed replication of 3 descriptors,,,,Operational
+bufr4/3/11/010/9/031001,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/10/011075,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011075,Mean turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/010/11/011076,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011076,Peak turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/010/12/011039,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011039,Extended time of occurrence of peak eddy dissipation rate,,,,Operational
+bufr4/3/11/010/13/102000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/11/010/14/031000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/15/011037,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011037,Turbulence index,EDR,,,Operational
+bufr4/3/11/010/16/011077,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011077,Reporting interval or averaging time for eddy dissipation rate,,,,Operational
+bufr4/3/11/010/17/103000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,103000,Delayed replication of 3 descriptors,,,,Operational
+bufr4/3/11/010/18/031000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/19/011034,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011034,Vertical gust velocity,,,,Operational
+bufr4/3/11/010/20/011035,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011035,Vertical gust acceleration,,,,Operational
+bufr4/3/11/010/21/011036,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011036,Maximum derived equivalent vertical gust speed,,,,Operational
+bufr4/3/11/010/22/204000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,204000,Add associated field,Cancel,,,Operational
+bufr4/3/11/010/23/119000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,119000,Delayed replication of 19 descriptors,,,,Operational
+bufr4/3/11/010/24/031001,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/010/25/301011,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,301011,"Year, month, day",,,,Operational
+bufr4/3/11/010/26/301013,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/010/27/301021,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/11/010/28/007007,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,007007,Height,,,,Operational
+bufr4/3/11/010/29/011105,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011105,EDR algorithm version,,,,Operational
+bufr4/3/11/010/30/204007,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,204007,Add associated field,7 bits long,,,Operational
+bufr4/3/11/010/31/031021,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,031021,Associated field significance,= 7 Percentage confidence,,,Operational
+bufr4/3/11/010/32/011076,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011076,Peak turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/010/33/011075,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011075,Mean turbulence intensity (eddy dissipation rate),,,,Operational
+bufr4/3/11/010/34/204000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,204000,Add associated field,Cancel,,,Operational
+bufr4/3/11/010/35/011106,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011106,Running minimum confidence,,,,Operational
+bufr4/3/11/010/36/011107,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011107,Maximum number bad inputs,,,,Operational
+bufr4/3/11/010/37/011108,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011108,Peak location,,,,Operational
+bufr4/3/11/010/38/011109,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011109,Number of good EDR,,,,Operational
+bufr4/3/11/010/39/012101,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/010/40/011001,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011001,Wind direction,,,,Operational
+bufr4/3/11/010/41/201130,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,201130,Change data width,,,,Operational
+bufr4/3/11/010/42/011084,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,011084,Wind speed,,,,Operational
+bufr4/3/11/010/43/201000,11,Single level report sequences (conventional data),311010,Short delayed descriptor replication factor,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/011/1/001023,11,Single level report sequences (conventional data),311011,Observation sequence number,,001023,Observation sequence number,,,,Operational
+bufr4/3/11/011/2/008004,11,Single level report sequences (conventional data),311011,Observation sequence number,,008004,Phase of aircraft flight,,,,Operational
+bufr4/3/11/011/3/301011,11,Single level report sequences (conventional data),311011,Observation sequence number,,301011,"Year, month, day",,,,Operational
+bufr4/3/11/011/4/301013,11,Single level report sequences (conventional data),311011,Observation sequence number,,301013,"Hour, minute, second",,,,Operational
+bufr4/3/11/011/5/005002,11,Single level report sequences (conventional data),311011,Observation sequence number,,005002,Latitude (coarse accuracy),,,,Operational
+bufr4/3/11/011/6/006002,11,Single level report sequences (conventional data),311011,Observation sequence number,,006002,Longitude (coarse accuracy),,,,Operational
+bufr4/3/11/011/7/007004,11,Single level report sequences (conventional data),311011,Observation sequence number,,007004,Pressure,,,,Operational
+bufr4/3/11/011/8/011001,11,Single level report sequences (conventional data),311011,Observation sequence number,,011001,Wind direction,,,,Operational
+bufr4/3/11/011/9/011002,11,Single level report sequences (conventional data),311011,Observation sequence number,,011002,Wind speed,,,,Operational
+bufr4/3/11/011/10/012101,11,Single level report sequences (conventional data),311011,Observation sequence number,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/11/011/11/106000,11,Single level report sequences (conventional data),311011,Observation sequence number,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/11/011/12/031001,11,Single level report sequences (conventional data),311011,Observation sequence number,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/011/13/008046,11,Single level report sequences (conventional data),311011,Observation sequence number,,008046,Atmospheric chemical or physical constituent type,,,,Operational
+bufr4/3/11/011/14/201139,11,Single level report sequences (conventional data),311011,Observation sequence number,,201139,Change data width,20 bits long,,,Operational
+bufr4/3/11/011/15/202126,11,Single level report sequences (conventional data),311011,Observation sequence number,,202126,Change scale–1,Scale: 7,,,Operational
+bufr4/3/11/011/16/015026,11,Single level report sequences (conventional data),311011,Observation sequence number,,015026,Concentration of pollutant (mol mol ),,,,Operational
+bufr4/3/11/011/17/202000,11,Single level report sequences (conventional data),311011,Observation sequence number,,202000,Change scale,Cancel,,,Operational
+bufr4/3/11/011/18/201000,11,Single level report sequences (conventional data),311011,Observation sequence number,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/011/19/106000,11,Single level report sequences (conventional data),311011,Observation sequence number,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/11/011/20/031001,11,Single level report sequences (conventional data),311011,Observation sequence number,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/11/011/21/008046,11,Single level report sequences (conventional data),311011,Observation sequence number,,008046,Atmospheric chemical or physical constituent type,,,,Operational
+bufr4/3/11/011/22/201138,11,Single level report sequences (conventional data),311011,Observation sequence number,,201138,Change data width,19 bits long,,,Operational
+bufr4/3/11/011/23/202130,11,Single level report sequences (conventional data),311011,Observation sequence number,,202130,Change scale–1,Scale: 11,,,Operational
+bufr4/3/11/011/24/015026,11,Single level report sequences (conventional data),311011,Observation sequence number,,015026,Concentration of pollutant (mol mol ),,,,Operational
+bufr4/3/11/011/25/202000,11,Single level report sequences (conventional data),311011,Observation sequence number,,202000,Change scale,Cancel,,,Operational
+bufr4/3/11/011/26/201000,11,Single level report sequences (conventional data),311011,Observation sequence number,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/011/27/015052,11,Single level report sequences (conventional data),311011,Observation sequence number,,015052,Log of number density of aerosol particles with 10 diameter greater than 5 nm,,,,Operational
+bufr4/3/11/011/28/015053,11,Single level report sequences (conventional data),311011,Observation sequence number,,015053,Log of number density of aerosol particles with 10 diameter greater than 14 nm,,,,Operational
+bufr4/3/11/011/29/015054,11,Single level report sequences (conventional data),311011,Observation sequence number,,015054,Log of number density of aerosol particles with 10 diameter between 0.25 and 2.5 µm,,,,Operational
+bufr4/3/11/011/30/015055,11,Single level report sequences (conventional data),311011,Observation sequence number,,015055,Non volatile aerosol ratio,,,,Operational
+bufr4/3/11/011/31/007004,11,Single level report sequences (conventional data),311011,Observation sequence number,,007004,Pressure,,,,Operational
+bufr4/3/11/011/32/007004,11,Single level report sequences (conventional data),311011,Observation sequence number,,007004,Pressure,,,,Operational
+bufr4/3/11/011/33/013099,11,Single level report sequences (conventional data),311011,Observation sequence number,,013099,Log of integrated cloud particle density 10,,,,Operational
+bufr4/3/11/011/34/013100,11,Single level report sequences (conventional data),311011,Observation sequence number,,013100,Log of integrated cloud particle area 10,,,,Operational
+bufr4/3/11/011/35/013101,11,Single level report sequences (conventional data),311011,Observation sequence number,,013101,Log of integrated cloud particle volume 10 (BUFR template for aircraft ascent/descent profile with latitude and longitude given for each level),,,,Operational
+bufr4/3/11/012/1/301150,11,Single level report sequences (conventional data),311012,WIGOS identifier,,301150,WIGOS identifier,,,,Operational
+bufr4/3/11/012/2/001008,11,Single level report sequences (conventional data),311012,WIGOS identifier,,001008,Aircraft registration number or other identification,,,,Operational
+bufr4/3/11/012/3/001111,11,Single level report sequences (conventional data),311012,WIGOS identifier,,001111,Origination airport I.2,To be reported in case of an ascent profile (continued) – BUFR Table D/11 — 5,,,Operational
+bufr4/3/11/012/1/001112,11,Single level report sequences (conventional data),311012,Destination airport,,001112,Destination airport,To be reported in case of a descent profile,,,Operational
+bufr4/3/11/012/2/301011,11,Single level report sequences (conventional data),311012,Destination airport,,301011,"Year, month, day",Date/Time and,,,Operational
+bufr4/3/11/012/3/301013,11,Single level report sequences (conventional data),311012,Destination airport,,301013,"Hour, minute, second",position of first level in profile (for ascent,,,Operational
+bufr4/3/11/012/4/301021,11,Single level report sequences (conventional data),311012,Destination airport,,301021,Latitude/Longitude (high accuracy),"profile first report/take off, for descent profile last report/touch down)",,,Operational
+bufr4/3/11/012/5/008004,11,Single level report sequences (conventional data),311012,Destination airport,,008004,Phase of aircraft flight,Ascent or descent profile,,,Operational
+bufr4/3/11/012/6/110000,11,Single level report sequences (conventional data),311012,Destination airport,,110000,Delayed replication of 10 descriptors,,,,Operational
+bufr4/3/11/012/7/031002,11,Single level report sequences (conventional data),311012,Destination airport,,031002,Extended delayed descriptor replication factor Aircraft ascent/descent profile data for one level with lat. long. indicated,Number of levels following,,,Operational
+bufr4/3/11/012/8/301011,11,Single level report sequences (conventional data),311012,Destination airport,,301011,"Year, month, day",Date of single level report,,,Operational
+bufr4/3/11/012/9/301013,11,Single level report sequences (conventional data),311012,Destination airport,,301013,"Hour, minute, second",Time of single level report,,,Operational
+bufr4/3/11/012/10/311007,11,Single level report sequences (conventional data),311012,Destination airport,,311007,Aircraft data for one level with latitude/longitude indicated,"Flight level = pressure altitude, dewpoint temperature = value derived from mixing ratio, limited to Td ≤ T",,,Operational
+bufr4/3/11/012/11/201144,11,Single level report sequences (conventional data),311012,Destination airport,,201144,Change data width,,,,Operational
+bufr4/3/11/012/12/202133,11,Single level report sequences (conventional data),311012,Destination airport,,202133,Change scale,,,,Operational
+bufr4/3/11/012/13/013002,11,Single level report sequences (conventional data),311012,Destination airport,,013002,Mixing ratio,Originally measured value,,,Operational
+bufr4/3/11/012/14/202000,11,Single level report sequences (conventional data),311012,Destination airport,,202000,Change scale,Cancel,,,Operational
+bufr4/3/11/012/15/201000,11,Single level report sequences (conventional data),311012,Destination airport,,201000,Change data width,Cancel,,,Operational
+bufr4/3/11/012/16/013003,11,Single level report sequences (conventional data),311012,Destination airport,,013003,Relative humidity,"Value derived from mixing ratio, limited to ≤ 100%",,,Operational
+bufr4/3/11/012/17/033026,11,Single level report sequences (conventional data),311012,Destination airport,,033026,Moisture quality,"Code table (report code figure 10 if Td > T, see Code table)",,,Operational

@@ -1,0 +1,324 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/08/001/1/301033,08,Surface report sequences (sea),308001,Buoy/platform – fixed,,301033,Buoy/platform – fixed,"Identification, type, date/time, position (high accuracy)",,,Operational
+bufr4/3/08/001/2/302011,08,Surface report sequences (sea),308001,Buoy/platform – fixed,,302011,Low altitude station,Basic surface report,,,Operational
+bufr4/3/08/001/3/022042,08,Surface report sequences (sea),308001,Buoy/platform – fixed,,022042,Sea/water temperature (Buoy/platform – fixed),,,,Operational
+bufr4/3/08/002/1/301034,08,Surface report sequences (sea),308002,Buoy/platform – fixed,,301034,Buoy/platform – fixed,"Identification, type, date/time, position (coarse accuracy)",,,Operational
+bufr4/3/08/002/2/302011,08,Surface report sequences (sea),308002,Buoy/platform – fixed,,302011,Low altitude station,Basic surface report,,,Operational
+bufr4/3/08/002/3/022042,08,Surface report sequences (sea),308002,Buoy/platform – fixed,,022042,Sea/water temperature (Buoy/platform – moving) (see Note 1),,,,Operational
+bufr4/3/08/003/1/301035,08,Surface report sequences (sea),308003,Buoy/platform – moving,,301035,Buoy/platform – moving,"Identification, movement, type, date/time, position (coarse accuracy)",,,Operational
+bufr4/3/08/003/2/302011,08,Surface report sequences (sea),308003,Buoy/platform – moving,,302011,Low altitude station,Basic surface report,,,Operational
+bufr4/3/08/003/3/022042,08,Surface report sequences (sea),308003,Buoy/platform – moving,,022042,Sea/water temperature (Ship),,,,Operational
+bufr4/3/08/004/1/301036,08,Surface report sequences (sea),308004,Ship,,301036,Ship,"Identification, movement, type, date/time, position (coarse accuracy)",,,Operational
+bufr4/3/08/004/2/302011,08,Surface report sequences (sea),308004,Ship,,302011,Low altitude station,Basic surface report,,,Operational
+bufr4/3/08/004/3/022042,08,Surface report sequences (sea),308004,Ship,,022042,Sea/water temperature,,,,Operational
+bufr4/3/08/005/1/308004,08,Surface report sequences (sea),308005,Ship,,308004,Ship,Basic ship report,,,Operational
+bufr4/3/08/005/2/302024,08,Surface report sequences (sea),308005,Ship,,302024,Wind and swell waves (Buoy Section 1 optional parameters),,,,Operational
+bufr4/3/08/006/1/010004,08,Surface report sequences (sea),308006,Pressure,,010004,Pressure,,,,Operational
+bufr4/3/08/006/2/010061,08,Surface report sequences (sea),308006,Pressure,,010061,3-hour pressure change,,,,Operational
+bufr4/3/08/006/3/010063,08,Surface report sequences (sea),308006,Pressure,,010063,Characteristic of pressure tendency,,,,Operational
+bufr4/3/08/006/4/011001,08,Surface report sequences (sea),308006,Pressure,,011001,Wind direction,,,,Operational
+bufr4/3/08/006/5/011002,08,Surface report sequences (sea),308006,Pressure,,011002,Wind speed,,,,Operational
+bufr4/3/08/006/6/012004,08,Surface report sequences (sea),308006,Pressure,,012004,Air temperature at 2 m,,,,Operational
+bufr4/3/08/006/7/013003,08,Surface report sequences (sea),308006,Pressure,,013003,Relative humidity,,,,Operational
+bufr4/3/08/006/8/022042,08,Surface report sequences (sea),308006,Pressure,,022042,Sea/water temperature,,,,Operational
+bufr4/3/08/007/1/301055,08,Surface report sequences (sea),308007,"Identification and type of station, date/time, location (high accuracy), movement",,301055,"Identification and type of station, date/time, location (high accuracy), movement",,,,Operational
+bufr4/3/08/007/2/302011,08,Surface report sequences (sea),308007,"Identification and type of station, date/time, location (high accuracy), movement",,302011,Low altitude station,Basic surface report,,,Operational
+bufr4/3/08/007/3/007062,08,Surface report sequences (sea),308007,"Identification and type of station, date/time, location (high accuracy), movement",,007062,Depth below sea/water surface,,,,Operational
+bufr4/3/08/007/4/022042,08,Surface report sequences (sea),308007,"Identification and type of station, date/time, location (high accuracy), movement",,022042,Sea/water temperature I.2,(continued) – BUFR Table D/08 — 1,,,Operational
+bufr4/3/08/009/1/301093,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,301093,"Ship identification, movement, date/time, horizontal and vertical coordinates",,,,Operational
+bufr4/3/08/009/2/302001,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,302001,Pressure and 3-hour pressure change,,,,Operational
+bufr4/3/08/009/3/302054,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,302054,Ship “instantaneous” data,,,,Operational
+bufr4/3/08/009/4/008002,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,008002,Vertical significance (surface observations),,,,Operational
+bufr4/3/08/009/5/302055,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,302055,Icing and ice,,,,Operational
+bufr4/3/08/009/6/302057,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,302057,Ship marine data,,,,Operational
+bufr4/3/08/009/7/302060,08,Surface report sequences (sea),308009,"Ship identification, movement, date/time, horizontal and vertical coordinates",,302060,Ship “period” data (TRACKOB template),,,,Operational
+bufr4/3/08/010/1/001011,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,001011,Ship or mobile land station identifier,,,,Operational
+bufr4/3/08/010/2/113000,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,113000,Delayed replication of 13 descriptors,,,,Operational
+bufr4/3/08/010/3/031001,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/08/010/4/301011,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/08/010/5/301012,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/08/010/6/301021,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/08/010/7/004080,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,004080,Averaging period for following value,,,,Operational
+bufr4/3/08/010/8/022049,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,022049,Sea-surface temperature,,,,Operational
+bufr4/3/08/010/9/004080,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,004080,Averaging period for following value,,,,Operational
+bufr4/3/08/010/10/022059,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,022059,Sea-surface salinity,,,,Operational
+bufr4/3/08/010/11/004080,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,004080,Averaging period for following value,,,,Operational
+bufr4/3/08/010/12/022005,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,022005,Direction of sea-surface current,,,,Operational
+bufr4/3/08/010/13/002042,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,002042,Indicator for sea-surface current speed,,,,Operational
+bufr4/3/08/010/14/022032,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,022032,Speed of sea-surface current,,,,Operational
+bufr4/3/08/010/15/002042,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,002042,Indicator for sea-surface current speed,Cancel,,,Operational
+bufr4/3/08/010/16/004080,08,Surface report sequences (sea),308010,Ship or mobile land station identifier,,004080,Averaging period for following value (Monthly values from an ocean weather station – CLIMAT SHIP),Cancel,,,Operational
+bufr4/3/08/011/1/001011,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,001011,Ship or mobile land station identifier,Ship’s call sign,,,Operational
+bufr4/3/08/011/2/002001,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,002001,Type of station,,,,Operational
+bufr4/3/08/011/3/301011,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,301011,"Year, month, day (see Note 2)",,,,Operational
+bufr4/3/08/011/4/301012,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,301012,"Hour, minute (see Note 2)",,,,Operational
+bufr4/3/08/011/5/301023,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,301023,Latitude/longitude (coarse accuracy),,,,Operational
+bufr4/3/08/011/6/007030,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,007030,Height of station ground above mean sea level (see Note 3),,,,Operational
+bufr4/3/08/011/7/007031,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,007031,"Height of barometer above mean sea level (see Note 3) Monthly mean values of pressure, temperature, vapour pressure and sea/water temperature",,,,Operational
+bufr4/3/08/011/8/004074,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,004074,Short time period or displacement) (see Note 2),= UTC – LT,,,Operational
+bufr4/3/08/011/9/004023,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,004023,Time period or displacement,= Number of days in the month,,,Operational
+bufr4/3/08/011/10/008023,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/011/11/010051,08,Surface report sequences (sea),308011,Ship or mobile land station identifier,,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/08/011/1/007032,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007032,Height of sensor above local ground (or deck of marine platform) (see Note 3),Temperature measurement,,,Operational
+bufr4/3/08/011/2/007033,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007033,Height of sensor above water surface (see Note 3),Temperature measurement,,,Operational
+bufr4/3/08/011/3/012101,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,012101,Temperature/air temperature,,,,Operational
+bufr4/3/08/011/4/013004,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,013004,Vapour pressure,,,,Operational
+bufr4/3/08/011/5/007032,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007032,Height of sensor above local ground (or deck of marine platform),Set to missing (cancel),,,Operational
+bufr4/3/08/011/6/007033,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/08/011/7/302056,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,302056,Sea/water temperature,"Sea-surface temperature, method of measurement, and depth below sea surface",,,Operational
+bufr4/3/08/011/8/008023,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,008023,First-order statistics Precipitation,Set to missing,,,Operational
+bufr4/3/08/011/9/004003,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,004003,Day (see Note 4),= 1,,,Operational
+bufr4/3/08/011/10/004004,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,004004,Hour (see Note 4),= 6,,,Operational
+bufr4/3/08/011/11/004023,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,004023,Time period or displacement (see Note 4),= Number of days in the month,,,Operational
+bufr4/3/08/011/12/007032,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007032,Height of sensor above local ground (or deck of marine platform) (see Note 3),,,,Operational
+bufr4/3/08/011/13/013060,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,013060,Total accumulated precipitation,,,,Operational
+bufr4/3/08/011/14/013051,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,013051,"Frequency group, precipitation",,,,Operational
+bufr4/3/08/011/15/004053,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,004053,Number of days with precipitation equal to or more than 1 mm,,,,Operational
+bufr4/3/08/011/16/007032,08,Surface report sequences (sea),308011,Height of sensor above local ground (or deck of marine platform) (see Note 3),,007032,Height of sensor above local ground (or deck of marine platform) (Monthly normals for an ocean weather station),Set to missing (cancel),,,Operational
+bufr4/3/08/012/1/004001,08,Surface report sequences (sea),308012,Year,,004001,Year,Beginning of the reference period,,,Operational
+bufr4/3/08/012/2/004001,08,Surface report sequences (sea),308012,Year,,004001,Year,Ending of the reference period,,,Operational
+bufr4/3/08/012/3/004002,08,Surface report sequences (sea),308012,Year,,004002,Month,,,,Operational
+bufr4/3/08/012/4/004003,08,Surface report sequences (sea),308012,Year,,004003,Day (see Note 2),= 1,,,Operational
+bufr4/3/08/012/5/004004,08,Surface report sequences (sea),308012,Year,,004004,Hour (see Note 2),= 0,,,Operational
+bufr4/3/08/012/6/004074,08,Surface report sequences (sea),308012,Year,,004074,Short time period or displacement (see Note 2),= UTC – LT,,,Operational
+bufr4/3/08/012/7/004022,08,Surface report sequences (sea),308012,Year,,004022,"Time period or displacement Normals of monthly mean pressure, temperature, vapour pressure and sea/water temperature",= 1,,,Operational
+bufr4/3/08/012/8/008023,08,Surface report sequences (sea),308012,Year,,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/012/9/010051,08,Surface report sequences (sea),308012,Year,,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/08/012/10/007032,08,Surface report sequences (sea),308012,Year,,007032,Height of sensor above local ground (or deck of marine platform) (see Note 3),Temperature measurement,,,Operational
+bufr4/3/08/012/11/007033,08,Surface report sequences (sea),308012,Year,,007033,Height of sensor above water surface (see Note 3),Temperature measurement,,,Operational
+bufr4/3/08/012/12/012101,08,Surface report sequences (sea),308012,Year,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/08/012/13/013004,08,Surface report sequences (sea),308012,Year,,013004,Vapour pressure,,,,Operational
+bufr4/3/08/012/14/007032,08,Surface report sequences (sea),308012,Year,,007032,Height of sensor above local ground (or deck of marine platform) I.2,Set to missing (cancel) (continued) – BUFR Table D/08 — 3,,,Operational
+bufr4/3/08/012/1/007033,08,Surface report sequences (sea),308012,Height of sensor above water surface,,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/08/012/2/302056,08,Surface report sequences (sea),308012,Height of sensor above water surface,,302056,Sea/water temperature,"Sea-surface temperature, method of measurement, and depth below sea surface",,,Operational
+bufr4/3/08/012/3/008023,08,Surface report sequences (sea),308012,Height of sensor above water surface,,008023,First-order statistics,Set to missing,,,Operational
+bufr4/3/08/012/4/004001,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004001,Year,Beginning of the reference period,,,Operational
+bufr4/3/08/012/5/004001,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004001,Year,Ending of the reference period,,,Operational
+bufr4/3/08/012/6/004002,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004002,Month,,,,Operational
+bufr4/3/08/012/7/004003,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004003,Day (see Note 4),= 1,,,Operational
+bufr4/3/08/012/8/004004,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004004,Hour (see Note 4),= 6,,,Operational
+bufr4/3/08/012/9/004022,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004022,Time period or displacement Normals of precipitation,= 1,,,Operational
+bufr4/3/08/012/10/007032,08,Surface report sequences (sea),308012,Height of sensor above water surface,,007032,Height of sensor above local ground (or deck of marine platform) (see Note 3),Precipitation measurement,,,Operational
+bufr4/3/08/012/11/008023,08,Surface report sequences (sea),308012,Height of sensor above water surface,,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/012/12/013060,08,Surface report sequences (sea),308012,Height of sensor above water surface,,013060,Total accumulated precipitation,,,,Operational
+bufr4/3/08/012/13/004053,08,Surface report sequences (sea),308012,Height of sensor above water surface,,004053,Number of days with precipitation equal to or more than 1 mm,,,,Operational
+bufr4/3/08/012/14/008023,08,Surface report sequences (sea),308012,Height of sensor above water surface,,008023,First-order statistics (Representation of CLIMAT SHIP data of the actual month and for monthly normals),Set to missing,,,Operational
+bufr4/3/08/013/1/308011,08,Surface report sequences (sea),308013,Monthly values from an ocean weather station – CLIMAT SHIP,,308011,Monthly values from an ocean weather station – CLIMAT SHIP,,,,Operational
+bufr4/3/08/013/2/308012,08,Surface report sequences (sea),308013,Monthly values from an ocean weather station – CLIMAT SHIP,,308012,Monthly normals for an ocean weather station (Synoptic reports from sea stations suitable for VOS observation data),,,,Operational
+bufr4/3/08/014/1/101000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/014/2/031000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/014/3/301018,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,301018,Encrypted ship’s call sign and encryption method,,,,Operational
+bufr4/3/08/014/4/003001,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,003001,Surface station type,,,,Operational
+bufr4/3/08/014/5/301093,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,301093,"Ship identification, movement, date/time, horizontal and vertical coordinates",,,,Operational
+bufr4/3/08/014/6/208032,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,208032,Change width of CCITT IA5 field,,,,Operational
+bufr4/3/08/014/7/001079,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,001079,Unique identifier for the profile,32 characters | Unique ID for report,,,Operational
+bufr4/3/08/014/8/208000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,208000,Change width of CCITT IA5 field,Cancel,,,Operational
+bufr4/3/08/014/9/302062,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,302062,Ship “instantaneous” data,,,,Operational
+bufr4/3/08/014/10/302063,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,302063,Ship “period” data,,,,Operational
+bufr4/3/08/014/11/101000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/014/12/031000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/014/13/302092,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,302092,VOSClim data elements,,,,Operational
+bufr4/3/08/014/14/101000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/014/15/031000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/014/16/306033,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,306033,Surface salinity,,,,Operational
+bufr4/3/08/014/17/101000,08,Surface report sequences (sea),308014,Delayed replication of 1 descriptor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/014/1/031000,08,Surface report sequences (sea),308014,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/014/2/306034,08,Surface report sequences (sea),308014,Short delayed descriptor replication factor,,306034,Surface current,,,,Operational
+bufr4/3/08/014/3/101000,08,Surface report sequences (sea),308014,Short delayed descriptor replication factor,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/014/4/031000,08,Surface report sequences (sea),308014,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/014/5/306043,08,Surface report sequences (sea),308014,Short delayed descriptor replication factor,,306043,Marine biogeochemical and radiation observations (Template for WAVEOB data expressed as frequency ( = 0 in FM-65 WAVEOB)) I a Identification (WAVEOB Section 0),E-SURFMAR S-AWS observations,,,Operational
+bufr4/3/08/015/1/001003,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001003,WMO Region number/geographical area,A – First digit of WMO 1 → number (e.g. 62024 6),,,Operational
+bufr4/3/08/015/2/001020,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001020,WMO Region sub-area,b – Second digit of w WMO number (e.g. → 62024 2),,,Operational
+bufr4/3/08/015/3/001005,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001005,Buoy/platform identifier,n n n – Last 3 digits of b b b WMO number (e.g. → 62024 024),,,Operational
+bufr4/3/08/015/4/001011,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001011,Ship or mobile land station identifier,D....D,,,Operational
+bufr4/3/08/015/5/001007,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001007,Satellite identifier,I I I 6 6 6,,,Operational
+bufr4/3/08/015/6/001001,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001001,WMO block number,II,,,Operational
+bufr4/3/08/015/7/001002,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,001002,WMO station number,iii – iii only apply to II fixed sea stations,,,Operational
+bufr4/3/08/015/8/002044,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,002044,Indicator for method of calculating spectral wave data,"– Code table 1744 I m (WAVEOB), 0 02 044 (BUFR)",,,Operational
+bufr4/3/08/015/9/002045,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,002045,Indicator for type of platform,"– Code table 1747 I p (WAVEOB), 0 02 045 (BUFR)",,,Operational
+bufr4/3/08/015/10/301011,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,301011,"Year, month, day",YYMMJ – Date of observation,,,Operational
+bufr4/3/08/015/11/301012,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,301012,"Hour, minute",GGgg – Time of observation,,,Operational
+bufr4/3/08/015/12/301021,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,301021,Latitude/longitude (high accuracy) Basic data (WAVEOB Section 0),Q L L L L L L L L L c a a a a o o o o o,,,Operational
+bufr4/3/08/015/13/022063,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022063,Total water depth,1hhhh,,,Operational
+bufr4/3/08/015/14/022076,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022076,Direction from which dominant waves are coming,9d d – Section 0 d d,,,Operational
+bufr4/3/08/015/15/022077,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022077,Directional spread of dominant wave,d d – section 0 s s,,,Operational
+bufr4/3/08/015/16/022094,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022094,Total number of wave bands,111B B – Section 1 T T,,,Operational
+bufr4/3/08/015/17/025043,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,025043,Wave sampling interval (time),SSSS – Section 1,,,Operational
+bufr4/3/08/015/18/022078,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022078,Duration of wave record,D’D’D’D’ – Section 1,,,Operational
+bufr4/3/08/015/19/105002,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,105002,Replicate 5 descriptors 2 times,Replicate over sensor type,,,Operational
+bufr4/3/08/015/20/002046,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,002046,Wave measurement instrumentation,"= 1 Heave sensor, = 2 Slope sensor",,,Operational
+bufr4/3/08/015/21/022070,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022070,Significant wave height,2H H H H or s s s s 6H H H H – se se se se Section 0,,,Operational
+bufr4/3/08/015/22/022071,08,Surface report sequences (sea),308015,WMO Region number/geographical area,,022071,Spectral peak wave period I.2,3P P P P or p p p p 7P P P P – sp sp sp sp Section 0 (continued) – BUFR Table D/08 — 5,,,Operational
+bufr4/3/08/015/1/022073,08,Surface report sequences (sea),308015,Maximum wave height,,022073,Maximum wave height,4H H H H m m m m,,,Operational
+bufr4/3/08/015/2/022074,08,Surface report sequences (sea),308015,Maximum wave height,,022074,Average wave period Spectral data (WAVEOB Sections 1–5),5P P P P or a a a a 8P P P P – sa sa sa sa Section 0,,,Operational
+bufr4/3/08/015/3/127000,08,Surface report sequences (sea),308015,Maximum wave height,,127000,Delayed replication of 27 descriptors,Replication over sensor type,,,Operational
+bufr4/3/08/015/4/031001,08,Surface report sequences (sea),308015,Maximum wave height,,031001,Delayed descriptor replication factor (see Note 5),"(0,1,2) normally 1",,,Operational
+bufr4/3/08/015/5/002046,08,Surface report sequences (sea),308015,Maximum wave height,,002046,Wave measurement instrumentation,"= 1 Heave sensor, = 2 Slope sensor",,,Operational
+bufr4/3/08/015/6/008090,08,Surface report sequences (sea),308015,Maximum wave height,,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/015/7/022102,08,Surface report sequences (sea),308015,Maximum wave height,,022102,Scaled maximum non-directional spectral wave density by frequency,C C C – Section 2 or m m m C C C – Section 3 sm sm sm,,,Operational
+bufr4/3/08/015/8/008090,08,Surface report sequences (sea),308015,Maximum wave height,,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/015/9/022084,08,Surface report sequences (sea),308015,Maximum wave height,,022084,Band containing maximum non-directional spectral wave density,n n – Section 2 or m m n n – Section 3 sm sm,,,Operational
+bufr4/3/08/015/10/120000,08,Surface report sequences (sea),308015,Maximum wave height,,120000,Delayed replication of 20 descriptors,Replication over bands,,,Operational
+bufr4/3/08/015/11/031001,08,Surface report sequences (sea),308015,Maximum wave height,,031001,Delayed descriptor replication factor,111B B – Section 1 T T (number of band),,,Operational
+bufr4/3/08/015/12/022080,08,Surface report sequences (sea),308015,Maximum wave height,,022080,Waveband central frequency,1f f f f x .... – Section 1 1 1 1 1,,,Operational
+bufr4/3/08/015/13/022108,08,Surface report sequences (sea),308015,Maximum wave height,,022108,Spectral wave density ratio,1c c c c – Section 2 1 1 2 2 ... or 1c c c c – s1 s1 s2 s2 ... Section 3,,,Operational
+bufr4/3/08/015/14/022086,08,Surface report sequences (sea),308015,Maximum wave height,,022086,Mean direction from which waves are coming,1d d – Section 4 a1 a1,,,Operational
+bufr4/3/08/015/15/022087,08,Surface report sequences (sea),308015,Maximum wave height,,022087,Principal direction from which waves are coming,d d – Section 4 a2 a2,,,Operational
+bufr4/3/08/015/16/022088,08,Surface report sequences (sea),308015,Maximum wave height,,022088,First normalized polar coordinate from Fourier coefficients,r r – Section 4 1 1,,,Operational
+bufr4/3/08/015/17/022089,08,Surface report sequences (sea),308015,Maximum wave height,,022089,Second normalized polar coordinate from Fourier coefficients,r r – Section 4 2 2,,,Operational
+bufr4/3/08/015/18/105000,08,Surface report sequences (sea),308015,Maximum wave height,,105000,Delayed replication of 5 descriptors (see Note 6),,,,Operational
+bufr4/3/08/015/19/031001,08,Surface report sequences (sea),308015,Maximum wave height,,031001,Delayed descriptor replication factor,n – Section 5 (number of directions counted); = 0 if = 1 (directional) I b,,,Operational
+bufr4/3/08/015/20/008090,08,Surface report sequences (sea),308015,Maximum wave height,,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/015/21/022104,08,Surface report sequences (sea),308015,Maximum wave height,,022104,Scaled non-directional spectral wave density by frequency,1A A A x ... – 1 1 1 Section 5,,,Operational
+bufr4/3/08/015/22/008090,08,Surface report sequences (sea),308015,Maximum wave height,,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/015/23/022186,08,Surface report sequences (sea),308015,Maximum wave height,,022186,Direction from which waves are coming (see Note 7),1d d – Section 5 1 1,,,Operational
+bufr4/3/08/015/24/022187,08,Surface report sequences (sea),308015,Maximum wave height,,022187,Directional spread of wave (see Note 7),d d – Section 5 s s,,,Operational
+bufr4/3/08/015/25/105000,08,Surface report sequences (sea),308015,Maximum wave height,,105000,Delayed replication of 5 descriptors (see Note 8),,,,Operational
+bufr4/3/08/015/26/031001,08,Surface report sequences (sea),308015,Maximum wave height,,031001,Delayed descriptor replication factor,n – Section 5 (number of directions counted); = 0 if = 0 I b (non-directional),,,Operational
+bufr4/3/08/015/27/008090,08,Surface report sequences (sea),308015,Maximum wave height,,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/015/1/022106,08,Surface report sequences (sea),308015,Scaled directional spectral wave density by frequency 1A,,022106,Scaled directional spectral wave density by frequency 1A,A A x ... – 1 1 1 Section 5,,,Operational
+bufr4/3/08/015/2/008090,08,Surface report sequences (sea),308015,Scaled directional spectral wave density by frequency 1A,,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/015/3/022186,08,Surface report sequences (sea),308015,Scaled directional spectral wave density by frequency 1A,,022186,Direction from which waves are coming,1d d – Section 5 1 1,,,Operational
+bufr4/3/08/015/4/022187,08,Surface report sequences (sea),308015,Scaled directional spectral wave density by frequency 1A,,022187,Directional spread of wave (Template for WAVEOB data expressed as the wave number ( = 1 in FM-65 WAVEOB)) I a Identification (WAVEOB Section 0),d d – Section 5 s s,,,Operational
+bufr4/3/08/016/1/001003,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001003,WMO Region number/geographical area,A – First digit of WMO 1 → number (e.g. 62024 6),,,Operational
+bufr4/3/08/016/2/001020,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001020,WMO Region sub-area,b – Second digit of w WMO number (e.g. → 62024 2),,,Operational
+bufr4/3/08/016/3/001005,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001005,Buoy/platform identifier,n n n – Last 3 digits b b b of WMO number (e.g. → 62024 024),,,Operational
+bufr4/3/08/016/4/001011,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001011,Ship or mobile land station identifier,D .... D,,,Operational
+bufr4/3/08/016/5/001007,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001007,Satellite identifier,I I I 6 6 6,,,Operational
+bufr4/3/08/016/6/001001,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001001,WMO block number,II,,,Operational
+bufr4/3/08/016/7/001002,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,001002,WMO station number,iii – iii only apply to II fixed sea stations,,,Operational
+bufr4/3/08/016/8/002044,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,002044,Indicator for method of calculating spectral wave data,"– Code table 1744 I m (WAVEOB), 0 02 044 (BUFR)",,,Operational
+bufr4/3/08/016/9/002045,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,002045,Indicator for type of platform,"– Code table 1747 I p (WAVEOB), 0 02 045 (BUFR)",,,Operational
+bufr4/3/08/016/10/301011,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,301011,"Year, month, day",YYMMJ – Date of observation,,,Operational
+bufr4/3/08/016/11/301012,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,301012,"Hour, minute",GGgg – Time of observation,,,Operational
+bufr4/3/08/016/12/301021,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,301021,Latitude/longitude (high accuracy) Basic data (WAVEOB Section 0),"Q L L L L L L L L L c a a a a, o o o o o",,,Operational
+bufr4/3/08/016/13/022063,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022063,Total water depth,1hhhh,,,Operational
+bufr4/3/08/016/14/022076,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022076,Direction from which dominant waves are coming,9d d – Section 0 d d,,,Operational
+bufr4/3/08/016/15/022077,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022077,Directional spread of dominant wave,d d – Section 0 s s,,,Operational
+bufr4/3/08/016/16/022094,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022094,Total number of wave bands,111B B – Section 1 T T,,,Operational
+bufr4/3/08/016/17/025044,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,025044,Wave sampling interval (space),SSSS – Section 1,,,Operational
+bufr4/3/08/016/18/022079,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022079,Length of wave record,D’D’D’D’ – Section 1,,,Operational
+bufr4/3/08/016/19/105002,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,105002,Replicate 5 descriptors 2 times,Replication over sensor type,,,Operational
+bufr4/3/08/016/20/002046,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,002046,Wave measurement instrumentation,"= 1 Heave sensor, = 2 Slope sensor",,,Operational
+bufr4/3/08/016/21/022070,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022070,Significant wave height,2H H H H or s s s s 6H H H H – se se se se Section 0,,,Operational
+bufr4/3/08/016/22/022072,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022072,Spectral peak wavelength,3P P P P – Section 0 p p p p,,,Operational
+bufr4/3/08/016/23/022073,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022073,Maximum wave height,4H H H H m m m m,,,Operational
+bufr4/3/08/016/24/022075,08,Surface report sequences (sea),308016,Identification (WAVEOB Section 0),,022075,Average wavelength I.2,5P P P P – Section 0 a a a a (continued) – BUFR Table D/08 — 7,,,Operational
+bufr4/3/08/016/1/127000,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,127000,Delayed replication of 27 descriptors,Replication over sensor type,,,Operational
+bufr4/3/08/016/2/031001,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,031001,Delayed descriptor replication factor (see Note 5),"(0,1,2) normally 1",,,Operational
+bufr4/3/08/016/3/002046,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,002046,Wave measurement instrumentation,"= 1 Heave sensor, = 2 Slope sensor",,,Operational
+bufr4/3/08/016/4/008090,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/016/5/022103,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022103,Scaled maximum non-directional spectral wave density by wave number,C C C – Section 2 m m m or C C C – sm sm sm Section 3,,,Operational
+bufr4/3/08/016/6/008090,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/016/7/022084,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022084,Band containing maximum non-directional spectral wave density,n n – Section 2 or m m n n – Section 3 sm sm,,,Operational
+bufr4/3/08/016/8/120000,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,120000,Delayed replication of 20 descriptors,Replication over bands,,,Operational
+bufr4/3/08/016/9/031001,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,031001,Delayed descriptor replication factor,111B B – Section 1 T T (number of band),,,Operational
+bufr4/3/08/016/10/022081,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022081,Waveband central wave number,1f f f f x ... – Section 1 1 1 1 1,,,Operational
+bufr4/3/08/016/11/022108,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022108,Spectral wave density ratio,1c c c c ... – 1 1 2 2 Section 2 or c c c ... – 1c s1 s1 s2 s2 Section 3,,,Operational
+bufr4/3/08/016/12/022086,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022086,Mean direction from which waves are coming,1d d – Section 4 a1 a1,,,Operational
+bufr4/3/08/016/13/022087,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022087,Principal direction from which waves are coming,d d – Section 4 a2 a2,,,Operational
+bufr4/3/08/016/14/022088,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022088,First normalized polar coordinate from Fourier coefficients,r r – Section 4 1 1,,,Operational
+bufr4/3/08/016/15/022089,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022089,Second normalized polar coordinate from Fourier coefficients,r r – Section 4 2 2,,,Operational
+bufr4/3/08/016/16/105000,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,105000,Delayed replication of 5 descriptors (see Note 6),,,,Operational
+bufr4/3/08/016/17/031001,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,031001,Delayed descriptor replication factor,n – Section 5 (number of directions counted); = 0 if = 1 I b (directional),,,Operational
+bufr4/3/08/016/18/008090,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/016/19/022105,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022105,Scaled non-directional spectral wave density by wave number,1A A A x ... – 1 1 1 Section 5,,,Operational
+bufr4/3/08/016/20/008090,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/016/21/022186,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022186,Direction from which waves are coming (see Note 7),1d d – Section 5 1 1,,,Operational
+bufr4/3/08/016/22/022187,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022187,Directional spread of wave (see Note 7),d d – Section 5 s s,,,Operational
+bufr4/3/08/016/23/105000,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,105000,Delayed replication of 5 descriptors (see Note 8),,,,Operational
+bufr4/3/08/016/24/031001,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,031001,Delayed descriptor replication factor,n – Section 5 (number of directions counted); = 0 = 0 if I b (non-directional),,,Operational
+bufr4/3/08/016/25/008090,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,008090,Decimal scale of following significands,x – Scale to be applied to following element descriptors,,,Operational
+bufr4/3/08/016/26/022107,08,Surface report sequences (sea),308016,Spectral data (WAVEOB Sections 1–5),,022107,Scaled directional spectral wave density by wave number,1A A A x ... – 1 1 1 Section 5,,,Operational
+bufr4/3/08/016/1/008090,08,Surface report sequences (sea),308016,Decimal scale of following significands,,008090,Decimal scale of following significands,Set to missing,,,Operational
+bufr4/3/08/016/2/022186,08,Surface report sequences (sea),308016,Decimal scale of following significands,,022186,Direction from which waves are coming,1d d – Section 5 1 1,,,Operational
+bufr4/3/08/016/3/022187,08,Surface report sequences (sea),308016,Decimal scale of following significands,,022187,Directional spread of wave (Sequence for reporting observations from offshore platforms),d d – Section 5 s s,,,Operational
+bufr4/3/08/017/1/301056,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,301056,"Sequence for platform identification, type, time and location of the observation report",,,,Operational
+bufr4/3/08/017/2/302001,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302001,Pressure and 3-hour pressure change,,,,Operational
+bufr4/3/08/017/3/302052,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302052,Ship temperature and humidity data,,,,Operational
+bufr4/3/08/017/4/101000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/017/5/031000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/017/6/302056,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302056,Sea/water temperature,Optional,,,Operational
+bufr4/3/08/017/7/302064,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302064,Ship or other marine platform wind data (see Note),,,,Operational
+bufr4/3/08/017/8/302053,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302053,Ship visibility data,,,,Operational
+bufr4/3/08/017/9/101000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/017/10/031000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/017/11/302004,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302004,General cloud information,Optional,,,Operational
+bufr4/3/08/017/12/101000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/017/13/031000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/017/14/302005,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302005,Cloud layer,Optional,,,Operational
+bufr4/3/08/017/15/101000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/017/16/031000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/017/17/302038,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,302038,Present and past weather,Optional,,,Operational
+bufr4/3/08/017/18/101000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/017/19/031000,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/017/20/306039,08,Surface report sequences (sea),308017,"Sequence for platform identification, type, time and location of the observation report",,306039,Sequence for representation of basic wave measurements (Sequence for reporting of basic ship AWS observations),Optional,,,Operational
+bufr4/3/08/018/1/301150,08,Surface report sequences (sea),308018,WIGOS Identifier,,301150,WIGOS Identifier,,,,Operational
+bufr4/3/08/018/2/301093,08,Surface report sequences (sea),308018,WIGOS Identifier,,301093,"Ship identification, movement, date/time, horizontal and vertical coordinates",,,,Operational
+bufr4/3/08/018/3/302001,08,Surface report sequences (sea),308018,WIGOS Identifier,,302001,Pressure and 3-hour pressure change,,,,Operational
+bufr4/3/08/018/4/302072,08,Surface report sequences (sea),308018,WIGOS Identifier,,302072,Temperature and humidity data,,,,Operational
+bufr4/3/08/018/5/101000,08,Surface report sequences (sea),308018,WIGOS Identifier,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/018/6/031000,08,Surface report sequences (sea),308018,WIGOS Identifier,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/018/7/302056,08,Surface report sequences (sea),308018,WIGOS Identifier,,302056,Sea/water temperature,,,,Operational
+bufr4/3/08/018/8/101000,08,Surface report sequences (sea),308018,WIGOS Identifier,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/08/018/9/031000,08,Surface report sequences (sea),308018,WIGOS Identifier,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/08/018/10/302064,08,Surface report sequences (sea),308018,WIGOS Identifier,,302064,"Ship or other marine platform wind data (Monthly values from an ocean weather station in compliance with regional or national reporting practices) Station identification, date/time, horizontal and vertical coordinates",,,,Operational
+bufr4/3/08/021/1/001011,08,Surface report sequences (sea),308021,Ship or mobile land station identifier,,001011,Ship or mobile land station identifier,Ship’s call sign,,,Operational
+bufr4/3/08/021/2/002001,08,Surface report sequences (sea),308021,Ship or mobile land station identifier,,002001,Type of station I.2,(continued) – BUFR Table D/08 — 9,,,Operational
+bufr4/3/08/021/1/301011,08,Surface report sequences (sea),308021,"Year, month, day",,301011,"Year, month, day",,,,Operational
+bufr4/3/08/021/2/301012,08,Surface report sequences (sea),308021,"Year, month, day",,301012,"Hour, minute",,,,Operational
+bufr4/3/08/021/3/301023,08,Surface report sequences (sea),308021,"Year, month, day",,301023,Latitude/longitude (coarse accuracy),,,,Operational
+bufr4/3/08/021/4/007030,08,Surface report sequences (sea),308021,"Year, month, day",,007030,Height of station ground above mean sea level,,,,Operational
+bufr4/3/08/021/5/007031,08,Surface report sequences (sea),308021,"Year, month, day",,007031,"Height of barometer above mean sea level Monthly mean values of pressure, temperature, vapour pressure and sea/water temperature",,,,Operational
+bufr4/3/08/021/6/004074,08,Surface report sequences (sea),308021,"Year, month, day",,004074,Short time period or displacement,,,,Operational
+bufr4/3/08/021/7/004023,08,Surface report sequences (sea),308021,"Year, month, day",,004023,Time period or displacement,Number of days in the month,,,Operational
+bufr4/3/08/021/8/008023,08,Surface report sequences (sea),308021,"Year, month, day",,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/021/9/010051,08,Surface report sequences (sea),308021,"Year, month, day",,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/08/021/10/007032,08,Surface report sequences (sea),308021,"Year, month, day",,007032,Height of sensor above local ground (or deck of marine platform),Temperature measurement,,,Operational
+bufr4/3/08/021/11/007033,08,Surface report sequences (sea),308021,"Year, month, day",,007033,Height of sensor above water surface,Temperature measurement,,,Operational
+bufr4/3/08/021/12/012101,08,Surface report sequences (sea),308021,"Year, month, day",,012101,Temperature/air temperature,,,,Operational
+bufr4/3/08/021/13/013004,08,Surface report sequences (sea),308021,"Year, month, day",,013004,Vapour pressure,,,,Operational
+bufr4/3/08/021/14/007032,08,Surface report sequences (sea),308021,"Year, month, day",,007032,Height of sensor above local ground (or deck of marine platform),Set to missing (cancel),,,Operational
+bufr4/3/08/021/15/007033,08,Surface report sequences (sea),308021,"Year, month, day",,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/08/021/16/302056,08,Surface report sequences (sea),308021,"Year, month, day",,302056,Sea/water temperature,"Sea-surface temperature, method of measurement and depth below sea surface",,,Operational
+bufr4/3/08/021/17/008023,08,Surface report sequences (sea),308021,"Year, month, day",,008023,First-order statistics Precipitation,Set to missing (cancel),,,Operational
+bufr4/3/08/021/18/004003,08,Surface report sequences (sea),308021,"Year, month, day",,004003,Day,= 1,,,Operational
+bufr4/3/08/021/19/004004,08,Surface report sequences (sea),308021,"Year, month, day",,004004,Hour,= 0,,,Operational
+bufr4/3/08/021/20/004074,08,Surface report sequences (sea),308021,"Year, month, day",,004074,Short time period or displacement,,,,Operational
+bufr4/3/08/021/21/004023,08,Surface report sequences (sea),308021,"Year, month, day",,004023,Time period or displacement,Number of days in the month,,,Operational
+bufr4/3/08/021/22/007032,08,Surface report sequences (sea),308021,"Year, month, day",,007032,Height of sensor above local ground (or deck of marine platform),,,,Operational
+bufr4/3/08/021/23/013060,08,Surface report sequences (sea),308021,"Year, month, day",,013060,Total accumulated precipitation,,,,Operational
+bufr4/3/08/021/24/013051,08,Surface report sequences (sea),308021,"Year, month, day",,013051,"Frequency group, precipitation",,,,Operational
+bufr4/3/08/021/25/004053,08,Surface report sequences (sea),308021,"Year, month, day",,004053,Number of days with precipitation equal to or more than 1 mm,,,,Operational
+bufr4/3/08/021/26/007032,08,Surface report sequences (sea),308021,"Year, month, day",,007032,"Height of sensor above local ground (or deck of marine platform) (Monthly normals for an ocean weather station in compliance with regional or national reporting practices) Normals of pressure, temperature, vapour pressure and sea/water temperature",Set to missing (cancel),,,Operational
+bufr4/3/08/022/1/004001,08,Surface report sequences (sea),308022,Year,,004001,Year,Beginning of the reference period,,,Operational
+bufr4/3/08/022/2/004001,08,Surface report sequences (sea),308022,Year,,004001,Year,Ending of the reference period,,,Operational
+bufr4/3/08/022/1/004002,08,Surface report sequences (sea),308022,Month,,004002,Month,,,,Operational
+bufr4/3/08/022/2/004003,08,Surface report sequences (sea),308022,Month,,004003,Day,= 1,,,Operational
+bufr4/3/08/022/3/004004,08,Surface report sequences (sea),308022,Month,,004004,Hour,= 0,,,Operational
+bufr4/3/08/022/4/004074,08,Surface report sequences (sea),308022,Month,,004074,Short time period or displacement,,,,Operational
+bufr4/3/08/022/5/004022,08,Surface report sequences (sea),308022,Month,,004022,Time period or displacement,= 1,,,Operational
+bufr4/3/08/022/6/008023,08,Surface report sequences (sea),308022,Month,,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/022/7/010051,08,Surface report sequences (sea),308022,Month,,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/08/022/8/007032,08,Surface report sequences (sea),308022,Month,,007032,Height of sensor above local ground (or deck of marine platform),Temperature measurement,,,Operational
+bufr4/3/08/022/9/007033,08,Surface report sequences (sea),308022,Month,,007033,Height of sensor above water surface,Temperature measurement,,,Operational
+bufr4/3/08/022/10/012101,08,Surface report sequences (sea),308022,Month,,012101,Temperature/air temperature,,,,Operational
+bufr4/3/08/022/11/013004,08,Surface report sequences (sea),308022,Month,,013004,Vapour pressure,,,,Operational
+bufr4/3/08/022/12/007032,08,Surface report sequences (sea),308022,Month,,007032,Height of sensor above local ground (or deck of marine platform),Set to missing (cancel),,,Operational
+bufr4/3/08/022/13/007033,08,Surface report sequences (sea),308022,Month,,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/08/022/14/302056,08,Surface report sequences (sea),308022,Month,,302056,Sea/water temperature,"Sea-surface temperature, method of measurement and depth below sea surface",,,Operational
+bufr4/3/08/022/15/008023,08,Surface report sequences (sea),308022,Month,,008023,First-order statistics Normals of precipitation,Set to missing (cancel),,,Operational
+bufr4/3/08/022/16/004001,08,Surface report sequences (sea),308022,Month,,004001,Year,Beginning of the reference period,,,Operational
+bufr4/3/08/022/17/004001,08,Surface report sequences (sea),308022,Month,,004001,Year,Ending of the reference period,,,Operational
+bufr4/3/08/022/18/004002,08,Surface report sequences (sea),308022,Month,,004002,Month,,,,Operational
+bufr4/3/08/022/19/004003,08,Surface report sequences (sea),308022,Month,,004003,Day,= 1,,,Operational
+bufr4/3/08/022/20/004004,08,Surface report sequences (sea),308022,Month,,004004,Hour,= 0,,,Operational
+bufr4/3/08/022/21/004074,08,Surface report sequences (sea),308022,Month,,004074,Short time period or displacement,,,,Operational
+bufr4/3/08/022/22/004022,08,Surface report sequences (sea),308022,Month,,004022,Time period or displacement,= 1,,,Operational
+bufr4/3/08/022/23/007032,08,Surface report sequences (sea),308022,Month,,007032,Height of sensor above local ground (or deck of marine platform),Precipitation measurement,,,Operational
+bufr4/3/08/022/24/008023,08,Surface report sequences (sea),308022,Month,,008023,First-order statistics,= 4 Mean value,,,Operational
+bufr4/3/08/022/25/013060,08,Surface report sequences (sea),308022,Month,,013060,Total accumulated precipitation,,,,Operational
+bufr4/3/08/022/26/004053,08,Surface report sequences (sea),308022,Month,,004053,Number of days with precipitation equal to or more than 1 mm,,,,Operational
+bufr4/3/08/022/27/008023,08,Surface report sequences (sea),308022,Month,,008023,First-order statistics (Sequence for representation of monthly values suitable for CLIMAT SHIP data in compliance with regional or national reporting practices),Set to missing (cancel),,,Operational
+bufr4/3/08/023/1/308021,08,Surface report sequences (sea),308023,Monthly values from an ocean weather station in compliance with regional or national reporting practices,,308021,Monthly values from an ocean weather station in compliance with regional or national reporting practices,,,,Operational
+bufr4/3/08/023/2/308022,08,Surface report sequences (sea),308023,Monthly values from an ocean weather station in compliance with regional or national reporting practices,,308022,Monthly normals for an ocean weather station in compliance with regional or national reporting practices I.2 – BUFR Table D/08 — 11,,,,Operational

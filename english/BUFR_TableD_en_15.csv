@@ -1,0 +1,235 @@
+Id,Category,CategoryOfSequences_en,FXY1,Title_en,SubTitle_en,FXY2,ElementName_en,ElementDescription_en,Note_en,noteIDs,Status
+bufr4/3/15/001/1/001011,15,Oceanographic report sequences,315001,Ship or mobile land station identifier,,001011,Ship or mobile land station identifier,Ship’s call sign,,,Operational
+bufr4/3/15/001/2/301011,15,Oceanographic report sequences,315001,Ship or mobile land station identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/15/001/3/301012,15,Oceanographic report sequences,315001,Ship or mobile land station identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/15/001/4/301023,15,Oceanographic report sequences,315001,Ship or mobile land station identifier,,301023,Latitude/longitude (coarse accuracy),,,,Operational
+bufr4/3/15/001/5/306001,15,Oceanographic report sequences,315001,Ship or mobile land station identifier,,306001,"Depth, temperature (Typically reported underwater sounding without optional fields)",,,,Operational
+bufr4/3/15/002/1/001011,15,Oceanographic report sequences,315002,Ship or mobile land station identifier,,001011,Ship or mobile land station identifier,Ship’s call sign,,,Operational
+bufr4/3/15/002/2/301011,15,Oceanographic report sequences,315002,Ship or mobile land station identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/15/002/3/301012,15,Oceanographic report sequences,315002,Ship or mobile land station identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/15/002/4/301023,15,Oceanographic report sequences,315002,Ship or mobile land station identifier,,301023,Latitude/longitude (coarse accuracy),,,,Operational
+bufr4/3/15/002/5/306004,15,Oceanographic report sequences,315002,Ship or mobile land station identifier,,306004,"Depth, temperature, salinity (Temperature and salinity profile observed by profile floats)",,,,Operational
+bufr4/3/15/003/1/001087,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,001087,WMO marine observing platform extended identifier,,,,Operational
+bufr4/3/15/003/2/001085,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,001085,Observing platform manufacturer’s model,,,,Operational
+bufr4/3/15/003/3/001086,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,001086,Observing platform manufacturer’s serial number,,,,Operational
+bufr4/3/15/003/4/002036,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,002036,Buoy type,,,,Operational
+bufr4/3/15/003/5/002148,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,002148,Data collection and/or location system,,,,Operational
+bufr4/3/15/003/6/002149,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,002149,Type of data buoy,,,,Operational
+bufr4/3/15/003/7/022055,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,022055,Float cycle number,,,,Operational
+bufr4/3/15/003/8/022056,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,022056,Direction of profile,,,,Operational
+bufr4/3/15/003/9/022067,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,022067,Instrument type for water temperature/salinity profile measurement,,,,Operational
+bufr4/3/15/003/10/301011,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,301011,"Year, month, day",,,,Operational
+bufr4/3/15/003/11/301012,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,301012,"Hour, minute",,,,Operational
+bufr4/3/15/003/12/301021,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/15/003/13/008080,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/15/003/14/033050,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/15/003/15/109000,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,109000,Delayed replication of 9 descriptors,,,,Operational
+bufr4/3/15/003/16/031002,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/15/003/17/007065,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,007065,Water pressure,,,,Operational
+bufr4/3/15/003/18/008080,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/15/003/19/033050,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/15/003/20/022045,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,022045,Sea/water temperature,,,,Operational
+bufr4/3/15/003/21/008080,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/15/003/22/033050,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/15/003/23/022064,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,022064,Salinity,,,,Operational
+bufr4/3/15/003/24/008080,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/15/003/25/033050,15,Oceanographic report sequences,315003,WMO marine observing platform extended identifier,,033050,Global GTSPP quality flag (XBT temperature profile data sequence),,,,Operational
+bufr4/3/15/004/1/001079,15,Oceanographic report sequences,315004,Unique identifier for the profile,,001079,Unique identifier for the profile,Hexadecimal string,,,Operational
+bufr4/3/15/004/2/001011,15,Oceanographic report sequences,315004,Unique identifier for the profile,,001011,Ship or mobile land station identifier,Ship’s call sign,,,Operational
+bufr4/3/15/004/3/001103,15,Oceanographic report sequences,315004,Unique identifier for the profile,,001103,IMO Number. Unique Lloyd’s register I.2,= 0 to 9999999 (continued) – BUFR Table D/15 — 1,,,Operational
+bufr4/3/15/004/1/001087,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001087,WMO marine observing platform extended identifier (see Note 1),,,,Operational
+bufr4/3/15/004/2/001019,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001019,Long station or site name,Ship name,,,Operational
+bufr4/3/15/004/3/001080,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001080,Ship line number according to SOOP,,,,Operational
+bufr4/3/15/004/4/005036,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,005036,Ship transect number according to SOOP (see Note 2),,,,Operational
+bufr4/3/15/004/5/001036,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001036,Agency in charge of operating the observing platform,,,,Operational
+bufr4/3/15/004/6/001013,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001013,Speed of motion of moving observing platform,,,,Operational
+bufr4/3/15/004/7/001012,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,001012,Direction of motion of moving observing platform,,,,Operational
+bufr4/3/15/004/8/301011,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,301011,"Year, month, day",,,,Operational
+bufr4/3/15/004/9/301012,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,301012,"Hour, minute",,,,Operational
+bufr4/3/15/004/10/301021,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/15/004/11/007032,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007032,Height of sensor above local ground (or deck of marine platform),,,,Operational
+bufr4/3/15/004/12/007033,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007033,Height of sensor above water surface,,,,Operational
+bufr4/3/15/004/13/002002,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,002002,Type of instrumentation for wind measurement,,,,Operational
+bufr4/3/15/004/14/011002,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,011002,Wind speed,,,,Operational
+bufr4/3/15/004/15/011001,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,011001,Wind direction,,,,Operational
+bufr4/3/15/004/16/007032,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007032,Height of sensor above local ground (or deck of marine platform),,,,Operational
+bufr4/3/15/004/17/007033,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007033,Height of sensor above water surface,,,,Operational
+bufr4/3/15/004/18/012101,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,012101,Temperature/air temperature,,,,Operational
+bufr4/3/15/004/19/012103,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,012103,Dewpoint temperature,,,,Operational
+bufr4/3/15/004/20/007032,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007032,Height of sensor above local ground (or deck of marine platform),Set to missing (cancel),,,Operational
+bufr4/3/15/004/21/007033,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,007033,Height of sensor above water surface,Set to missing (cancel),,,Operational
+bufr4/3/15/004/22/302021,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,302021,Waves,,,,Operational
+bufr4/3/15/004/23/002031,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,002031,Duration and time of current measurement,,,,Operational
+bufr4/3/15/004/24/002030,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,002030,Method of current measurement,,,,Operational
+bufr4/3/15/004/25/022005,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022005,Direction of sea-surface current,,,,Operational
+bufr4/3/15/004/26/022032,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022032,Speed of sea-surface current,,,,Operational
+bufr4/3/15/004/27/022063,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022063,Total water depth,,,,Operational
+bufr4/3/15/004/28/008080,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,008080,Qualifier for GTSPP quality flag,,,,Operational
+bufr4/3/15/004/29/033050,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/15/004/30/022178,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022178,XBT/XCTD launcher type,,,,Operational
+bufr4/3/15/004/31/022177,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022177,Height of XBT/XCTD launcher,Above sea level | 0 to 50 m in units of whole m,,,Operational
+bufr4/3/15/004/32/022067,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022067,Instrument type for water temperature/salinity profile measurement,,,,Operational
+bufr4/3/15/004/33/008041,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,008041,Data significance,,,,Operational
+bufr4/3/15/004/34/026021,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,026021,Year,,,,Operational
+bufr4/3/15/004/35/026022,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,026022,Month,,,,Operational
+bufr4/3/15/004/36/026023,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,026023,Day,,,,Operational
+bufr4/3/15/004/37/022068,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,022068,Water temperature profile recorder types,,,,Operational
+bufr4/3/15/004/38/025061,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,025061,Software identification and version number,,,,Operational
+bufr4/3/15/004/39/008041,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,008041,Data significance,Set to missing (cancel),,,Operational
+bufr4/3/15/004/40/008080,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,008080,Qualifier for GTSPP quality flag,Set to missing (cancel),,,Operational
+bufr4/3/15/004/41/002171,15,Oceanographic report sequences,315004,WMO marine observing platform extended identifier (see Note 1),,002171,Instrument serial number for water temperature profile measurement,,,,Operational
+bufr4/3/15/004/1/302090,15,Oceanographic report sequences,315004,Sea/water temperature high precision,,302090,Sea/water temperature high precision,,,,Operational
+bufr4/3/15/004/2/002171,15,Oceanographic report sequences,315004,Sea/water temperature high precision,,002171,Instrument serial number for water temperature profile measurement,,,,Operational
+bufr4/3/15/004/3/002032,15,Oceanographic report sequences,315004,Sea/water temperature high precision,,002032,Indicator for digitization (see Note 3),,,,Operational
+bufr4/3/15/004/4/315005,15,Oceanographic report sequences,315004,Sea/water temperature high precision,,315005,Water temperature profile (temperature profile observed by XBT or buoy) (Water temperature profile (temperature profile observed by XBT or buoy)),,,,Operational
+bufr4/3/15/005/1/106000,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,106000,Delayed replication of 6 descriptors,,,,Operational
+bufr4/3/15/005/2/031002,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,031002,Extended delayed descriptor replication factor,,,,Operational
+bufr4/3/15/005/3/007063,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,007063,Depth below sea/water surface (cm),,,,Operational
+bufr4/3/15/005/4/008080,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,008080,Qualifier for GTSPP quality flag,= 13 Water depth at a level,,,Operational
+bufr4/3/15/005/5/033050,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,033050,Global GTSPP quality flag,,,,Operational
+bufr4/3/15/005/6/022043,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,022043,Sea/water temperature,,,,Operational
+bufr4/3/15/005/7/008080,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,008080,Qualifier for GTSPP quality flag,= 11 Water temperature at a level,,,Operational
+bufr4/3/15/005/8/033050,15,Oceanographic report sequences,315005,Delayed replication of 6 descriptors,,033050,"Global GTSPP quality flag (Sequence for representation of data derived from a ship-based lowered instrument measuring subsurface sea/water temperature, salinity and current profiles)",,,,Operational
+bufr4/3/15/007/1/301003,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,301003,Ship’s call sign and motion Extended identification,,,,Operational
+bufr4/3/15/007/2/001019,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001019,Long station or site name,,,,Operational
+bufr4/3/15/007/3/001103,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001103,IMO Number. Unique Lloyd's register,Values are restricted to between 0 and 9999999,,,Operational
+bufr4/3/15/007/4/001087,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001087,WMO marine observing platform extended identifier Cruise/ship line information,"Set to missing, if ship's call sign is reported",,,Operational
+bufr4/3/15/007/5/001036,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001036,Agency in charge of operating the observing platform,,,,Operational
+bufr4/3/15/007/6/001115,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001115,Identifier of the cruise or mission under which the data were collected,"Set to missing, if no cruise identifier is reported",,,Operational
+bufr4/3/15/007/7/001080,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001080,Ship line number according to SOOP,,,,Operational
+bufr4/3/15/007/8/005036,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,005036,Ship transect number according to SOOP,,,,Operational
+bufr4/3/15/007/9/301011,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,301011,"Year, month, day",,,,Operational
+bufr4/3/15/007/10/301012,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,301012,"Hour, minute",,,,Operational
+bufr4/3/15/007/11/301021,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,301021,Latitude/longitude (high accuracy) Profile information,,,,Operational
+bufr4/3/15/007/12/001079,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001079,Unique identifier for the profile,,,,Operational
+bufr4/3/15/007/13/001023,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,001023,Observation sequence number,Cast/station number along the line/transect,,,Operational
+bufr4/3/15/007/14/022063,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,022063,Total water depth Surface pressure,,,,Operational
+bufr4/3/15/007/15/101000,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/007/16/031000,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/17/302001,15,Oceanographic report sequences,315007,Ship’s call sign and motion Extended identification,,302001,Pressure and 3-hour pressure change I.2,(continued) – BUFR Table D/15 — 3,,,Operational
+bufr4/3/15/007/1/101000,15,Oceanographic report sequences,315007,Waves,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/007/2/031000,15,Oceanographic report sequences,315007,Waves,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/3/302021,15,Oceanographic report sequences,315007,Waves,,302021,Waves Temperature and humidity data,,,,Operational
+bufr4/3/15/007/4/101000,15,Oceanographic report sequences,315007,Waves,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/007/5/031000,15,Oceanographic report sequences,315007,Waves,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/6/302052,15,Oceanographic report sequences,315007,Waves,,302052,Ship temperature and humidity data Wind data,,,,Operational
+bufr4/3/15/007/7/101000,15,Oceanographic report sequences,315007,Waves,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/007/8/031000,15,Oceanographic report sequences,315007,Waves,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/9/302059,15,Oceanographic report sequences,315007,Waves,,302059,"Ship wind data Surface temperature, salinity and current",,,,Operational
+bufr4/3/15/007/10/022067,15,Oceanographic report sequences,315007,Waves,,022067,Instrument type for water temperature/salinity profile measurement,,,,Operational
+bufr4/3/15/007/11/002171,15,Oceanographic report sequences,315007,Waves,,002171,Instrument serial number for water temperature profile measurement,,,,Operational
+bufr4/3/15/007/12/302090,15,Oceanographic report sequences,315007,Waves,,302090,Sea/water temperature high precision,Surface temperature,,,Operational
+bufr4/3/15/007/13/306033,15,Oceanographic report sequences,315007,Waves,,306033,Surface salinity,,,,Operational
+bufr4/3/15/007/14/306034,15,Oceanographic report sequences,315007,Waves,,306034,Surface current,,,,Operational
+bufr4/3/15/007/15/002171,15,Oceanographic report sequences,315007,Waves,,002171,Instrument serial number for water temperature profile measurement,Set to missing (cancel),,,Operational
+bufr4/3/15/007/16/022067,15,Oceanographic report sequences,315007,Waves,,022067,Instrument type for water temperature/salinity profile measurement Temperature and salinity profile data,Set to missing (cancel),,,Operational
+bufr4/3/15/007/17/002038,15,Oceanographic report sequences,315007,Waves,,002038,Method of water temperature and/or salinity measurement,,,,Operational
+bufr4/3/15/007/18/022067,15,Oceanographic report sequences,315007,Waves,,022067,Instrument type for water temperature/salinity profile measurement,,,,Operational
+bufr4/3/15/007/19/022068,15,Oceanographic report sequences,315007,Waves,,022068,Water temperature profile recorder types,,,,Operational
+bufr4/3/15/007/20/002171,15,Oceanographic report sequences,315007,Waves,,002171,Instrument serial number for water temperature profile measurement,,,,Operational
+bufr4/3/15/007/21/002033,15,Oceanographic report sequences,315007,Waves,,002033,Method of salinity/depth measurement,,,,Operational
+bufr4/3/15/007/22/002032,15,Oceanographic report sequences,315007,Waves,,002032,Indicator for digitization,,,,Operational
+bufr4/3/15/007/23/022056,15,Oceanographic report sequences,315007,Waves,,022056,Direction of profile,,,,Operational
+bufr4/3/15/007/24/003011,15,Oceanographic report sequences,315007,Waves,,003011,Method of depth calculation,,,,Operational
+bufr4/3/15/007/25/306035,15,Oceanographic report sequences,315007,Waves,,306035,Temperature and salinity profile Current profile data,,,,Operational
+bufr4/3/15/007/26/107000,15,Oceanographic report sequences,315007,Waves,,107000,Delayed replication of 7 descriptors,,,,Operational
+bufr4/3/15/007/27/031000,15,Oceanographic report sequences,315007,Waves,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/28/002032,15,Oceanographic report sequences,315007,Waves,,002032,Indicator for digitization,,,,Operational
+bufr4/3/15/007/29/003010,15,Oceanographic report sequences,315007,Waves,,003010,Method of sea/water current measurement,,,,Operational
+bufr4/3/15/007/30/002031,15,Oceanographic report sequences,315007,Waves,,002031,Duration and time of current measurement,,,,Operational
+bufr4/3/15/007/31/002040,15,Oceanographic report sequences,315007,Waves,,002040,Method of removing velocity and motion of platform from current,,,,Operational
+bufr4/3/15/007/32/022056,15,Oceanographic report sequences,315007,Waves,,022056,Direction of profile,,,,Operational
+bufr4/3/15/007/33/003011,15,Oceanographic report sequences,315007,Waves,,003011,Method of depth calculation,,,,Operational
+bufr4/3/15/007/34/306036,15,Oceanographic report sequences,315007,Waves,,306036,Current profile Dissolved oxygen profile data,,,,Operational
+bufr4/3/15/007/35/104000,15,Oceanographic report sequences,315007,Waves,,104000,Delayed replication of 4 descriptors,,,,Operational
+bufr4/3/15/007/1/031000,15,Oceanographic report sequences,315007,Short delayed descriptor replication factor,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/007/2/002032,15,Oceanographic report sequences,315007,Short delayed descriptor replication factor,,002032,Indicator for digitization,,,,Operational
+bufr4/3/15/007/3/003012,15,Oceanographic report sequences,315007,Short delayed descriptor replication factor,,003012,Instrument type/sensor for dissolved oxygen measurement,,,,Operational
+bufr4/3/15/007/4/003011,15,Oceanographic report sequences,315007,Short delayed descriptor replication factor,,003011,Method of depth calculation,,,,Operational
+bufr4/3/15/007/5/306037,15,Oceanographic report sequences,315007,Short delayed descriptor replication factor,,306037,Dissolved oxygen profile data (Sequence for the representation of data from moored buoys) Buoy identification and location,,,,Operational
+bufr4/3/15/008/1/301126,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,301126,Sequence for representation of moored buoy identification Standard meteorological data,,,,Operational
+bufr4/3/15/008/2/306038,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,306038,Sequence for representation of standard surface marine meteorological observations from moored buoys Optional ancillary meteorological data,"For buoys equipped with more than 1 anemometer, the height of sensor should relate to the one being used",,,Operational
+bufr4/3/15/008/3/101000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/008/4/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/5/302091,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,302091,Sequence for representation of ancillary meteorological observations Optional radiation measurements,,,,Operational
+bufr4/3/15/008/6/101000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/008/7/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/8/302082,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,302082,Radiation data Optional basic wave measurements,,,,Operational
+bufr4/3/15/008/9/101000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/008/10/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/11/306039,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,306039,Sequence for representation of basic wave measurements Optional spectral wave measurements,,,,Operational
+bufr4/3/15/008/12/101000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/008/13/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/14/306040,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,306040,Sequence for representation of detailed spectral wave measurements Optional temperature profile measurements,,,,Operational
+bufr4/3/15/008/15/102000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/15/008/16/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/17/002005,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,002005,Precision of temperature observation,,,,Operational
+bufr4/3/15/008/18/306041,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,306041,Depth and temperature profile (high accuracy/ precision) Optional temperature and salinity profile measurements,,,,Operational
+bufr4/3/15/008/19/102000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/15/008/20/031000,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/21/002005,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,002005,Precision of temperature observation,,,,Operational
+bufr4/3/15/008/22/306004,15,Oceanographic report sequences,315008,Sequence for representation of moored buoy identification Standard meteorological data,,306004,"Depth, temperature, salinity I.2",(continued) – BUFR Table D/15 — 5,,,Operational
+bufr4/3/15/008/1/101000,15,Oceanographic report sequences,315008,Optional subsurface current measurements,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/008/2/031000,15,Oceanographic report sequences,315008,Optional subsurface current measurements,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/008/3/306005,15,Oceanographic report sequences,315008,Optional subsurface current measurements,,306005,Subsurface current measurements (Sequence for the representation of data from drifting buoys),,,,Operational
+bufr4/3/15/009/1/001087,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,001087,WMO marine observing platform extended identifier,,,,Operational
+bufr4/3/15/009/2/001019,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,001019,Long station or site name,,,,Operational
+bufr4/3/15/009/3/002149,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002149,Type of data buoy Time/date of last known position,,,,Operational
+bufr4/3/15/009/4/008021,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,008021,Time significance,= 26 Time of last known position,,,Operational
+bufr4/3/15/009/5/301011,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,301011,"Year, month, day",Date of last known position,,,Operational
+bufr4/3/15/009/6/301012,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,301012,"Hour, minute Location and location quality",Time of last known position,,,Operational
+bufr4/3/15/009/7/301021,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,301021,Latitude/longitude (high accuracy),,,,Operational
+bufr4/3/15/009/8/208016,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,208016,Change width of CCITT IA5 field,Change to 16 characters,,,Operational
+bufr4/3/15/009/9/001051,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,001051,Platform Transmitter ID number,,,,Operational
+bufr4/3/15/009/10/208000,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,208000,Change width of CCITT IA5 field,Cancel,,,Operational
+bufr4/3/15/009/11/002148,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002148,Data collection and/or location system,"= 1 Argos, = 8 Iridium and GPS, = 9 Argos-3",,,Operational
+bufr4/3/15/009/12/001012,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,001012,Direction of motion of moving observing platform,Platform drift direction,,,Operational
+bufr4/3/15/009/13/001014,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,001014,Platform drift speed (high precision),Speed of motion of moving observing platform,,,Operational
+bufr4/3/15/009/14/033022,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,033022,Quality of buoy satellite transmission,,,,Operational
+bufr4/3/15/009/15/033023,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,033023,Quality of buoy location,,,,Operational
+bufr4/3/15/009/16/033027,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,033027,Location quality class (range of radius of 66% confidence),,,,Operational
+bufr4/3/15/009/17/025026,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,025026,Battery voltage (large range) Drogue status,Platform battery voltage,,,Operational
+bufr4/3/15/009/18/002034,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002034,Drogue type,,,,Operational
+bufr4/3/15/009/19/022060,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,022060,Lagrangian drifter drogue status,,,,Operational
+bufr4/3/15/009/20/007070,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,007070,Drogue depth,,,,Operational
+bufr4/3/15/009/21/002190,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002190,Lagrangian drifter submergence (% time submerged) Time/date of observation,,,,Operational
+bufr4/3/15/009/22/008021,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,008021,Time significance,= 25 Nominal reporting time,,,Operational
+bufr4/3/15/009/23/301011,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,301011,"Year, month, day",Date of observation,,,Operational
+bufr4/3/15/009/24/301012,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,301012,"Hour, minute Surface temperature and salinity",Time of observation,,,Operational
+bufr4/3/15/009/25/002005,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002005,Precision of temperature observation,,,,Operational
+bufr4/3/15/009/26/022043,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,022043,Sea/water temperature,,,,Operational
+bufr4/3/15/009/27/002033,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,002033,Method of salinity/depth measurement,,,,Operational
+bufr4/3/15/009/28/022059,15,Oceanographic report sequences,315009,WMO marine observing platform extended identifier,,022059,Sea-surface salinity,,,,Operational
+bufr4/3/15/009/1/008029,15,Oceanographic report sequences,315009,Surface type/ice information,,008029,Surface type,,,,Operational
+bufr4/3/15/009/2/013115,15,Oceanographic report sequences,315009,Surface type/ice information,,013115,Ice thickness Optional temperature and salinity profile measurements,,,,Operational
+bufr4/3/15/009/3/103000,15,Oceanographic report sequences,315009,Surface type/ice information,,103000,Delayed replication of 3 descriptors,,,,Operational
+bufr4/3/15/009/4/031000,15,Oceanographic report sequences,315009,Surface type/ice information,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/009/5/002005,15,Oceanographic report sequences,315009,Surface type/ice information,,002005,Precision of temperature observation,,,,Operational
+bufr4/3/15/009/6/306004,15,Oceanographic report sequences,315009,Surface type/ice information,,306004,"Depth, temperature, salinity",,,,Operational
+bufr4/3/15/009/7/002005,15,Oceanographic report sequences,315009,Surface type/ice information,,002005,Precision of temperature observation Pressure and air temperature data,Set to missing (cancel),,,Operational
+bufr4/3/15/009/8/010004,15,Oceanographic report sequences,315009,Surface type/ice information,,010004,Pressure,,,,Operational
+bufr4/3/15/009/9/010051,15,Oceanographic report sequences,315009,Surface type/ice information,,010051,Pressure reduced to mean sea level,,,,Operational
+bufr4/3/15/009/10/102000,15,Oceanographic report sequences,315009,Surface type/ice information,,102000,Delayed replication of 2 descriptors,,,,Operational
+bufr4/3/15/009/11/031000,15,Oceanographic report sequences,315009,Surface type/ice information,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/009/12/007033,15,Oceanographic report sequences,315009,Surface type/ice information,,007033,Height of sensor above water surface,,,,Operational
+bufr4/3/15/009/13/012101,15,Oceanographic report sequences,315009,Surface type/ice information,,012101,Temperature/air temperature Wind data,,,,Operational
+bufr4/3/15/009/14/101000,15,Oceanographic report sequences,315009,Surface type/ice information,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/009/15/031000,15,Oceanographic report sequences,315009,Surface type/ice information,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/009/16/306042,15,Oceanographic report sequences,315009,Surface type/ice information,,306042,Wind measurement from drifting buoy Wave data,,,,Operational
+bufr4/3/15/009/17/101000,15,Oceanographic report sequences,315009,Surface type/ice information,,101000,Delayed replication of 1 descriptor,,,,Operational
+bufr4/3/15/009/18/031000,15,Oceanographic report sequences,315009,Surface type/ice information,,031000,Short delayed descriptor replication factor,,,,Operational
+bufr4/3/15/009/19/306039,15,Oceanographic report sequences,315009,Surface type/ice information,,306039,Sequence for representation of basic wave measurements (First five Fourier components of the wave spectrum),,,,Operational
+bufr4/3/15/010/1/112000,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,112000,Delayed replication of 12 descriptors,,,,Operational
+bufr4/3/15/010/2/031001,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,031001,Delayed descriptor replication factor,,,,Operational
+bufr4/3/15/010/3/201144,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,201144,Change data width,Add 16 bits to the width for each data element in Table B,,,Operational
+bufr4/3/15/010/4/202133,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,202133,Change scale,Add 5 to the scale for each data element in Table B,,,Operational
+bufr4/3/15/010/5/022080,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,022080,Waveband central frequency,Hz,,,Operational
+bufr4/3/15/010/6/022096,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,022096,Spectral band width,Hz 2 -1,,,Operational
+bufr4/3/15/010/7/022069,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,022069,Spectral wave density,m Hz,,,Operational
+bufr4/3/15/010/8/202000,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,202000,Change scale,Cancel,,,Operational
+bufr4/3/15/010/9/201000,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,201000,Change data width,Cancel,,,Operational
+bufr4/3/15/010/10/042011,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,042011,a1 coefficient of the directional Fourier series,First moment of the directional wave spectrum,,,Operational
+bufr4/3/15/010/11/042012,15,Oceanographic report sequences,315010,Delayed replication of 12 descriptors,,042012,b1 coefficient of the directional Fourier series I.2,First moment of the directional wave spectrum (continued) – BUFR Table D/15 — 7,,,Operational
+bufr4/3/15/010/1/042013,15,Oceanographic report sequences,315010,a2 coefficient of the directional Fourier series,,042013,a2 coefficient of the directional Fourier series,Second moment of the directional wave spectrum,,,Operational
+bufr4/3/15/010/2/042014,15,Oceanographic report sequences,315010,a2 coefficient of the directional Fourier series,,042014,b2 coefficient of the directional Fourier series,Second moment of the directional wave spectrum,,,Operational
+bufr4/3/15/010/3/042015,15,Oceanographic report sequences,315010,a2 coefficient of the directional Fourier series,,042015,Check factor K,Inverse of wave ellipticity,,,Operational

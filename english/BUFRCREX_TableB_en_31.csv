@@ -1,0 +1,8 @@
+Id,ClassNo,ClassName_en,FXY,ElementName_en,BUFR_Unit_en,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_en,CREX_Scale,CREX_DataWidth_Char,Note_en,noteIDs,Status
+bufr4/0/31/000,31,BUFR Data description operator qualifiers,031000,Short delayed descriptor replication factor,Numeric,0,0,1,,,,,,Operational
+bufr4/0/31/001,31,BUFR Data description operator qualifiers,031001,Delayed descriptor replication factor,Numeric,0,0,8,,,,,,Operational
+bufr4/0/31/002,31,BUFR Data description operator qualifiers,031002,Extended delayed descriptor replication factor,Numeric,0,0,16,,,,,,Operational
+bufr4/0/31/011,31,BUFR Data description operator qualifiers,031011,Delayed descriptor and data repetition factor,Numeric,0,0,8,Non-existent in CREX,,,,,Operational
+bufr4/0/31/012,31,BUFR Data description operator qualifiers,031012,Extended delayed descriptor and data repetition factor,Numeric,0,0,16,,,,,,Operational
+bufr4/0/31/021,31,BUFR Data description operator qualifiers,031021,Associated field significance,Code table,0,0,6,,,,,,Operational
+bufr4/0/31/031,31,BUFR Data description operator qualifiers,031031,Data present indicator,Flag table,0,0,1,,,,,,Operational
