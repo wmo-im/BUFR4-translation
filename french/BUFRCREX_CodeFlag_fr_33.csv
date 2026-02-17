@@ -483,6 +483,10 @@ bufr4/0/33/088/10,033088,Indicateur de qualité de la colonne totale d’ozone,1
 bufr4/0/33/088/11,033088,Indicateur de qualité de la colonne totale d’ozone,11,Surface de neige ou de glace dans le champ de vision instantanée,≥,,,,Operational
 bufr4/0/33/088/12,033088,Indicateur de qualité de la colonne totale d’ozone,12,Distance zénithale du soleil en condition d’exclusion (nuit) (distance zénithale du soleil,88 degrés) ≤,,,,Operational
 bufr4/0/33/088/13,033088,Indicateur de qualité de la colonne totale d’ozone,13,Distance zénithale du soleil en condition dégradée (80 degrés < 88 degrés),distance zénithale du soleil,,,,Operational
+bufr4/0/33/088/14,033088,Indicateur de qualité de la colonne totale d’ozone,14,Indice de SO > 6 unités Dobson (condition dégradée) 2,,,,,Operational
+bufr4/0/33/088/15,033088,Indicateur de qualité de la colonne totale d’ozone,15,Les résidus ne sont pas homogènes (indique si les résidus des 22 longueurs d’onde sont homogènes),,,,,Operational
+bufr4/0/33/088/16,033088,Indicateur de qualité de la colonne totale d’ozone,16,La sélection d’O triplet n’est pas homogène dans le produit de l’extraction (homogénéité de 3 l’ozone triplet),,,,,Operational
+bufr4/0/33/088/17,033088,Indicateur de qualité de la colonne totale d’ozone,17,Mauvaise qualité des données d’entrée 18 bits Valeur manquante mis à 1,,,,,Operational
 bufr4/0/33/092/1,033092,Indicateur de qualité des données sur l’océan dans une bande précise,1,Altimètre en fonction,,,,,Operational
 bufr4/0/33/092/2,033092,Indicateur de qualité des données sur l’océan dans une bande précise,2,Radiomètre hyperfréquence en fonction,,,,,Operational
 bufr4/0/33/092/3-8,033092,Indicateur de qualité des données sur l’océan dans une bande précise,3-8,En réserve 9 bits Valeur manquante mis à 1,,,,,Operational

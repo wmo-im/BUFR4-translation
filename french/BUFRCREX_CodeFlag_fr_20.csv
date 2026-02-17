@@ -390,6 +390,9 @@ bufr4/0/20/012/49,020012,Type de nuage,49,Glace multicouche,,,,,Operational
 bufr4/0/20/012/50-58,020012,Type de nuage,50-58,En réserve,,,,,Operational
 bufr4/0/20/012/59,020012,Type de nuage,59,"Nuage invisible par suite d’obscurité, de brouillard, de tempête de poussière, de tempête de sable ou d’autres phénomènes analogues invisibles par suite d’obscurité, de brouillard, de chasse-poussière ou de chasse-sable,",,,,,Operational
 bufr4/0/20/012/60,020012,Type de nuage,60,"Nuages C invisibles par suite d’obscurité, de brouillard, de chasse-poussière ou de chasse-sable, H ou d’autres phénomènes semblables, ou en raison d’une couche continue de nuages situés à un niveau plus bas",,,,,Operational
+bufr4/0/20/012/61,020012,Type de nuage,61,"Nuages C invisibles par suite d’obscurité, de brouillard, de chasse-poussière ou de chasse-sable, M ou d’autres phénomènes semblables, ou en raison d’une couche continue de nuages situés à un niveau plus bas invisibles par suite d’obscurité, de brouillard, de chasse-poussière ou de chasse-sable,",,,,,Operational
+bufr4/0/20/012/62,020012,Type de nuage,62,"Nuages C invisibles par suite d’obscurité, de brouillard, de chasse-poussière ou de chasse-sable, L ou d’autres phénomènes semblables",,,,,Operational
+bufr4/0/20/012/63,020012,Type de nuage,63,"Valeur manquante _______ * La locution «mauvais temps» se rapporte aux conditions qui existent généralement pendant les précipitations, et immédiatement avant ou après celles-ci.",,,,,Operational
 bufr4/0/20/017/0,020017,Description du sommet des nuages,0,Nuages isolés ou fragments de nuages },,,,,Operational
 bufr4/0/20/017/1,020017,Description du sommet des nuages,1,Nuages continus,,,,,Operational
 bufr4/0/20/017/2,020017,Description du sommet des nuages,2,Nuages fragmentés – petites éclaircies sommets plats,,,,,Operational
@@ -861,6 +864,19 @@ bufr4/0/20/105/8,020105,Dimension de l’essaim ou de la bande d’acridiens et 
 bufr4/0/20/105/9,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,9,Zone couverte par des bandes dispersées > 1000 km 2,,,,,Operational
 bufr4/0/20/105/10-14,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,10-14,En réserve,,,,,Operational
 bufr4/0/20/105/15,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,15,Valeur manquante,,,,,Operational
+bufr4/0/20/105/0,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,0,"Petit essaim inférieur à 1 km , ou dizaines ou centaines d’individus adultes visibles simultanément 2 au sol, passage remontant à moins d’1 heure",,,,,Operational
+bufr4/0/20/105/1,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,1,"Petit essaim inférieur à 1 km , ou dizaines ou centaines d’individus adultes visibles simultanément 2 au sol, passage remontant à entre 1 et 6 heures",,,,,Operational
+bufr4/0/20/105/2,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,2,"Petit essaim inférieur à 1 km , ou dizaines ou centaines d’individus adultes visibles simultanément 2 au sol, passage remontant à plus de 6 heures",,,,,Operational
+bufr4/0/20/105/3,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,3,"Essaim moyen ou adultes dispersés, plusieurs visibles simulta­né­ment, passage remontant à moins de 1 heure",,,,,Operational
+bufr4/0/20/105/4,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,4,"Essaim moyen ou adultes dispersés, plusieurs visibles simultané­ment, passage remontant à entre 1 et 6 heures",,,,,Operational
+bufr4/0/20/105/5,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,5,"Essaim moyen ou adultes dispersés, plusieurs visibles simultanément, passage remontant à plus de 6 heures",,,,,Operational
+bufr4/0/20/105/6,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,6,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à moins de 1 heure",,,,,Operational
+bufr4/0/20/105/7,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,7,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à entre 1 et 6 heures",,,,,Operational
+bufr4/0/20/105/8,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,8,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à plus de 6 heures",,,,,Operational
+bufr4/0/20/105/9,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,9,Plus d’un essaim d’acridiens,,,,,Operational
+bufr4/0/20/105/10,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,10,La dimension de l’essaim et/ou la durée du passage n’ont pas pu être déterminées en raison de l’obscurité ou de phénomènes similaires,,,,,Operational
+bufr4/0/20/105/11-14,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,11-14,En réserve,,,,,Operational
+bufr4/0/20/105/15,020105,Dimension de l’essaim ou de la bande d’acridiens et durée du passage de l’essaim,15,Valeur manquante,,,,,Operational
 bufr4/0/20/106/0,020106,Densité de la population d’acridiens,0,En réserve,,,,,Operational
 bufr4/0/20/106/1,020106,Densité de la population d’acridiens,1,Essaim de faible densité (essaim visible uniquement lorsqu’il se trouve suffisamment proche pour que l’on distingue chaque individu),,,,,Operational
 bufr4/0/20/106/2,020106,Densité de la population d’acridiens,2,Essaim de densité moyenne,,,,,Operational
@@ -923,6 +939,28 @@ bufr4/0/20/136/22,020136,Types de nuages supplémentaires,22,"Tous les versants 
 bufr4/0/20/136/23,020136,Types de nuages supplémentaires,23,"Les montagnes sont dégagées du côté de l’observateur (seuls quelques nuages peuvent être présents) mais, du côté opposé des montagnes, il y a un mur continu de nuages",,,,,Operational
 bufr4/0/20/136/24,020136,Types de nuages supplémentaires,24,"Nuages rasant les montagnes, mais tous les versants et les montagnes sont dégagés (seuls quelques nuages peuvent exister sur les versants)",,,,,Operational
 bufr4/0/20/136/25,020136,Types de nuages supplémentaires,25,"Nuages rasant les montagnes, les sommets sont partiellement couverts par des traînées de précipitations ou par des nuages",,,,,Operational
+bufr4/0/20/136/26,020136,Types de nuages supplémentaires,26,"Tous les sommets sont dans les nuages, mais les cols restent dégagés; les versants peuvent être dégagés ou dans les nuages",,,,,Operational
+bufr4/0/20/136/27,020136,Types de nuages supplémentaires,27,"Les montagnes sont généralement dans les nuages et quelques sommets sont dégagés; les versants sont dans les nuages, complètement ou partiellement",,,,,Operational
+bufr4/0/20/136/28,020136,Types de nuages supplémentaires,28,"Tous les sommets, cols et versants sont dans les nuages",,,,,Operational
+bufr4/0/20/136/29,020136,Types de nuages supplémentaires,29,"On ne peut voir les montagnes à cause de l’obscurité, du brouillard, des chutes de neige, des précipitations, etc.",,,,,Operational
+bufr4/0/20/136/30-34,020136,Types de nuages supplémentaires,30-34,En réserve 35–39 Traînées de condensation ( N – Table de code 2752) t,,,,,Operational
+bufr4/0/20/136/35,020136,Types de nuages supplémentaires,35,Traînées de condensation non persistantes,,,,,Operational
+bufr4/0/20/136/36,020136,Types de nuages supplémentaires,36,"Traînées de condensation persistantes, couvrant moins de 1/8 du ciel",,,,,Operational
+bufr4/0/20/136/37,020136,Types de nuages supplémentaires,37,"Traînées de condensation persistantes, couvrant 1/8 du ciel",,,,,Operational
+bufr4/0/20/136/38,020136,Types de nuages supplémentaires,38,"Traînées de condensation persistantes, couvrant 2/8 du ciel",,,,,Operational
+bufr4/0/20/136/39,020136,Types de nuages supplémentaires,39,"Traînées de condensation persistantes, couvrant 3/8 du ciel ou plus 40–49 Conditions nuageuses observées d’un niveau supérieur (",N – Table de code 2754) v,,,,Operational
+bufr4/0/20/136/40,020136,Types de nuages supplémentaires,40,Pas de nuages ni de brume observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/41,020136,Types de nuages supplémentaires,41,Brume et ciel clair au-dessus observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/42,020136,Types de nuages supplémentaires,42,Bancs de brouillard épars observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/43,020136,Types de nuages supplémentaires,43,Couche de brouillard léger observée d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/44,020136,Types de nuages supplémentaires,44,Couche de brouillard épais observée d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/45,020136,Types de nuages supplémentaires,45,Quelques nuages isolés observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/46,020136,Types de nuages supplémentaires,46,Nuages isolés et brouillard au-dessous observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/47,020136,Types de nuages supplémentaires,47,Nombreux nuages isolés observés d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/48,020136,Types de nuages supplémentaires,48,Mer de nuages observée d’un niveau supérieur,,,,,Operational
+bufr4/0/20/136/49,020136,Types de nuages supplémentaires,49,Mauvaise visibilité empêchant l’observation vers le bas depuis un niveau supérieur,,,,,Operational
+bufr4/0/20/136/50-510,020136,Types de nuages supplémentaires,50-510,En réserve,,,,,Operational
+bufr4/0/20/136/511,020136,Types de nuages supplémentaires,511,Valeur manquante,,,,,Operational
 bufr4/0/20/137/0,020137,Évolution des nuages,0,Pas de modification,,,,,Operational
 bufr4/0/20/137/1,020137,Évolution des nuages,1,Cumulification,,,,,Operational
 bufr4/0/20/137/2,020137,Évolution des nuages,2,Élévation lente,,,,,Operational

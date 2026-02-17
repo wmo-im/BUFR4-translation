@@ -144,6 +144,8 @@ bufr4/0/40/054/7,040054,Erreurs de traitement et d’entrée potentielles,7,Lect
 bufr4/0/40/054/8,040054,Erreurs de traitement et d’entrée potentielles,8,Indicateur de qualité,,,,,Operational
 bufr4/0/40/054/9,040054,Erreurs de traitement et d’entrée potentielles,9,"Niveau 2 «à partir d’une régression linéaire» (F_Qual), indication d’un pixel si l’on ne peut pas se fier intégralement au niveau 2",,,,,Operational
 bufr4/0/40/054/10,040054,Erreurs de traitement et d’entrée potentielles,10,Champ vide ou données manquantes,,,,,Operational
+bufr4/0/40/054/11,040054,Erreurs de traitement et d’entrée potentielles,11,Absence d’une valeur pour la pression de surface,,,,,Operational
+bufr4/0/40/054/12,040054,Erreurs de traitement et d’entrée potentielles,12,Filtrage de la luminance énergétique 13 bits Valeur manquante mis à 1,,,,,Operational
 bufr4/0/40/055/1,040055,Diagnostics relatifs à l’extraction,1,Filtrage de la luminance énergétique,,,,,Operational
 bufr4/0/40/055/2,040055,Diagnostics relatifs à l’extraction,2,Régions polaires,,,,,Operational
 bufr4/0/40/055/3,040055,Diagnostics relatifs à l’extraction,3,Position la nuit,,,,,Operational

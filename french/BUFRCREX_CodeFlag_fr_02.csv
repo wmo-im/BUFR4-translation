@@ -48,6 +48,10 @@ bufr4/0/02/008/0,002008,Type de plate-forme en mer,0,Plate-forme fixe,,,,,Operat
 bufr4/0/02/008/1,002008,Type de plate-forme en mer,1,Navire de forage constituant une plate-forme mobile,,,,,Operational
 bufr4/0/02/008/2,002008,Type de plate-forme en mer,2,Plate-forme à vérins,,,,,Operational
 bufr4/0/02/008/3,002008,Type de plate-forme en mer,3,Plate-forme semi-submersible,,,,,Operational
+bufr4/0/02/008/4,002008,Type de plate-forme en mer,4,"Unité flottante de production, stockage et déchargement (FPSO)",,,,,Operational
+bufr4/0/02/008/5,002008,Type de plate-forme en mer,5,Bateau-feu,,,,,Operational
+bufr4/0/02/008/6-14,002008,Type de plate-forme en mer,6-14,En réserve,,,,,Operational
+bufr4/0/02/008/15,002008,Type de plate-forme en mer,15,Valeur manquante,,,,,Operational
 bufr4/0/02/011,002011,Type de radiosonde (Voir la table de code commune C–2 dans la Partie C/c.),,,,,,,Operational
 bufr4/0/02/012,002012,Méthode de calcul des données de radiosondage (À établir),,,,,,,Operational
 bufr4/0/02/013/0,002013,Correction du rayonnement solaire et infrarouge,0,Pas de correction,,,,,Operational
@@ -65,6 +69,12 @@ bufr4/0/02/013/15,002013,Correction du rayonnement solaire et infrarouge,15,Vale
 bufr4/0/02/014,002014,Technique de poursuite/état du système utilisé (Voir la table de code commune C–7 dans la Partie C/c.),,,,,,,Operational
 bufr4/0/02/015/0,002015,Degré d’équipement de la radiosonde,0,En réserve,,,,,Operational
 bufr4/0/02/015/1,002015,Degré d’équipement de la radiosonde,1,Radiosonde uniquement pour la mesure de la pression,,,,,Operational
+bufr4/0/02/015/2,002015,Degré d’équipement de la radiosonde,2,"Radiosonde uniquement pour la mesure de la pression, équipée d’un transpondeur",,,,,Operational
+bufr4/0/02/015/3,002015,Degré d’équipement de la radiosonde,3,"Radiosonde uniquement pour la mesure de la pression, équipée d’un réflecteur radar",,,,,Operational
+bufr4/0/02/015/4,002015,Degré d’équipement de la radiosonde,4,"Radiosonde ne mesurant pas la pression, équipée d’un transpondeur",,,,,Operational
+bufr4/0/02/015/5,002015,Degré d’équipement de la radiosonde,5,"Radiosonde ne mesurant pas la pression, équipée d’un réflecteur radar",,,,,Operational
+bufr4/0/02/015/6-14,002015,Degré d’équipement de la radiosonde,6-14,En réserve,,,,,Operational
+bufr4/0/02/015/15,002015,Degré d’équipement de la radiosonde,15,Valeur manquante,,,,,Operational
 bufr4/0/02/016/1,002016,Configuration de la radiosonde,1,Régulateur de traîne,,,,,Operational
 bufr4/0/02/016/2,002016,Configuration de la radiosonde,2,Charge légère,,,,,Operational
 bufr4/0/02/016/3,002016,Configuration de la radiosonde,3,Parachute,,,,,Operational
@@ -85,6 +95,33 @@ bufr4/0/02/020/3,002020,Classification des satellites,3,Tiros 2 (NOAA–14 et su
 bufr4/0/02/020/10,002020,Classification des satellites,10,EOS,,,,,Operational
 bufr4/0/02/020/20,002020,Classification des satellites,20,GPM–core,,,,,Operational
 bufr4/0/02/020/31,002020,Classification des satellites,31,DMSP,,,,,Operational
+bufr4/0/02/020/61,002020,Classification des satellites,61,Système polaire EUMETSAT (EPS),,,,,Operational
+bufr4/0/02/020/91,002020,Classification des satellites,91,ERS,,,,,Operational
+bufr4/0/02/020/92,002020,Classification des satellites,92,Sentinel–3,,,,,Operational
+bufr4/0/02/020/121,002020,Classification des satellites,121,ADEOS,,,,,Operational
+bufr4/0/02/020/122,002020,Classification des satellites,122,GCOM,,,,,Operational
+bufr4/0/02/020/241,002020,Classification des satellites,241,GOES,,,,,Operational
+bufr4/0/02/020/261,002020,Classification des satellites,261,JASON,,,,,Operational
+bufr4/0/02/020/271,002020,Classification des satellites,271,GMS,,,,,Operational
+bufr4/0/02/020/272,002020,Classification des satellites,272,MTSAT,,,,,Operational
+bufr4/0/02/020/273,002020,Classification des satellites,273,Himawari,,,,,Operational
+bufr4/0/02/020/281,002020,Classification des satellites,281,COMS,,,,,Operational
+bufr4/0/02/020/301,002020,Classification des satellites,301,INSAT,,,,,Operational
+bufr4/0/02/020/331,002020,Classification des satellites,331,Programme opérationnel METEOSAT (MOP),,,,,Operational
+bufr4/0/02/020/332,002020,Classification des satellites,332,Programme METEOSAT de transition (MTP),,,,,Operational
+bufr4/0/02/020/333,002020,Classification des satellites,333,Programme de satellites METEOSAT de la seconde génération (MSG),,,,,Operational
+bufr4/0/02/020/351,002020,Classification des satellites,351,GOMS,,,,,Operational
+bufr4/0/02/020/380,002020,Classification des satellites,380,FY–1,,,,,Operational
+bufr4/0/02/020/381,002020,Classification des satellites,381,FY–2,,,,,Operational
+bufr4/0/02/020/382,002020,Classification des satellites,382,FY–3,,,,,Operational
+bufr4/0/02/020/383,002020,Classification des satellites,383,FY–4,,,,,Operational
+bufr4/0/02/020/384-400,002020,Classification des satellites,384-400,En réserve,,,,,Operational
+bufr4/0/02/020/401,002020,Classification des satellites,401,GPS,,,,,Operational
+bufr4/0/02/020/402,002020,Classification des satellites,402,GLONASS,,,,,Operational
+bufr4/0/02/020/403,002020,Classification des satellites,403,GALILEO,,,,,Operational
+bufr4/0/02/020/404,002020,Classification des satellites,404,BDS (Système de navigation par satellite Beidou),,,,,Operational
+bufr4/0/02/020/405-510,002020,Classification des satellites,405-510,En réserve,,,,,Operational
+bufr4/0/02/020/511,002020,Classification des satellites,511,Valeur manquante,,,,,Operational
 bufr4/0/02/021/1,002021,Données instrumentales satellitaires utilisées dans le traitement,1,Sondeur en infrarouge à grand pouvoir séparateur (HIRS),,,,,Operational
 bufr4/0/02/021/2,002021,Données instrumentales satellitaires utilisées dans le traitement,2,Sondeur à hyperfréquence (MSU),,,,,Operational
 bufr4/0/02/021/3,002021,Données instrumentales satellitaires utilisées dans le traitement,3,Sondeur stratosphérique (SSU),,,,,Operational
@@ -95,6 +132,10 @@ bufr4/0/02/021/7,002021,Données instrumentales satellitaires utilisées dans le
 bufr4/0/02/021/8,002021,Données instrumentales satellitaires utilisées dans le traitement,8,ATSR (radiomètre à balayage dans le sens de la trace au sol) 9 bits Valeur manquante mis à 1,,,,,Operational
 bufr4/0/02/022/1,002022,Technique utilisée pour le traitement des données satellitaires,1,Technique de traitement non définie,,,,,Operational
 bufr4/0/02/022/2,002022,Technique utilisée pour le traitement des données satellitaires,2,Régression statistique automatique,,,,,Operational
+bufr4/0/02/022/3,002022,Technique utilisée pour le traitement des données satellitaires,3,Mesure ciel clair,,,,,Operational
+bufr4/0/02/022/4,002022,Technique utilisée pour le traitement des données satellitaires,4,Mesure ciel partiellement couvert,,,,,Operational
+bufr4/0/02/022/5,002022,Technique utilisée pour le traitement des données satellitaires,5,Mesure ciel couvert,,,,,Operational
+bufr4/0/02/022/6-7,002022,Technique utilisée pour le traitement des données satellitaires,6-7,"En réserve 8 bits Valeur manquante mis à 1 N O T E S : 1) L’expression «mesure ciel clair» indique que les valeurs de sondage ont été obtenues à partir des valeurs de la luminance énergétique par ciel clair dérivées de mesures réelles sur point à ciel dégagé.  On s’est servi de données HIRS troposphériques et stratosphériques, ainsi que de données MSU et SSU. 2) L’expression «mesure ciel partiellement couvert» indique que les valeurs de sondage ont été obtenues à partir des valeurs de la luminance énergétique par ciel clair, elles-mêmes calculées à partir de données concernant des points partiellement couverts. On s’est servi de données HIRS troposphériques et stratosphériques, ainsi que de données MSU et SSU. 3) L’expression «mesure ciel couvert» indique que les valeurs de sondage sont obtenues uniquement à partir de données HIRS stratosphériques, de données MSU et de données SSU.  Le ciel étant couvert, on n’a pas utilisé de données HIRS troposphériques.",,,,,Operational
 bufr4/0/02/023/0,002023,Méthode de calcul du vent à partir de données satellitaires,0,En réserve,,,,,Operational
 bufr4/0/02/023/1,002023,Méthode de calcul du vent à partir de données satellitaires,1,Vent dérivé du déplacement des nuages observé dans le canal infra­rouge,,,,,Operational
 bufr4/0/02/023/2,002023,Méthode de calcul du vent à partir de données satellitaires,2,Vent dérivé du déplacement des nuages observé dans le canal visible,,,,,Operational
@@ -282,6 +323,7 @@ bufr4/0/02/049/2,002049,Technique utilisée pour le traitement des données de s
 bufr4/0/02/049/3,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,3,Sondage par atmosphère claire,,,,,Operational
 bufr4/0/02/049/4,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,4,Sondage par atmosphère nuageuse,,,,,Operational
 bufr4/0/02/049/5-7,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,5-7,En réserve pour utilisation future 8 bits Valeur manquante mis à 1,,,,,Operational
+bufr4/0/02/049,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,,,,,,,Operational
 bufr4/0/02/050/1,002050,Canaux utilisés par le sondeur du satellite géostationnaire,1,"1 14,71",,,,,Operational
 bufr4/0/02/050/2,002050,Canaux utilisés par le sondeur du satellite géostationnaire,2,"2 14,37",,,,,Operational
 bufr4/0/02/050/3,002050,Canaux utilisés par le sondeur du satellite géostationnaire,3,"3 14,06",,,,,Operational
@@ -518,6 +560,11 @@ bufr4/0/02/104/1,002104,Polarisation de l’antenne,1,Polarisation verticale,,,,
 bufr4/0/02/104/2,002104,Polarisation de l’antenne,2,Polarisation circulaire droite,,,,,Operational
 bufr4/0/02/104/3,002104,Polarisation de l’antenne,3,Polarisation circulaire gauche,,,,,Operational
 bufr4/0/02/104/4,002104,Polarisation de l’antenne,4,Polarisation horizontale et verticale,,,,,Operational
+bufr4/0/02/104/5,002104,Polarisation de l’antenne,5,Polarisation circulaire droite et gauche,,,,,Operational
+bufr4/0/02/104/6,002104,Polarisation de l’antenne,6,Polarisation quasi horizontale,,,,,Operational
+bufr4/0/02/104/7,002104,Polarisation de l’antenne,7,Polarisation quasi verticale,,,,,Operational
+bufr4/0/02/104/8-14,002104,Polarisation de l’antenne,8-14,En réserve,,,,,Operational
+bufr4/0/02/104/15,002104,Polarisation de l’antenne,15,Valeur manquante,,,,,Operational
 bufr4/0/02/115/0,002115,Type d’équipement d’observation en surface,0,Banque de données ponctuelles (PDB),,,,,Operational
 bufr4/0/02/115/1,002115,Type d’équipement d’observation en surface,1,RSOIS,,,,,Operational
 bufr4/0/02/115/2,002115,Type d’équipement d’observation en surface,2,ASOS,,,,,Operational
@@ -558,6 +605,16 @@ bufr4/0/02/143/8,002143,Type d’instrument de mesure de l’ozone,8,Jodmètre,,
 bufr4/0/02/143/9,002143,Type d’instrument de mesure de l’ozone,9,Ozonomètre à filtre M-83,,,,,Operational
 bufr4/0/02/143/10,002143,Type d’instrument de mesure de l’ozone,10,Mast,,,,,Operational
 bufr4/0/02/143/11,002143,Type d’instrument de mesure de l’ozone,11,Oxford,,,,,Operational
+bufr4/0/02/143/12,002143,Type d’instrument de mesure de l’ozone,12,Paetzold,,,,,Operational
+bufr4/0/02/143/13,002143,Type d’instrument de mesure de l’ozone,13,Regener,,,,,Operational
+bufr4/0/02/143/14,002143,Type d’instrument de mesure de l’ozone,14,Réservé pour utilisation future,,,,,Operational
+bufr4/0/02/143/15,002143,Type d’instrument de mesure de l’ozone,15,Ozonomètre à filtre Vassy,,,,,Operational
+bufr4/0/02/143/16,002143,Type d’instrument de mesure de l’ozone,16,Iodure de carbone,,,,,Operational
+bufr4/0/02/143/17,002143,Type d’instrument de mesure de l’ozone,17,Barboteur pour mesure de l’ozone en surface,,,,,Operational
+bufr4/0/02/143/18,002143,Type d’instrument de mesure de l’ozone,18,Ozonomètre à filtre M-124,,,,,Operational
+bufr4/0/02/143/19,002143,Type d’instrument de mesure de l’ozone,19,Sonde à cellule électrochimique,,,,,Operational
+bufr4/0/02/143/20-126,002143,Type d’instrument de mesure de l’ozone,20-126,En réserve,,,,,Operational
+bufr4/0/02/143/127,002143,Type d’instrument de mesure de l’ozone,127,Valeur manquante,,,,,Operational
 bufr4/0/02/144/0,002144,Type de source lumineuse pour spectrophotomètres Brewer,0,"Rayonnement solaire direct Rayonnement solaire direct, atténuateur #1",,,,,Operational
 bufr4/0/02/144/1,002144,Type de source lumineuse pour spectrophotomètres Brewer,1,"Rayonnement solaire direct, atténuateur #1",,,,,Operational
 bufr4/0/02/144/2,002144,Type de source lumineuse pour spectrophotomètres Brewer,2,"Rayonnement solaire direct, atténuateur #2",,,,,Operational
@@ -605,6 +662,15 @@ bufr4/0/02/148/0,002148,Système de collecte des données et/ou de positionnemen
 bufr4/0/02/148/1,002148,Système de collecte des données et/ou de positionnement,1,Argos,,,,,Operational
 bufr4/0/02/148/2,002148,Système de collecte des données et/ou de positionnement,2,GPS,,,,,Operational
 bufr4/0/02/148/3,002148,Système de collecte des données et/ou de positionnement,3,GOES DCP,,,,,Operational
+bufr4/0/02/148/4,002148,Système de collecte des données et/ou de positionnement,4,METEOSAT DCP,,,,,Operational
+bufr4/0/02/148/5,002148,Système de collecte des données et/ou de positionnement,5,ORBCOMM,,,,,Operational
+bufr4/0/02/148/6,002148,Système de collecte des données et/ou de positionnement,6,INMARSAT,,,,,Operational
+bufr4/0/02/148/7,002148,Système de collecte des données et/ou de positionnement,7,Iridium,,,,,Operational
+bufr4/0/02/148/8,002148,Système de collecte des données et/ou de positionnement,8,Iridium et GPS,,,,,Operational
+bufr4/0/02/148/9,002148,Système de collecte des données et/ou de positionnement,9,Argos-3,,,,,Operational
+bufr4/0/02/148/10,002148,Système de collecte des données et/ou de positionnement,10,Argos-4,,,,,Operational
+bufr4/0/02/148/11-30,002148,Système de collecte des données et/ou de positionnement,11-30,En réserve,,,,,Operational
+bufr4/0/02/148/31,002148,Système de collecte des données et/ou de positionnement,31,Valeur manquante,,,,,Operational
 bufr4/0/02/149/0,002149,Type de bouée de collecte de données,0,Bouée dérivante non précisée,,,,,Operational
 bufr4/0/02/149/1,002149,Type de bouée de collecte de données,1,Bouée dérivante lagrangienne standard,,,,,Operational
 bufr4/0/02/149/2,002149,Type de bouée de collecte de données,2,Bouée dérivante standard de type PEMG (bouée dérivante météorologique non lagrangienne),,,,,Operational
@@ -632,6 +698,19 @@ bufr4/0/02/149/23,002149,Type de bouée de collecte de données,23,Ancrage FLEX 
 bufr4/0/02/149/24,002149,Type de bouée de collecte de données,24,Enregistreur de vagues omnidirectionnel,,,,,Operational
 bufr4/0/02/149/25,002149,Type de bouée de collecte de données,25,Enregistreur de vagues directionnel,,,,,Operational
 bufr4/0/02/149/26,002149,Type de bouée de collecte de données,26,Flotteur immergé ARGO,,,,,Operational
+bufr4/0/02/149/27,002149,Type de bouée de collecte de données,27,PALACE,,,,,Operational
+bufr4/0/02/149/28,002149,Type de bouée de collecte de données,28,NEMO,,,,,Operational
+bufr4/0/02/149/29,002149,Type de bouée de collecte de données,29,NINJA,,,,,Operational
+bufr4/0/02/149/30,002149,Type de bouée de collecte de données,30,Bouée/flotteur sur glaces dérivantes (POPS ou ITP),,,,,Operational
+bufr4/0/02/149/31-33,002149,Type de bouée de collecte de données,31-33,En réserve,,,,,Operational
+bufr4/0/02/149/34,002149,Type de bouée de collecte de données,34,Bouée ancrée océanographique,,,,,Operational
+bufr4/0/02/149/35,002149,Type de bouée de collecte de données,35,Bouée ancrée météorologique,,,,,Operational
+bufr4/0/02/149/36,002149,Type de bouée de collecte de données,36,Bouée ancrée multi-paramètres (OceanSITES),,,,,Operational
+bufr4/0/02/149/37,002149,Type de bouée de collecte de données,37,Marégraphe ou bouée Tsunami,,,,,Operational
+bufr4/0/02/149/38,002149,Type de bouée de collecte de données,38,Balise de glace,,,,,Operational
+bufr4/0/02/149/39,002149,Type de bouée de collecte de données,39,Bouée de mesure du bilan de masse des glaces,,,,,Operational
+bufr4/0/02/149/40-62,002149,Type de bouée de collecte de données,40-62,En réserve,,,,,Operational
+bufr4/0/02/149/63,002149,Type de bouée de collecte de données,63,Valeur manquante,,,,,Operational
 bufr4/0/02/150/0,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,0,En réserve,,,,,Operational
 bufr4/0/02/150/1,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,1,HIRS 1,,,,,Operational
 bufr4/0/02/150/2,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,2,HIRS 2,,,,,Operational
@@ -659,6 +738,35 @@ bufr4/0/02/150/23,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,23,
 bufr4/0/02/150/24,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,24,MSU 4,,,,,Operational
 bufr4/0/02/150/25,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,25,SSU 1,,,,,Operational
 bufr4/0/02/150/26,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,26,SSU 2,,,,,Operational
+bufr4/0/02/150/27,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,27,SSU 3,,,,,Operational
+bufr4/0/02/150/28,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,28,AMSU–A 1,,,,,Operational
+bufr4/0/02/150/29,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,29,AMSU–A 2,,,,,Operational
+bufr4/0/02/150/30,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,30,AMSU–A 3,,,,,Operational
+bufr4/0/02/150/31,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,31,AMSU–A 4,,,,,Operational
+bufr4/0/02/150/32,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,32,AMSU–A 5,,,,,Operational
+bufr4/0/02/150/33,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,33,AMSU–A 6,,,,,Operational
+bufr4/0/02/150/34,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,34,AMSU–A 7,,,,,Operational
+bufr4/0/02/150/35,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,35,AMSU–A 8,,,,,Operational
+bufr4/0/02/150/36,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,36,AMSU–A 9,,,,,Operational
+bufr4/0/02/150/37,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,37,AMSU–A 10,,,,,Operational
+bufr4/0/02/150/38,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,38,AMSU–A 11,,,,,Operational
+bufr4/0/02/150/39,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,39,AMSU–A 12,,,,,Operational
+bufr4/0/02/150/40,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,40,AMSU–A 13,,,,,Operational
+bufr4/0/02/150/41,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,41,AMSU–A 14,,,,,Operational
+bufr4/0/02/150/42,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,42,AMSU–A 15,,,,,Operational
+bufr4/0/02/150/43,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,43,AMSU–B 1/MHS 1,,,,,Operational
+bufr4/0/02/150/44,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,44,AMSU–B 2/MHS 2,,,,,Operational
+bufr4/0/02/150/45,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,45,AMSU–B 3/MHS 3,,,,,Operational
+bufr4/0/02/150/46,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,46,AMSU–B 4/MHS 4,,,,,Operational
+bufr4/0/02/150/47,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,47,AMSU–B 5/MHS 5,,,,,Operational
+bufr4/0/02/150/48,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,48,AVHRR 1,,,,,Operational
+bufr4/0/02/150/49,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,49,AVHRR 2,,,,,Operational
+bufr4/0/02/150/50,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,50,AVHRR 3a,,,,,Operational
+bufr4/0/02/150/51,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,51,AVHRR 3b,,,,,Operational
+bufr4/0/02/150/52,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,52,AVHRR 4,,,,,Operational
+bufr4/0/02/150/53,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,53,AVHRR 5,,,,,Operational
+bufr4/0/02/150/54-62,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,54-62,En réserve,,,,,Operational
+bufr4/0/02/150/63,002150,Numéro du canal de l’instrument TOVS/ATOVS/AVHRR,63,Valeur manquante,,,,,Operational
 bufr4/0/02/151/0,002151,Indicateur d’identification du radiomètre,0,HIRS,,,,,Operational
 bufr4/0/02/151/1,002151,Indicateur d’identification du radiomètre,1,MSU,,,,,Operational
 bufr4/0/02/151/2,002151,Indicateur d’identification du radiomètre,2,SSU,,,,,Operational
@@ -731,6 +839,12 @@ bufr4/0/02/162/10,002162,Méthode élargie de détermination de l’altitude,10,
 bufr4/0/02/162/11,002162,Méthode élargie de détermination de l’altitude,11,Fonction de contribution cumulative – 90 % de l’altitude,,,,,Operational
 bufr4/0/02/162/12,002162,Méthode élargie de détermination de l’altitude,12,Fonction de contribution cumulative – altitude du gradient maximal,,,,,Operational
 bufr4/0/02/162/13,002162,Méthode élargie de détermination de l’altitude,13,Méthode du quotient – un canal infrarouge sur deux canaux vapeur d’eau,,,,,Operational
+bufr4/0/02/162/14,002162,Méthode élargie de détermination de l’altitude,14,Détermination de l’altitude à partir de plusieurs éléments,,,,,Operational
+bufr4/0/02/162/15,002162,Méthode élargie de détermination de l’altitude,15,Estimation optimale,,,,,Operational
+bufr4/0/02/162/16,002162,Méthode élargie de détermination de l’altitude,16,Correction d’inversion,,,,,Operational
+bufr4/0/02/162/17,002162,Méthode élargie de détermination de l’altitude,17,Détermination géométrique de l’altitude,,,,,Operational
+bufr4/0/02/162/18,002162,Méthode élargie de détermination de l’altitude,18,– 62 En réserve,,,,,Operational
+bufr4/0/02/162/63,002162,Méthode élargie de détermination de l’altitude,63,Valeur manquante,,,,,Operational
 bufr4/0/02/163/0,002163,Méthode de détermination de l’altitude,0,Êditeur automatique,,,,,Operational
 bufr4/0/02/163/1,002163,Méthode de détermination de l’altitude,1,Détermination de l’altitude dans le canal infrarouge,,,,,Operational
 bufr4/0/02/163/2,002163,Méthode de détermination de l’altitude,2,Détermination de l’altitude dans le canal de la vapeur d’eau,,,,,Operational
@@ -755,6 +869,12 @@ bufr4/0/02/164/4-6,002164,Méthode de corrélation des traceurs,4-6,En réserve,
 bufr4/0/02/164/7,002164,Méthode de corrélation des traceurs,7,Valeur manquante,,,,,Operational
 bufr4/0/02/165/1,002165,Indicateur de type de luminance énergétique,1,Voie dégagée,,,,,Operational
 bufr4/0/02/165/2,002165,Indicateur de type de luminance énergétique,2,Voie partiellement nuageuse,,,,,Operational
+bufr4/0/02/165/3,002165,Indicateur de type de luminance énergétique,3,Voie nuageuse,,,,,Operational
+bufr4/0/02/165/4,002165,Indicateur de type de luminance énergétique,4,Signal apodisé,,,,,Operational
+bufr4/0/02/165/5,002165,Indicateur de type de luminance énergétique,5,Signal non apodisé,,,,,Operational
+bufr4/0/02/165/6,002165,Indicateur de type de luminance énergétique,6,Signal reconstruit,,,,,Operational
+bufr4/0/02/165/7,002165,Indicateur de type de luminance énergétique,7,Signal débarrassé de l’influence des nuages,,,,,Operational
+bufr4/0/02/165/8-14,002165,Indicateur de type de luminance énergétique,8-14,En réserve 15 bits Valeur manquante mis à 1,,,,,Operational
 bufr4/0/02/166/0,002166,Type de luminance énergétique,0,Type non défini,,,,,Operational
 bufr4/0/02/166/1,002166,Type de luminance énergétique,1,Régression statistique automatique,,,,,Operational
 bufr4/0/02/166/2,002166,Type de luminance énergétique,2,Mesure ciel clair,,,,,Operational
@@ -825,6 +945,11 @@ bufr4/0/02/180/0,002180,Système principal de détection du temps présent,0,Obs
 bufr4/0/02/180/1,002180,Système principal de détection du temps présent,1,Système de mesure de la diffusion optique en combinaison avec un système de détection de l’apparition des précipitations Système de mesure de la diffusion vers l’avant et/ou de la rétrodiffusion d’un faisceau lumineux visible,,,,,Operational
 bufr4/0/02/180/2,002180,Système principal de détection du temps présent,2,Système de mesure de la diffusion vers l’avant et/ou de la rétrodiffusion d’un faisceau lumineux visible,,,,,Operational
 bufr4/0/02/180/3,002180,Système principal de détection du temps présent,3,Système de mesure de la diffusion vers l’avant et/ou de la rétrodiffusion d’un faisceau lumineux infrarouge,,,,,Operational
+bufr4/0/02/180/4,002180,Système principal de détection du temps présent,4,Système à diode électroluminescente dans l’infrarouge (IRED),,,,,Operational
+bufr4/0/02/180/5,002180,Système principal de détection du temps présent,5,Système à radar Doppler,,,,,Operational
+bufr4/0/02/180/6-13,002180,Système principal de détection du temps présent,6-13,En réserve,,,,,Operational
+bufr4/0/02/180/14,002180,Système principal de détection du temps présent,14,Autre,,,,,Operational
+bufr4/0/02/180/15,002180,Système principal de détection du temps présent,15,Valeur manquante,,,,,Operational
 bufr4/0/02/181/1,002181,Capteur supplémentaire du temps présent,1,Détecteur de pluie,,,,,Operational
 bufr4/0/02/181/2,002181,Capteur supplémentaire du temps présent,2,Capteur de pluie se congelant,,,,,Operational
 bufr4/0/02/181/3,002181,Capteur supplémentaire du temps présent,3,Détecteur de glace,,,,,Operational
@@ -843,6 +968,12 @@ bufr4/0/02/183/0,002183,Système de détection des nuages,0,Observation manuelle
 bufr4/0/02/183/1,002183,Système de détection des nuages,1,Système à célomètre,,,,,Operational
 bufr4/0/02/183/2,002183,Système de détection des nuages,2,Système à caméra infrarouge,,,,,Operational
 bufr4/0/02/183/3,002183,Système de détection des nuages,3,Système à caméra dans le visible et en hyperfréquences,,,,,Operational
+bufr4/0/02/183/4,002183,Système de détection des nuages,4,Système à imageur du ciel,,,,,Operational
+bufr4/0/02/183/5,002183,Système de détection des nuages,5,Système à chrono-caméra vidéo,,,,,Operational
+bufr4/0/02/183/6,002183,Système de détection des nuages,6,Système à lidar à micro-impulsions,,,,,Operational
+bufr4/0/02/183/7-13,002183,Système de détection des nuages,7-13,En réserve,,,,,Operational
+bufr4/0/02/183/14,002183,Système de détection des nuages,14,Autre,,,,,Operational
+bufr4/0/02/183/15,002183,Système de détection des nuages,15,Valeur manquante,,,,,Operational
 bufr4/0/02/184/0,002184,Type de capteur de détection de la foudre,0,Observation manuelle,,,,,Operational
 bufr4/0/02/184/1,002184,Type de capteur de détection de la foudre,1,Capteur imageur d’éclairs,,,,,Operational
 bufr4/0/02/184/2,002184,Type de capteur de détection de la foudre,2,Détecteur d’orages électriques,,,,,Operational
