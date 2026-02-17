@@ -16,39 +16,39 @@ bufr4/3/16/002/4/004003,16,Secuencias de las características sinópticas,316002
 bufr4/3/16/002/5/004004,16,Secuencias de las características sinópticas,316002,,,004004,,,,,Operational,Original
 bufr4/3/16/002/6/004005,16,Secuencias de las características sinópticas,316002,,,004005,,,,,Operational,Original
 bufr4/3/16/002/7/001033,16,Secuencias de las características sinópticas,316002,,,001033,,,,,Operational,Original
-bufr4/3/16/002/8/008021,16,Secuencias de las características sinópticas,316002,,,008021,Hora de validez (pronóstico),,,,Operational,Original
-bufr4/3/16/002/9/004001,16,Secuencias de las características sinópticas,316002,,,004001,,,,,Operational,Original
-bufr4/3/16/002/10/004002,16,Secuencias de las características sinópticas,316002,,,004002,,,,,Operational,Original
-bufr4/3/16/002/11/004003,16,Secuencias de las características sinópticas,316002,,,004003,,,,,Operational,Original
-bufr4/3/16/002/12/004004,16,Secuencias de las características sinópticas,316002,,,004004,,,,,Operational,Original
-bufr4/3/16/002/13/004005,16,Secuencias de las características sinópticas,316002,,,004005,,,,,Operational,Original
-bufr4/3/16/002/14/007002,16,Secuencias de las características sinópticas,316002,,,007002,Nivel de vuelo (base de la capa del mapa),,,,Operational,Original
-bufr4/3/16/002/15/007002,16,Secuencias de las características sinópticas,316002,,,007002,Nivel de vuelo (cima de la capa del mapa),,,,Operational,Original
+bufr4/3/16/002/1/008021,16,Secuencias de las características sinópticas,316002,,,008021,Hora de validez (pronóstico),,,,Operational,Original
+bufr4/3/16/002/2/004001,16,Secuencias de las características sinópticas,316002,,,004001,,,,,Operational,Original
+bufr4/3/16/002/3/004002,16,Secuencias de las características sinópticas,316002,,,004002,,,,,Operational,Original
+bufr4/3/16/002/4/004003,16,Secuencias de las características sinópticas,316002,,,004003,,,,,Operational,Original
+bufr4/3/16/002/5/004004,16,Secuencias de las características sinópticas,316002,,,004004,,,,,Operational,Original
+bufr4/3/16/002/6/004005,16,Secuencias de las características sinópticas,316002,,,004005,,,,,Operational,Original
+bufr4/3/16/002/8/007002,16,Secuencias de las características sinópticas,316002,,,007002,Nivel de vuelo (base de la capa del mapa),,,,Operational,Original
+bufr4/3/16/002/8/007002,16,Secuencias de las características sinópticas,316002,,,007002,Nivel de vuelo (cima de la capa del mapa),,,,Operational,Original
 bufr4/3/16/003/1/110000,16,Secuencias de las características sinópticas,316003,(análisis),,110000,,,,,Operational,Original
 bufr4/3/16/003/2/031001,16,Secuencias de las características sinópticas,316003,(análisis),,031001,,,,,Operational,Original
 bufr4/3/16/003/3/008011,16,Secuencias de las características sinópticas,316003,(análisis),,008011,Valor de la corriente de chorro,,,,Operational,Original
 bufr4/3/16/003/4/008007,16,Secuencias de las características sinópticas,316003,(análisis),,008007,Valor de la línea,,,,Operational,Original
 bufr4/3/16/003/5/104000,16,Secuencias de las características sinópticas,316003,(análisis),,104000,,,,,Operational,Original
-bufr4/3/16/003/6/031001,16,Secuencias de las características sinópticas,316003,(análisis),,031001,,,,,Operational,Original
-bufr4/3/16/003/7/005002,16,Secuencias de las características sinópticas,316003,(análisis),,005002,,,,,Operational,Original
-bufr4/3/16/003/8/006002,16,Secuencias de las características sinópticas,316003,(análisis),,006002,,,,,Operational,Original
-bufr4/3/16/003/9/010002,16,Secuencias de las características sinópticas,316003,(análisis),,010002,Nivel de vuelo,,,,Operational,Original
-bufr4/3/16/003/10/011002,16,Secuencias de las características sinópticas,316003,(análisis),,011002,,,,,Operational,Original
-bufr4/3/16/003/11/008007,16,Secuencias de las características sinópticas,316003,(análisis),,008007,Anular,,,,Operational,Original
-bufr4/3/16/003/12/008011,16,Secuencias de las características sinópticas,316003,(análisis),,008011,Anular | Fin del objeto I.2 – BUFR Tabla D/16 — 1,(continúa),,,Operational,Original
+bufr4/3/16/003/2/031001,16,Secuencias de las características sinópticas,316003,(análisis),,031001,,,,,Operational,Original
+bufr4/3/16/003/6/005002,16,Secuencias de las características sinópticas,316003,(análisis),,005002,,,,,Operational,Original
+bufr4/3/16/003/7/006002,16,Secuencias de las características sinópticas,316003,(análisis),,006002,,,,,Operational,Original
+bufr4/3/16/003/8/010002,16,Secuencias de las características sinópticas,316003,(análisis),,010002,Nivel de vuelo,,,,Operational,Original
+bufr4/3/16/003/9/011002,16,Secuencias de las características sinópticas,316003,(análisis),,011002,,,,,Operational,Original
+bufr4/3/16/003/4/008007,16,Secuencias de las características sinópticas,316003,(análisis),,008007,Anular,,,,Operational,Original
+bufr4/3/16/003/3/008011,16,Secuencias de las características sinópticas,316003,(análisis),,008011,Anular | Fin del objeto I.2 – BUFR Tabla D/16 — 1,(continúa),,,Operational,Original
 bufr4/3/16/004/1/111000,16,Secuencias de las características sinópticas,316004,,,111000,,,,,Operational,Original
 bufr4/3/16/004/2/031001,16,Secuencias de las características sinópticas,316004,,,031001,,,,,Operational,Original
 bufr4/3/16/004/3/008011,16,Secuencias de las características sinópticas,316004,,,008011,Valor de la turbulencia,,,,Operational,Original
 bufr4/3/16/004/4/008007,16,Secuencias de las características sinópticas,316004,,,008007,Valor del área,,,,Operational,Original
 bufr4/3/16/004/5/007002,16,Secuencias de las características sinópticas,316004,,,007002,Nivel de vuelo (base de la capa),,,,Operational,Original
-bufr4/3/16/004/6/007002,16,Secuencias de las características sinópticas,316004,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
-bufr4/3/16/004/7/102000,16,Secuencias de las características sinópticas,316004,,,102000,,,,,Operational,Original
-bufr4/3/16/004/8/031001,16,Secuencias de las características sinópticas,316004,,,031001,,,,,Operational,Original
-bufr4/3/16/004/9/005002,16,Secuencias de las características sinópticas,316004,,,005002,,,,,Operational,Original
-bufr4/3/16/004/10/006002,16,Secuencias de las características sinópticas,316004,,,006002,,,,,Operational,Original
-bufr4/3/16/004/11/011031,16,Secuencias de las características sinópticas,316004,,,011031,,,,,Operational,Original
-bufr4/3/16/004/12/008007,16,Secuencias de las características sinópticas,316004,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/004/13/008011,16,Secuencias de las características sinópticas,316004,,,008011,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/004/5/007002,16,Secuencias de las características sinópticas,316004,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
+bufr4/3/16/004/6/102000,16,Secuencias de las características sinópticas,316004,,,102000,,,,,Operational,Original
+bufr4/3/16/004/2/031001,16,Secuencias de las características sinópticas,316004,,,031001,,,,,Operational,Original
+bufr4/3/16/004/7/005002,16,Secuencias de las características sinópticas,316004,,,005002,,,,,Operational,Original
+bufr4/3/16/004/8/006002,16,Secuencias de las características sinópticas,316004,,,006002,,,,,Operational,Original
+bufr4/3/16/004/9/011031,16,Secuencias de las características sinópticas,316004,,,011031,,,,,Operational,Original
+bufr4/3/16/004/4/008007,16,Secuencias de las características sinópticas,316004,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/004/3/008011,16,Secuencias de las características sinópticas,316004,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/005/1/108000,16,Secuencias de las características sinópticas,316005,,,108000,,,,,Operational,Original
 bufr4/3/16/005/2/031001,16,Secuencias de las características sinópticas,316005,,,031001,,,,,Operational,Original
 bufr4/3/16/005/3/008005,16,Secuencias de las características sinópticas,316005,,,008005,Centro de la tormenta,,,,Operational,Original
@@ -57,56 +57,60 @@ bufr4/3/16/005/5/005002,16,Secuencias de las características sinópticas,316005
 bufr4/3/16/005/6/006002,16,Secuencias de las características sinópticas,316005,,,006002,,,,,Operational,Original
 bufr4/3/16/005/7/001026,16,Secuencias de las características sinópticas,316005,,,001026,Se utiliza “UNKNOWN” para una tempestad de arena,,,,Operational,Original
 bufr4/3/16/005/8/019001,16,Secuencias de las características sinópticas,316005,,,019001,Valor correspondiente al tipo de tormenta,,,,Operational,Original
-bufr4/3/16/005/9/008007,16,Secuencias de las características sinópticas,316005,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/005/10/008005,16,Secuencias de las características sinópticas,316005,,,008005,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/005/4/008007,16,Secuencias de las características sinópticas,316005,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/005/3/008005,16,Secuencias de las características sinópticas,316005,,,008005,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/006/1/112000,16,Secuencias de las características sinópticas,316006,,,112000,,,,,Operational,Original
 bufr4/3/16/006/2/031001,16,Secuencias de las características sinópticas,316006,,,031001,,,,,Operational,Original
 bufr4/3/16/006/3/008011,16,Secuencias de las características sinópticas,316006,,,008011,Valor de la nube,,,,Operational,Original
 bufr4/3/16/006/4/008007,16,Secuencias de las características sinópticas,316006,,,008007,Valor del área,,,,Operational,Original
 bufr4/3/16/006/5/007002,16,Secuencias de las características sinópticas,316006,,,007002,Nivel de vuelo (base de la capa),,,,Operational,Original
-bufr4/3/16/006/6/007002,16,Secuencias de las características sinópticas,316006,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
-bufr4/3/16/006/7/102000,16,Secuencias de las características sinópticas,316006,,,102000,,,,,Operational,Original
-bufr4/3/16/006/8/031001,16,Secuencias de las características sinópticas,316006,,,031001,,,,,Operational,Original
-bufr4/3/16/006/9/005002,16,Secuencias de las características sinópticas,316006,,,005002,,,,,Operational,Original
-bufr4/3/16/006/10/006002,16,Secuencias de las características sinópticas,316006,,,006002,,,,,Operational,Original
-bufr4/3/16/006/11/020011,16,Secuencias de las características sinópticas,316006,,,020011,,,,,Operational,Original
-bufr4/3/16/006/12/020012,16,Secuencias de las características sinópticas,316006,,,020012,,,,,Operational,Original
-bufr4/3/16/006/13/008007,16,Secuencias de las características sinópticas,316006,,,008007,Anular,(continúa),,,Operational,Original
+bufr4/3/16/006/5/007002,16,Secuencias de las características sinópticas,316006,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
+bufr4/3/16/006/6/102000,16,Secuencias de las características sinópticas,316006,,,102000,,,,,Operational,Original
+bufr4/3/16/006/2/031001,16,Secuencias de las características sinópticas,316006,,,031001,,,,,Operational,Original
+bufr4/3/16/006/7/005002,16,Secuencias de las características sinópticas,316006,,,005002,,,,,Operational,Original
+bufr4/3/16/006/8/006002,16,Secuencias de las características sinópticas,316006,,,006002,,,,,Operational,Original
+bufr4/3/16/006/9/020011,16,Secuencias de las características sinópticas,316006,,,020011,,,,,Operational,Original
+bufr4/3/16/006/10/020012,16,Secuencias de las características sinópticas,316006,,,020012,,,,,Operational,Original
+bufr4/3/16/006/4/008007,16,Secuencias de las características sinópticas,316006,,,008007,Anular,(continúa),,,Operational,Original
+bufr4/3/16/006/3/008011,16,Secuencias de las características sinópticas,316006,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/007/1/110000,16,Secuencias de las características sinópticas,316007,,,110000,,,,,Operational,Original
 bufr4/3/16/007/2/031001,16,Secuencias de las características sinópticas,316007,,,031001,,,,,Operational,Original
 bufr4/3/16/007/3/008011,16,Secuencias de las características sinópticas,316007,,,008011,Valor correspondiente al tipo de frente,,,,Operational,Original
 bufr4/3/16/007/4/008007,16,Secuencias de las características sinópticas,316007,,,008007,Valor de la línea,,,,Operational,Original
 bufr4/3/16/007/5/104000,16,Secuencias de las características sinópticas,316007,,,104000,,,,,Operational,Original
-bufr4/3/16/007/6/031001,16,Secuencias de las características sinópticas,316007,,,031001,,,,,Operational,Original
-bufr4/3/16/007/7/005002,16,Secuencias de las características sinópticas,316007,,,005002,,,,,Operational,Original
-bufr4/3/16/007/8/006002,16,Secuencias de las características sinópticas,316007,,,006002,,,,,Operational,Original
-bufr4/3/16/007/9/019005,16,Secuencias de las características sinópticas,316007,,,019005,,,,,Operational,Original
-bufr4/3/16/007/10/019006,16,Secuencias de las características sinópticas,316007,,,019006,,,,,Operational,Original
-bufr4/3/16/007/11/008007,16,Secuencias de las características sinópticas,316007,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/007/12/008011,16,Secuencias de las características sinópticas,316007,,,008011,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/007/2/031001,16,Secuencias de las características sinópticas,316007,,,031001,,,,,Operational,Original
+bufr4/3/16/007/6/005002,16,Secuencias de las características sinópticas,316007,,,005002,,,,,Operational,Original
+bufr4/3/16/007/7/006002,16,Secuencias de las características sinópticas,316007,,,006002,,,,,Operational,Original
+bufr4/3/16/007/8/019005,16,Secuencias de las características sinópticas,316007,,,019005,,,,,Operational,Original
+bufr4/3/16/007/9/019006,16,Secuencias de las características sinópticas,316007,,,019006,,,,,Operational,Original
+bufr4/3/16/007/4/008007,16,Secuencias de las características sinópticas,316007,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/007/3/008011,16,Secuencias de las características sinópticas,316007,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/008/1/111000,16,Secuencias de las características sinópticas,316008,,,111000,,,,,Operational,Original
 bufr4/3/16/008/2/031001,16,Secuencias de las características sinópticas,316008,,,031001,,,,,Operational,Original
 bufr4/3/16/008/3/008001,16,Secuencias de las características sinópticas,316008,,,008001,Se fija el bit 3 para la tropopausa.,,,,Operational,Original
 bufr4/3/16/008/4/008007,16,Secuencias de las características sinópticas,316008,,,008007,Valor del punto,,,,Operational,Original
 bufr4/3/16/008/5/008023,16,Secuencias de las características sinópticas,316008,,,008023,Valor correspondiente al tipo de tropopausa,,,,Operational,Original
 bufr4/3/16/008/6/103000,16,Secuencias de las características sinópticas,316008,,,103000,,,,,Operational,Original
-bufr4/3/16/008/7/031001,16,Secuencias de las características sinópticas,316008,,,031001,,,,,Operational,Original
-bufr4/3/16/008/8/005002,16,Secuencias de las características sinópticas,316008,,,005002,,,,,Operational,Original
-bufr4/3/16/008/9/006002,16,Secuencias de las características sinópticas,316008,,,006002,,,,,Operational,Original
-bufr4/3/16/008/10/010002,16,Secuencias de las características sinópticas,316008,,,010002,,,,,Operational,Original
-bufr4/3/16/008/11/008023,16,Secuencias de las características sinópticas,316008,,,008023,Anular,,,,Operational,Original
-bufr4/3/16/008/12/008007,16,Secuencias de las características sinópticas,316008,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/008/13/008001,16,Secuencias de las características sinópticas,316008,,,008001,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/008/2/031001,16,Secuencias de las características sinópticas,316008,,,031001,,,,,Operational,Original
+bufr4/3/16/008/7/005002,16,Secuencias de las características sinópticas,316008,,,005002,,,,,Operational,Original
+bufr4/3/16/008/8/006002,16,Secuencias de las características sinópticas,316008,,,006002,,,,,Operational,Original
+bufr4/3/16/008/9/010002,16,Secuencias de las características sinópticas,316008,,,010002,,,,,Operational,Original
+bufr4/3/16/008/5/008023,16,Secuencias de las características sinópticas,316008,,,008023,Anular,,,,Operational,Original
+bufr4/3/16/008/4/008007,16,Secuencias de las características sinópticas,316008,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/008/3/008001,16,Secuencias de las características sinópticas,316008,,,008001,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/009/1/111000,16,Secuencias de las características sinópticas,316009,,,111000,,,,,Operational,Original
 bufr4/3/16/009/2/031001,16,Secuencias de las características sinópticas,316009,,,031001,,,,,Operational,Original
 bufr4/3/16/009/3/008011,16,Secuencias de las características sinópticas,316009,,,008011,Valor correspondiente al engelamiento del fuselaje de la aeronave,,,,Operational,Original
 bufr4/3/16/009/4/008007,16,Secuencias de las características sinópticas,316009,,,008007,Valor del área,,,,Operational,Original
 bufr4/3/16/009/5/007002,16,Secuencias de las características sinópticas,316009,,,007002,Nivel de vuelo (base de la capa),,,,Operational,Original
-bufr4/3/16/009/6/007002,16,Secuencias de las características sinópticas,316009,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
-bufr4/3/16/009/7/102000,16,Secuencias de las características sinópticas,316009,,,102000,,,,,Operational,Original
-bufr4/3/16/009/8/031001,16,Secuencias de las características sinópticas,316009,,,031001,,,,,Operational,Original
-bufr4/3/16/009/9/005002,16,Secuencias de las características sinópticas,316009,,,005002,,,,,Operational,Original
-bufr4/3/16/009/10/006002,16,Secuencias de las características sinópticas,316009,,,006002,I.2 – BUFR Tabla D/16 — 3,(continúa),,,Operational,Original
+bufr4/3/16/009/5/007002,16,Secuencias de las características sinópticas,316009,,,007002,Nivel de vuelo (cima de la capa),,,,Operational,Original
+bufr4/3/16/009/6/102000,16,Secuencias de las características sinópticas,316009,,,102000,,,,,Operational,Original
+bufr4/3/16/009/2/031001,16,Secuencias de las características sinópticas,316009,,,031001,,,,,Operational,Original
+bufr4/3/16/009/7/005002,16,Secuencias de las características sinópticas,316009,,,005002,,,,,Operational,Original
+bufr4/3/16/009/8/006002,16,Secuencias de las características sinópticas,316009,,,006002,I.2 – BUFR Tabla D/16 — 3,(continúa),,,Operational,Original
+bufr4/3/16/009/9/020041,16,Secuencias de las características sinópticas,316009,,,020041,Tipo de engelamiento del fuselaje de la aeronave,,,,Operational,Original
+bufr4/3/16/009/4/008007,16,Secuencias de las características sinópticas,316009,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/009/3/008011,16,Secuencias de las características sinópticas,316009,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/010/1/107000,16,Secuencias de las características sinópticas,316010,,,107000,,,,,Operational,Original
 bufr4/3/16/010/2/031001,16,Secuencias de las características sinópticas,316010,,,031001,,,,,Operational,Original
 bufr4/3/16/010/3/008011,16,Secuencias de las características sinópticas,316010,,,008011,,,,,Operational,Original
@@ -114,33 +118,55 @@ bufr4/3/16/010/4/008007,16,Secuencias de las características sinópticas,316010
 bufr4/3/16/010/5/001022,16,Secuencias de las características sinópticas,316010,,,001022,,,,,Operational,Original
 bufr4/3/16/010/6/005002,16,Secuencias de las características sinópticas,316010,,,005002,,,,,Operational,Original
 bufr4/3/16/010/7/006002,16,Secuencias de las características sinópticas,316010,,,006002,,,,,Operational,Original
-bufr4/3/16/010/8/008007,16,Secuencias de las características sinópticas,316010,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/010/9/008011,16,Secuencias de las características sinópticas,316010,,,008011,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/010/4/008007,16,Secuencias de las características sinópticas,316010,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/010/3/008011,16,Secuencias de las características sinópticas,316010,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/011/1/117000,16,Secuencias de las características sinópticas,316011,,,117000,,,,,Operational,Original
 bufr4/3/16/011/2/031001,16,Secuencias de las características sinópticas,316011,,,031001,,,,,Operational,Original
 bufr4/3/16/011/3/008011,16,Secuencias de las características sinópticas,316011,,,008011,Valor correspondiente a nubes especiales,,,,Operational,Original
 bufr4/3/16/011/4/001022,16,Secuencias de las características sinópticas,316011,,,001022,Nombre del volcán,,,,Operational,Original
 bufr4/3/16/011/5/008007,16,Secuencias de las características sinópticas,316011,,,008007,Valor del punto,,,,Operational,Original
 bufr4/3/16/011/6/102000,16,Secuencias de las características sinópticas,316011,,,102000,,,,,Operational,Original
-bufr4/3/16/011/7/031001,16,Secuencias de las características sinópticas,316011,,,031001,,,,,Operational,Original
-bufr4/3/16/011/8/005002,16,Secuencias de las características sinópticas,316011,,,005002,,,,,Operational,Original
-bufr4/3/16/011/9/006002,16,Secuencias de las características sinópticas,316011,,,006002,,,,,Operational,Original
-bufr4/3/16/011/10/008021,16,Secuencias de las características sinópticas,316011,,,008021,Hora de inicio de la erupción,,,,Operational,Original
-bufr4/3/16/011/11/004001,16,Secuencias de las características sinópticas,316011,,,004001,,,,,Operational,Original
-bufr4/3/16/011/12/004002,16,Secuencias de las características sinópticas,316011,,,004002,,,,,Operational,Original
-bufr4/3/16/011/13/004003,16,Secuencias de las características sinópticas,316011,,,004003,,,,,Operational,Original
-bufr4/3/16/011/14/004004,16,Secuencias de las características sinópticas,316011,,,004004,,,,,Operational,Original
-bufr4/3/16/011/15/004005,16,Secuencias de las características sinópticas,316011,,,004005,,,,,Operational,Original
-bufr4/3/16/011/16/020090,16,Secuencias de las características sinópticas,316011,,,020090,Nubes formadas por erupciones volcánicas,,,,Operational,Original
-bufr4/3/16/011/17/008021,16,Secuencias de las características sinópticas,316011,,,008021,Anular,,,,Operational,Original
-bufr4/3/16/011/18/008007,16,Secuencias de las características sinópticas,316011,,,008007,Anular,,,,Operational,Original
-bufr4/3/16/011/19/008011,16,Secuencias de las características sinópticas,316011,,,008011,Anular | Fin del objeto,,,,Operational,Original
+bufr4/3/16/011/2/031001,16,Secuencias de las características sinópticas,316011,,,031001,,,,,Operational,Original
+bufr4/3/16/011/7/005002,16,Secuencias de las características sinópticas,316011,,,005002,,,,,Operational,Original
+bufr4/3/16/011/8/006002,16,Secuencias de las características sinópticas,316011,,,006002,,,,,Operational,Original
+bufr4/3/16/011/9/008021,16,Secuencias de las características sinópticas,316011,,,008021,Hora de inicio de la erupción,,,,Operational,Original
+bufr4/3/16/011/10/004001,16,Secuencias de las características sinópticas,316011,,,004001,,,,,Operational,Original
+bufr4/3/16/011/11/004002,16,Secuencias de las características sinópticas,316011,,,004002,,,,,Operational,Original
+bufr4/3/16/011/12/004003,16,Secuencias de las características sinópticas,316011,,,004003,,,,,Operational,Original
+bufr4/3/16/011/13/004004,16,Secuencias de las características sinópticas,316011,,,004004,,,,,Operational,Original
+bufr4/3/16/011/14/004005,16,Secuencias de las características sinópticas,316011,,,004005,,,,,Operational,Original
+bufr4/3/16/011/15/020090,16,Secuencias de las características sinópticas,316011,,,020090,Nubes formadas por erupciones volcánicas,,,,Operational,Original
+bufr4/3/16/011/9/008021,16,Secuencias de las características sinópticas,316011,,,008021,Anular,,,,Operational,Original
+bufr4/3/16/011/5/008007,16,Secuencias de las características sinópticas,316011,,,008007,Anular,,,,Operational,Original
+bufr4/3/16/011/3/008011,16,Secuencias de las características sinópticas,316011,,,008011,Anular | Fin del objeto,,,,Operational,Original
 bufr4/3/16/020/1/001033,16,Secuencias de las características sinópticas,316020,,,001033,,,,,Operational,Original
 bufr4/3/16/020/2/001025,16,Secuencias de las características sinópticas,316020,,,001025,,,,,Operational,Original
 bufr4/3/16/020/3/001027,16,Secuencias de las características sinópticas,316020,,,001027,,,,,Operational,Original
 bufr4/3/16/020/4/301011,16,Secuencias de las características sinópticas,316020,,,301011,,,,,Operational,Original
 bufr4/3/16/020/5/301012,16,Secuencias de las características sinópticas,316020,,,301012,,,,,Operational,Original
 bufr4/3/16/021/1/301023,16,Secuencias de las características sinópticas,316021,,,301023,,(continúa),,,Operational,Original
+bufr4/3/16/021/2/002041,16,Secuencias de las características sinópticas,316021,,,002041,,,,,Operational,Original
+bufr4/3/16/021/3/019001,16,Secuencias de las características sinópticas,316021,,,019001,,,,,Operational,Original
+bufr4/3/16/021/4/019007,16,Secuencias de las características sinópticas,316021,,,019007,,,,,Operational,Original
+bufr4/3/16/021/5/019005,16,Secuencias de las características sinópticas,316021,,,019005,,,,,Operational,Original
+bufr4/3/16/021/6/019006,16,Secuencias de las características sinópticas,316021,,,019006,,,,,Operational,Original
+bufr4/3/16/021/7/019008,16,Secuencias de las características sinópticas,316021,,,019008,,,,,Operational,Original
+bufr4/3/16/021/8/008005,16,Secuencias de las características sinópticas,316021,,,008005,= 1 centro de la tormenta,,,,Operational,Original
+bufr4/3/16/021/9/010004,16,Secuencias de las características sinópticas,316021,,,010004,Centro de la tormenta en virtud del calificador de significación precedente,,,,Operational,Original
+bufr4/3/16/021/8/008005,16,Secuencias de las características sinópticas,316021,,,008005,= 2 límite exterior o el borde de la característica,,,,Operational,Original
+bufr4/3/16/021/9/010004,16,Secuencias de las características sinópticas,316021,,,010004,Límite exterior,,,,Operational,Original
+bufr4/3/16/021/4/019007,16,Secuencias de las características sinópticas,316021,,,019007,Límite exterior,,,,Operational,Original
+bufr4/3/16/021/8/008005,16,Secuencias de las características sinópticas,316021,,,008005,= 3 ubicación del viento máximo,,,,Operational,Original
+bufr4/3/16/021/10/008021,16,Secuencias de las características sinópticas,316021,,,008021,Tiempo promediado,,,,Operational,Original
+bufr4/3/16/021/11/004075,16,Secuencias de las características sinópticas,316021,,,004075,Minutos,,,,Operational,Original
+bufr4/3/16/021/12/011040,16,Secuencias de las características sinópticas,316021,,,011040,,,,,Operational,Original
+bufr4/3/16/021/4/019007,16,Secuencias de las características sinópticas,316021,,,019007,Viento máximo,,,,Operational,Original
+bufr4/3/16/021/13/105004,16,Secuencias de las características sinópticas,316021,,,105004,,,,,Operational,Original
+bufr4/3/16/021/14/005021,16,Secuencias de las características sinópticas,316021,,,005021,Inicial,,,,Operational,Original
+bufr4/3/16/021/14/005021,16,Secuencias de las características sinópticas,316021,,,005021,Final,,,,Operational,Original
+bufr4/3/16/021/15/102002,16,Secuencias de las características sinópticas,316021,,,102002,,,,,Operational,Original
+bufr4/3/16/021/16/019003,16,Secuencias de las características sinópticas,316021,,,019003,,,,,Operational,Original
+bufr4/3/16/021/17/019004,16,Secuencias de las características sinópticas,316021,,,019004,,,,,Operational,Original
 bufr4/3/16/022/1/001032,16,Secuencias de las características sinópticas,316022,,,001032,"Nombre del modelo PNT, etc., tabla de cifrado definida por el centro de origen/ generación",,,,Operational,Original
 bufr4/3/16/022/2/002041,16,Secuencias de las características sinópticas,316022,,,002041,,,,,Operational,Original
 bufr4/3/16/022/3/019001,16,Secuencias de las características sinópticas,316022,,,019001,,,,,Operational,Original
@@ -153,6 +179,18 @@ bufr4/3/16/022/9/008005,16,Secuencias de las características sinópticas,316022
 bufr4/3/16/022/10/301023,16,Secuencias de las características sinópticas,316022,,,301023,,,,,Operational,Original
 bufr4/3/16/022/11/019005,16,Secuencias de las características sinópticas,316022,,,019005,,,,,Operational,Original
 bufr4/3/16/022/12/019006,16,Secuencias de las características sinópticas,316022,,,019006,I.2 – BUFR Tabla D/16 — 5,(continúa),,,Operational,Original
+bufr4/3/16/022/13/010004,16,Secuencias de las características sinópticas,316022,,,010004,,,,,Operational,Original
+bufr4/3/16/022/14/011041,16,Secuencias de las características sinópticas,316022,,,011041,"Utilizada, por ejemplo, en los Estados Unidos",,,,Operational,Original
+bufr4/3/16/022/7/008021,16,Secuencias de las características sinópticas,316022,,,008021,Promedio del tiempo de predicción,,,,Operational,Original
+bufr4/3/16/022/15/004075,16,Secuencias de las características sinópticas,316022,,,004075,Minutos,,,,Operational,Original
+bufr4/3/16/022/16/011040,16,Secuencias de las características sinópticas,316022,,,011040,,,,,Operational,Original
+bufr4/3/16/022/17/019008,16,Secuencias de las características sinópticas,316022,,,019008,,,,,Operational,Original
+bufr4/3/16/022/18/105004,16,Secuencias de las características sinópticas,316022,,,105004,,,,,Operational,Original
+bufr4/3/16/022/19/005021,16,Secuencias de las características sinópticas,316022,,,005021,Final,,,,Operational,Original
+bufr4/3/16/022/19/005021,16,Secuencias de las características sinópticas,316022,,,005021,Inicial,,,,Operational,Original
+bufr4/3/16/022/20/102002,16,Secuencias de las características sinópticas,316022,,,102002,,,,,Operational,Original
+bufr4/3/16/022/21/019003,16,Secuencias de las características sinópticas,316022,,,019003,,,,,Operational,Original
+bufr4/3/16/022/22/019004,16,Secuencias de las características sinópticas,316022,,,019004,,,,,Operational,Original
 bufr4/3/16/026/1/316020,16,Secuencias de las características sinópticas,316026,,,316020,,,,,Operational,Original
 bufr4/3/16/026/2/316021,16,Secuencias de las características sinópticas,316026,,,316021,,,,,Operational,Original
 bufr4/3/16/027/1/316020,16,Secuencias de las características sinópticas,316027,,,316020,,,,,Operational,Original
@@ -162,49 +200,57 @@ bufr4/3/16/030/2/001037,16,Secuencias de las características sinópticas,316030
 bufr4/3/16/030/3/010064,16,Secuencias de las características sinópticas,316030,,,010064,,,,,Operational,Original
 bufr4/3/16/030/4/008019,16,Secuencias de las características sinópticas,316030,,,008019,1 = unidad ATS que presta servicio a la FIR,,,,Operational,Original
 bufr4/3/16/030/5/001062,16,Secuencias de las características sinópticas,316030,,,001062,,,,,Operational,Original
-bufr4/3/16/030/6/008019,16,Secuencias de las características sinópticas,316030,,,008019,"= 2 FIR, = 3 UIR, = 4 CTA",,,,Operational,Original
-bufr4/3/16/030/7/001065,16,Secuencias de las características sinópticas,316030,,,001065,,,,,Operational,Original
-bufr4/3/16/030/8/008019,16,Secuencias de las características sinópticas,316030,,,008019,= 6 MWO,,,,Operational,Original
-bufr4/3/16/030/9/001062,16,Secuencias de las características sinópticas,316030,,,001062,,,,,Operational,Original
-bufr4/3/16/030/10/008019,16,Secuencias de las características sinópticas,316030,,,008019,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/030/4/008019,16,Secuencias de las características sinópticas,316030,,,008019,"= 2 FIR, = 3 UIR, = 4 CTA",,,,Operational,Original
+bufr4/3/16/030/6/001065,16,Secuencias de las características sinópticas,316030,,,001065,,,,,Operational,Original
+bufr4/3/16/030/4/008019,16,Secuencias de las características sinópticas,316030,,,008019,= 6 MWO,,,,Operational,Original
+bufr4/3/16/030/5/001062,16,Secuencias de las características sinópticas,316030,,,001062,,,,,Operational,Original
+bufr4/3/16/030/4/008019,16,Secuencias de las características sinópticas,316030,,,008019,Fijar en faltante,,,,Operational,Original
 bufr4/3/16/031/1/008021,16,Secuencias de las características sinópticas,316031,(anular),,008021,"= 16 análisis, = 4 predicción",,,,Operational,Original
 bufr4/3/16/031/2/301011,16,Secuencias de las características sinópticas,316031,(anular),,301011,,,,,Operational,Original
 bufr4/3/16/031/3/301012,16,Secuencias de las características sinópticas,316031,(anular),,301012,,,,,Operational,Original
 bufr4/3/16/031/4/301027,16,Secuencias de las características sinópticas,316031,(anular),,301027,,,,,Operational,Original
 bufr4/3/16/031/5/019005,16,Secuencias de las características sinópticas,316031,(anular),,019005,,,,,Operational,Original
 bufr4/3/16/031/6/019006,16,Secuencias de las características sinópticas,316031,(anular),,019006,,(continúa),,,Operational,Original
+bufr4/3/16/031/7/020028,16,Secuencias de las características sinópticas,316031,,,020028,,,,,Operational,Original
+bufr4/3/16/031/1/008021,16,Secuencias de las características sinópticas,316031,,,008021,Fijar en faltante,,,,Operational,Original
 bufr4/3/16/032/1/008021,16,Secuencias de las características sinópticas,316032,(anular),,008021,= 4 previsión,,,,Operational,Original
 bufr4/3/16/032/2/301011,16,Secuencias de las características sinópticas,316032,(anular),,301011,,,,,Operational,Original
 bufr4/3/16/032/3/301012,16,Secuencias de las características sinópticas,316032,(anular),,301012,,,,,Operational,Original
 bufr4/3/16/032/4/301027,16,Secuencias de las características sinópticas,316032,(anular),,301027,,,,,Operational,Original
-bufr4/3/16/032/5/008021,16,Secuencias de las características sinópticas,316032,(anular),,008021,Fijar en faltante(anular),,,,Operational,Original
+bufr4/3/16/032/1/008021,16,Secuencias de las características sinópticas,316032,(anular),,008021,Fijar en faltante(anular),,,,Operational,Original
 bufr4/3/16/033/1/008021,16,Secuencias de las características sinópticas,316033,,,008021,= 4 previsión,,,,Operational,Original
 bufr4/3/16/033/2/301011,16,Secuencias de las características sinópticas,316033,,,301011,,,,,Operational,Original
 bufr4/3/16/033/3/301012,16,Secuencias de las características sinópticas,316033,,,301012,,,,,Operational,Original
 bufr4/3/16/033/4/101000,16,Secuencias de las características sinópticas,316033,,,101000,,,,,Operational,Original
 bufr4/3/16/033/5/031001,16,Secuencias de las características sinópticas,316033,,,031001,,,,,Operational,Original
 bufr4/3/16/033/6/301027,16,Secuencias de las características sinópticas,316033,,,301027,,,,,Operational,Original
-bufr4/3/16/033/7/008021,16,Secuencias de las características sinópticas,316033,,,008021,Fijar en faltante(anular),,,,Operational,Original
+bufr4/3/16/033/1/008021,16,Secuencias de las características sinópticas,316033,,,008021,Fijar en faltante(anular),,,,Operational,Original
 bufr4/3/16/034/1/008079,16,Secuencias de las características sinópticas,316034,,,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/034/2/316030,16,Secuencias de las características sinópticas,316034,,,316030,,,,,Operational,Original
 bufr4/3/16/034/3/008011,16,Secuencias de las características sinópticas,316034,,,008011,= 17 volcán,,,,Operational,Original
 bufr4/3/16/034/4/001022,16,Secuencias de las características sinópticas,316034,,,001022,,,,,Operational,Original
 bufr4/3/16/034/5/008007,16,Secuencias de las características sinópticas,316034,,,008007,= 0 punto,,,,Operational,Original
 bufr4/3/16/034/6/301023,16,Secuencias de las características sinópticas,316034,,,301023,,,,,Operational,Original
-bufr4/3/16/034/7/008007,16,Secuencias de las características sinópticas,316034,,,008007,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/034/8/020090,16,Secuencias de las características sinópticas,316034,,,020090,= 5 nubes originadas por erupciones volcánicas,,,,Operational,Original
-bufr4/3/16/034/9/316031,16,Secuencias de las características sinópticas,316034,,,316031,,,,,Operational,Original
-bufr4/3/16/034/10/101000,16,Secuencias de las características sinópticas,316034,,,101000,,,,,Operational,Original
-bufr4/3/16/034/11/031000,16,Secuencias de las características sinópticas,316034,,,031000,,,,,Operational,Original
-bufr4/3/16/034/12/316032,16,Secuencias de las características sinópticas,316034,,,316032,,,,,Operational,Original
-bufr4/3/16/034/13/101000,16,Secuencias de las características sinópticas,316034,,,101000,,,,,Operational,Original
-bufr4/3/16/034/14/031001,16,Secuencias de las características sinópticas,316034,,,031001,,,,,Operational,Original
-bufr4/3/16/034/15/316033,16,Secuencias de las características sinópticas,316034,,,316033,,,,,Operational,Original
-bufr4/3/16/034/16/008011,16,Secuencias de las características sinópticas,316034,,,008011,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/16/034/17/008079,16,Secuencias de las características sinópticas,316034,,,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/034/5/008007,16,Secuencias de las características sinópticas,316034,,,008007,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/034/7/020090,16,Secuencias de las características sinópticas,316034,,,020090,= 5 nubes originadas por erupciones volcánicas,,,,Operational,Original
+bufr4/3/16/034/8/316031,16,Secuencias de las características sinópticas,316034,,,316031,,,,,Operational,Original
+bufr4/3/16/034/9/101000,16,Secuencias de las características sinópticas,316034,,,101000,,,,,Operational,Original
+bufr4/3/16/034/10/031000,16,Secuencias de las características sinópticas,316034,,,031000,,,,,Operational,Original
+bufr4/3/16/034/11/316032,16,Secuencias de las características sinópticas,316034,,,316032,,,,,Operational,Original
+bufr4/3/16/034/9/101000,16,Secuencias de las características sinópticas,316034,,,101000,,,,,Operational,Original
+bufr4/3/16/034/12/031001,16,Secuencias de las características sinópticas,316034,,,031001,,,,,Operational,Original
+bufr4/3/16/034/13/316033,16,Secuencias de las características sinópticas,316034,,,316033,,,,,Operational,Original
+bufr4/3/16/034/3/008011,16,Secuencias de las características sinópticas,316034,,,008011,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/034/1/008079,16,Secuencias de las características sinópticas,316034,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/035/1/008079,16,Secuencias de las características sinópticas,316035,(anular),,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/035/2/316030,16,Secuencias de las características sinópticas,316035,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/035/3/008011,16,Secuencias de las características sinópticas,316035,(anular),,008011,= 21 tormenta I.2 – BUFR Tabla D/16 — 7,(continúa),,,Operational,Original
+bufr4/3/16/035/4/020023,16,Secuencias de las características sinópticas,316035,,,020023,Bit 2 = turbonadas o los 18 bits = faltante,,,,Operational,Original
+bufr4/3/16/035/5/020021,16,Secuencias de las características sinópticas,316035,,,020021,Bit 14 = granizo o los 30 bits = faltante,,,,Operational,Original
+bufr4/3/16/035/6/020008,16,Secuencias de las características sinópticas,316035,,,020008,"= 15 OBSC, = 16 EMBD, = 12 FRQ, = 31 faltante",,,,Operational,Original
+bufr4/3/16/035/7/316031,16,Secuencias de las características sinópticas,316035,,,316031,,,,,Operational,Original
+bufr4/3/16/035/3/008011,16,Secuencias de las características sinópticas,316035,,,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/035/1/008079,16,Secuencias de las características sinópticas,316035,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/036/1/008079,16,Secuencias de las características sinópticas,316036,(anular),,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/036/2/316030,16,Secuencias de las características sinópticas,316036,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/036/3/008011,16,Secuencias de las características sinópticas,316036,(anular),,008011,= 22 ciclón tropical,,,,Operational,Original
@@ -213,34 +259,39 @@ bufr4/3/16/036/5/316031,16,Secuencias de las características sinópticas,316036
 bufr4/3/16/036/6/101000,16,Secuencias de las características sinópticas,316036,(anular),,101000,,,,,Operational,Original
 bufr4/3/16/036/7/031000,16,Secuencias de las características sinópticas,316036,(anular),,031000,,,,,Operational,Original
 bufr4/3/16/036/8/316032,16,Secuencias de las características sinópticas,316036,(anular),,316032,,,,,Operational,Original
-bufr4/3/16/036/9/101000,16,Secuencias de las características sinópticas,316036,(anular),,101000,,,,,Operational,Original
-bufr4/3/16/036/10/031001,16,Secuencias de las características sinópticas,316036,(anular),,031001,,,,,Operational,Original
-bufr4/3/16/036/11/316033,16,Secuencias de las características sinópticas,316036,(anular),,316033,,,,,Operational,Original
-bufr4/3/16/036/12/008011,16,Secuencias de las características sinópticas,316036,(anular),,008011,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/036/13/008079,16,Secuencias de las características sinópticas,316036,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/036/6/101000,16,Secuencias de las características sinópticas,316036,(anular),,101000,,,,,Operational,Original
+bufr4/3/16/036/9/031001,16,Secuencias de las características sinópticas,316036,(anular),,031001,,,,,Operational,Original
+bufr4/3/16/036/10/316033,16,Secuencias de las características sinópticas,316036,(anular),,316033,,,,,Operational,Original
+bufr4/3/16/036/3/008011,16,Secuencias de las características sinópticas,316036,(anular),,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/036/1/008079,16,Secuencias de las características sinópticas,316036,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/037/1/008079,16,Secuencias de las características sinópticas,316037,(anular),,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/037/2/316030,16,Secuencias de las características sinópticas,316037,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/037/3/008011,16,Secuencias de las características sinópticas,316037,(anular),,008011,= 13 turbulencia,,,,Operational,Original
 bufr4/3/16/037/4/011031,16,Secuencias de las características sinópticas,316037,(anular),,011031,"= 10 moderado,= 11 fuerte",,,,Operational,Original
 bufr4/3/16/037/5/316031,16,Secuencias de las características sinópticas,316037,(anular),,316031,,,,,Operational,Original
-bufr4/3/16/037/6/008011,16,Secuencias de las características sinópticas,316037,(anular),,008011,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/037/7/008079,16,Secuencias de las características sinópticas,316037,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/037/3/008011,16,Secuencias de las características sinópticas,316037,(anular),,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/037/1/008079,16,Secuencias de las características sinópticas,316037,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/038/1/008079,16,Secuencias de las características sinópticas,316038,(anular),,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/038/2/316030,16,Secuencias de las características sinópticas,316038,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/038/3/008011,16,Secuencias de las características sinópticas,316038,(anular),,008011,= 15 engelamiento del fuselaje de la aeronave,(continúa),,,Operational,Original
+bufr4/3/16/038/4/020041,16,Secuencias de las características sinópticas,316038,,,020041,= 7 fuerte,,,,Operational,Original
+bufr4/3/16/038/5/020021,16,Secuencias de las características sinópticas,316038,,,020021,bit 3 = congelamiento líquido o los 30 bits = faltante,,,,Operational,Original
+bufr4/3/16/038/6/316031,16,Secuencias de las características sinópticas,316038,,,316031,,,,,Operational,Original
+bufr4/3/16/038/3/008011,16,Secuencias de las características sinópticas,316038,,,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/038/1/008079,16,Secuencias de las características sinópticas,316038,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/039/1/008079,16,Secuencias de las características sinópticas,316039,(anular),,008079,"= 0 emisión normal, = 1 corrección",,,,Operational,Original
 bufr4/3/16/039/2/316030,16,Secuencias de las características sinópticas,316039,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/039/3/008011,16,Secuencias de las características sinópticas,316039,(anular),,008011,"= 23 onda orográfica, = 24 tempestad de polvo, = 25 tempestad de arena",,,,Operational,Original
 bufr4/3/16/039/4/020024,16,Secuencias de las características sinópticas,316039,(anular),,020024,"= 3 fuerte, = 5 violento",,,,Operational,Original
 bufr4/3/16/039/5/316031,16,Secuencias de las características sinópticas,316039,(anular),,316031,,,,,Operational,Original
-bufr4/3/16/039/6/008011,16,Secuencias de las características sinópticas,316039,(anular),,008011,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/039/7/008079,16,Secuencias de las características sinópticas,316039,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/039/3/008011,16,Secuencias de las características sinópticas,316039,(anular),,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/039/1/008079,16,Secuencias de las características sinópticas,316039,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/040/1/316030,16,Secuencias de las características sinópticas,316040,(anular),,316030,,,,,Operational,Original
 bufr4/3/16/040/2/008079,16,Secuencias de las características sinópticas,316040,(anular),,008079,= 4 anulación,,,,Operational,Original
 bufr4/3/16/040/3/301014,16,Secuencias de las características sinópticas,316040,(anular),,301014,Del SIGMET que va a anularse,,,,Operational,Original
 bufr4/3/16/040/4/001037,16,Secuencias de las características sinópticas,316040,(anular),,001037,Del SIGMET que va a anularse,,,,Operational,Original
 bufr4/3/16/040/5/010064,16,Secuencias de las características sinópticas,316040,(anular),,010064,Del SIGSMET que va a anularse,,,,Operational,Original
-bufr4/3/16/040/6/008079,16,Secuencias de las características sinópticas,316040,(anular),,008079,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/040/2/008079,16,Secuencias de las características sinópticas,316040,(anular),,008079,Fijar en faltante,,,,Operational,Original
 bufr4/3/16/050/1/301001,16,Secuencias de las características sinópticas,316050,(anular),,301001,,,,,Operational,Original
 bufr4/3/16/050/2/301011,16,Secuencias de las características sinópticas,316050,(anular),,301011,,,,,Operational,Original
 bufr4/3/16/050/3/301012,16,Secuencias de las características sinópticas,316050,(anular),,301012,,,,,Operational,Original
@@ -248,9 +299,15 @@ bufr4/3/16/050/4/002160,16,Secuencias de las características sinópticas,316050
 bufr4/3/16/050/5/008005,16,Secuencias de las características sinópticas,316050,(anular),,008005,= 1,,,,Operational,Original
 bufr4/3/16/050/6/005002,16,Secuencias de las características sinópticas,316050,(anular),,005002,,,,,Operational,Original
 bufr4/3/16/050/7/006002,16,Secuencias de las características sinópticas,316050,(anular),,006002,,,,,Operational,Original
-bufr4/3/16/050/8/008005,16,Secuencias de las características sinópticas,316050,(anular),,008005,Anular,,,,Operational,Original
-bufr4/3/16/050/9/019100,16,Secuencias de las características sinópticas,316050,(anular),,019100,,,,,Operational,Original
-bufr4/3/16/050/10/019005,16,Secuencias de las características sinópticas,316050,(anular),,019005,I.2 – BUFR Tabla D/16 — 9,(continúa),,,Operational,Original
+bufr4/3/16/050/5/008005,16,Secuencias de las características sinópticas,316050,(anular),,008005,Anular,,,,Operational,Original
+bufr4/3/16/050/8/019100,16,Secuencias de las características sinópticas,316050,(anular),,019100,,,,,Operational,Original
+bufr4/3/16/050/9/019005,16,Secuencias de las características sinópticas,316050,(anular),,019005,I.2 – BUFR Tabla D/16 — 9,(continúa),,,Operational,Original
+bufr4/3/16/050/10/019006,16,Secuencias de las características sinópticas,316050,,,019006,,,,,Operational,Original
+bufr4/3/16/050/11/019101,16,Secuencias de las características sinópticas,316050,,,019101,,,,,Operational,Original
+bufr4/3/16/050/12/019102,16,Secuencias de las características sinópticas,316050,,,019102,,,,,Operational,Original
+bufr4/3/16/050/13/019103,16,Secuencias de las características sinópticas,316050,,,019103,,,,,Operational,Original
+bufr4/3/16/050/14/019104,16,Secuencias de las características sinópticas,316050,,,019104,,,,,Operational,Original
+bufr4/3/16/050/15/019105,16,Secuencias de las características sinópticas,316050,,,019105,,,,,Operational,Original
 bufr4/3/16/052/1/301005,16,Secuencias de las características sinópticas,316052,,,301005,,,,,Operational,Original
 bufr4/3/16/052/2/301011,16,Secuencias de las características sinópticas,316052,,,301011,,,,,Operational,Original
 bufr4/3/16/052/3/301012,16,Secuencias de las características sinópticas,316052,,,301012,,,,,Operational,Original
@@ -264,36 +321,36 @@ bufr4/3/16/052/10/019106,16,Secuencias de las características sinópticas,31605
 bufr4/3/16/052/11/008005,16,Secuencias de las características sinópticas,316052,,,008005,= 1,,,,Operational,Original
 bufr4/3/16/052/12/005002,16,Secuencias de las características sinópticas,316052,,,005002,,,,,Operational,Original
 bufr4/3/16/052/13/006002,16,Secuencias de las características sinópticas,316052,,,006002,,,,,Operational,Original
-bufr4/3/16/052/14/008005,16,Secuencias de las características sinópticas,316052,,,008005,Anular,,,,Operational,Original
-bufr4/3/16/052/15/019107,16,Secuencias de las características sinópticas,316052,,,019107,,,,,Operational,Original
-bufr4/3/16/052/16/019005,16,Secuencias de las características sinópticas,316052,,,019005,,,,,Operational,Original
-bufr4/3/16/052/17/019006,16,Secuencias de las características sinópticas,316052,,,019006,,,,,Operational,Original
-bufr4/3/16/052/18/019108,16,Secuencias de las características sinópticas,316052,,,019108,,,,,Operational,Original
-bufr4/3/16/052/19/019109,16,Secuencias de las características sinópticas,316052,,,019109,,,,,Operational,Original
-bufr4/3/16/052/20/019110,16,Secuencias de las características sinópticas,316052,,,019110,,,,,Operational,Original
-bufr4/3/16/052/21/019111,16,Secuencias de las características sinópticas,316052,,,019111,,,,,Operational,Original
-bufr4/3/16/052/22/019112,16,Secuencias de las características sinópticas,316052,,,019112,,,,,Operational,Original
-bufr4/3/16/052/23/019113,16,Secuencias de las características sinópticas,316052,,,019113,,,,,Operational,Original
-bufr4/3/16/052/24/019114,16,Secuencias de las características sinópticas,316052,,,019114,,,,,Operational,Original
-bufr4/3/16/052/25/019115,16,Secuencias de las características sinópticas,316052,,,019115,,,,,Operational,Original
-bufr4/3/16/052/26/019116,16,Secuencias de las características sinópticas,316052,,,019116,,,,,Operational,Original
-bufr4/3/16/052/27/019117,16,Secuencias de las características sinópticas,316052,,,019117,,,,,Operational,Original
-bufr4/3/16/052/28/019118,16,Secuencias de las características sinópticas,316052,,,019118,,,,,Operational,Original
-bufr4/3/16/052/29/019119,16,Secuencias de las características sinópticas,316052,,,019119,,(continúa),,,Operational,Original
+bufr4/3/16/052/11/008005,16,Secuencias de las características sinópticas,316052,,,008005,Anular,,,,Operational,Original
+bufr4/3/16/052/14/019107,16,Secuencias de las características sinópticas,316052,,,019107,,,,,Operational,Original
+bufr4/3/16/052/15/019005,16,Secuencias de las características sinópticas,316052,,,019005,,,,,Operational,Original
+bufr4/3/16/052/16/019006,16,Secuencias de las características sinópticas,316052,,,019006,,,,,Operational,Original
+bufr4/3/16/052/17/019108,16,Secuencias de las características sinópticas,316052,,,019108,,,,,Operational,Original
+bufr4/3/16/052/18/019109,16,Secuencias de las características sinópticas,316052,,,019109,,,,,Operational,Original
+bufr4/3/16/052/19/019110,16,Secuencias de las características sinópticas,316052,,,019110,,,,,Operational,Original
+bufr4/3/16/052/20/019111,16,Secuencias de las características sinópticas,316052,,,019111,,,,,Operational,Original
+bufr4/3/16/052/21/019112,16,Secuencias de las características sinópticas,316052,,,019112,,,,,Operational,Original
+bufr4/3/16/052/22/019113,16,Secuencias de las características sinópticas,316052,,,019113,,,,,Operational,Original
+bufr4/3/16/052/23/019114,16,Secuencias de las características sinópticas,316052,,,019114,,,,,Operational,Original
+bufr4/3/16/052/24/019115,16,Secuencias de las características sinópticas,316052,,,019115,,,,,Operational,Original
+bufr4/3/16/052/25/019116,16,Secuencias de las características sinópticas,316052,,,019116,,,,,Operational,Original
+bufr4/3/16/052/26/019117,16,Secuencias de las características sinópticas,316052,,,019117,,,,,Operational,Original
+bufr4/3/16/052/27/019118,16,Secuencias de las características sinópticas,316052,,,019118,,,,,Operational,Original
+bufr4/3/16/052/28/019119,16,Secuencias de las características sinópticas,316052,,,019119,,(continúa),,,Operational,Original
 bufr4/3/16/060/1/301011,16,Secuencias de las características sinópticas,316060,,,301011,,,,,Operational,Original
 bufr4/3/16/060/2/301012,16,Secuencias de las características sinópticas,316060,,,301012,,,,,Operational,Original
 bufr4/3/16/060/3/005002,16,Secuencias de las características sinópticas,316060,,,005002,,,,,Operational,Original
 bufr4/3/16/060/4/006002,16,Secuencias de las características sinópticas,316060,,,006002,,,,,Operational,Original
 bufr4/3/16/060/5/019005,16,Secuencias de las características sinópticas,316060,,,019005,,,,,Operational,Original
 bufr4/3/16/060/6/019006,16,Secuencias de las características sinópticas,316060,,,019006,,,,,Operational,Original
-bufr4/3/16/060/7/005002,16,Secuencias de las características sinópticas,316060,,,005002,,,,,Operational,Original
-bufr4/3/16/060/8/006002,16,Secuencias de las características sinópticas,316060,,,006002,,,,,Operational,Original
-bufr4/3/16/060/9/005002,16,Secuencias de las características sinópticas,316060,,,005002,,,,,Operational,Original
-bufr4/3/16/060/10/006002,16,Secuencias de las características sinópticas,316060,,,006002,,,,,Operational,Original
-bufr4/3/16/060/11/004074,16,Secuencias de las características sinópticas,316060,,,004074,Período de validez,,,,Operational,Original
-bufr4/3/16/060/12/020048,16,Secuencias de las características sinópticas,316060,,,020048,,,,,Operational,Original
-bufr4/3/16/060/13/011041,16,Secuencias de las características sinópticas,316060,,,011041,Irrupción máxima esperada,,,,Operational,Original
-bufr4/3/16/060/14/013055,16,Secuencias de las características sinópticas,316060,,,013055,Intensidad de la lluvia esperada,,,,Operational,Original
+bufr4/3/16/060/3/005002,16,Secuencias de las características sinópticas,316060,,,005002,,,,,Operational,Original
+bufr4/3/16/060/4/006002,16,Secuencias de las características sinópticas,316060,,,006002,,,,,Operational,Original
+bufr4/3/16/060/3/005002,16,Secuencias de las características sinópticas,316060,,,005002,,,,,Operational,Original
+bufr4/3/16/060/4/006002,16,Secuencias de las características sinópticas,316060,,,006002,,,,,Operational,Original
+bufr4/3/16/060/7/004074,16,Secuencias de las características sinópticas,316060,,,004074,Período de validez,,,,Operational,Original
+bufr4/3/16/060/8/020048,16,Secuencias de las características sinópticas,316060,,,020048,,,,,Operational,Original
+bufr4/3/16/060/9/011041,16,Secuencias de las características sinópticas,316060,,,011041,Irrupción máxima esperada,,,,Operational,Original
+bufr4/3/16/060/10/013055,16,Secuencias de las características sinópticas,316060,,,013055,Intensidad de la lluvia esperada,,,,Operational,Original
 bufr4/3/16/061/1/301011,16,Secuencias de las características sinópticas,316061,,,301011,,,,,Operational,Original
 bufr4/3/16/061/2/301012,16,Secuencias de las características sinópticas,316061,,,301012,,,,,Operational,Original
 bufr4/3/16/061/3/005002,16,Secuencias de las características sinópticas,316061,,,005002,,,,,Operational,Original
@@ -302,93 +359,96 @@ bufr4/3/16/061/5/019005,16,Secuencias de las características sinópticas,316061
 bufr4/3/16/061/6/019006,16,Secuencias de las características sinópticas,316061,,,019006,,,,,Operational,Original
 bufr4/3/16/061/7/102000,16,Secuencias de las características sinópticas,316061,,,102000,,,,,Operational,Original
 bufr4/3/16/061/8/031001,16,Secuencias de las características sinópticas,316061,,,031001,,,,,Operational,Original
-bufr4/3/16/061/9/005002,16,Secuencias de las características sinópticas,316061,,,005002,,,,,Operational,Original
-bufr4/3/16/061/10/006002,16,Secuencias de las características sinópticas,316061,,,006002,,,,,Operational,Original
-bufr4/3/16/061/11/102000,16,Secuencias de las características sinópticas,316061,,,102000,,,,,Operational,Original
-bufr4/3/16/061/12/031001,16,Secuencias de las características sinópticas,316061,,,031001,,,,,Operational,Original
-bufr4/3/16/061/13/005002,16,Secuencias de las características sinópticas,316061,,,005002,,,,,Operational,Original
-bufr4/3/16/061/14/006002,16,Secuencias de las características sinópticas,316061,,,006002,,,,,Operational,Original
-bufr4/3/16/061/15/004074,16,Secuencias de las características sinópticas,316061,,,004074,Período de validez,,,,Operational,Original
-bufr4/3/16/061/16/020048,16,Secuencias de las características sinópticas,316061,,,020048,,,,,Operational,Original
-bufr4/3/16/061/17/011041,16,Secuencias de las características sinópticas,316061,,,011041,Irrupción máxima esperada I.2 – BUFR Tabla D/16 — 11,(continúa),,,Operational,Original
+bufr4/3/16/061/3/005002,16,Secuencias de las características sinópticas,316061,,,005002,,,,,Operational,Original
+bufr4/3/16/061/4/006002,16,Secuencias de las características sinópticas,316061,,,006002,,,,,Operational,Original
+bufr4/3/16/061/7/102000,16,Secuencias de las características sinópticas,316061,,,102000,,,,,Operational,Original
+bufr4/3/16/061/8/031001,16,Secuencias de las características sinópticas,316061,,,031001,,,,,Operational,Original
+bufr4/3/16/061/3/005002,16,Secuencias de las características sinópticas,316061,,,005002,,,,,Operational,Original
+bufr4/3/16/061/4/006002,16,Secuencias de las características sinópticas,316061,,,006002,,,,,Operational,Original
+bufr4/3/16/061/9/004074,16,Secuencias de las características sinópticas,316061,,,004074,Período de validez,,,,Operational,Original
+bufr4/3/16/061/10/020048,16,Secuencias de las características sinópticas,316061,,,020048,,,,,Operational,Original
+bufr4/3/16/061/11/011041,16,Secuencias de las características sinópticas,316061,,,011041,Irrupción máxima esperada I.2 – BUFR Tabla D/16 — 11,(continúa),,,Operational,Original
+bufr4/3/16/061/12/013055,16,Secuencias de las características sinópticas,316061,,,013055,Intensidad de la lluvia esperada,,,,Operational,Original
 bufr4/3/16/071/1/301014,16,Secuencias de las características sinópticas,316071,,,301014,Durante el que AIRMET es válido,,,,Operational,Original
 bufr4/3/16/071/2/101000,16,Secuencias de las características sinópticas,316071,,,101000,,,,,Operational,Original
 bufr4/3/16/071/3/031002,16,Secuencias de las características sinópticas,316071,,,031002,,,,,Operational,Original
 bufr4/3/16/071/4/316075,16,Secuencias de las características sinópticas,316071,,,316075,,,,,Operational,Original
-bufr4/3/16/071/5/101000,16,Secuencias de las características sinópticas,316071,,,101000,,,,,Operational,Original
-bufr4/3/16/071/6/031002,16,Secuencias de las características sinópticas,316071,,,031002,,,,,Operational,Original
-bufr4/3/16/071/7/316076,16,Secuencias de las características sinópticas,316071,,,316076,,,,,Operational,Original
+bufr4/3/16/071/2/101000,16,Secuencias de las características sinópticas,316071,,,101000,,,,,Operational,Original
+bufr4/3/16/071/3/031002,16,Secuencias de las características sinópticas,316071,,,031002,,,,,Operational,Original
+bufr4/3/16/071/5/316076,16,Secuencias de las características sinópticas,316071,,,316076,,,,,Operational,Original
 bufr4/3/16/072/1/301014,16,Secuencias de las características sinópticas,316072,,,301014,Durante el que AIRMET es válido,,,,Operational,Original
 bufr4/3/16/072/2/101000,16,Secuencias de las características sinópticas,316072,,,101000,,,,,Operational,Original
 bufr4/3/16/072/3/031002,16,Secuencias de las características sinópticas,316072,,,031002,,,,,Operational,Original
 bufr4/3/16/072/4/316077,16,Secuencias de las características sinópticas,316072,,,316077,,,,,Operational,Original
-bufr4/3/16/072/5/101000,16,Secuencias de las características sinópticas,316072,,,101000,,,,,Operational,Original
-bufr4/3/16/072/6/031002,16,Secuencias de las características sinópticas,316072,,,031002,,,,,Operational,Original
-bufr4/3/16/072/7/316078,16,Secuencias de las características sinópticas,316072,,,316078,,,,,Operational,Original
-bufr4/3/16/072/8/101000,16,Secuencias de las características sinópticas,316072,,,101000,,,,,Operational,Original
-bufr4/3/16/072/9/031002,16,Secuencias de las características sinópticas,316072,,,031002,,,,,Operational,Original
-bufr4/3/16/072/10/316079,16,Secuencias de las características sinópticas,316072,,,316079,,,,,Operational,Original
+bufr4/3/16/072/2/101000,16,Secuencias de las características sinópticas,316072,,,101000,,,,,Operational,Original
+bufr4/3/16/072/3/031002,16,Secuencias de las características sinópticas,316072,,,031002,,,,,Operational,Original
+bufr4/3/16/072/5/316078,16,Secuencias de las características sinópticas,316072,,,316078,,,,,Operational,Original
+bufr4/3/16/072/2/101000,16,Secuencias de las características sinópticas,316072,,,101000,,,,,Operational,Original
+bufr4/3/16/072/3/031002,16,Secuencias de las características sinópticas,316072,,,031002,,,,,Operational,Original
+bufr4/3/16/072/6/316079,16,Secuencias de las características sinópticas,316072,,,316079,,,,,Operational,Original
 bufr4/3/16/073/1/301014,16,Secuencias de las características sinópticas,316073,,,301014,Durante el que AIRMET es válido,,,,Operational,Original
 bufr4/3/16/073/2/101000,16,Secuencias de las características sinópticas,316073,,,101000,,,,,Operational,Original
 bufr4/3/16/073/3/031002,16,Secuencias de las características sinópticas,316073,,,031002,,,,,Operational,Original
 bufr4/3/16/073/4/316080,16,Secuencias de las características sinópticas,316073,,,316080,,,,,Operational,Original
-bufr4/3/16/073/5/101000,16,Secuencias de las características sinópticas,316073,,,101000,,,,,Operational,Original
-bufr4/3/16/073/6/031002,16,Secuencias de las características sinópticas,316073,,,031002,,,,,Operational,Original
-bufr4/3/16/073/7/316081,16,Secuencias de las características sinópticas,316073,,,316081,,,,,Operational,Original
+bufr4/3/16/073/2/101000,16,Secuencias de las características sinópticas,316073,,,101000,,,,,Operational,Original
+bufr4/3/16/073/3/031002,16,Secuencias de las características sinópticas,316073,,,031002,,,,,Operational,Original
+bufr4/3/16/073/5/316081,16,Secuencias de las características sinópticas,316073,,,316081,,,,,Operational,Original
 bufr4/3/16/074/1/001039,16,Secuencias de las características sinópticas,316074,,,001039,,,,,Operational,Original
 bufr4/3/16/074/2/008021,16,Secuencias de las características sinópticas,316074,,,008021,"= 4 predicción, = 16 análisis",,,,Operational,Original
 bufr4/3/16/074/3/301014,16,Secuencias de las características sinópticas,316074,,,301014,Respecto del que se observa o pronostica el fenómeno peligroso,,,,Operational,Original
 bufr4/3/16/074/4/301027,16,Secuencias de las características sinópticas,316074,,,301027,,,,,Operational,Original
-bufr4/3/16/074/5/008021,16,Secuencias de las características sinópticas,316074,,,008021,Fijar en faltante (anular),(continúa),,,Operational,Original
+bufr4/3/16/074/2/008021,16,Secuencias de las características sinópticas,316074,,,008021,Fijar en faltante (anular),(continúa),,,Operational,Original
 bufr4/3/16/075/1/008079,16,Secuencias de las características sinópticas,316075,,,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,,Operational,Original
 bufr4/3/16/075/2/008041,16,Secuencias de las características sinópticas,316075,,,008041,= 8 techo de nubes y visibilidad IFR,,,,Operational,Original
 bufr4/3/16/075/3/316074,16,Secuencias de las características sinópticas,316075,,,316074,,,,,Operational,Original
 bufr4/3/16/075/4/020006,16,Secuencias de las características sinópticas,316075,,,020006,= 1 IFR,,,,Operational,Original
 bufr4/3/16/075/5/033042,16,Secuencias de las características sinópticas,316075,,,033042,"exclusivo, = 7 faltante",,,,Operational,Original
 bufr4/3/16/075/6/020013,16,Secuencias de las características sinópticas,316075,,,020013,,,,,Operational,Original
-bufr4/3/16/075/7/033042,16,Secuencias de las características sinópticas,316075,,,033042,"exclusivo, = 7 faltante",,,,Operational,Original
-bufr4/3/16/075/8/020001,16,Secuencias de las características sinópticas,316075,,,020001,,,,,Operational,Original
-bufr4/3/16/075/9/020025,16,Secuencias de las características sinópticas,316075,,,020025,,,,,Operational,Original
-bufr4/3/16/075/10/020026,16,Secuencias de las características sinópticas,316075,,,020026,"= 6 ventisca alta, = 15 faltante",,,,Operational,Original
-bufr4/3/16/075/11/008041,16,Secuencias de las características sinópticas,316075,,,008041,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/075/12/008079,16,Secuencias de las características sinópticas,316075,,,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/075/5/033042,16,Secuencias de las características sinópticas,316075,,,033042,"exclusivo, = 7 faltante",,,,Operational,Original
+bufr4/3/16/075/7/020001,16,Secuencias de las características sinópticas,316075,,,020001,,,,,Operational,Original
+bufr4/3/16/075/8/020025,16,Secuencias de las características sinópticas,316075,,,020025,,,,,Operational,Original
+bufr4/3/16/075/9/020026,16,Secuencias de las características sinópticas,316075,,,020026,"= 6 ventisca alta, = 15 faltante",,,,Operational,Original
+bufr4/3/16/075/2/008041,16,Secuencias de las características sinópticas,316075,,,008041,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/075/1/008079,16,Secuencias de las características sinópticas,316075,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/076/1/008079,16,Secuencias de las características sinópticas,316076,(anular),,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,,Operational,Original
 bufr4/3/16/076/2/008041,16,Secuencias de las características sinópticas,316076,(anular),,008041,= 9 oscurecimiento de montaña,,,,Operational,Original
 bufr4/3/16/076/3/316074,16,Secuencias de las características sinópticas,316076,(anular),,316074,,,,,Operational,Original
 bufr4/3/16/076/4/020006,16,Secuencias de las características sinópticas,316076,(anular),,020006,= 1 IFR,,,,Operational,Original
 bufr4/3/16/076/5/020025,16,Secuencias de las características sinópticas,316076,(anular),,020025,,,,,Operational,Original
 bufr4/3/16/076/6/020026,16,Secuencias de las características sinópticas,316076,(anular),,020026,"= 6 ventisca alta, = 15 faltante",,,,Operational,Original
-bufr4/3/16/076/7/008041,16,Secuencias de las características sinópticas,316076,(anular),,008041,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/076/8/008079,16,Secuencias de las características sinópticas,316076,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/076/2/008041,16,Secuencias de las características sinópticas,316076,(anular),,008041,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/076/1/008079,16,Secuencias de las características sinópticas,316076,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/077/1/008079,16,Secuencias de las características sinópticas,316077,(anular),,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,,Operational,Original
 bufr4/3/16/077/2/008011,16,Secuencias de las características sinópticas,316077,(anular),,008011,= 13 turbulencia,,,,Operational,Original
 bufr4/3/16/077/3/316074,16,Secuencias de las características sinópticas,316077,(anular),,316074,,,,,Operational,Original
 bufr4/3/16/077/4/011031,16,Secuencias de las características sinópticas,316077,(anular),,011031,= 6 moderada,,,,Operational,Original
-bufr4/3/16/077/5/008011,16,Secuencias de las características sinópticas,316077,(anular),,008011,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/16/077/6/008079,16,Secuencias de las características sinópticas,316077,(anular),,008079,Fijar en faltante (anular) I.2 – BUFR Tabla D/16 — 13,(continúa),,,Operational,Original
+bufr4/3/16/077/2/008011,16,Secuencias de las características sinópticas,316077,(anular),,008011,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/077/1/008079,16,Secuencias de las características sinópticas,316077,(anular),,008079,Fijar en faltante (anular) I.2 – BUFR Tabla D/16 — 13,(continúa),,,Operational,Original
 bufr4/3/16/078/1/008079,16,Secuencias de las características sinópticas,316078,,,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,,Operational,Original
 bufr4/3/16/078/2/008041,16,Secuencias de las características sinópticas,316078,,,008041,= 10 viento fuerte en superficie,,,,Operational,Original
 bufr4/3/16/078/3/316074,16,Secuencias de las características sinópticas,316078,,,316074,,,,,Operational,Original
 bufr4/3/16/078/4/033042,16,Secuencias de las características sinópticas,316078,,,033042,= 0 límite inferior exclusivo,,,,Operational,Original
 bufr4/3/16/078/5/011012,16,Secuencias de las características sinópticas,316078,,,011012,,,,,Operational,Original
-bufr4/3/16/078/6/008041,16,Secuencias de las características sinópticas,316078,,,008041,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/078/7/008079,16,Secuencias de las características sinópticas,316078,,,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/078/2/008041,16,Secuencias de las características sinópticas,316078,,,008041,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/078/1/008079,16,Secuencias de las características sinópticas,316078,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/079/1/008079,16,Secuencias de las características sinópticas,316079,(anular),,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,,Operational,Original
 bufr4/3/16/079/2/008011,16,Secuencias de las características sinópticas,316079,(anular),,008011,= 16 fenómeno,,,,Operational,Original
 bufr4/3/16/079/3/316074,16,Secuencias de las características sinópticas,316079,(anular),,316074,,,,,Operational,Original
 bufr4/3/16/079/4/020023,16,Secuencias de las características sinópticas,316079,(anular),,020023,bit 12 = cizalladura,,,,Operational,Original
 bufr4/3/16/079/5/020024,16,Secuencias de las características sinópticas,316079,(anular),,020024,,,,,Operational,Original
-bufr4/3/16/079/6/008011,16,Secuencias de las características sinópticas,316079,(anular),,008011,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/079/7/008079,16,Secuencias de las características sinópticas,316079,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/079/2/008011,16,Secuencias de las características sinópticas,316079,(anular),,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/079/1/008079,16,Secuencias de las características sinópticas,316079,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/080/1/008079,16,Secuencias de las características sinópticas,316080,(anular),,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,,Operational,Original
 bufr4/3/16/080/2/008011,16,Secuencias de las características sinópticas,316080,(anular),,008011,= 15 engelamiento del fuselaje de la aeronave,,,,Operational,Original
 bufr4/3/16/080/3/316074,16,Secuencias de las características sinópticas,316080,(anular),,316074,,,,,Operational,Original
 bufr4/3/16/080/4/020041,16,Secuencias de las características sinópticas,316080,(anular),,020041,= 4 engelamiento moderado,,,,Operational,Original
-bufr4/3/16/080/5/008011,16,Secuencias de las características sinópticas,316080,(anular),,008011,Fijar en faltante,,,,Operational,Original
-bufr4/3/16/080/6/008079,16,Secuencias de las características sinópticas,316080,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/080/2/008011,16,Secuencias de las características sinópticas,316080,(anular),,008011,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/080/1/008079,16,Secuencias de las características sinópticas,316080,(anular),,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/081/1/008079,16,Secuencias de las características sinópticas,316081,(anular),,008079,"= 0 normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 NL",,,,Operational,Original
 bufr4/3/16/081/2/008041,16,Secuencias de las características sinópticas,316081,(anular),,008041,"= 11 nivel de engelamiento, = 12 nivel de engelamiento múltiple",,,,Operational,Original
 bufr4/3/16/081/3/316074,16,Secuencias de las características sinópticas,316081,(anular),,316074,,(continúa),,,Operational,Original
+bufr4/3/16/081/2/008041,16,Secuencias de las características sinópticas,316081,,,008041,Fijar en faltante,,,,Operational,Original
+bufr4/3/16/081/1/008079,16,Secuencias de las características sinópticas,316081,,,008079,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/16/082/1/001033,16,Secuencias de las características sinópticas,316082,(anular),,001033,,,,,Operational,Original
 bufr4/3/16/082/2/001034,16,Secuencias de las características sinópticas,316082,(anular),,001034,,,,,Operational,Original
 bufr4/3/16/082/3/001032,16,Secuencias de las características sinópticas,316082,(anular),,001032,,,,,Operational,Original
@@ -401,33 +461,35 @@ bufr4/3/16/082/9/301011,16,Secuencias de las características sinópticas,316082
 bufr4/3/16/082/10/301012,16,Secuencias de las características sinópticas,316082,(anular),,301012,,,,,Operational,Original
 bufr4/3/16/082/11/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
 bufr4/3/16/082/12/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
-bufr4/3/16/082/13/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
-bufr4/3/16/082/14/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
-bufr4/3/16/082/15/010051,16,Secuencias de las características sinópticas,316082,(anular),,010051,,,,,Operational,Original
-bufr4/3/16/082/16/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
-bufr4/3/16/082/17/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
-bufr4/3/16/082/18/011012,16,Secuencias de las características sinópticas,316082,(anular),,011012,,,,,Operational,Original
-bufr4/3/16/082/19/107003,16,Secuencias de las características sinópticas,316082,(anular),,107003,,,,,Operational,Original
-bufr4/3/16/082/20/019003,16,Secuencias de las características sinópticas,316082,(anular),,019003,,,,,Operational,Original
-bufr4/3/16/082/21/105004,16,Secuencias de las características sinópticas,316082,(anular),,105004,,,,,Operational,Original
-bufr4/3/16/082/22/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
-bufr4/3/16/082/23/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
-bufr4/3/16/082/24/201131,16,Secuencias de las características sinópticas,316082,(anular),,201131,,,,,Operational,Original
-bufr4/3/16/082/25/019004,16,Secuencias de las características sinópticas,316082,(anular),,019004,,,,,Operational,Original
-bufr4/3/16/082/26/201000,16,Secuencias de las características sinópticas,316082,(anular),,201000,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/16/082/27/116000,16,Secuencias de las características sinópticas,316082,(anular),,116000,,,,,Operational,Original
-bufr4/3/16/082/28/031001,16,Secuencias de las características sinópticas,316082,(anular),,031001,,,,,Operational,Original
-bufr4/3/16/082/29/008021,16,Secuencias de las características sinópticas,316082,(anular),,008021,,,,,Operational,Original
-bufr4/3/16/082/30/004024,16,Secuencias de las características sinópticas,316082,(anular),,004024,,,,,Operational,Original
-bufr4/3/16/082/31/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
-bufr4/3/16/082/32/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
-bufr4/3/16/082/33/010051,16,Secuencias de las características sinópticas,316082,(anular),,010051,,,,,Operational,Original
-bufr4/3/16/082/34/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
-bufr4/3/16/082/35/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
-bufr4/3/16/082/36/011012,16,Secuencias de las características sinópticas,316082,(anular),,011012,,,,,Operational,Original
-bufr4/3/16/082/37/107003,16,Secuencias de las características sinópticas,316082,(anular),,107003,,,,,Operational,Original
-bufr4/3/16/082/38/019003,16,Secuencias de las características sinópticas,316082,(anular),,019003,,,,,Operational,Original
-bufr4/3/16/082/39/105004,16,Secuencias de las características sinópticas,316082,(anular),,105004,,,,,Operational,Original
-bufr4/3/16/082/40/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
-bufr4/3/16/082/41/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
-bufr4/3/16/082/42/201131,16,Secuencias de las características sinópticas,316082,(anular),,201131,I.2 – BUFR Tabla D/16 — 15,(continúa),,,Operational,Original
+bufr4/3/16/082/11/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
+bufr4/3/16/082/12/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
+bufr4/3/16/082/13/010051,16,Secuencias de las características sinópticas,316082,(anular),,010051,,,,,Operational,Original
+bufr4/3/16/082/11/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
+bufr4/3/16/082/12/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
+bufr4/3/16/082/14/011012,16,Secuencias de las características sinópticas,316082,(anular),,011012,,,,,Operational,Original
+bufr4/3/16/082/15/107003,16,Secuencias de las características sinópticas,316082,(anular),,107003,,,,,Operational,Original
+bufr4/3/16/082/16/019003,16,Secuencias de las características sinópticas,316082,(anular),,019003,,,,,Operational,Original
+bufr4/3/16/082/17/105004,16,Secuencias de las características sinópticas,316082,(anular),,105004,,,,,Operational,Original
+bufr4/3/16/082/18/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
+bufr4/3/16/082/18/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
+bufr4/3/16/082/19/201131,16,Secuencias de las características sinópticas,316082,(anular),,201131,,,,,Operational,Original
+bufr4/3/16/082/20/019004,16,Secuencias de las características sinópticas,316082,(anular),,019004,,,,,Operational,Original
+bufr4/3/16/082/21/201000,16,Secuencias de las características sinópticas,316082,(anular),,201000,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/16/082/22/116000,16,Secuencias de las características sinópticas,316082,(anular),,116000,,,,,Operational,Original
+bufr4/3/16/082/23/031001,16,Secuencias de las características sinópticas,316082,(anular),,031001,,,,,Operational,Original
+bufr4/3/16/082/24/008021,16,Secuencias de las características sinópticas,316082,(anular),,008021,,,,,Operational,Original
+bufr4/3/16/082/25/004024,16,Secuencias de las características sinópticas,316082,(anular),,004024,,,,,Operational,Original
+bufr4/3/16/082/11/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
+bufr4/3/16/082/12/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
+bufr4/3/16/082/13/010051,16,Secuencias de las características sinópticas,316082,(anular),,010051,,,,,Operational,Original
+bufr4/3/16/082/11/008005,16,Secuencias de las características sinópticas,316082,(anular),,008005,,,,,Operational,Original
+bufr4/3/16/082/12/301023,16,Secuencias de las características sinópticas,316082,(anular),,301023,,,,,Operational,Original
+bufr4/3/16/082/14/011012,16,Secuencias de las características sinópticas,316082,(anular),,011012,,,,,Operational,Original
+bufr4/3/16/082/15/107003,16,Secuencias de las características sinópticas,316082,(anular),,107003,,,,,Operational,Original
+bufr4/3/16/082/16/019003,16,Secuencias de las características sinópticas,316082,(anular),,019003,,,,,Operational,Original
+bufr4/3/16/082/17/105004,16,Secuencias de las características sinópticas,316082,(anular),,105004,,,,,Operational,Original
+bufr4/3/16/082/18/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
+bufr4/3/16/082/18/005021,16,Secuencias de las características sinópticas,316082,(anular),,005021,,,,,Operational,Original
+bufr4/3/16/082/19/201131,16,Secuencias de las características sinópticas,316082,(anular),,201131,I.2 – BUFR Tabla D/16 — 15,(continúa),,,Operational,Original
+bufr4/3/16/082/20/019004,16,Secuencias de las características sinópticas,316082,,,019004,,,,,Operational,Original
+bufr4/3/16/082/21/201000,16,Secuencias de las características sinópticas,316082,,,201000,Fijar en faltante (anular),(continúa),,,Operational,Original

@@ -26,14 +26,14 @@ bufr4/3/15/003/14/033050,15,Secuencias de los informes de las observaciones ocea
 bufr4/3/15/003/15/109000,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,109000,,,,,Operational,Original
 bufr4/3/15/003/16/031002,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,031002,,,,,Operational,Original
 bufr4/3/15/003/17/007065,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,007065,,,,,Operational,Original
-bufr4/3/15/003/18/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
-bufr4/3/15/003/19/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,,,,,Operational,Original
-bufr4/3/15/003/20/022045,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,022045,,,,,Operational,Original
-bufr4/3/15/003/21/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
-bufr4/3/15/003/22/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,,,,,Operational,Original
-bufr4/3/15/003/23/022064,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,022064,,,,,Operational,Original
-bufr4/3/15/003/24/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
-bufr4/3/15/003/25/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,I.2 – BUFR Tabla D/15 — 1,(continúa),,,Operational,Original
+bufr4/3/15/003/13/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
+bufr4/3/15/003/14/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,,,,,Operational,Original
+bufr4/3/15/003/18/022045,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,022045,,,,,Operational,Original
+bufr4/3/15/003/13/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
+bufr4/3/15/003/14/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,,,,,Operational,Original
+bufr4/3/15/003/19/022064,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,022064,,,,,Operational,Original
+bufr4/3/15/003/13/008080,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,008080,,,,,Operational,Original
+bufr4/3/15/003/14/033050,15,Secuencias de los informes de las observaciones oceanográficas,315003,,,033050,I.2 – BUFR Tabla D/15 — 1,(continúa),,,Operational,Original
 bufr4/3/15/004/1/001079,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,001079,Cadena de caracteres hexadecimales,,,,Operational,Original
 bufr4/3/15/004/2/001011,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,001011,Señal de llamada del buque,,,,Operational,Original
 bufr4/3/15/004/3/001103,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,001103,= 0 a 9999999,,,,Operational,Original
@@ -52,44 +52,126 @@ bufr4/3/15/004/15/007033,15,Secuencias de los informes de las observaciones ocea
 bufr4/3/15/004/16/002002,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002002,,,,,Operational,Original
 bufr4/3/15/004/17/011002,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,011002,,,,,Operational,Original
 bufr4/3/15/004/18/011001,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,011001,,,,,Operational,Original
-bufr4/3/15/004/19/007032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007032,,,,,Operational,Original
-bufr4/3/15/004/20/007033,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007033,,,,,Operational,Original
-bufr4/3/15/004/21/012101,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,012101,,,,,Operational,Original
-bufr4/3/15/004/22/012103,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,012103,,,,,Operational,Original
-bufr4/3/15/004/23/007032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/15/004/24/007033,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007033,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/15/004/25/302021,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,302021,,,,,Operational,Original
-bufr4/3/15/004/26/002031,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002031,,,,,Operational,Original
-bufr4/3/15/004/27/002030,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002030,,,,,Operational,Original
-bufr4/3/15/004/28/022005,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022005,,,,,Operational,Original
-bufr4/3/15/004/29/022032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022032,,,,,Operational,Original
-bufr4/3/15/004/30/022063,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022063,,,,,Operational,Original
-bufr4/3/15/004/31/008080,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008080,,,,,Operational,Original
-bufr4/3/15/004/32/033050,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,033050,,,,,Operational,Original
-bufr4/3/15/004/33/022178,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022178,,,,,Operational,Original
-bufr4/3/15/004/34/022177,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022177,Por encima del nivel del mar | 0 a 50 m en unidades de metros enteros,,,,Operational,Original
-bufr4/3/15/004/35/022067,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022067,,,,,Operational,Original
-bufr4/3/15/004/36/008041,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008041,,(continúa),,,Operational,Original
+bufr4/3/15/004/14/007032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007032,,,,,Operational,Original
+bufr4/3/15/004/15/007033,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007033,,,,,Operational,Original
+bufr4/3/15/004/19/012101,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,012101,,,,,Operational,Original
+bufr4/3/15/004/20/012103,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,012103,,,,,Operational,Original
+bufr4/3/15/004/14/007032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/15/004/15/007033,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,007033,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/15/004/21/302021,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,302021,,,,,Operational,Original
+bufr4/3/15/004/22/002031,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002031,,,,,Operational,Original
+bufr4/3/15/004/23/002030,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002030,,,,,Operational,Original
+bufr4/3/15/004/24/022005,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022005,,,,,Operational,Original
+bufr4/3/15/004/25/022032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022032,,,,,Operational,Original
+bufr4/3/15/004/26/022063,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022063,,,,,Operational,Original
+bufr4/3/15/004/27/008080,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008080,,,,,Operational,Original
+bufr4/3/15/004/28/033050,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,033050,,,,,Operational,Original
+bufr4/3/15/004/29/022178,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022178,,,,,Operational,Original
+bufr4/3/15/004/30/022177,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022177,Por encima del nivel del mar | 0 a 50 m en unidades de metros enteros,,,,Operational,Original
+bufr4/3/15/004/31/022067,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022067,,,,,Operational,Original
+bufr4/3/15/004/32/008041,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008041,,(continúa),,,Operational,Original
+bufr4/3/15/004/33/026021,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,026021,,,,,Operational,Original
+bufr4/3/15/004/34/026022,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,026022,,,,,Operational,Original
+bufr4/3/15/004/35/026023,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,026023,,,,,Operational,Original
+bufr4/3/15/004/36/022068,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,022068,,,,,Operational,Original
+bufr4/3/15/004/37/025061,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,025061,,,,,Operational,Original
+bufr4/3/15/004/32/008041,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008041,Fijar en faltante,,,,Operational,Original
+bufr4/3/15/004/27/008080,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,008080,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/15/004/38/002171,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002171,,,,,Operational,Original
+bufr4/3/15/004/39/302090,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,302090,,,,,Operational,Original
+bufr4/3/15/004/38/002171,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002171,,,,,Operational,Original
+bufr4/3/15/004/40/002032,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,002032,,,,,Operational,Original
+bufr4/3/15/004/41/315005,15,Secuencias de los informes de las observaciones oceanográficas,315004,,,315005,,,,,Operational,Original
 bufr4/3/15/005/1/106000,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,106000,,,,,Operational,Original
 bufr4/3/15/005/2/031002,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,031002,,,,,Operational,Original
 bufr4/3/15/005/3/007063,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,007063,,,,,Operational,Original
 bufr4/3/15/005/4/008080,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,008080,= 13 profundidad del agua a un nivel,,,,Operational,Original
 bufr4/3/15/005/5/033050,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,033050,,,,,Operational,Original
 bufr4/3/15/005/6/022043,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,022043,,,,,Operational,Original
-bufr4/3/15/005/7/008080,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,008080,= 11 temperatura del agua a un nivel,,,,Operational,Original
-bufr4/3/15/005/8/033050,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,033050,,,,,Operational,Original
+bufr4/3/15/005/4/008080,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,008080,= 11 temperatura del agua a un nivel,,,,Operational,Original
+bufr4/3/15/005/5/033050,15,Secuencias de los informes de las observaciones oceanográficas,315005,(anular),,033050,,,,,Operational,Original
 bufr4/3/15/007/1/301003,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,301003,,,,,Operational,Original
 bufr4/3/15/007/2/001019,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001019,,,,,Operational,Original
 bufr4/3/15/007/3/001103,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001103,Límite de los valores comprendido entre 0 y 9999999,,,,Operational,Original
 bufr4/3/15/007/4/001087,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001087,Fijar en faltante si se notifica la señal de llamada del buque I.2 – BUFR Tabla D/15 — 3,(continúa),,,Operational,Original
+bufr4/3/15/007/5/001036,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001036,,,,,Operational,Original
+bufr4/3/15/007/6/001115,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001115,Fijar en faltante si no se notifica el identificador del crucero,,,,Operational,Original
+bufr4/3/15/007/7/001080,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001080,,,,,Operational,Original
+bufr4/3/15/007/8/005036,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,005036,,,,,Operational,Original
+bufr4/3/15/007/9/301011,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,301011,,,,,Operational,Original
+bufr4/3/15/007/10/301012,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,301012,,,,,Operational,Original
+bufr4/3/15/007/11/301021,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,301021,,,,,Operational,Original
+bufr4/3/15/007/12/001079,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001079,,,,,Operational,Original
+bufr4/3/15/007/13/001023,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,001023,Número de observación/estación a lo largo de la línea/transecta,,,,Operational,Original
+bufr4/3/15/007/14/022063,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022063,,,,,Operational,Original
+bufr4/3/15/007/15/101000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,101000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/17/302001,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,302001,,,,,Operational,Original
+bufr4/3/15/007/15/101000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,101000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/18/302021,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,302021,,,,,Operational,Original
+bufr4/3/15/007/15/101000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,101000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/19/302052,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,302052,,,,,Operational,Original
+bufr4/3/15/007/15/101000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,101000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/20/302059,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,302059,,,,,Operational,Original
+bufr4/3/15/007/21/022067,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022067,,,,,Operational,Original
+bufr4/3/15/007/22/002171,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002171,,,,,Operational,Original
+bufr4/3/15/007/23/302090,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,302090,Temperatura en superficie,,,,Operational,Original
+bufr4/3/15/007/24/306033,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,306033,,,,,Operational,Original
+bufr4/3/15/007/25/306034,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,306034,,,,,Operational,Original
+bufr4/3/15/007/22/002171,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002171,Fijar en faltante(anular),,,,Operational,Original
+bufr4/3/15/007/21/022067,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022067,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/15/007/26/002038,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002038,,,,,Operational,Original
+bufr4/3/15/007/21/022067,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022067,,(continúa),,,Operational,Original
+bufr4/3/15/007/27/022068,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022068,,,,,Operational,Original
+bufr4/3/15/007/22/002171,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002171,,,,,Operational,Original
+bufr4/3/15/007/28/002033,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002033,,,,,Operational,Original
+bufr4/3/15/007/29/002032,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002032,,,,,Operational,Original
+bufr4/3/15/007/30/022056,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022056,,,,,Operational,Original
+bufr4/3/15/007/31/003011,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,003011,,,,,Operational,Original
+bufr4/3/15/007/32/306035,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,306035,,,,,Operational,Original
+bufr4/3/15/007/33/107000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,107000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/29/002032,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002032,,,,,Operational,Original
+bufr4/3/15/007/34/003010,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,003010,,,,,Operational,Original
+bufr4/3/15/007/35/002031,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002031,,,,,Operational,Original
+bufr4/3/15/007/36/002040,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002040,,,,,Operational,Original
+bufr4/3/15/007/30/022056,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,022056,,,,,Operational,Original
+bufr4/3/15/007/31/003011,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,003011,,,,,Operational,Original
+bufr4/3/15/007/37/306036,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,306036,,,,,Operational,Original
+bufr4/3/15/007/38/104000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,104000,,,,,Operational,Original
+bufr4/3/15/007/16/031000,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,031000,,,,,Operational,Original
+bufr4/3/15/007/29/002032,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,002032,,,,,Operational,Original
+bufr4/3/15/007/39/003012,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,003012,,,,,Operational,Original
+bufr4/3/15/007/31/003011,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,003011,,,,,Operational,Original
+bufr4/3/15/007/40/306037,15,Secuencias de los informes de las observaciones oceanográficas,315007,,,306037,,,,,Operational,Original
 bufr4/3/15/008/1/301126,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,301126,,,,,Operational,Original
 bufr4/3/15/008/2/306038,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306038,"Para boyas con más de un anemómetro, la altura del sensor debería guardar relación con el sensor utilizado.",,,,Operational,Original
 bufr4/3/15/008/3/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
 bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
 bufr4/3/15/008/5/302091,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,302091,,,,,Operational,Original
-bufr4/3/15/008/6/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
-bufr4/3/15/008/7/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
-bufr4/3/15/008/8/302082,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,302082,I.2 – BUFR Tabla D/15 — 5,(continúa),,,Operational,Original
+bufr4/3/15/008/3/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/6/302082,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,302082,I.2 – BUFR Tabla D/15 — 5,(continúa),,,Operational,Original
+bufr4/3/15/008/3/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/7/306039,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306039,,,,,Operational,Original
+bufr4/3/15/008/3/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/8/306040,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306040,,,,,Operational,Original
+bufr4/3/15/008/9/102000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,102000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/10/002005,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,002005,,,,,Operational,Original
+bufr4/3/15/008/11/306041,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306041,,,,,Operational,Original
+bufr4/3/15/008/9/102000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,102000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/10/002005,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,002005,,,,,Operational,Original
+bufr4/3/15/008/12/306004,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306004,,,,,Operational,Original
+bufr4/3/15/008/3/101000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,101000,,,,,Operational,Original
+bufr4/3/15/008/4/031000,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,031000,,,,,Operational,Original
+bufr4/3/15/008/13/306005,15,Secuencias de los informes de las observaciones oceanográficas,315008,,,306005,,,,,Operational,Original
 bufr4/3/15/009/1/001087,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,001087,,,,,Operational,Original
 bufr4/3/15/009/2/001019,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,001019,,,,,Operational,Original
 bufr4/3/15/009/3/002149,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002149,,,,,Operational,Original
@@ -100,6 +182,42 @@ bufr4/3/15/009/7/301021,15,Secuencias de los informes de las observaciones ocean
 bufr4/3/15/009/8/208016,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,208016,Cambiar a 16 caracteres,,,,Operational,Original
 bufr4/3/15/009/9/001051,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,001051,,,,,Operational,Original
 bufr4/3/15/009/10/208000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,208000,Anular,(continúa),,,Operational,Original
+bufr4/3/15/009/11/002148,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002148,"= 1 Argos, = 8 Iridium y GPS, = 9 Argos-3",,,,Operational,Original
+bufr4/3/15/009/12/001012,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,001012,Dirección de deriva de la plataforma,,,,Operational,Original
+bufr4/3/15/009/13/001014,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,001014,Velocidad de movimiento de la plataforma de observación móvil,,,,Operational,Original
+bufr4/3/15/009/14/033022,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,033022,,,,,Operational,Original
+bufr4/3/15/009/15/033023,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,033023,,,,,Operational,Original
+bufr4/3/15/009/16/033027,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,033027,,,,,Operational,Original
+bufr4/3/15/009/17/025026,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,025026,Voltaje de la batería de plataforma,,,,Operational,Original
+bufr4/3/15/009/18/002034,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002034,,,,,Operational,Original
+bufr4/3/15/009/19/022060,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,022060,,,,,Operational,Original
+bufr4/3/15/009/20/007070,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,007070,,,,,Operational,Original
+bufr4/3/15/009/21/002190,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002190,,,,,Operational,Original
+bufr4/3/15/009/4/008021,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,008021,= 25 hora de notificación nominal,,,,Operational,Original
+bufr4/3/15/009/5/301011,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,301011,Fecha de observación,,,,Operational,Original
+bufr4/3/15/009/6/301012,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,301012,Hora de observación,,,,Operational,Original
+bufr4/3/15/009/22/002005,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002005,,,,,Operational,Original
+bufr4/3/15/009/23/022043,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,022043,,,,,Operational,Original
+bufr4/3/15/009/24/002033,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002033,,,,,Operational,Original
+bufr4/3/15/009/25/022059,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,022059,,,,,Operational,Original
+bufr4/3/15/009/26/008029,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,008029,,,,,Operational,Original
+bufr4/3/15/009/27/013115,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,013115,,,,,Operational,Original
+bufr4/3/15/009/28/103000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,103000,,,,,Operational,Original
+bufr4/3/15/009/29/031000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,031000,,,,,Operational,Original
+bufr4/3/15/009/22/002005,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002005,,,,,Operational,Original
+bufr4/3/15/009/30/306004,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,306004,,,,,Operational,Original
+bufr4/3/15/009/22/002005,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,002005,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/15/009/31/010004,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,010004,,,,,Operational,Original
+bufr4/3/15/009/32/010051,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,010051,,,,,Operational,Original
+bufr4/3/15/009/33/102000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,102000,,,,,Operational,Original
+bufr4/3/15/009/34/007033,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,007033,,,,,Operational,Original
+bufr4/3/15/009/35/012101,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,012101,,,,,Operational,Original
+bufr4/3/15/009/36/101000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,101000,,,,,Operational,Original
+bufr4/3/15/009/29/031000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,031000,I.2 – BUFR Tabla D/15 — 7,(continúa),,,Operational,Original
+bufr4/3/15/009/37/306042,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,306042,,,,,Operational,Original
+bufr4/3/15/009/36/101000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,101000,,,,,Operational,Original
+bufr4/3/15/009/29/031000,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,031000,,,,,Operational,Original
+bufr4/3/15/009/38/306039,15,Secuencias de los informes de las observaciones oceanográficas,315009,,,306039,,,,,Operational,Original
 bufr4/3/15/010/1/112000,15,Secuencias de los informes de las observaciones oceanográficas,315010,,,112000,,,,,Operational,Original
 bufr4/3/15/010/2/031001,15,Secuencias de los informes de las observaciones oceanográficas,315010,,,031001,,,,,Operational,Original
 bufr4/3/15/010/3/201144,15,Secuencias de los informes de las observaciones oceanográficas,315010,,,201144,Añadir 16 bits a la anchura por cada elemento de datos en la Tabla B,,,,Operational,Original
@@ -124,6 +242,56 @@ bufr4/3/15/011/7/208032,15,Secuencias de los informes de las observaciones ocean
 bufr4/3/15/011/8/001079,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,001079,"UUID para notificar, cadena hexadecimal de 32 caracteres",,,,Operational,Original
 bufr4/3/15/011/9/208000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,208000,,,,,Operational,Original
 bufr4/3/15/011/10/301011,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,301011,,(continúa),,,Operational,Original
+bufr4/3/15/011/11/301012,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,301012,,,,,Operational,Original
+bufr4/3/15/011/12/301021,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,301021,,,,,Operational,Original
+bufr4/3/15/011/13/001012,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,001012,,,,,Operational,Original
+bufr4/3/15/011/14/001014,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,001014,,,,,Operational,Original
+bufr4/3/15/011/15/011104,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,011104,,,,,Operational,Original
+bufr4/3/15/011/16/103000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,103000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/18/007031,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,007031,,,,,Operational,Original
+bufr4/3/15/011/19/306038,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306038,,,,,Operational,Original
+bufr4/3/15/011/20/012161,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,012161,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/22/306034,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306034,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/23/306039,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306039,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/24/306033,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306033,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/25/306041,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306041,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/26/306004,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306004,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/27/306005,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306005,,,,,Operational,Original
+bufr4/3/15/011/28/105000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,105000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/29/041001,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,041001,,,,,Operational,Original
+bufr4/3/15/011/30/008043,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,008043,,,,,Operational,Original
+bufr4/3/15/011/31/015028,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,015028,,,,,Operational,Original
+bufr4/3/15/011/30/008043,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,008043,,,,,Operational,Original
+bufr4/3/15/011/32/013080,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,013080,,,,,Operational,Original
+bufr4/3/15/011/33/104000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,104000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/34/041005,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,041005,,,,,Operational,Original
+bufr4/3/15/011/35/041003,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,041003,,,,,Operational,Original
+bufr4/3/15/011/36/022188,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,022188,I.2 – BUFR Tabla D/15 — 9,(continúa),,,Operational,Original
+bufr4/3/15/011/37/041002,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,041002,,,,,Operational,Original
+bufr4/3/15/011/21/101000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,101000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/38/306040,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,306040,,,,,Operational,Original
+bufr4/3/15/011/33/104000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,104000,,,,,Operational,Original
+bufr4/3/15/011/17/031000,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,031000,,,,,Operational,Original
+bufr4/3/15/011/39/008021,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,008021,,,,,Operational,Original
+bufr4/3/15/011/40/004025,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,004025,,,,,Operational,Original
+bufr4/3/15/011/41/014017,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,014017,,,,,Operational,Original
+bufr4/3/15/011/42/014018,15,Secuencias de los informes de las observaciones oceanográficas,315011,,,014018,,,,,Operational,Original
 bufr4/3/15/013/1/301150,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,301150,,,,,Operational,Original
 bufr4/3/15/013/2/001087,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,001087,"Número de la OMM, si se hubiese asignado",,,,Operational,Original
 bufr4/3/15/013/3/208032,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,208032,Cambio de anchura a 32 caracteres,,,,Operational,Original
@@ -146,3 +314,13 @@ bufr4/3/15/013/19/033023,15,Secuencias de los informes de las observaciones ocea
 bufr4/3/15/013/20/033027,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,033027,,,,,Operational,Original
 bufr4/3/15/013/21/007063,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,007063,,,,,Operational,Original
 bufr4/3/15/013/22/022045,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,022045,,(continúa),,,Operational,Original
+bufr4/3/15/013/12/008021,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,008021,Fijar en faltante/ anular,,,,Operational,Original
+bufr4/3/15/013/23/107000,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,107000,,,,,Operational,Original
+bufr4/3/15/013/11/031001,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,031001,,,,,Operational,Original
+bufr4/3/15/013/13/301011,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,301011,,,,,Operational,Original
+bufr4/3/15/013/14/301012,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,301012,,,,,Operational,Original
+bufr4/3/15/013/15/301021,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,301021,,,,,Operational,Original
+bufr4/3/15/013/24/001079,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,001079,Identificador de perfil,,,,Operational,Original
+bufr4/3/15/013/25/001023,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,001023,Número de difusión,,,,Operational,Original
+bufr4/3/15/013/26/022056,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,022056,Fijar en 0 (ascendente/ descendente),,,,Operational,Original
+bufr4/3/15/013/27/306035,15,Secuencias de los informes de las observaciones oceanográficas,315013,,,306035,I.2 – BUFR Tabla D/15 — 11,(continúa),,,Operational,Original

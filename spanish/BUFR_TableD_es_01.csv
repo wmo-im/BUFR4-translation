@@ -24,7 +24,7 @@ bufr4/3/01/013/3/004006,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/014/1/102002,01,Secuencias correspondientes a la posición y a la identificación,301014,,,102002,,,,,Operational,Original
 bufr4/3/01/014/2/301011,01,Secuencias correspondientes a la posición y a la identificación,301014,,,301011,,,,,Operational,Original
 bufr4/3/01/014/3/301012,01,Secuencias correspondientes a la posición y a la identificación,301014,,,301012,Véanse las notas 2 a 4 I.2 – BUFR Tabla D/01 — 1,(continúa),,,Operational,Original
-bufr4/3/01/018/1/002114,01,Secuencias correspondientes a la posición y a la identificación,301018,,,002114,,,,,Operational,Original
+bufr4/3/01/018/1/001114,01,Secuencias correspondientes a la posición y a la identificación,301018,,,001114,,,,,Operational,Original
 bufr4/3/01/018/2/025185,01,Secuencias correspondientes a la posición y a la identificación,301018,,,025185,,,,,Operational,Original
 bufr4/3/01/018/3/025186,01,Secuencias correspondientes a la posición y a la identificación,301018,,,025186,,,,,Operational,Original
 bufr4/3/01/021/1/005001,01,Secuencias correspondientes a la posición y a la identificación,301021,,,005001,,,,,Operational,Original
@@ -42,16 +42,16 @@ bufr4/3/01/025/2/004003,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/025/3/301012,01,Secuencias correspondientes a la posición y a la identificación,301025,,,301012,,,,,Operational,Original
 bufr4/3/01/026/1/301021,01,Secuencias correspondientes a la posición y a la identificación,301026,,,301021,,,,,Operational,Original
 bufr4/3/01/026/2/004003,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004003,Período de tiempo,,,,Operational,Original
-bufr4/3/01/026/3/004003,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004003,en días,,,,Operational,Original
-bufr4/3/01/026/4/004004,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004004,Período de tiempo,,,,Operational,Original
-bufr4/3/01/026/5/004004,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004004,en horas,,,,Operational,Original
-bufr4/3/01/026/6/004005,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004005,Período de tiempo,,,,Operational,Original
-bufr4/3/01/026/7/004005,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004005,en minutos,,,,Operational,Original
+bufr4/3/01/026/2/004003,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004003,en días,,,,Operational,Original
+bufr4/3/01/026/3/004004,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004004,Período de tiempo,,,,Operational,Original
+bufr4/3/01/026/3/004004,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004004,en horas,,,,Operational,Original
+bufr4/3/01/026/4/004005,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004005,Período de tiempo,,,,Operational,Original
+bufr4/3/01/026/4/004005,01,Secuencias correspondientes a la posición y a la identificación,301026,,,004005,en minutos,,,,Operational,Original
 bufr4/3/01/027/1/008007,01,Secuencias correspondientes a la posición y a la identificación,301027,,,008007,"= 0 punto, = 1 línea, = 2 área, = 3 volumen",,,,Operational,Original
 bufr4/3/01/027/2/101000,01,Secuencias correspondientes a la posición y a la identificación,301027,,,101000,,,,,Operational,Original
 bufr4/3/01/027/3/031001,01,Secuencias correspondientes a la posición y a la identificación,301027,,,031001,,,,,Operational,Original
 bufr4/3/01/027/4/301028,01,Secuencias correspondientes a la posición y a la identificación,301027,,,301028,,,,,Operational,Original
-bufr4/3/01/027/5/008007,01,Secuencias correspondientes a la posición y a la identificación,301027,,,008007,Fijar en faltante (anular),(continúa),,,Operational,Original
+bufr4/3/01/027/1/008007,01,Secuencias correspondientes a la posición y a la identificación,301027,,,008007,Fijar en faltante (anular),(continúa),,,Operational,Original
 bufr4/3/01/028/1/008040,01,Secuencias correspondientes a la posición y a la identificación,301028,,,008040,,,,,Operational,Original
 bufr4/3/01/028/2/033042,01,Secuencias correspondientes a la posición y a la identificación,301028,,,033042,,,,,Operational,Original
 bufr4/3/01/028/3/007010,01,Secuencias correspondientes a la posición y a la identificación,301028,,,007010,,,,,Operational,Original
@@ -59,7 +59,7 @@ bufr4/3/01/028/4/101000,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/028/5/031002,01,Secuencias correspondientes a la posición y a la identificación,301028,,,031002,,,,,Operational,Original
 bufr4/3/01/028/6/301023,01,Secuencias correspondientes a la posición y a la identificación,301028,,,301023,,,,,Operational,Original
 bufr4/3/01/028/7/019007,01,Secuencias correspondientes a la posición y a la identificación,301028,,,019007,,,,,Operational,Original
-bufr4/3/01/028/8/008040,01,Secuencias correspondientes a la posición y a la identificación,301028,,,008040,Fijar en faltante,,,,Operational,Original
+bufr4/3/01/028/1/008040,01,Secuencias correspondientes a la posición y a la identificación,301028,,,008040,Fijar en faltante,,,,Operational,Original
 bufr4/3/01/029/1/001018,01,Secuencias correspondientes a la posición y a la identificación,301029,(anular),,001018,,,,,Operational,Original
 bufr4/3/01/029/2/002001,01,Secuencias correspondientes a la posición y a la identificación,301029,(anular),,002001,,,,,Operational,Original
 bufr4/3/01/029/3/301011,01,Secuencias correspondientes a la posición y a la identificación,301029,(anular),,301011,,,,,Operational,Original
@@ -118,6 +118,11 @@ bufr4/3/01/039/4/301011,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/039/5/301012,01,Secuencias correspondientes a la posición y a la identificación,301039,,,301012,,,,,Operational,Original
 bufr4/3/01/039/6/301023,01,Secuencias correspondientes a la posición y a la identificación,301039,,,301023,,,,,Operational,Original
 bufr4/3/01/040/1/301003,01,Secuencias correspondientes a la posición y a la identificación,301040,,,301003,,(continúa),,,Operational,Original
+bufr4/3/01/040/2/002011,01,Secuencias correspondientes a la posición y a la identificación,301040,,,002011,,,,,Operational,Original
+bufr4/3/01/040/3/002012,01,Secuencias correspondientes a la posición y a la identificación,301040,,,002012,,,,,Operational,Original
+bufr4/3/01/040/4/301011,01,Secuencias correspondientes a la posición y a la identificación,301040,,,301011,,,,,Operational,Original
+bufr4/3/01/040/5/301012,01,Secuencias correspondientes a la posición y a la identificación,301040,,,301012,,,,,Operational,Original
+bufr4/3/01/040/6/301024,01,Secuencias correspondientes a la posición y a la identificación,301040,,,301024,,,,,Operational,Original
 bufr4/3/01/041/1/001007,01,Secuencias correspondientes a la posición y a la identificación,301041,,,001007,,,,,Operational,Original
 bufr4/3/01/041/2/002021,01,Secuencias correspondientes a la posición y a la identificación,301041,,,002021,,,,,Operational,Original
 bufr4/3/01/041/3/002022,01,Secuencias correspondientes a la posición y a la identificación,301041,,,002022,,,,,Operational,Original
@@ -214,6 +219,39 @@ bufr4/3/01/055/7/001014,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/058/1/301011,01,Secuencias correspondientes a la posición y a la identificación,301058,,,301011,,,,,Operational,Original
 bufr4/3/01/058/2/301012,01,Secuencias correspondientes a la posición y a la identificación,301058,,,301012,,,,,Operational,Original
 bufr4/3/01/058/3/201152,01,Secuencias correspondientes a la posición y a la identificación,301058,,,201152,I.2 – BUFR Tabla D/01 — 7,(continúa),,,Operational,Original
+bufr4/3/01/058/4/202135,01,Secuencias correspondientes a la posición y a la identificación,301058,,,202135,,,,,Operational,Original
+bufr4/3/01/058/5/004006,01,Secuencias correspondientes a la posición y a la identificación,301058,,,004006,,,,,Operational,Original
+bufr4/3/01/058/6/202000,01,Secuencias correspondientes a la posición y a la identificación,301058,,,202000,,,,,Operational,Original
+bufr4/3/01/058/7/201000,01,Secuencias correspondientes a la posición y a la identificación,301058,,,201000,,,,,Operational,Original
+bufr4/3/01/058/8/301021,01,Secuencias correspondientes a la posición y a la identificación,301058,,,301021,,,,,Operational,Original
+bufr4/3/01/058/9/020111,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020111,,,,,Operational,Original
+bufr4/3/01/058/10/020112,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020112,,,,,Operational,Original
+bufr4/3/01/058/11/020113,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020113,,,,,Operational,Original
+bufr4/3/01/058/12/020114,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020114,,,,,Operational,Original
+bufr4/3/01/058/13/020115,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020115,,,,,Operational,Original
+bufr4/3/01/058/14/020116,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020116,,,,,Operational,Original
+bufr4/3/01/058/15/020117,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020117,,,,,Operational,Original
+bufr4/3/01/058/16/020118,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020118,,,,,Operational,Original
+bufr4/3/01/058/17/020119,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020119,,,,,Operational,Original
+bufr4/3/01/058/18/025035,01,Secuencias correspondientes a la posición y a la identificación,301058,,,025035,V o A,,,,Operational,Original
+bufr4/3/01/058/19/020121,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020121,,,,,Operational,Original
+bufr4/3/01/058/21/020123,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020123,,,,,Operational,Original
+bufr4/3/01/058/22/020124,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020124,,,,,Operational,Original
+bufr4/3/01/058/23/025175,01,Secuencias correspondientes a la posición y a la identificación,301058,,,025175,,,,,Operational,Original
+bufr4/3/01/058/21/020123,01,Secuencias correspondientes a la posición y a la identificación,301058,,,020123,Identificación de nube a tierra o de nube a nube,,,,Operational,Original
+bufr4/3/01/058/25/025063,01,Secuencias correspondientes a la posición y a la identificación,301058,,,025063,,,,,Operational,Original
+bufr4/3/01/058/26/202136,01,Secuencias correspondientes a la posición y a la identificación,301058,,,202136,,,,,Operational,Original
+bufr4/3/01/058/27/201136,01,Secuencias correspondientes a la posición y a la identificación,301058,,,201136,,,,,Operational,Original
+bufr4/3/01/058/28/002121,01,Secuencias correspondientes a la posición y a la identificación,301058,,,002121,"Definir la frecuencia central, si se utiliza",,,,Operational,Original
+bufr4/3/01/058/7/201000,01,Secuencias correspondientes a la posición y a la identificación,301058,,,201000,,,,,Operational,Original
+bufr4/3/01/058/6/202000,01,Secuencias correspondientes a la posición y a la identificación,301058,,,202000,,,,,Operational,Original
+bufr4/3/01/058/29/025061,01,Secuencias correspondientes a la posición y a la identificación,301058,,,025061,,,,,Operational,Original
+bufr4/3/01/058/30/002184,01,Secuencias correspondientes a la posición y a la identificación,301058,,,002184,,,,,Operational,Original
+bufr4/3/01/058/31/002189,01,Secuencias correspondientes a la posición y a la identificación,301058,,,002189,,,,,Operational,Original
+bufr4/3/01/058/32/025036,01,Secuencias correspondientes a la posición y a la identificación,301058,,,025036,,,,,Operational,Original
+bufr4/3/01/058/33/101000,01,Secuencias correspondientes a la posición y a la identificación,301058,,,101000,,,,,Operational,Original
+bufr4/3/01/058/34/031002,01,Secuencias correspondientes a la posición y a la identificación,301058,,,031002,Número de sensores considerados,,,,Operational,Original
+bufr4/3/01/058/35/301059,01,Secuencias correspondientes a la posición y a la identificación,301058,,,301059,,,,,Operational,Original
 bufr4/3/01/059/1/301021,01,Secuencias correspondientes a la posición y a la identificación,301059,,,301021,Sensor,,,,Operational,Original
 bufr4/3/01/059/2/007030,01,Secuencias correspondientes a la posición y a la identificación,301059,,,007030,,,,,Operational,Original
 bufr4/3/01/059/3/007032,01,Secuencias correspondientes a la posición y a la identificación,301059,,,007032,Sensor para relámpagos,(continúa),,,Operational,Original
@@ -247,6 +285,9 @@ bufr4/3/01/072/2/301011,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/072/3/301013,01,Secuencias correspondientes a la posición y a la identificación,301072,,,301013,,,,,Operational,Original
 bufr4/3/01/072/4/301021,01,Secuencias correspondientes a la posición y a la identificación,301072,,,301021,,,,,Operational,Original
 bufr4/3/01/074/1/002143,01,Secuencias correspondientes a la posición y a la identificación,301074,,,002143,I.2 – BUFR Tabla D/01 — 9,(continúa),,,Operational,Original
+bufr4/3/01/074/2/002142,01,Secuencias correspondientes a la posición y a la identificación,301074,,,002142,,,,,Operational,Original
+bufr4/3/01/074/3/002145,01,Secuencias correspondientes a la posición y a la identificación,301074,,,002145,,,,,Operational,Original
+bufr4/3/01/074/4/002146,01,Secuencias correspondientes a la posición y a la identificación,301074,,,002146,,,,,Operational,Original
 bufr4/3/01/075/1/301001,01,Secuencias correspondientes a la posición y a la identificación,301075,,,301001,,,,,Operational,Original
 bufr4/3/01/075/2/001015,01,Secuencias correspondientes a la posición y a la identificación,301075,,,001015,,,,,Operational,Original
 bufr4/3/01/075/3/301024,01,Secuencias correspondientes a la posición y a la identificación,301075,,,301024,,,,,Operational,Original
@@ -303,7 +344,7 @@ bufr4/3/01/112/3/002013,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/112/4/002014,01,Secuencias correspondientes a la posición y a la identificación,301112,,,002014,,,,,Operational,Original
 bufr4/3/01/112/5/002003,01,Secuencias correspondientes a la posición y a la identificación,301112,,,002003,I.2 – BUFR Tabla D/01 — 11,(continúa),,,Operational,Original
 bufr4/3/01/113/1/008021,01,Secuencias correspondientes a la posición y a la identificación,301113,,,008021,=18 hora de lanzamiento Hora de lanzamiento,,,,Operational,Original
-bufr4/3/01/113/2/301013,01,Secuencias correspondientes a la posición y a la identificación,301113,,,301013,Hora de lanzamiento,,,,Operational,Original
+bufr4/3/01/113/3/301013,01,Secuencias correspondientes a la posición y a la identificación,301113,,,301013,Hora de lanzamiento,,,,Operational,Original
 bufr4/3/01/114/1/301021,01,Secuencias correspondientes a la posición y a la identificación,301114,,,301021,,,,,Operational,Original
 bufr4/3/01/114/2/007030,01,Secuencias correspondientes a la posición y a la identificación,301114,,,007030,,,,,Operational,Original
 bufr4/3/01/114/3/007031,01,Secuencias correspondientes a la posición y a la identificación,301114,,,007031,,,,,Operational,Original
@@ -330,6 +371,34 @@ bufr4/3/01/123/2/008041,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/123/3/001062,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001062,,,,,Operational,Original
 bufr4/3/01/123/4/301001,01,Secuencias correspondientes a la posición y a la identificación,301123,,,301001,,,,,Operational,Original
 bufr4/3/01/123/5/001094,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001094,,(continúa),,,Operational,Original
+bufr4/3/01/123/6/002011,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002011,,,,,Operational,Original
+bufr4/3/01/123/7/001018,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001018,,,,,Operational,Original
+bufr4/3/01/123/8/001095,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001095,,,,,Operational,Original
+bufr4/3/01/123/9/025061,01,Secuencias correspondientes a la posición y a la identificación,301123,,,025061,,,,,Operational,Original
+bufr4/3/01/123/10/025068,01,Secuencias correspondientes a la posición y a la identificación,301123,,,025068,,,,,Operational,Original
+bufr4/3/01/123/11/001082,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001082,,,,,Operational,Original
+bufr4/3/01/123/12/001083,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001083,,,,,Operational,Original
+bufr4/3/01/123/13/001081,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001081,,,,,Operational,Original
+bufr4/3/01/123/14/002067,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002067,,,,,Operational,Original
+bufr4/3/01/123/15/002066,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002066,,,,,Operational,Original
+bufr4/3/01/123/16/002014,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002014,,,,,Operational,Original
+bufr4/3/01/123/17/025067,01,Secuencias correspondientes a la posición y a la identificación,301123,,,025067,,,,,Operational,Original
+bufr4/3/01/123/18/025065,01,Secuencias correspondientes a la posición y a la identificación,301123,,,025065,,,,,Operational,Original
+bufr4/3/01/123/19/025066,01,Secuencias correspondientes a la posición y a la identificación,301123,,,025066,,,,,Operational,Original
+bufr4/3/01/123/20/002095,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002095,,,,,Operational,Original
+bufr4/3/01/123/21/002096,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002096,,,,,Operational,Original
+bufr4/3/01/123/22/002097,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002097,,,,,Operational,Original
+bufr4/3/01/123/23/002016,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002016,,,,,Operational,Original
+bufr4/3/01/123/24/002083,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002083,,,,,Operational,Original
+bufr4/3/01/123/25/002080,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002080,,,,,Operational,Original
+bufr4/3/01/123/26/002081,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002081,,,,,Operational,Original
+bufr4/3/01/123/27/001093,01,Secuencias correspondientes a la posición y a la identificación,301123,,,001093,,,,,Operational,Original
+bufr4/3/01/123/28/002084,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002084,,,,,Operational,Original
+bufr4/3/01/123/29/002085,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002085,,,,,Operational,Original
+bufr4/3/01/123/30/002086,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002086,,,,,Operational,Original
+bufr4/3/01/123/31/002082,01,Secuencias correspondientes a la posición y a la identificación,301123,,,002082,,,,,Operational,Original
+bufr4/3/01/123/2/008041,01,Secuencias correspondientes a la posición y a la identificación,301123,,,008041,= 2 fecha de fabricación del globo,,,,Operational,Original
+bufr4/3/01/123/32/301011,01,Secuencias correspondientes a la posición y a la identificación,301123,,,301011,,,,,Operational,Original
 bufr4/3/01/125/1/001033,01,Secuencias correspondientes a la posición y a la identificación,301125,,,001033,,,,,Operational,Original
 bufr4/3/01/125/2/001034,01,Secuencias correspondientes a la posición y a la identificación,301125,,,001034,,,,,Operational,Original
 bufr4/3/01/125/3/025060,01,Secuencias correspondientes a la posición y a la identificación,301125,,,025060,,,,,Operational,Original
@@ -364,7 +433,7 @@ bufr4/3/01/128/19/002097,01,Secuencias correspondientes a la posición y a la id
 bufr4/3/01/128/20/002103,01,Secuencias correspondientes a la posición y a la identificación,301128,,,002103,,,,,Operational,Original
 bufr4/3/01/128/21/002191,01,Secuencias correspondientes a la posición y a la identificación,301128,,,002191,,,,,Operational,Original
 bufr4/3/01/128/22/025061,01,Secuencias correspondientes a la posición y a la identificación,301128,,,025061,,,,,Operational,Original
-bufr4/3/01/128/23/002035,01,Secuencias correspondientes a la posición y a la identificación,301128,,,002035,Motivo de la terminación del ascenso,,,,Operational,Original
+bufr4/3/01/128/23/035035,01,Secuencias correspondientes a la posición y a la identificación,301128,,,035035,Motivo de la terminación del ascenso,,,,Operational,Original
 bufr4/3/01/129/1/001007,01,Secuencias correspondientes a la posición y a la identificación,301129,,,001007,,,,,Operational,Original
 bufr4/3/01/129/2/001031,01,Secuencias correspondientes a la posición y a la identificación,301129,,,001031,,,,,Operational,Original
 bufr4/3/01/129/3/002019,01,Secuencias correspondientes a la posición y a la identificación,301129,,,002019,,,,,Operational,Original
@@ -383,6 +452,14 @@ bufr4/3/01/131/4/007025,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/131/5/005022,01,Secuencias correspondientes a la posición y a la identificación,301131,,,005022,,,,,Operational,Original
 bufr4/3/01/132/1/301150,01,Secuencias correspondientes a la posición y a la identificación,301132,,,301150,,,,,Operational,Original
 bufr4/3/01/132/2/301001,01,Secuencias correspondientes a la posición y a la identificación,301132,,,301001,,(continúa),,,Operational,Original
+bufr4/3/01/132/3/301021,01,Secuencias correspondientes a la posición y a la identificación,301132,,,301021,Sensor,,,,Operational,Original
+bufr4/3/01/132/4/007030,01,Secuencias correspondientes a la posición y a la identificación,301132,,,007030,,,,,Operational,Original
+bufr4/3/01/132/5/008021,01,Secuencias correspondientes a la posición y a la identificación,301132,,,008021,=29 fin del barrido o tiempo de finalización,,,,Operational,Original
+bufr4/3/01/132/6/301011,01,Secuencias correspondientes a la posición y a la identificación,301132,,,301011,,,,,Operational,Original
+bufr4/3/01/132/7/301012,01,Secuencias correspondientes a la posición y a la identificación,301132,,,301012,,,,,Operational,Original
+bufr4/3/01/132/8/002006,01,Secuencias correspondientes a la posición y a la identificación,301132,,,002006,,,,,Operational,Original
+bufr4/3/01/132/9/001079,01,Secuencias correspondientes a la posición y a la identificación,301132,,,001079,,,,,Operational,Original
+bufr4/3/01/132/10/001085,01,Secuencias correspondientes a la posición y a la identificación,301132,,,001085,,,,,Operational,Original
 bufr4/3/01/150/1/001125,01,Secuencias correspondientes a la posición y a la identificación,301150,,,001125,,,,,Operational,Original
 bufr4/3/01/150/2/001126,01,Secuencias correspondientes a la posición y a la identificación,301150,,,001126,,,,,Operational,Original
 bufr4/3/01/150/3/001127,01,Secuencias correspondientes a la posición y a la identificación,301150,,,001127,,,,,Operational,Original

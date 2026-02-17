@@ -2,11 +2,11 @@ Id,Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es
 bufr4/3/13/009/1/021001,13,Secuencias comunes a los datos en forma de imágenes,313009,,,021001,,,,,Operational,Original
 bufr4/3/13/009/2/101000,13,Secuencias comunes a los datos en forma de imágenes,313009,,,101000,,,,,Operational,Original
 bufr4/3/13/009/3/031001,13,Secuencias comunes a los datos en forma de imágenes,313009,,,031001,,,,,Operational,Original
-bufr4/3/13/009/4/021001,13,Secuencias comunes a los datos en forma de imágenes,313009,,,021001,,,,,Operational,Original
+bufr4/3/13/009/1/021001,13,Secuencias comunes a los datos en forma de imágenes,313009,,,021001,,,,,Operational,Original
 bufr4/3/13/010/1/021036,13,Secuencias comunes a los datos en forma de imágenes,313010,,,021036,,,,,Operational,Original
 bufr4/3/13/010/2/101000,13,Secuencias comunes a los datos en forma de imágenes,313010,,,101000,,,,,Operational,Original
 bufr4/3/13/010/3/031001,13,Secuencias comunes a los datos en forma de imágenes,313010,,,031001,,,,,Operational,Original
-bufr4/3/13/010/4/021036,13,Secuencias comunes a los datos en forma de imágenes,313010,,,021036,,,,,Operational,Original
+bufr4/3/13/010/1/021036,13,Secuencias comunes a los datos en forma de imágenes,313010,,,021036,,,,,Operational,Original
 bufr4/3/13/031/1/006002,13,Secuencias comunes a los datos en forma de imágenes,313031,,,006002,Primera localización de longitud menos un incremento,,,,Operational,Original
 bufr4/3/13/031/2/006012,13,Secuencias comunes a los datos en forma de imágenes,313031,,,006012,,,,,Operational,Original
 bufr4/3/13/031/3/101000,13,Secuencias comunes a los datos en forma de imágenes,313031,,,101000,,,,,Operational,Original
@@ -21,12 +21,15 @@ bufr4/3/13/041/1/006002,13,Secuencias comunes a los datos en forma de imágenes,
 bufr4/3/13/041/2/110000,13,Secuencias comunes a los datos en forma de imágenes,313041,,,110000,,,,,Operational,Original
 bufr4/3/13/041/3/031001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031001,,,,,Operational,Original
 bufr4/3/13/041/4/104000,13,Secuencias comunes a los datos en forma de imágenes,313041,,,104000,,,,,Operational,Original
-bufr4/3/13/041/5/031001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031001,,,,,Operational,Original
-bufr4/3/13/041/6/006012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,006012,,,,,Operational,Original
-bufr4/3/13/041/7/101000,13,Secuencias comunes a los datos en forma de imágenes,313041,,,101000,,,,,Operational,Original
-bufr4/3/13/041/8/031012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031012,,,,,Operational,Original
-bufr4/3/13/041/9/030001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,030001,,,,,Operational,Original
-bufr4/3/13/041/10/006012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,006012,I.2 – BUFR Tabla D/13 — 1,(continúa),,,Operational,Original
+bufr4/3/13/041/3/031001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031001,,,,,Operational,Original
+bufr4/3/13/041/5/006012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,006012,,,,,Operational,Original
+bufr4/3/13/041/6/101000,13,Secuencias comunes a los datos en forma de imágenes,313041,,,101000,,,,,Operational,Original
+bufr4/3/13/041/7/031012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031012,,,,,Operational,Original
+bufr4/3/13/041/8/030001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,030001,,,,,Operational,Original
+bufr4/3/13/041/5/006012,13,Secuencias comunes a los datos en forma de imágenes,313041,,,006012,I.2 – BUFR Tabla D/13 — 1,(continúa),,,Operational,Original
+bufr4/3/13/041/6/101000,13,Secuencias comunes a los datos en forma de imágenes,313041,,,101000,,,,,Operational,Original
+bufr4/3/13/041/3/031001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,031001,,,,,Operational,Original
+bufr4/3/13/041/8/030001,13,Secuencias comunes a los datos en forma de imágenes,313041,,,030001,,,,,Operational,Original
 bufr4/3/13/042/1/005002,13,Secuencias comunes a los datos en forma de imágenes,313042,,,005002,Primera localización de latitud menos un incremento,,,,Operational,Original
 bufr4/3/13/042/2/005012,13,Secuencias comunes a los datos en forma de imágenes,313042,,,005012,Valor señalado para que no pase a través del polo,,,,Operational,Original
 bufr4/3/13/042/3/101000,13,Secuencias comunes a los datos en forma de imágenes,313042,,,101000,,,,,Operational,Original
@@ -38,14 +41,14 @@ bufr4/3/13/043/3/005012,13,Secuencias comunes a los datos en forma de imágenes,
 bufr4/3/13/043/4/112000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,112000,,,,,Operational,Original
 bufr4/3/13/043/5/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
 bufr4/3/13/043/6/110000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,110000,,,,,Operational,Original
-bufr4/3/13/043/7/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
-bufr4/3/13/043/8/104000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,104000,,,,,Operational,Original
-bufr4/3/13/043/9/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
-bufr4/3/13/043/10/006012,13,Secuencias comunes a los datos en forma de imágenes,313043,,,006012,,,,,Operational,Original
-bufr4/3/13/043/11/101000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,101000,,,,,Operational,Original
-bufr4/3/13/043/12/031011,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031011,,,,,Operational,Original
-bufr4/3/13/043/13/030001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,030001,,,,,Operational,Original
-bufr4/3/13/043/14/006012,13,Secuencias comunes a los datos en forma de imágenes,313043,,,006012,,,,,Operational,Original
-bufr4/3/13/043/15/101000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,101000,,,,,Operational,Original
-bufr4/3/13/043/16/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
-bufr4/3/13/043/17/030001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,030001,,,,,Operational,Original
+bufr4/3/13/043/5/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
+bufr4/3/13/043/7/104000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,104000,,,,,Operational,Original
+bufr4/3/13/043/5/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
+bufr4/3/13/043/8/006012,13,Secuencias comunes a los datos en forma de imágenes,313043,,,006012,,,,,Operational,Original
+bufr4/3/13/043/9/101000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,101000,,,,,Operational,Original
+bufr4/3/13/043/10/031011,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031011,,,,,Operational,Original
+bufr4/3/13/043/11/030001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,030001,,,,,Operational,Original
+bufr4/3/13/043/8/006012,13,Secuencias comunes a los datos en forma de imágenes,313043,,,006012,,,,,Operational,Original
+bufr4/3/13/043/9/101000,13,Secuencias comunes a los datos en forma de imágenes,313043,,,101000,,,,,Operational,Original
+bufr4/3/13/043/5/031001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,031001,,,,,Operational,Original
+bufr4/3/13/043/11/030001,13,Secuencias comunes a los datos en forma de imágenes,313043,,,030001,,,,,Operational,Original

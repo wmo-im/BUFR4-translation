@@ -15,10 +15,10 @@ bufr4/3/04/004/2/010004,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/004/3/020010,04,Secuencias meteorológicas comunes a las observaciones satelitales,304004,,,020010,,,,,Operational,Original
 bufr4/3/04/004/4/012001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304004,,,012001,,,,,Operational,Original
 bufr4/3/04/005/1/002024,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,,,002024,} Definir capa,,,,Operational,Original
-bufr4/3/04/005/2/013003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,,,013003,,,,,Operational,Original
+bufr4/3/04/005/3/013003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,,,013003,,,,,Operational,Original
 bufr4/3/04/006/1/014001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,,,014001,Radiación saliente de onda larga,,,,Operational,Original
-bufr4/3/04/006/2/014001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,,,014001,Radiación incidente de onda larga,,,,Operational,Original
-bufr4/3/04/006/3/014003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,,,014003,Radiación saliente de onda corta,,,,Operational,Original
+bufr4/3/04/006/1/014001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,,,014001,Radiación incidente de onda larga,,,,Operational,Original
+bufr4/3/04/006/2/014003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,,,014003,Radiación saliente de onda corta,,,,Operational,Original
 bufr4/3/04/011/1/002163,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,002163,,,,,Operational,Original
 bufr4/3/04/011/2/002164,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,002164,,,,,Operational,Original
 bufr4/3/04/011/3/008012,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,008012,,,,,Operational,Original
@@ -26,7 +26,26 @@ bufr4/3/04/011/4/007024,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/011/5/002057,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,002057,,,,,Operational,Original
 bufr4/3/04/011/6/008021,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,008021,,,,,Operational,Original
 bufr4/3/04/011/7/004001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004001,,,,,Operational,Original
-bufr4/3/04/011/8/004002,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004002,I.2 – BUFR Tabla D/04 — 1,(continúa),,,Operational,Original
+bufr4/3/04/011/12/011002,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,011002,I.2 – BUFR Tabla D/04 — 1,(continúa),,,Operational,Original
+bufr4/3/04/011/9/004003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004003,,,,,Operational,Original
+bufr4/3/04/011/5/004004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004004,,,,,Operational,Original
+bufr4/3/04/011/6/008021,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,008021,,,,,Operational,Original
+bufr4/3/04/011/7/004024,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004024,,,,,Operational,Original
+bufr4/3/04/011/8/110004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,110004,,,,,Operational,Original
+bufr4/3/04/011/6/008021,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,008021,,,,,Operational,Original
+bufr4/3/04/011/5/004004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004004,,,,,Operational,Original
+bufr4/3/04/011/9/004005,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004005,,,,,Operational,Original
+bufr4/3/04/011/10/004006,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004006,,,,,Operational,Original
+bufr4/3/04/011/6/008021,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,008021,,,,,Operational,Original
+bufr4/3/04/011/5/004004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004004,,,,,Operational,Original
+bufr4/3/04/011/9/004005,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004005,,,,,Operational,Original
+bufr4/3/04/011/10/004006,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,004006,,,,,Operational,Original
+bufr4/3/04/011/11/011001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,011001,,,,,Operational,Original
+bufr4/3/04/011/12/011002,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,011002,,,,,Operational,Original
+bufr4/3/04/011/13/103010,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,103010,,,,,Operational,Original
+bufr4/3/04/011/1/002163,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,002163,,,,,Operational,Original
+bufr4/3/04/011/14/007004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,007004,,,,,Operational,Original
+bufr4/3/04/011/15/012001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304011,,,012001,,,,,Operational,Original
 bufr4/3/04/030/1/027031,04,Secuencias meteorológicas comunes a las observaciones satelitales,304030,,,027031,,,,,Operational,Original
 bufr4/3/04/030/2/028031,04,Secuencias meteorológicas comunes a las observaciones satelitales,304030,,,028031,,,,,Operational,Original
 bufr4/3/04/030/3/010031,04,Secuencias meteorológicas comunes a las observaciones satelitales,304030,,,010031,,,,,Operational,Original
@@ -45,6 +64,7 @@ bufr4/3/04/033/4/002153,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/033/5/002154,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,,,002154,,,,,Operational,Original
 bufr4/3/04/033/6/012075,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,,,012075,,,,,Operational,Original
 bufr4/3/04/033/7/012076,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,,,012076,,(continúa),,,Operational,Original
+bufr4/3/04/033/8/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,,,012063,,,,,Operational,Original
 bufr4/3/04/034/1/102004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,,,102004,,,,,Operational,Original
 bufr4/3/04/034/2/027001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,,,027001,,,,,Operational,Original
 bufr4/3/04/034/3/028001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,,,028001,,,,,Operational,Original
@@ -58,32 +78,43 @@ bufr4/3/04/035/1/002153,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/035/2/002154,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,002154,,,,,Operational,Original
 bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,,,,,Operational,Original
 bufr4/3/04/035/4/008001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008001,Tipo de píxel: despejado,,,,Operational,Original
-bufr4/3/04/035/5/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Despejado,,,,Operational,Original
-bufr4/3/04/035/6/008001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008001,Tipo de píxel: nuboso,,,,Operational,Original
-bufr4/3/04/035/7/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nuboso,,,,Operational,Original
-bufr4/3/04/035/8/008001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008001,Anular,,,,Operational,Original
-bufr4/3/04/035/9/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes bajas,,,,Operational,Original
-bufr4/3/04/035/10/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes bajas,,,,Operational,Original
-bufr4/3/04/035/11/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes medias,,,,Operational,Original
-bufr4/3/04/035/12/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes medias,,,,Operational,Original
-bufr4/3/04/035/13/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes altas,,,,Operational,Original
-bufr4/3/04/035/14/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes altas,,,,Operational,Original
-bufr4/3/04/035/15/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Anular,,,,Operational,Original
+bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Despejado,,,,Operational,Original
+bufr4/3/04/035/4/008001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008001,Tipo de píxel: nuboso,,,,Operational,Original
+bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nuboso,,,,Operational,Original
+bufr4/3/04/035/4/008001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008001,Anular,,,,Operational,Original
+bufr4/3/04/035/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes bajas,,,,Operational,Original
+bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes bajas,,,,Operational,Original
+bufr4/3/04/035/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes medias,,,,Operational,Original
+bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes medias,,,,Operational,Original
+bufr4/3/04/035/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Nubes altas,,,,Operational,Original
+bufr4/3/04/035/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,012063,Nubes altas,,,,Operational,Original
+bufr4/3/04/035/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304035,,,008003,Anular,,,,Operational,Original
 bufr4/3/04/036/1/020082,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020082,,,,,Operational,Original
 bufr4/3/04/036/2/008012,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008012,Mar,,,,Operational,Original
-bufr4/3/04/036/3/020082,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020082,Mar,,,,Operational,Original
-bufr4/3/04/036/4/008012,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008012,Anular,,,,Operational,Original
-bufr4/3/04/036/5/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,,,,,Operational,Original
-bufr4/3/04/036/6/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes bajas,,,,Operational,Original
-bufr4/3/04/036/7/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes bajas,,,,Operational,Original
-bufr4/3/04/036/8/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes medias,,,,Operational,Original
-bufr4/3/04/036/9/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes medias,,,,Operational,Original
-bufr4/3/04/036/10/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes altas,,,,Operational,Original
-bufr4/3/04/036/11/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes altas,,,,Operational,Original
+bufr4/3/04/036/1/020082,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020082,Mar,,,,Operational,Original
+bufr4/3/04/036/2/008012,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008012,Anular,,,,Operational,Original
+bufr4/3/04/036/3/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,,,,,Operational,Original
+bufr4/3/04/036/4/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes bajas,,,,Operational,Original
+bufr4/3/04/036/3/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes bajas,,,,Operational,Original
+bufr4/3/04/036/4/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes medias,,,,Operational,Original
+bufr4/3/04/036/3/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes medias,,,,Operational,Original
+bufr4/3/04/036/4/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,008003,Nubes altas,,,,Operational,Original
+bufr4/3/04/036/3/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,020081,Nubes altas,,,,Operational,Original
 bufr4/3/04/036/12/080003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,,,080003,Anular,,,,Operational,Original
 bufr4/3/04/037/1/002153,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,002153,,,,,Operational,Original
 bufr4/3/04/037/2/002154,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,002154,,,,,Operational,Original
 bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,I.2 – BUFR Tabla D/04 — 3,(continúa),,,Operational,Original
+bufr4/3/04/037/4/008011,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008011,Tipo de píxel: despejado,,,,Operational,Original
+bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,Despejado,,,,Operational,Original
+bufr4/3/04/037/4/008011,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008011,Tipo de píxel: nuboso,,,,Operational,Original
+bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,Nuboso,,,,Operational,Original
+bufr4/3/04/037/4/008011,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008011,Anular,,,,Operational,Original
+bufr4/3/04/037/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008003,Nubes bajas,,,,Operational,Original
+bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,Nubes bajas,,,,Operational,Original
+bufr4/3/04/037/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008003,Nubes medias,,,,Operational,Original
+bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,Nubes medias,,,,Operational,Original
+bufr4/3/04/037/5/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,008003,Nubes altas,,,,Operational,Original
+bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,,,012063,Nubes altas,,,,Operational,Original
 bufr4/3/04/039/1/201136,04,Secuencias meteorológicas comunes a las observaciones satelitales,304039,,,201136,Añadir 8 a la anchura,,,,Operational,Original
 bufr4/3/04/039/2/005042,04,Secuencias meteorológicas comunes a las observaciones satelitales,304039,,,005042,,,,,Operational,Original
 bufr4/3/04/039/3/201000,04,Secuencias meteorológicas comunes a las observaciones satelitales,304039,,,201000,Anular,,,,Operational,Original

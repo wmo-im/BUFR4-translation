@@ -20,19 +20,21 @@ bufr4/3/11/003/5/013002,11,Secuencias de los informes de las observaciones de ni
 bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
 bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
 bufr4/3/11/004/3/011034,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011034,,,,,Operational,Original
-bufr4/3/11/004/4/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
-bufr4/3/11/004/5/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
-bufr4/3/11/004/6/011035,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011035,,,,,Operational,Original
-bufr4/3/11/004/7/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
-bufr4/3/11/004/8/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
-bufr4/3/11/004/9/011075,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011075,,,,,Operational,Original
-bufr4/3/11/004/10/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
-bufr4/3/11/004/11/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
-bufr4/3/11/004/12/011076,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011076,,,,,Operational,Original
-bufr4/3/11/004/13/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
-bufr4/3/11/004/14/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
-bufr4/3/11/004/15/033025,11,Secuencias de los informes de las observaciones de nivel único,311004,,,033025,,,,,Operational,Original
-bufr4/3/11/004/16/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,I.2 – BUFR Tabla D/11 — 1,(continúa),,,Operational,Original
+bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
+bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
+bufr4/3/11/004/4/011035,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011035,,,,,Operational,Original
+bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
+bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
+bufr4/3/11/004/5/011075,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011075,,,,,Operational,Original
+bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
+bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
+bufr4/3/11/004/6/011076,11,Secuencias de los informes de las observaciones de nivel único,311004,,,011076,,,,,Operational,Original
+bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,,,,,Operational,Original
+bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
+bufr4/3/11/004/7/033025,11,Secuencias de los informes de las observaciones de nivel único,311004,,,033025,,,,,Operational,Original
+bufr4/3/11/004/1/101000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,101000,I.2 – BUFR Tabla D/11 — 1,(continúa),,,Operational,Original
+bufr4/3/11/004/2/031000,11,Secuencias de los informes de las observaciones de nivel único,311004,,,031000,,,,,Operational,Original
+bufr4/3/11/004/8/033026,11,Secuencias de los informes de las observaciones de nivel único,311004,,,033026,,,,,Operational,Original
 bufr4/3/11/005/1/001008,11,Secuencias de los informes de las observaciones de nivel único,311005,,,001008,,,,,Operational,Original
 bufr4/3/11/005/2/001023,11,Secuencias de los informes de las observaciones de nivel único,311005,,,001023,,,,,Operational,Original
 bufr4/3/11/005/3/301021,11,Secuencias de los informes de las observaciones de nivel único,311005,,,301021,,,,,Operational,Original
@@ -106,6 +108,60 @@ bufr4/3/11/010/28/202000,11,Secuencias de los informes de las observaciones de n
 bufr4/3/11/010/29/201000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,201000,Anular,,,,Operational,Original
 bufr4/3/11/010/30/201135,11,Secuencias de los informes de las observaciones de nivel único,311010,,,201135,,,,,Operational,Original
 bufr4/3/11/010/31/202130,11,Secuencias de los informes de las observaciones de nivel único,311010,,,202130,I.2 – BUFR Tabla D/11 — 3,(continúa),,,Operational,Original
+bufr4/3/11/010/32/013003,11,Secuencias de los informes de las observaciones de nivel único,311010,,,013003,,,,,Operational,Original
+bufr4/3/11/010/28/202000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,202000,Anular,,,,Operational,Original
+bufr4/3/11/010/29/201000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,201000,Anular,,,,Operational,Original
+bufr4/3/11/010/33/101000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,101000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/35/012103,11,Secuencias de los informes de las observaciones de nivel único,311010,,,012103,,,,,Operational,Original
+bufr4/3/11/010/36/033026,11,Secuencias de los informes de las observaciones de nivel único,311010,,,033026,,,,,Operational,Original
+bufr4/3/11/010/33/101000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,101000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/37/020042,11,Secuencias de los informes de las observaciones de nivel único,311010,,,020042,,,,,Operational,Original
+bufr4/3/11/010/38/103000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,103000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/39/020043,11,Secuencias de los informes de las observaciones de nivel único,311010,,,020043,,,,,Operational,Original
+bufr4/3/11/010/40/020044,11,Secuencias de los informes de las observaciones de nivel único,311010,,,020044,,,,,Operational,Original
+bufr4/3/11/010/41/020045,11,Secuencias de los informes de las observaciones de nivel único,311010,,,020045,,,,,Operational,Original
+bufr4/3/11/010/33/101000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,101000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/42/033025,11,Secuencias de los informes de las observaciones de nivel único,311010,,,033025,,,,,Operational,Original
+bufr4/3/11/010/38/103000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,103000,,,,,Operational,Original
+bufr4/3/11/010/43/031001,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031001,,,,,Operational,Original
+bufr4/3/11/010/44/011075,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011075,,,,,Operational,Original
+bufr4/3/11/010/45/011076,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011076,,,,,Operational,Original
+bufr4/3/11/010/46/011039,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011039,,,,,Operational,Original
+bufr4/3/11/010/47/102000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,102000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/48/011037,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011037,EDR,,,,Operational,Original
+bufr4/3/11/010/49/011077,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011077,,,,,Operational,Original
+bufr4/3/11/010/38/103000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,103000,,,,,Operational,Original
+bufr4/3/11/010/34/031000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031000,,,,,Operational,Original
+bufr4/3/11/010/50/011034,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011034,,,,,Operational,Original
+bufr4/3/11/010/51/011035,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011035,,,,,Operational,Original
+bufr4/3/11/010/52/011036,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011036,,,,,Operational,Original
+bufr4/3/11/010/53/204000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,204000,Anular,,,,Operational,Original
+bufr4/3/11/010/54/119000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,119000,,,,,Operational,Original
+bufr4/3/11/010/43/031001,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031001,,,,,Operational,Original
+bufr4/3/11/010/9/301011,11,Secuencias de los informes de las observaciones de nivel único,311010,,,301011,,,,,Operational,Original
+bufr4/3/11/010/10/301013,11,Secuencias de los informes de las observaciones de nivel único,311010,,,301013,,,,,Operational,Original
+bufr4/3/11/010/11/301021,11,Secuencias de los informes de las observaciones de nivel único,311010,,,301021,,,,,Operational,Original
+bufr4/3/11/010/55/007007,11,Secuencias de los informes de las observaciones de nivel único,311010,,,007007,,,,,Operational,Original
+bufr4/3/11/010/56/011105,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011105,,,,,Operational,Original
+bufr4/3/11/010/57/204007,11,Secuencias de los informes de las observaciones de nivel único,311010,,,204007,7 bits,(continúa),,,Operational,Original
+bufr4/3/11/010/8/031021,11,Secuencias de los informes de las observaciones de nivel único,311010,,,031021,= 7 porcentaje de confianza,,,,Operational,Original
+bufr4/3/11/010/45/011076,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011076,,,,,Operational,Original
+bufr4/3/11/010/44/011075,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011075,,,,,Operational,Original
+bufr4/3/11/010/53/204000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,204000,Anular,,,,Operational,Original
+bufr4/3/11/010/58/011106,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011106,,,,,Operational,Original
+bufr4/3/11/010/59/011107,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011107,,,,,Operational,Original
+bufr4/3/11/010/60/011108,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011108,,,,,Operational,Original
+bufr4/3/11/010/61/011109,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011109,,,,,Operational,Original
+bufr4/3/11/010/23/012101,11,Secuencias de los informes de las observaciones de nivel único,311010,,,012101,,,,,Operational,Original
+bufr4/3/11/010/15/011001,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011001,,,,,Operational,Original
+bufr4/3/11/010/62/201130,11,Secuencias de los informes de las observaciones de nivel único,311010,,,201130,,,,,Operational,Original
+bufr4/3/11/010/63/011084,11,Secuencias de los informes de las observaciones de nivel único,311010,,,011084,,,,,Operational,Original
+bufr4/3/11/010/29/201000,11,Secuencias de los informes de las observaciones de nivel único,311010,,,201000,Anular,,,,Operational,Original
 bufr4/3/11/011/1/001023,11,Secuencias de los informes de las observaciones de nivel único,311011,,,001023,,,,,Operational,Original
 bufr4/3/11/011/2/008004,11,Secuencias de los informes de las observaciones de nivel único,311011,,,008004,,,,,Operational,Original
 bufr4/3/11/011/3/301011,11,Secuencias de los informes de las observaciones de nivel único,311011,,,301011,,,,,Operational,Original
@@ -124,18 +180,23 @@ bufr4/3/11/011/15/202126,11,Secuencias de los informes de las observaciones de n
 bufr4/3/11/011/16/015026,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015026,)–1,,,,Operational,Original
 bufr4/3/11/011/17/202000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,202000,Anular,,,,Operational,Original
 bufr4/3/11/011/18/201000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,201000,Anular,,,,Operational,Original
-bufr4/3/11/011/19/106000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,106000,,,,,Operational,Original
-bufr4/3/11/011/20/031001,11,Secuencias de los informes de las observaciones de nivel único,311011,,,031001,,,,,Operational,Original
-bufr4/3/11/011/21/008046,11,Secuencias de los informes de las observaciones de nivel único,311011,,,008046,,,,,Operational,Original
-bufr4/3/11/011/22/201138,11,Secuencias de los informes de las observaciones de nivel único,311011,,,201138,19 bits,,,,Operational,Original
-bufr4/3/11/011/23/202130,11,Secuencias de los informes de las observaciones de nivel único,311011,,,202130,Escala: 11,,,,Operational,Original
-bufr4/3/11/011/24/015026,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015026,)–1,,,,Operational,Original
-bufr4/3/11/011/25/202000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,202000,Anular,,,,Operational,Original
-bufr4/3/11/011/26/201000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,201000,Anular,,,,Operational,Original
-bufr4/3/11/011/27/015052,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015052,de la densidad numérica de partículas de,,,,Operational,Original
-bufr4/3/11/011/28/015053,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015053,de la densidad numérica de partículas de,,,,Operational,Original
-bufr4/3/11/011/29/015054,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015054,de la densidad numérica de partículas de,,,,Operational,Original
-bufr4/3/11/011/30/015055,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015055,I.2 – BUFR Tabla D/11 — 5,(continúa),,,Operational,Original
+bufr4/3/11/011/11/106000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,106000,,,,,Operational,Original
+bufr4/3/11/011/12/031001,11,Secuencias de los informes de las observaciones de nivel único,311011,,,031001,,,,,Operational,Original
+bufr4/3/11/011/13/008046,11,Secuencias de los informes de las observaciones de nivel único,311011,,,008046,,,,,Operational,Original
+bufr4/3/11/011/19/201138,11,Secuencias de los informes de las observaciones de nivel único,311011,,,201138,19 bits,,,,Operational,Original
+bufr4/3/11/011/20/202130,11,Secuencias de los informes de las observaciones de nivel único,311011,,,202130,Escala: 11,,,,Operational,Original
+bufr4/3/11/011/16/015026,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015026,)–1,,,,Operational,Original
+bufr4/3/11/011/17/202000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,202000,Anular,,,,Operational,Original
+bufr4/3/11/011/18/201000,11,Secuencias de los informes de las observaciones de nivel único,311011,,,201000,Anular,,,,Operational,Original
+bufr4/3/11/011/21/015052,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015052,de la densidad numérica de partículas de,,,,Operational,Original
+bufr4/3/11/011/22/015053,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015053,de la densidad numérica de partículas de,,,,Operational,Original
+bufr4/3/11/011/23/015054,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015054,de la densidad numérica de partículas de,,,,Operational,Original
+bufr4/3/11/011/24/015055,11,Secuencias de los informes de las observaciones de nivel único,311011,,,015055,I.2 – BUFR Tabla D/11 — 5,(continúa),,,Operational,Original
+bufr4/3/11/011/7/007004,11,Secuencias de los informes de las observaciones de nivel único,311011,,,007004,,,,,Operational,Original
+bufr4/3/11/011/7/007004,11,Secuencias de los informes de las observaciones de nivel único,311011,,,007004,,,,,Operational,Original
+bufr4/3/11/011/25/013099,11,Secuencias de los informes de las observaciones de nivel único,311011,,,013099,de la densidad de partículas de nube,,,,Operational,Original
+bufr4/3/11/011/26/013100,11,Secuencias de los informes de las observaciones de nivel único,311011,,,013100,del área de partículas de nube integrada,,,,Operational,Original
+bufr4/3/11/011/27/013101,11,Secuencias de los informes de las observaciones de nivel único,311011,,,013101,del volumen de partículas de nube,,,,Operational,Original
 bufr4/3/11/012/1/301150,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301150,,,,,Operational,Original
 bufr4/3/11/012/2/001008,11,Secuencias de los informes de las observaciones de nivel único,311012,,,001008,,,,,Operational,Original
 bufr4/3/11/012/3/001111,11,Secuencias de los informes de las observaciones de nivel único,311012,,,001111,Se notificará para perfiles de ascenso.,,,,Operational,Original
@@ -144,13 +205,15 @@ bufr4/3/11/012/5/301011,11,Secuencias de los informes de las observaciones de ni
 bufr4/3/11/012/6/301013,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301013,perfil (para el perfil,,,,Operational,Original
 bufr4/3/11/012/7/301021,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301021,"de ascenso primero notificar despegue, para perfil de descenso notificar por último el aterrizaje)",,,,Operational,Original
 bufr4/3/11/012/8/008004,11,Secuencias de los informes de las observaciones de nivel único,311012,,,008004,Perfil de ascenso o descenso,,,,Operational,Original
-bufr4/3/11/012/9/110000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,110000,,,,,Operational,Original
-bufr4/3/11/012/10/031002,11,Secuencias de los informes de las observaciones de nivel único,311012,,,031002,Número de niveles siguientes,,,,Operational,Original
-bufr4/3/11/012/11/301011,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301011,Fecha del informe de nivel único,,,,Operational,Original
-bufr4/3/11/012/12/301013,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301013,Fecha del informe de nivel único,,,,Operational,Original
-bufr4/3/11/012/13/311007,11,Secuencias de los informes de las observaciones de nivel único,311012,,,311007,"Nivel de vuelo = presión barométrica, temperatura de rocío = valor derivado de la relación de mezcla, limitado a Td ≤ T",,,,Operational,Original
-bufr4/3/11/012/14/201144,11,Secuencias de los informes de las observaciones de nivel único,311012,,,201144,,,,,Operational,Original
-bufr4/3/11/012/15/202133,11,Secuencias de los informes de las observaciones de nivel único,311012,,,202133,,,,,Operational,Original
-bufr4/3/11/012/16/013002,11,Secuencias de los informes de las observaciones de nivel único,311012,,,013002,Valor medido originalmente,,,,Operational,Original
-bufr4/3/11/012/17/202000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,202000,Anular,,,,Operational,Original
-bufr4/3/11/012/18/201000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,201000,Anular,(continúa),,,Operational,Original
+bufr4/3/11/012/8/110000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,110000,,,,,Operational,Original
+bufr4/3/11/012/9/031002,11,Secuencias de los informes de las observaciones de nivel único,311012,,,031002,Número de niveles siguientes,,,,Operational,Original
+bufr4/3/11/012/5/301011,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301011,Fecha del informe de nivel único,,,,Operational,Original
+bufr4/3/11/012/6/301013,11,Secuencias de los informes de las observaciones de nivel único,311012,,,301013,Fecha del informe de nivel único,,,,Operational,Original
+bufr4/3/11/012/10/311007,11,Secuencias de los informes de las observaciones de nivel único,311012,,,311007,"Nivel de vuelo = presión barométrica, temperatura de rocío = valor derivado de la relación de mezcla, limitado a Td ≤ T",,,,Operational,Original
+bufr4/3/11/012/11/201144,11,Secuencias de los informes de las observaciones de nivel único,311012,,,201144,,,,,Operational,Original
+bufr4/3/11/012/12/202133,11,Secuencias de los informes de las observaciones de nivel único,311012,,,202133,,,,,Operational,Original
+bufr4/3/11/012/13/013002,11,Secuencias de los informes de las observaciones de nivel único,311012,,,013002,Valor medido originalmente,,,,Operational,Original
+bufr4/3/11/012/14/202000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,202000,Anular,,,,Operational,Original
+bufr4/3/11/012/15/201000,11,Secuencias de los informes de las observaciones de nivel único,311012,,,201000,Anular,(continúa),,,Operational,Original
+bufr4/3/11/012/16/013003,11,Secuencias de los informes de las observaciones de nivel único,311012,,,013003,"Valor derivado de la relación de mezcla, limitado a ≤ 100%",,,,Operational,Original
+bufr4/3/11/012/17/033026,11,Secuencias de los informes de las observaciones de nivel único,311012,,,033026,"Tabla de cifrado (notificar la figura de clave 10 si Td > T, véase la Tabla de cifrado que figura a continuación) I.2 – BUFR Tabla D/11 — 7",(continúa),,,Operational,Original

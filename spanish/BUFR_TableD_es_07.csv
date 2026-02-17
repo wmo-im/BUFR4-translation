@@ -34,17 +34,24 @@ bufr4/3/07/011/8/011016,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/011/9/011017,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,011017,,,,,Operational,Original
 bufr4/3/07/011/10/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,011002,,,,,Operational,Original
 bufr4/3/07/011/11/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,011041,,,,,Operational,Original
-bufr4/3/07/011/12/007006,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,007006,Altura de un termómetro,,,,Operational,Original
-bufr4/3/07/011/13/012001,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,012001,,,,,Operational,Original
-bufr4/3/07/011/14/012003,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,012003,,,,,Operational,Original
-bufr4/3/07/011/15/010052,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,010052,,,,,Operational,Original
-bufr4/3/07/011/16/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,020009,,,,,Operational,Original
+bufr4/3/07/011/6/007006,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,007006,Altura de un termómetro,,,,Operational,Original
+bufr4/3/07/011/12/012001,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,012001,,,,,Operational,Original
+bufr4/3/07/011/13/012003,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,012003,,,,,Operational,Original
+bufr4/3/07/011/14/010052,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,010052,,,,,Operational,Original
+bufr4/3/07/011/15/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307011,,,020009,,,,,Operational,Original
 bufr4/3/07/012/1/103000,07,Secuencias de los informes de las observaciones de superficie (tierra),307012,,,103000,,,,,Operational,Original
 bufr4/3/07/012/2/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307012,,,031001,Hasta 3,,,,Operational,Original
 bufr4/3/07/012/3/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307012,,,008023,,,,,Operational,Original
 bufr4/3/07/012/4/005021,07,Secuencias de los informes de las observaciones de superficie (tierra),307012,,,005021,Dirección de la visibilidad observada,,,,Operational,Original
 bufr4/3/07/012/5/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307012,,,020001,,,,,Operational,Original
 bufr4/3/07/013/1/106000,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,106000,,(continúa),,,Operational,Original
+bufr4/3/07/013/2/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,031001,Hasta 4,,,,Operational,Original
+bufr4/3/07/013/3/001064,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,001064,,,,,Operational,Original
+bufr4/3/07/013/4/008014,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,008014,,,,,Operational,Original
+bufr4/3/07/013/5/020061,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,020061,,,,,Operational,Original
+bufr4/3/07/013/4/008014,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,008014,,,,,Operational,Original
+bufr4/3/07/013/5/020061,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,020061,,,,,Operational,Original
+bufr4/3/07/013/6/020018,07,Secuencias de los informes de las observaciones de superficie (tierra),307013,,,020018,,,,,Operational,Original
 bufr4/3/07/014/1/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307014,,,101000,,,,,Operational,Original
 bufr4/3/07/014/2/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307014,,,031001,Hasta 3,,,,Operational,Original
 bufr4/3/07/014/3/020019,07,Secuencias de los informes de las observaciones de superficie (tierra),307014,,,020019,,,,,Operational,Original
@@ -64,16 +71,16 @@ bufr4/3/07/018/3/031001,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/018/4/008017,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,008017,"FM, TL, AT",,,,Operational,Original
 bufr4/3/07/018/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,301012,"GG, gg",,,,Operational,Original
 bufr4/3/07/018/6/104000,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,104000,,,,,Operational,Original
-bufr4/3/07/018/7/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,031001,Hasta 1,,,,Operational,Original
-bufr4/3/07/018/8/007006,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,007006,,,,,Operational,Original
-bufr4/3/07/018/9/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011001,,,,,Operational,Original
-bufr4/3/07/018/10/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011002,,,,,Operational,Original
-bufr4/3/07/018/11/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011041,,,,,Operational,Original
-bufr4/3/07/018/12/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,020009,,,,,Operational,Original
-bufr4/3/07/018/13/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,101000,,,,,Operational,Original
-bufr4/3/07/018/14/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,031001,Hasta 1,,,,Operational,Original
-bufr4/3/07/018/15/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,020001,,,,,Operational,Original
-bufr4/3/07/018/16/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,307014,w´w´ I.2 – BUFR Tabla D/07 — 3,(continúa),,,Operational,Original
+bufr4/3/07/018/3/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,031001,Hasta 1,,,,Operational,Original
+bufr4/3/07/018/7/007006,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,007006,,,,,Operational,Original
+bufr4/3/07/018/8/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011001,,,,,Operational,Original
+bufr4/3/07/018/9/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011002,,,,,Operational,Original
+bufr4/3/07/018/10/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,011041,,,,,Operational,Original
+bufr4/3/07/018/11/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,020009,,,,,Operational,Original
+bufr4/3/07/018/12/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,101000,,,,,Operational,Original
+bufr4/3/07/018/3/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,031001,Hasta 1,,,,Operational,Original
+bufr4/3/07/018/13/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,020001,,,,,Operational,Original
+bufr4/3/07/018/14/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307018,,,307014,w´w´ I.2 – BUFR Tabla D/07 — 3,(continúa),,,Operational,Original
 bufr4/3/07/020/1/307011,07,Secuencias de los informes de las observaciones de superficie (tierra),307020,,,307011,,,,,Operational,Original
 bufr4/3/07/020/2/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307020,,,307014,w´w´,,,,Operational,Original
 bufr4/3/07/020/3/307016,07,Secuencias de los informes de las observaciones de superficie (tierra),307020,,,307016,REw´w´,,,,Operational,Original
@@ -85,7 +92,7 @@ bufr4/3/07/021/5/307015,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/021/6/307016,07,Secuencias de los informes de las observaciones de superficie (tierra),307021,,,307016,REw´w´,,,,Operational,Original
 bufr4/3/07/021/7/307017,07,Secuencias de los informes de las observaciones de superficie (tierra),307021,,,307017,,,,,Operational,Original
 bufr4/3/07/021/8/307018,07,Secuencias de los informes de las observaciones de superficie (tierra),307021,,,307018,,,,,Operational,Original
-bufr4/3/07/021/9/307015,07,Secuencias de los informes de las observaciones de superficie (tierra),307021,,,307015,,,,,Operational,Original
+bufr4/3/07/021/5/307015,07,Secuencias de los informes de las observaciones de superficie (tierra),307021,,,307015,,,,,Operational,Original
 bufr4/3/07/022/1/001015,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,001015,,,,,Operational,Original
 bufr4/3/07/022/2/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,301011,,,,,Operational,Original
 bufr4/3/07/022/3/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,301012,,,,,Operational,Original
@@ -105,6 +112,18 @@ bufr4/3/07/022/16/007021,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/022/17/015031,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015031,,,,,Operational,Original
 bufr4/3/07/022/18/015032,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015032,,,,,Operational,Original
 bufr4/3/07/022/19/008060,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,008060,= 5 para norte/sur,,,,Operational,Original
+bufr4/3/07/022/20/015033,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015033,,,,,Operational,Original
+bufr4/3/07/022/21/015034,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015034,,,,,Operational,Original
+bufr4/3/07/022/19/008060,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,008060,= 6 para este/oeste,,,,Operational,Original
+bufr4/3/07/022/20/015033,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015033,,,,,Operational,Original
+bufr4/3/07/022/21/015034,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015034,,,,,Operational,Original
+bufr4/3/07/022/22/015035,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015035,,,,,Operational,Original
+bufr4/3/07/022/23/201131,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,201131,,,,,Operational,Original
+bufr4/3/07/022/24/202129,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,202129,,,,,Operational,Original
+bufr4/3/07/022/25/013016,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,013016,,,,,Operational,Original
+bufr4/3/07/022/26/202000,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,202000,Anular,,,,Operational,Original
+bufr4/3/07/022/27/201000,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,201000,Anular,,,,Operational,Original
+bufr4/3/07/022/28/015011,07,Secuencias de los informes de las observaciones de superficie (tierra),307022,,,015011,de la densidad de electrones 10,,,,Operational,Original
 bufr4/3/07/024/1/301150,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,301150,,,,,Operational,Original
 bufr4/3/07/024/2/001015,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,001015,,,,,Operational,Original
 bufr4/3/07/024/3/001040,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,001040,Centro de procesamiento del GNSS,,,,Operational,Original
@@ -120,23 +139,74 @@ bufr4/3/07/024/12/013003,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/024/13/120000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,120000,,,,,Operational,Original
 bufr4/3/07/024/14/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,031000,,,,,Operational,Original
 bufr4/3/07/024/15/025060,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,025060,software,,,,Operational,Original
-bufr4/3/07/024/16/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008021,= 2 promediado en el tiempo,,,,Operational,Original
-bufr4/3/07/024/17/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,004025,,,,,Operational,Original
-bufr4/3/07/024/18/115000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,115000,I.2 – BUFR Tabla D/07 — 5,(continúa),,,Operational,Original
+bufr4/3/07/024/4/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008021,= 2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/07/024/16/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,004025,,,,,Operational,Original
+bufr4/3/07/024/17/115000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,115000,I.2 – BUFR Tabla D/07 — 5,(continúa),,,Operational,Original
+bufr4/3/07/024/18/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,031001,,,,,Operational,Original
+bufr4/3/07/024/19/015079,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015079,,,,,Operational,Original
+bufr4/3/07/024/20/015080,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015080,,,,,Operational,Original
+bufr4/3/07/024/21/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008022,,,,,Operational,Original
+bufr4/3/07/024/22/033093,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,033093,,,,,Operational,Original
+bufr4/3/07/024/23/015089,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015089,,,,,Operational,Original
+bufr4/3/07/024/24/015035,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015035,,,,,Operational,Original
+bufr4/3/07/024/25/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,102002,,,,,Operational,Original
+bufr4/3/07/024/26/008060,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008060,=5 norte/sur o = 6 este/oeste,,,,Operational,Original
+bufr4/3/07/024/27/015083,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015083,,,,,Operational,Original
+bufr4/3/07/024/28/201131,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,201131,,,,,Operational,Original
+bufr4/3/07/024/29/202129,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,202129,,,,,Operational,Original
+bufr4/3/07/024/30/013016,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,013016,,,,,Operational,Original
+bufr4/3/07/024/31/202000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,202000,Anular,,,,Operational,Original
+bufr4/3/07/024/32/201000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,201000,Anular,,,,Operational,Original
+bufr4/3/07/024/33/015011,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015011,de la densidad de electrones integrada,,,,Operational,Original
+bufr4/3/07/024/34/131000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,131000,,,,,Operational,Original
+bufr4/3/07/024/14/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,031000,,,,,Operational,Original
+bufr4/3/07/024/15/025060,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,025060,software,,,,Operational,Original
+bufr4/3/07/024/4/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008021,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/024/16/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,004025,= 0,,,,Operational,Original
+bufr4/3/07/024/22/033093,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,033093,,,,,Operational,Original
+bufr4/3/07/024/35/125000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,125000,,,,,Operational,Original
+bufr4/3/07/024/18/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,031001,Cantidad de satélites GNSS utilizados,,,,Operational,Original
+bufr4/3/07/024/36/002020,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,002020,,,,,Operational,Original
+bufr4/3/07/024/37/001050,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,001050,,,,,Operational,Original
+bufr4/3/07/024/38/001150,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,001150,= 5° sistema de coordenadas ECF,,,,Operational,Original
+bufr4/3/07/024/46/002127,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,002127,,,,,Operational,Original
+bufr4/3/07/024/40/304030,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,304030,,,,,Operational,Original
+bufr4/3/07/024/31/202000,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,202000,,,,,Operational,Original
+bufr4/3/07/024/41/005021,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,005021,,,,,Operational,Original
+bufr4/3/07/024/42/007021,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,007021,,,,,Operational,Original
+bufr4/3/07/024/43/015038,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015038,,,,,Operational,Original
+bufr4/3/07/024/44/015039,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015039,,,,,Operational,Original
+bufr4/3/07/024/45/015090,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015090,,(continúa),,,Operational,Original
+bufr4/3/07/024/46/015081,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015081,,,,,Operational,Original
+bufr4/3/07/024/47/015082,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015082,,,,,Operational,Original
+bufr4/3/07/024/19/015079,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015079,,,,,Operational,Original
+bufr4/3/07/024/23/015089,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015089,,,,,Operational,Original
+bufr4/3/07/024/24/015035,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015035,,,,,Operational,Original
+bufr4/3/07/024/25/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,102002,,,,,Operational,Original
+bufr4/3/07/024/26/008060,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,008060,=5 norte/sur o = 6 este/oeste,,,,Operational,Original
+bufr4/3/07/024/27/015083,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015083,,,,,Operational,Original
+bufr4/3/07/024/62/015084,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015084,,,,,Operational,Original
+bufr4/3/07/024/63/015085,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015085,,,,,Operational,Original
+bufr4/3/07/024/64/015086,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015086,,,,,Operational,Original
+bufr4/3/07/024/65/015087,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015087,,,,,Operational,Original
+bufr4/3/07/024/66/015088,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015088,,,,,Operational,Original
+bufr4/3/07/024/33/015011,07,Secuencias de los informes de las observaciones de superficie (tierra),307024,,,015011,de la densidad de electrones integrada,,,,Operational,Original
 bufr4/3/07/030/1/015001,07,Secuencias de los informes de las observaciones de superficie (tierra),307030,,,015001,,,,,Operational,Original
 bufr4/3/07/030/2/015002,07,Secuencias de los informes de las observaciones de superficie (tierra),307030,,,015002,,,,,Operational,Original
 bufr4/3/07/031/1/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008022,Número de mediciones,,,,Operational,Original
 bufr4/3/07/031/2/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008023,= 4 valor medio,,,,Operational,Original
 bufr4/3/07/031/3/015001,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,015001,Valor promedio de las mediciones de ozono,,,,Operational,Original
-bufr4/3/07/031/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008023,= 9 mejor estimación de la desviación estándar,,,,Operational,Original
-bufr4/3/07/031/5/015001,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,015001,Mejor estimación de la desviación estándar de la medición del ozono,,,,Operational,Original
-bufr4/3/07/031/6/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008023,= 11 media armónica,,,,Operational,Original
-bufr4/3/07/031/7/015002,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,015002,Valor de la media armónica de la masa de aire,,,,Operational,Original
+bufr4/3/07/031/2/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008023,= 9 mejor estimación de la desviación estándar,,,,Operational,Original
+bufr4/3/07/031/3/015001,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,015001,Mejor estimación de la desviación estándar de la medición del ozono,,,,Operational,Original
+bufr4/3/07/031/2/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,008023,= 11 media armónica,,,,Operational,Original
+bufr4/3/07/031/4/015002,07,Secuencias de los informes de las observaciones de superficie (tierra),307031,,,015002,Valor de la media armónica de la masa de aire,,,,Operational,Original
 bufr4/3/07/041/1/301001,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,301001,,,,,Operational,Original
 bufr4/3/07/041/2/001015,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,001015,,,,,Operational,Original
 bufr4/3/07/041/3/301024,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,301024,,,,,Operational,Original
 bufr4/3/07/041/4/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,301011,Medición del ozono,,,,Operational,Original
 bufr4/3/07/041/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,301012,Medición del ozono I.2 – BUFR Tabla D/07 — 7,(continúa),,,Operational,Original
+bufr4/3/07/041/6/301070,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,301070,,,,,Operational,Original
+bufr4/3/07/041/7/307030,07,Secuencias de los informes de las observaciones de superficie (tierra),307041,,,307030,,,,,Operational,Original
 bufr4/3/07/042/1/301001,07,Secuencias de los informes de las observaciones de superficie (tierra),307042,,,301001,,,,,Operational,Original
 bufr4/3/07/042/2/001015,07,Secuencias de los informes de las observaciones de superficie (tierra),307042,,,001015,,,,,Operational,Original
 bufr4/3/07/042/3/301024,07,Secuencias de los informes de las observaciones de superficie (tierra),307042,,,301024,,,,,Operational,Original
@@ -160,6 +230,8 @@ bufr4/3/07/044/4/301011,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/044/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307044,,,301012,Medición del ozono,,,,Operational,Original
 bufr4/3/07/044/6/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307044,,,008021,= 8 media del conjunto,,,,Operational,Original
 bufr4/3/07/044/7/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307044,,,004025,Período de tiempo(minutos) para el cálculo del promedio,(continúa),,,Operational,Original
+bufr4/3/07/044/8/301074,07,Secuencias de los informes de las observaciones de superficie (tierra),307044,,,301074,,,,,Operational,Original
+bufr4/3/07/044/9/307031,07,Secuencias de los informes de las observaciones de superficie (tierra),307044,,,307031,,,,,Operational,Original
 bufr4/3/07/045/1/001063,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,001063,CCCC,,,,Operational,Original
 bufr4/3/07/045/2/008079,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,008079,METAR SPECI COR,,,,Operational,Original
 bufr4/3/07/045/3/002001,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,002001,AUTO,,,,Operational,Original
@@ -176,20 +248,22 @@ bufr4/3/07/045/13/008054,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/045/14/011083,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011083,ff-km/h,,,,Operational,Original
 bufr4/3/07/045/15/011084,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011084,ff - kt,,,,Operational,Original
 bufr4/3/07/045/16/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011002,ff - m/s,,,,Operational,Original
-bufr4/3/07/045/17/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,008054,P,,,,Operational,Original
-bufr4/3/07/045/18/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011085,f m,f - km/h m,,,Operational,Original
-bufr4/3/07/045/19/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011086,f m,f - kt m,,,Operational,Original
-bufr4/3/07/045/20/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011041,f m,f - m/s m,,,Operational,Original
-bufr4/3/07/045/21/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,008054,Fijar en faltante,,,,Operational,Original
-bufr4/3/07/045/22/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,007032,= 2 m (si no se dispone del valor real),,,,Operational,Original
-bufr4/3/07/045/23/012023,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,012023,T´T´ - Celsius,,,,Operational,Original
-bufr4/3/07/045/24/012024,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,012024,T´,T´ - Celsius d d,,,Operational,Original
-bufr4/3/07/045/25/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/045/26/010052,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,010052,QP,P P P H H H H,,,Operational,Original
-bufr4/3/07/045/27/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,020009,CAVOK,,,,Operational,Original
+bufr4/3/07/045/13/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,008054,P,,,,Operational,Original
+bufr4/3/07/045/17/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011085,f m,f - km/h m,,,Operational,Original
+bufr4/3/07/045/18/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011086,f m,f - kt m,,,Operational,Original
+bufr4/3/07/045/19/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,011041,f m,f - m/s m,,,Operational,Original
+bufr4/3/07/045/13/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,008054,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/045/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,007032,= 2 m (si no se dispone del valor real),,,,Operational,Original
+bufr4/3/07/045/20/012023,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,012023,T´T´ - Celsius,,,,Operational,Original
+bufr4/3/07/045/21/012024,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,012024,T´,T´ - Celsius d d,,,Operational,Original
+bufr4/3/07/045/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/045/22/010052,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,010052,QP,P P P H H H H,,,Operational,Original
+bufr4/3/07/045/23/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307045,,,020009,CAVOK,,,,Operational,Original
 bufr4/3/07/046/1/020060,07,Secuencias de los informes de las observaciones de superficie (tierra),307046,(anular),,020060,VVVV o VVVVNDV,,,,Operational,Original
 bufr4/3/07/046/2/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307046,(anular),,102000,,,,,Operational,Original
 bufr4/3/07/046/3/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307046,(anular),,031001,Hasta 2 I.2 – BUFR Tabla D/07 — 9,(continúa),,,Operational,Original
+bufr4/3/07/046/4/005021,07,Secuencias de los informes de las observaciones de superficie (tierra),307046,,,005021,Dirección de la visibilidad mínima observada Dv,,,,Operational,Original
+bufr4/3/07/046/5/020059,07,Secuencias de los informes de las observaciones de superficie (tierra),307046,,,020059,V N,V V V N N N,,,Operational,Original
 bufr4/3/07/047/1/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307047,,,105000,,,,,Operational,Original
 bufr4/3/07/047/2/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307047,,,031001,,,,,Operational,Original
 bufr4/3/07/047/3/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307047,,,008002,,,,,Operational,Original
@@ -205,7 +279,7 @@ bufr4/3/07/048/2/102000,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/048/3/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,031001,"= 0, 1 o 2",,,,Operational,Original
 bufr4/3/07/048/4/008017,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,008017,TT,,,,Operational,Original
 bufr4/3/07/048/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,301012,GGgg,,,,Operational,Original
-bufr4/3/07/048/6/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,102000,,,,,Operational,Original
+bufr4/3/07/048/2/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,102000,,,,,Operational,Original
 bufr4/3/07/048/7/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,031000,= 0 o 1,,,,Operational,Original
 bufr4/3/07/048/8/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,007032,= 10 m (si no se dispone del valor real),,,,Operational,Original
 bufr4/3/07/048/9/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011001,ddd,,,,Operational,Original
@@ -213,14 +287,18 @@ bufr4/3/07/048/10/008054,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/048/11/011083,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011083,ff - km/h,,,,Operational,Original
 bufr4/3/07/048/12/011084,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011084,ff - kt,,,,Operational,Original
 bufr4/3/07/048/13/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011002,ff - m/s,,,,Operational,Original
-bufr4/3/07/048/14/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,008054,P,,,,Operational,Original
-bufr4/3/07/048/15/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011085,f m,f - km/h m,,,Operational,Original
-bufr4/3/07/048/16/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011086,f m,f - kt m,,,Operational,Original
-bufr4/3/07/048/17/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011041,f m,f - m/s m,,,Operational,Original
-bufr4/3/07/048/18/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,008054,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/048/19/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/048/20/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,020009,CAVOK NSW NSC,,,,Operational,Original
-bufr4/3/07/048/21/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,101000,,(continúa),,,Operational,Original
+bufr4/3/07/048/10/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,008054,P,,,,Operational,Original
+bufr4/3/07/048/14/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011085,f m,f - km/h m,,,Operational,Original
+bufr4/3/07/048/15/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011086,f m,f - kt m,,,Operational,Original
+bufr4/3/07/048/16/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,011041,f m,f - m/s m,,,Operational,Original
+bufr4/3/07/048/10/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,008054,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/048/8/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/048/17/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,020009,CAVOK NSW NSC,,,,Operational,Original
+bufr4/3/07/048/18/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,101000,,(continúa),,,Operational,Original
+bufr4/3/07/048/7/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,031000,= 0 o 1,,,,Operational,Original
+bufr4/3/07/048/19/020060,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,020060,VVVV,,,,Operational,Original
+bufr4/3/07/048/20/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,307014,Intensidad del estado del tiempo y fenómenos meteorológicos w´w´,,,,Operational,Original
+bufr4/3/07/048/21/307047,07,Secuencias de los informes de las observaciones de superficie (tierra),307048,,,307047,N s,N N h h h s s s s s,,,Operational,Original
 bufr4/3/07/049/1/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307049,,,102000,,,,,Operational,Original
 bufr4/3/07/049/2/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307049,,,031000,= 0 o 1,,,,Operational,Original
 bufr4/3/07/049/3/022043,07,Secuencias de los informes de las observaciones de superficie (tierra),307049,,,022043,T s,T s,,,Operational,Original
@@ -231,14 +309,14 @@ bufr4/3/07/050/3/020085,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/050/4/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,102000,,,,,Operational,Original
 bufr4/3/07/050/5/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,031001,,,,,Operational,Original
 bufr4/3/07/050/6/001064,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,001064,D R,D R,,,Operational,Original
-bufr4/3/07/050/7/020085,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020085,CLRD//,,,,Operational,Original
-bufr4/3/07/050/8/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,105000,,,,,Operational,Original
-bufr4/3/07/050/9/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,031001,,,,,Operational,Original
-bufr4/3/07/050/10/001064,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,001064,D R,D R,,,Operational,Original
-bufr4/3/07/050/11/020086,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020086,E R,,,,Operational,Original
-bufr4/3/07/050/12/020087,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020087,C R,,,,Operational,Original
-bufr4/3/07/050/13/020088,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020088,e R,e R,,,Operational,Original
-bufr4/3/07/050/14/020089,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020089,B R,B R,,,Operational,Original
+bufr4/3/07/050/3/020085,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020085,CLRD//,,,,Operational,Original
+bufr4/3/07/050/7/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,105000,,,,,Operational,Original
+bufr4/3/07/050/5/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,031001,,,,,Operational,Original
+bufr4/3/07/050/6/001064,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,001064,D R,D R,,,Operational,Original
+bufr4/3/07/050/8/020086,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020086,E R,,,,Operational,Original
+bufr4/3/07/050/9/020087,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020087,C R,,,,Operational,Original
+bufr4/3/07/050/10/020088,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020088,e R,e R,,,Operational,Original
+bufr4/3/07/050/11/020089,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,020089,B R,B R,,,Operational,Original
 bufr4/3/07/050/15/307021,07,Secuencias de los informes de las observaciones de superficie (tierra),307050,,,307021,,,,,Operational,Original
 bufr4/3/07/051/1/307045,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307045,,,,,Operational,Original
 bufr4/3/07/051/2/307046,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307046,VVVV o VVVVNDV V N,V V V D N N N v,,,Operational,Original
@@ -246,60 +324,66 @@ bufr4/3/07/051/3/307013,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/051/4/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307014,Intensidad del tiempo y fenómenos meteorológicos w´w´,,,,Operational,Original
 bufr4/3/07/051/5/307047,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307047,N s,N N h h h s s s s s,,,Operational,Original
 bufr4/3/07/051/6/307015,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307015,,,,,Operational,Original
-bufr4/3/07/051/7/307016,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307016,REw´w´,,,,Operational,Original
-bufr4/3/07/051/8/307017,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307017,WS RD,D R R,,,Operational,Original
-bufr4/3/07/051/9/307049,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307049,WT,T /SS´ s s,,,Operational,Original
-bufr4/3/07/051/10/307050,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307050,RD I.2 – BUFR Tabla D/07 — 11,D E C e e B B R R R R R R R R (continúa),,,Operational,Original
+bufr4/3/07/051/6/307016,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307016,REw´w´,,,,Operational,Original
+bufr4/3/07/051/7/307017,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307017,WS RD,D R R,,,Operational,Original
+bufr4/3/07/051/8/307049,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307049,WT,T /SS´ s s,,,Operational,Original
+bufr4/3/07/051/9/307050,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307050,RD I.2 – BUFR Tabla D/07 — 11,D E C e e B B R R R R R R R R (continúa),,,Operational,Original
+bufr4/3/07/051/10/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,101000,,,,,Operational,Original
+bufr4/3/07/051/11/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,031001,= 0 a 3 normalmente,,,,Operational,Original
+bufr4/3/07/051/12/307048,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307048,,,,,Operational,Original
+bufr4/3/07/051/14/307018,07,Secuencias de los informes de las observaciones de superficie (tierra),307051,,,307018,,,,,Operational,Original
 bufr4/3/07/052/1/001063,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,001063,CCCC,,,,Operational,Original
 bufr4/3/07/052/2/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008039,= 0 hora de emisión de la predicción,,,,Operational,Original
 bufr4/3/07/052/3/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301011,YY,,,,Operational,Original
 bufr4/3/07/052/4/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301012,GGgg,,,,Operational,Original
 bufr4/3/07/052/5/008079,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008079,COR CNL AMD NIL,,,,Operational,Original
-bufr4/3/07/052/6/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008039,= 1 hora de comienzo del período de predicción,,,,Operational,Original
-bufr4/3/07/052/7/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301011,Y 1,Y 1,,,Operational,Original
-bufr4/3/07/052/8/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301012,G 1,G 1,,,Operational,Original
-bufr4/3/07/052/9/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008039,= 2 hora de finalización del período de predicción,,,,Operational,Original
-bufr4/3/07/052/10/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301011,Y 2,Y 2,,,Operational,Original
-bufr4/3/07/052/11/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301012,G 2,G 2,,,Operational,Original
-bufr4/3/07/052/12/301023,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301023,,,,,Operational,Original
-bufr4/3/07/052/13/007030,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,007030,,,,,Operational,Original
-bufr4/3/07/052/14/007031,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,007031,,,,,Operational,Original
+bufr4/3/07/052/2/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008039,= 1 hora de comienzo del período de predicción,,,,Operational,Original
+bufr4/3/07/052/3/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301011,Y 1,Y 1,,,Operational,Original
+bufr4/3/07/052/4/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301012,G 1,G 1,,,Operational,Original
+bufr4/3/07/052/2/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,008039,= 2 hora de finalización del período de predicción,,,,Operational,Original
+bufr4/3/07/052/3/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301011,Y 2,Y 2,,,Operational,Original
+bufr4/3/07/052/4/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301012,G 2,G 2,,,Operational,Original
+bufr4/3/07/052/6/301023,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,301023,,,,,Operational,Original
+bufr4/3/07/052/7/007030,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,007030,,,,,Operational,Original
+bufr4/3/07/052/8/007031,07,Secuencias de los informes de las observaciones de superficie (tierra),307052,,,007031,,,,,Operational,Original
 bufr4/3/07/053/1/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,007032,= 10 m (si no se dispone del valor real),,,,Operational,Original
 bufr4/3/07/053/2/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011001,ddd,,,,Operational,Original
 bufr4/3/07/053/3/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,008054,P,,,,Operational,Original
 bufr4/3/07/053/4/011083,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011083,ff - km/h,,,,Operational,Original
 bufr4/3/07/053/5/011084,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011084,ff - kt,,,,Operational,Original
 bufr4/3/07/053/6/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011002,ff - m/s,,,,Operational,Original
-bufr4/3/07/053/7/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,008054,P,,,,Operational,Original
-bufr4/3/07/053/8/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011085,f m,f - km/h m,,,Operational,Original
-bufr4/3/07/053/9/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011086,f m,f - kt m,,,Operational,Original
-bufr4/3/07/053/10/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011041,f m,f - m/s m,,,Operational,Original
-bufr4/3/07/053/11/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,008054,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/053/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/053/13/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,020009,CAVOK NSW NSC,,,,Operational,Original
-bufr4/3/07/053/14/020060,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,020060,VVVV,,,,Operational,Original
-bufr4/3/07/053/15/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,307014,w´w´,(continúa),,,Operational,Original
+bufr4/3/07/053/3/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,008054,P,,,,Operational,Original
+bufr4/3/07/053/7/011085,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011085,f m,f - km/h m,,,Operational,Original
+bufr4/3/07/053/8/011086,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011086,f m,f - kt m,,,Operational,Original
+bufr4/3/07/053/9/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,011041,f m,f - m/s m,,,Operational,Original
+bufr4/3/07/053/3/008054,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,008054,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/053/1/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/053/10/020009,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,020009,CAVOK NSW NSC,,,,Operational,Original
+bufr4/3/07/053/11/020060,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,020060,VVVV,,,,Operational,Original
+bufr4/3/07/053/12/307014,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,307014,w´w´,(continúa),,,Operational,Original
+bufr4/3/07/053/13/307047,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,307047,N s,N N h h h s s s s s,,,Operational,Original
+bufr4/3/07/053/17/307015,07,Secuencias de los informes de las observaciones de superficie (tierra),307053,,,307015,,,,,Operational,Original
 bufr4/3/07/054/1/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,007032,= 2 m (si no se dispone del valor real),,,,Operational,Original
 bufr4/3/07/054/2/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008039,= 3 hora de predicción de la temperatura máxima,,,,Operational,Original
 bufr4/3/07/054/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004003,,,,,Operational,Original
 bufr4/3/07/054/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004004,G F,G F,,,Operational,Original
 bufr4/3/07/054/5/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008023,= 3 mínimo,,,,Operational,Original
 bufr4/3/07/054/6/012023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,012023,T F,T - Celsius F,,,Operational,Original
-bufr4/3/07/054/7/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008039,= 4 tiempo de predicción de la temperatura mínima,,,,Operational,Original
-bufr4/3/07/054/8/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004003,,,,,Operational,Original
-bufr4/3/07/054/9/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004004,G F,G F,,,Operational,Original
-bufr4/3/07/054/10/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008023,= 2 máximo,,,,Operational,Original
-bufr4/3/07/054/11/012023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,012023,T F,T - Celsius F,,,Operational,Original
-bufr4/3/07/054/12/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008023,Fijar en faltante,,,,Operational,Original
-bufr4/3/07/054/13/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/054/2/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008039,= 4 tiempo de predicción de la temperatura mínima,,,,Operational,Original
+bufr4/3/07/054/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004003,,,,,Operational,Original
+bufr4/3/07/054/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,004004,G F,G F,,,Operational,Original
+bufr4/3/07/054/5/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008023,= 2 máximo,,,,Operational,Original
+bufr4/3/07/054/6/012023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,012023,T F,T - Celsius F,,,Operational,Original
+bufr4/3/07/054/5/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/054/1/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307054,,,007032,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/07/055/1/033045,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,033045,C 2,C 2,,,Operational,Original
 bufr4/3/07/055/2/008016,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,008016,TTTTTT,,,,Operational,Original
 bufr4/3/07/055/3/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,008039,= 5 hora del comienzo del cambio de predicción,,,,Operational,Original
 bufr4/3/07/055/4/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,004003,,,,,Operational,Original
 bufr4/3/07/055/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,301012,GGgg,,,,Operational,Original
-bufr4/3/07/055/6/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,008039,= 6 hora de finalización del cambio de predicción,,,,Operational,Original
-bufr4/3/07/055/7/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,004003,,,,,Operational,Original
-bufr4/3/07/055/8/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,301012,G e,G e,,,Operational,Original
+bufr4/3/07/055/3/008039,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,008039,= 6 hora de finalización del cambio de predicción,,,,Operational,Original
+bufr4/3/07/055/4/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,004003,,,,,Operational,Original
+bufr4/3/07/055/5/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,301012,G e,G e,,,Operational,Original
 bufr4/3/07/055/9/007053,07,Secuencias de los informes de las observaciones de superficie (tierra),307055,(anular),,007053,Durante o después del cambio,,,,Operational,Original
 bufr4/3/07/056/1/307052,07,Secuencias de los informes de las observaciones de superficie (tierra),307056,,,307052,,,,,Operational,Original
 bufr4/3/07/056/2/307053,07,Secuencias de los informes de las observaciones de superficie (tierra),307056,,,307053,,,,,Operational,Original
@@ -326,36 +410,101 @@ bufr4/3/07/071/6/010051,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/071/7/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007004,Nivel estándar | valor faltante para las estaciones de tierras bajas,,,,Operational,Original
 bufr4/3/07/071/8/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,010009,Nivel estándar | valor faltante para las estaciones de tierras bajas,,,,Operational,Original
 bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,,(continúa),,,Operational,Original
+bufr4/3/07/071/10/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012101,,,,,Operational,Original
+bufr4/3/07/071/11/002051,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,002051,,,,,Operational,Original
+bufr4/3/07/071/12/004051,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004051,,,,,Operational,Original
+bufr4/3/07/071/13/012118,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012118,,,,,Operational,Original
+bufr4/3/07/071/14/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004052,,,,,Operational,Original
+bufr4/3/07/071/15/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012119,,,,,Operational,Original
+bufr4/3/07/071/16/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,013004,,,,,Operational,Original
+bufr4/3/07/071/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008023,Valor faltante,,,,Operational,Original
+bufr4/3/07/071/17/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012151,,,,,Operational,Original
+bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/071/18/102005,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,102005,,,,,Operational,Original
+bufr4/3/07/071/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008050,/Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/07/071/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008020,Días,,,,Operational,Original
+bufr4/3/07/071/21/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,014032,,,,,Operational,Original
+bufr4/3/07/071/22/014033,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,014033,,,,,Operational,Original
+bufr4/3/07/071/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008050,= 6 duración de la insolación,,,,Operational,Original
+bufr4/3/07/071/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008020,Días,,,,Operational,Original
+bufr4/3/07/071/23/102018,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,102018,,,,,Operational,Original
+bufr4/3/07/071/24/008052,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008052,,,,,Operational,Original
+bufr4/3/07/071/25/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008022,Días,,,,Operational,Original
+bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,,,,,Operational,Original
+bufr4/3/07/071/28/012152,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012152,,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,,,,,Operational,Original
+bufr4/3/07/071/29/012153,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012153,I.2 – BUFR Tabla D/07 — 15,(continúa),,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,,,,,Operational,Original
+bufr4/3/07/071/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008023,= 2 valor máximo,,,,Operational,Original
+bufr4/3/07/071/10/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012101,,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,,,,,Operational,Original
+bufr4/3/07/071/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008023,= 3 valor mínimo,,,,Operational,Original
+bufr4/3/07/071/10/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,012101,,,,,Operational,Original
+bufr4/3/07/071/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008023,Valor faltante,,,,Operational,Original
+bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,,,,,Operational,Original
+bufr4/3/07/071/30/002002,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,002002,,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,,,,,Operational,Original
+bufr4/3/07/071/31/011046,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,011046,,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/071/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004003,= 1,,,,Operational,Original
+bufr4/3/07/071/32/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004004,= 6,,,,Operational,Original
+bufr4/3/07/071/3/004023,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004023,Número de días del mes,,,,Operational,Original
+bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,,,,,Operational,Original
+bufr4/3/07/071/33/013060,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,013060,,,,,Operational,Original
+bufr4/3/07/071/34/013051,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,013051,,,,,Operational,Original
+bufr4/3/07/071/35/004053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,004053,,,,,Operational,Original
+bufr4/3/07/071/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008050,= 5 precipitación,,,,Operational,Original
+bufr4/3/07/071/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008020,Días,,,,Operational,Original
+bufr4/3/07/071/36/102006,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,102006,,,,,Operational,Original
+bufr4/3/07/071/24/008052,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008052,,,,,Operational,Original
+bufr4/3/07/071/25/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008022,Días,,,,Operational,Original
+bufr4/3/07/071/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/071/37/013052,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,013052,,(continúa),,,Operational,Original
+bufr4/3/07/071/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307071,,,007032,Fijar en faltante,,,,Operational,Original
 bufr4/3/07/072/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
-bufr4/3/07/072/2/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Final del período de referencia,,,,Operational,Original
-bufr4/3/07/072/3/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004002,,,,,Operational,Original
-bufr4/3/07/072/4/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004003,= 1,,,,Operational,Original
-bufr4/3/07/072/5/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004004,= 0,,,,Operational,Original
-bufr4/3/07/072/6/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004074,= UTC – LT,,,,Operational,Original
-bufr4/3/07/072/7/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004022,= 1,,,,Operational,Original
-bufr4/3/07/072/8/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,008023,= 4 valor medio,,,,Operational,Original
-bufr4/3/07/072/9/010004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010004,,,,,Operational,Original
-bufr4/3/07/072/10/010051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010051,,,,,Operational,Original
-bufr4/3/07/072/11/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007004,Nivel estándar,,,,Operational,Original
-bufr4/3/07/072/12/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010009,Nivel estándar,,,,Operational,Original
-bufr4/3/07/072/13/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007032,,,,,Operational,Original
-bufr4/3/07/072/14/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012101,,,,,Operational,Original
-bufr4/3/07/072/15/002051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,002051,= 2,,,,Operational,Original
-bufr4/3/07/072/16/004051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004051,,,,,Operational,Original
-bufr4/3/07/072/17/012118,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012118,,,,,Operational,Original
-bufr4/3/07/072/18/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004052,,,,,Operational,Original
-bufr4/3/07/072/19/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012119,,,,,Operational,Original
-bufr4/3/07/072/20/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,013004,,,,,Operational,Original
-bufr4/3/07/072/21/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012151,,,,,Operational,Original
-bufr4/3/07/072/22/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/072/23/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,014032,,,,,Operational,Original
-bufr4/3/07/072/24/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,008023,Fijar en faltante,,,,Operational,Original
-bufr4/3/07/072/25/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
-bufr4/3/07/072/26/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Final del período de referencia,,,,Operational,Original
-bufr4/3/07/072/27/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004002,,,,,Operational,Original
-bufr4/3/07/072/28/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004003,= 1,,,,Operational,Original
-bufr4/3/07/072/29/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004004,= 6,,,,Operational,Original
-bufr4/3/07/072/30/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004022,= 1 I.2 – BUFR Tabla D/07 — 17,(continúa),,,Operational,Original
+bufr4/3/07/072/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Final del período de referencia,,,,Operational,Original
+bufr4/3/07/072/2/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004002,,,,,Operational,Original
+bufr4/3/07/072/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004003,= 1,,,,Operational,Original
+bufr4/3/07/072/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004004,= 0,,,,Operational,Original
+bufr4/3/07/072/5/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004074,= UTC – LT,,,,Operational,Original
+bufr4/3/07/072/6/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004022,= 1,,,,Operational,Original
+bufr4/3/07/072/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,008023,= 4 valor medio,,,,Operational,Original
+bufr4/3/07/072/8/010004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010004,,,,,Operational,Original
+bufr4/3/07/072/9/010051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010051,,,,,Operational,Original
+bufr4/3/07/072/10/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007004,Nivel estándar,,,,Operational,Original
+bufr4/3/07/072/11/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,010009,Nivel estándar,,,,Operational,Original
+bufr4/3/07/072/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007032,,,,,Operational,Original
+bufr4/3/07/072/13/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012101,,,,,Operational,Original
+bufr4/3/07/072/14/002051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,002051,= 2,,,,Operational,Original
+bufr4/3/07/072/15/004051,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004051,,,,,Operational,Original
+bufr4/3/07/072/16/012118,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012118,,,,,Operational,Original
+bufr4/3/07/072/17/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004052,,,,,Operational,Original
+bufr4/3/07/072/18/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012119,,,,,Operational,Original
+bufr4/3/07/072/19/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,013004,,,,,Operational,Original
+bufr4/3/07/072/20/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,012151,,,,,Operational,Original
+bufr4/3/07/072/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/072/21/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,014032,,,,,Operational,Original
+bufr4/3/07/072/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/072/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
+bufr4/3/07/072/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004001,Final del período de referencia,,,,Operational,Original
+bufr4/3/07/072/2/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004002,,,,,Operational,Original
+bufr4/3/07/072/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004003,= 1,,,,Operational,Original
+bufr4/3/07/072/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004004,= 6,,,,Operational,Original
+bufr4/3/07/072/6/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,(anular),,004022,= 1 I.2 – BUFR Tabla D/07 — 17,(continúa),,,Operational,Original
+bufr4/3/07/072/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,007032,,,,,Operational,Original
+bufr4/3/07/072/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,008023,= 4 valor medio,,,,Operational,Original
+bufr4/3/07/072/22/013060,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,013060,,,,,Operational,Original
+bufr4/3/07/072/23/004053,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,004053,,,,,Operational,Original
+bufr4/3/07/072/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/072/24/102008,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,102008,,,,,Operational,Original
+bufr4/3/07/072/25/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,008050,/Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/07/072/26/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307072,,,008020,Años,,,,Operational,Original
 bufr4/3/07/073/1/307071,07,Secuencias de los informes de las observaciones de superficie (tierra),307073,,,307071,,,,,Operational,Original
 bufr4/3/07/073/2/307072,07,Secuencias de los informes de las observaciones de superficie (tierra),307073,,,307072,,,,,Operational,Original
 bufr4/3/07/074/1/301001,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,301001,,,,,Operational,Original
@@ -370,6 +519,14 @@ bufr4/3/07/074/9/004003,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/074/10/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,004004,,,,,Operational,Original
 bufr4/3/07/074/11/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,004024,Normalmente fijado en -24 para señalar el período de tiempo que empieza 24 horas antes de la hora especificada y termina en dicha hora,,,,Operational,Original
 bufr4/3/07/074/12/102003,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,102003,,(continúa),,,Operational,Original
+bufr4/3/07/074/13/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,008023,/ Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/07/074/14/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,012101,,,,,Operational,Original
+bufr4/3/07/074/13/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/074/10/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,004004,,,,,Operational,Original
+bufr4/3/07/074/11/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,004024,,,,,Operational,Original
+bufr4/3/07/074/15/013060,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,013060,,,,,Operational,Original
+bufr4/3/07/074/16/013012,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,013012,,,,,Operational,Original
+bufr4/3/07/074/17/013013,07,Secuencias de los informes de las observaciones de superficie (tierra),307074,,,013013,,,,,Operational,Original
 bufr4/3/07/076/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,301090,,,,,Operational,Original
 bufr4/3/07/076/2/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,004074,,,,,Operational,Original
 bufr4/3/07/076/3/004023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,004023,Número de días del mes,,,,Operational,Original
@@ -386,40 +543,97 @@ bufr4/3/07/076/13/012118,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/076/14/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,004052,,,,,Operational,Original
 bufr4/3/07/076/15/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,012119,,,,,Operational,Original
 bufr4/3/07/076/16/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,013004,,,,,Operational,Original
-bufr4/3/07/076/17/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,008023,Fijar en faltante (anular) I.2 – BUFR Tabla D/07 — 19,(continúa),,,Operational,Original
+bufr4/3/07/076/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,(anular),,008023,Fijar en faltante (anular) I.2 – BUFR Tabla D/07 — 19,(continúa),,,Operational,Original
+bufr4/3/07/076/17/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,012151,,,,,Operational,Original
+bufr4/3/07/076/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/076/18/102005,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,102005,,,,,Operational,Original
+bufr4/3/07/076/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008050,/Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/07/076/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008020,Días,,,,Operational,Original
+bufr4/3/07/076/21/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,014032,,,,,Operational,Original
+bufr4/3/07/076/22/014033,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,014033,,,,,Operational,Original
+bufr4/3/07/076/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008050,= 6 duración de la insolación,,,,Operational,Original
+bufr4/3/07/076/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008020,Días,,,,Operational,Original
+bufr4/3/07/076/23/102018,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,102018,,,,,Operational,Original
+bufr4/3/07/076/24/008052,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008052,/Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/07/076/25/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008022,Días,,,,Operational,Original
+bufr4/3/07/076/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,007032,,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en 1 día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/28/012152,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,012152,,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en 1 día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/29/012153,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,012153,,(continúa),,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en 1 día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008023,= 2 valor máximo,,,,Operational,Original
+bufr4/3/07/076/10/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,012101,,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en 1 día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008023,= 3 valor mínimo,,,,Operational,Original
+bufr4/3/07/076/10/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,012101,,,,,Operational,Original
+bufr4/3/07/076/4/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008023,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/076/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,007032,,,,,Operational,Original
+bufr4/3/07/076/30/002002,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,002002,,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en 1 día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/31/011046,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,011046,,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,= 1,,,,Operational,Original
+bufr4/3/07/076/32/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004004,= 0,,,,Operational,Original
+bufr4/3/07/076/2/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004074,,,,,Operational,Original
+bufr4/3/07/076/3/004023,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004023,Número de días del mes,,,,Operational,Original
+bufr4/3/07/076/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,007032,,,,,Operational,Original
+bufr4/3/07/076/33/013060,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,013060,,,,,Operational,Original
+bufr4/3/07/076/34/013051,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,013051,,,,,Operational,Original
+bufr4/3/07/076/35/004053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004053,,,,,Operational,Original
+bufr4/3/07/076/19/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008050,= 5 precipitación,,,,Operational,Original
+bufr4/3/07/076/20/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008020,Días,,,,Operational,Original
+bufr4/3/07/076/36/102006,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,102006,,,,,Operational,Original
+bufr4/3/07/076/24/008052,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008052,,,,,Operational,Original
+bufr4/3/07/076/25/008022,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008022,Días,,,,Operational,Original
+bufr4/3/07/076/26/008053,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,008053,"= 0 en un día únicamente, = 1 en 2 o más días",,,,Operational,Original
+bufr4/3/07/076/27/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,004003,,,,,Operational,Original
+bufr4/3/07/076/37/013052,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,013052,I.2 – BUFR Tabla D/07 — 21,(continúa),,,Operational,Original
+bufr4/3/07/076/9/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307076,,,007032,Fijar en faltante,,,,Operational,Original
 bufr4/3/07/077/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
-bufr4/3/07/077/2/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Final del período de referencia,,,,Operational,Original
-bufr4/3/07/077/3/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004002,,,,,Operational,Original
-bufr4/3/07/077/4/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004003,= 1,,,,Operational,Original
-bufr4/3/07/077/5/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004004,= 0,,,,Operational,Original
-bufr4/3/07/077/6/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004074,,,,,Operational,Original
-bufr4/3/07/077/7/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004022,= 1,,,,Operational,Original
-bufr4/3/07/077/8/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,= 4 valor medio,,,,Operational,Original
-bufr4/3/07/077/9/010004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010004,,,,,Operational,Original
-bufr4/3/07/077/10/010051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010051,,,,,Operational,Original
-bufr4/3/07/077/11/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007004,Nivel estándar,,,,Operational,Original
-bufr4/3/07/077/12/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010009,Nivel estándar,,,,Operational,Original
-bufr4/3/07/077/13/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,,,,,Operational,Original
-bufr4/3/07/077/14/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012101,,,,,Operational,Original
-bufr4/3/07/077/15/002051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,002051,,,,,Operational,Original
-bufr4/3/07/077/16/004051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004051,,,,,Operational,Original
-bufr4/3/07/077/17/012118,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012118,,,,,Operational,Original
-bufr4/3/07/077/18/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004052,,,,,Operational,Original
-bufr4/3/07/077/19/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012119,,,,,Operational,Original
-bufr4/3/07/077/20/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,013004,,,,,Operational,Original
-bufr4/3/07/077/21/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012151,,,,,Operational,Original
-bufr4/3/07/077/22/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/077/23/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,014032,,,,,Operational,Original
-bufr4/3/07/077/24/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/077/25/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
-bufr4/3/07/077/26/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Final del período de referencia,,,,Operational,Original
-bufr4/3/07/077/27/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004002,,,,,Operational,Original
-bufr4/3/07/077/28/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004003,= 1,,,,Operational,Original
-bufr4/3/07/077/29/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004004,= 0,,,,Operational,Original
-bufr4/3/07/077/30/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004074,,,,,Operational,Original
-bufr4/3/07/077/31/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004022,= 1,,,,Operational,Original
-bufr4/3/07/077/32/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,,,,,Operational,Original
-bufr4/3/07/077/33/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,= 4 valor medio,(continúa),,,Operational,Original
+bufr4/3/07/077/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Final del período de referencia,,,,Operational,Original
+bufr4/3/07/077/2/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004002,,,,,Operational,Original
+bufr4/3/07/077/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004003,= 1,,,,Operational,Original
+bufr4/3/07/077/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004004,= 0,,,,Operational,Original
+bufr4/3/07/077/5/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004074,,,,,Operational,Original
+bufr4/3/07/077/6/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004022,= 1,,,,Operational,Original
+bufr4/3/07/077/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,= 4 valor medio,,,,Operational,Original
+bufr4/3/07/077/8/010004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010004,,,,,Operational,Original
+bufr4/3/07/077/9/010051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010051,,,,,Operational,Original
+bufr4/3/07/077/10/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007004,Nivel estándar,,,,Operational,Original
+bufr4/3/07/077/11/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,010009,Nivel estándar,,,,Operational,Original
+bufr4/3/07/077/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,,,,,Operational,Original
+bufr4/3/07/077/13/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012101,,,,,Operational,Original
+bufr4/3/07/077/14/002051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,002051,,,,,Operational,Original
+bufr4/3/07/077/15/004051,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004051,,,,,Operational,Original
+bufr4/3/07/077/16/012118,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012118,,,,,Operational,Original
+bufr4/3/07/077/17/004052,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004052,,,,,Operational,Original
+bufr4/3/07/077/18/012119,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012119,,,,,Operational,Original
+bufr4/3/07/077/19/013004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,013004,,,,,Operational,Original
+bufr4/3/07/077/20/012151,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,012151,,,,,Operational,Original
+bufr4/3/07/077/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/077/21/014032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,014032,,,,,Operational,Original
+bufr4/3/07/077/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/077/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Comienzo del período de referencia,,,,Operational,Original
+bufr4/3/07/077/1/004001,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004001,Final del período de referencia,,,,Operational,Original
+bufr4/3/07/077/2/004002,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004002,,,,,Operational,Original
+bufr4/3/07/077/3/004003,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004003,= 1,,,,Operational,Original
+bufr4/3/07/077/4/004004,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004004,= 0,,,,Operational,Original
+bufr4/3/07/077/5/004074,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004074,,,,,Operational,Original
+bufr4/3/07/077/6/004022,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,004022,= 1,,,,Operational,Original
+bufr4/3/07/077/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,007032,,,,,Operational,Original
+bufr4/3/07/077/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,(anular),,008023,= 4 valor medio,(continúa),,,Operational,Original
+bufr4/3/07/077/22/013060,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,013060,,,,,Operational,Original
+bufr4/3/07/077/23/004053,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,004053,,,,,Operational,Original
+bufr4/3/07/077/7/008023,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/077/24/102008,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,102008,,,,,Operational,Original
+bufr4/3/07/077/25/008050,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,008050,/Véase la columna de la izquierda.1,,,,Operational,Original
+bufr4/3/07/077/26/008020,07,Secuencias de los informes de las observaciones de superficie (tierra),307077,,,008020,Años,,,,Operational,Original
 bufr4/3/07/078/1/307076,07,Secuencias de los informes de las observaciones de superficie (tierra),307078,(anular),,307076,,,,,Operational,Original
 bufr4/3/07/078/2/307077,07,Secuencias de los informes de las observaciones de superficie (tierra),307078,(anular),,307077,,,,,Operational,Original
 bufr4/3/07/079/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,301090,,,,,Operational,Original
@@ -430,14 +644,28 @@ bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
 bufr4/3/07/079/7/302047,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302047,,,,,Operational,Original
 bufr4/3/07/079/8/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,008002,,,,,Operational,Original
-bufr4/3/07/079/9/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
-bufr4/3/07/079/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
-bufr4/3/07/079/11/302048,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302048,,,,,Operational,Original
-bufr4/3/07/079/12/302037,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302037,,,,,Operational,Original
-bufr4/3/07/079/13/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,102000,,,,,Operational,Original
-bufr4/3/07/079/14/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
-bufr4/3/07/079/15/022061,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,022061,,,,,Operational,Original
-bufr4/3/07/079/16/020058,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,020058,I.2 – BUFR Tabla D/07 — 23,(continúa),,,Operational,Original
+bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
+bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
+bufr4/3/07/079/9/302048,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302048,,,,,Operational,Original
+bufr4/3/07/079/10/302037,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302037,,,,,Operational,Original
+bufr4/3/07/079/11/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,102000,,,,,Operational,Original
+bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
+bufr4/3/07/079/12/022061,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,022061,,,,,Operational,Original
+bufr4/3/07/079/13/020058,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,020058,I.2 – BUFR Tabla D/07 — 23,(continúa),,,Operational,Original
+bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
+bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
+bufr4/3/07/079/14/302056,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302056,"Temperatura de la superficie del mar/ agua, método de medición, profundidad por debajo de la superficie del agua",,,,Operational,Original
+bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
+bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
+bufr4/3/07/079/15/302055,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302055,,,,,Operational,Original
+bufr4/3/07/079/16/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302043,,,,,Operational,Original
+bufr4/3/07/079/17/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302044,,,,,Operational,Original
+bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
+bufr4/3/07/079/18/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031001,,,,,Operational,Original
+bufr4/3/07/079/19/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302045,,,,,Operational,Original
+bufr4/3/07/079/5/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,101000,,,,,Operational,Original
+bufr4/3/07/079/6/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,031000,,,,,Operational,Original
+bufr4/3/07/079/20/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307079,,,302046,,,,,Operational,Original
 bufr4/3/07/080/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307080,,,301090,,,,,Operational,Original
 bufr4/3/07/080/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307080,,,302031,,,,,Operational,Original
 bufr4/3/07/080/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307080,,,302035,,,,,Operational,Original
@@ -452,6 +680,29 @@ bufr4/3/07/080/11/101002,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/080/12/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307080,,,302045,,,,,Operational,Original
 bufr4/3/07/080/13/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307080,,,302046,,,,,Operational,Original
 bufr4/3/07/081/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,301090,,(continúa),,,Operational,Original
+bufr4/3/07/081/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302031,,,,,Operational,Original
+bufr4/3/07/081/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302035,,,,,Operational,Original
+bufr4/3/07/081/4/302036,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302036,,,,,Operational,Original
+bufr4/3/07/081/5/302047,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302047,,,,,Operational,Original
+bufr4/3/07/081/6/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,008002,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/081/7/302048,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302048,,,,,Operational,Original
+bufr4/3/07/081/8/302037,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302037,,,,,Operational,Original
+bufr4/3/07/081/9/012122,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,012122,,,,,Operational,Original
+bufr4/3/07/081/10/013056,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,013056,,,,,Operational,Original
+bufr4/3/07/081/11/013057,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,013057,,,,,Operational,Original
+bufr4/3/07/081/12/020101,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020101,,,,,Operational,Original
+bufr4/3/07/081/13/020102,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020102,,,,,Operational,Original
+bufr4/3/07/081/14/020103,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020103,,,,,Operational,Original
+bufr4/3/07/081/15/020104,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020104,,,,,Operational,Original
+bufr4/3/07/081/16/020105,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020105,,,,,Operational,Original
+bufr4/3/07/081/17/020106,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020106,,,,,Operational,Original
+bufr4/3/07/081/18/020107,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020107,,,,,Operational,Original
+bufr4/3/07/081/19/020108,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,020108,,,,,Operational,Original
+bufr4/3/07/081/20/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302043,,,,,Operational,Original
+bufr4/3/07/081/21/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302044,,,,,Operational,Original
+bufr4/3/07/081/22/101002,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,101002,,,,,Operational,Original
+bufr4/3/07/081/23/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302045,,,,,Operational,Original
+bufr4/3/07/081/24/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307081,,,302046,,,,,Operational,Original
 bufr4/3/07/082/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,301090,,,,,Operational,Original
 bufr4/3/07/082/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,302031,,,,,Operational,Original
 bufr4/3/07/082/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,302035,,,,,Operational,Original
@@ -462,6 +713,11 @@ bufr4/3/07/082/7/302048,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/082/8/302037,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,302037,,,,,Operational,Original
 bufr4/3/07/082/9/012121,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,012121,En la hora de observación,,,,Operational,Original
 bufr4/3/07/082/10/012122,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,(anular),,012122,I.2 – BUFR Tabla D/07 — 25,(continúa),,,Operational,Original
+bufr4/3/07/082/11/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,,,302043,,,,,Operational,Original
+bufr4/3/07/082/12/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,,,302044,,,,,Operational,Original
+bufr4/3/07/082/13/101002,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,,,101002,,,,,Operational,Original
+bufr4/3/07/082/14/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,,,302045,,,,,Operational,Original
+bufr4/3/07/082/15/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307082,,,302046,,,,,Operational,Original
 bufr4/3/07/083/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307083,,,301090,,,,,Operational,Original
 bufr4/3/07/083/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307083,,,302031,,,,,Operational,Original
 bufr4/3/07/083/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307083,,,302035,,,,,Operational,Original
@@ -487,6 +743,12 @@ bufr4/3/07/084/8/302037,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/084/9/020055,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,(anular),,020055,,,,,Operational,Original
 bufr4/3/07/084/10/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,(anular),,101000,,,,,Operational,Original
 bufr4/3/07/084/11/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,(anular),,031001,,(continúa),,,Operational,Original
+bufr4/3/07/084/12/205001,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,205001,Campo de caracteres de 1 carácter,,,,Operational,Original
+bufr4/3/07/084/13/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,302043,,,,,Operational,Original
+bufr4/3/07/084/14/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,302044,,,,,Operational,Original
+bufr4/3/07/084/15/101002,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,101002,,,,,Operational,Original
+bufr4/3/07/084/16/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,302045,,,,,Operational,Original
+bufr4/3/07/084/17/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307084,,,302046,,,,,Operational,Original
 bufr4/3/07/086/1/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307086,,,301090,,,,,Operational,Original
 bufr4/3/07/086/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307086,,,302031,,,,,Operational,Original
 bufr4/3/07/086/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307086,,,302035,,,,,Operational,Original
@@ -508,27 +770,45 @@ bufr4/3/07/087/7/007031,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/087/8/302001,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,(anular),,302001,P o,"P P Po, PPPP, ppp, a o o",,,Operational,Original
 bufr4/3/07/087/9/010062,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,(anular),,010062,p 24,p p 24 24,,,Operational,Original
 bufr4/3/07/087/10/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,(anular),,007004,"Nivel estándar a3= 925, 850, 700, ...hPa | Fijar en faltante para las estaciones de tierras bajas I.2 – BUFR Tabla D/07 — 27",(continúa),,,Operational,Original
+bufr4/3/07/087/11/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,010009,Nivel estándar hhh | Fijar en faltante para las estaciones de tierras bajas,,,,Operational,Original
+bufr4/3/07/087/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,007032,Medición de la temperatura,,,,Operational,Original
+bufr4/3/07/087/13/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,012101,s n,TTT | Escala: 2,,,Operational,Original
+bufr4/3/07/087/14/012103,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,012103,s n,T T T | Escala: 2 d d d,,,Operational,Original
+bufr4/3/07/087/15/013003,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,013003,,,,,Operational,Original
+bufr4/3/07/087/12/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/087/16/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,020001,VV,,,,Operational,Original
+bufr4/3/07/087/17/302004,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,302004,"/Véase la columna de la izquierda. L + 30, si N = 0, entonces 0 20 012 L : 0 20 012 = C + M M = /, entonces 0 20 012 = 61 | Tipo de : 0 20 012 = C + 10, si N H H = H",,,,Operational,Original
+bufr4/3/07/087/18/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,101000,,,,,Operational,Original
+bufr4/3/07/087/19/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,031001,,(continúa),,,Operational,Original
+bufr4/3/07/087/20/302005,07,Secuencias de los informes de las observaciones de superficie (tierra),307087,,,302005,"/Véase la columna de la izquierda. : en la primera repetición: si N = /, s , en las restantes s | Tipo de nubes C: si s h s s",,,,Operational,Original
 bufr4/3/07/088/1/020003,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,020003,ww,,,,Operational,Original
 bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,"=–6 a 00, 06, 12, 18 UTC, =–3 a 03, 09,15, 21 UTC",,,,Operational,Original
 bufr4/3/07/088/3/020004,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,020004,W,1,,,Operational,Original
 bufr4/3/07/088/4/020005,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,020005,W,2,,,Operational,Original
-bufr4/3/07/088/5/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–24 (horas),,,,Operational,Original
-bufr4/3/07/088/6/002004,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,002004,i E,,,,Operational,Original
-bufr4/3/07/088/7/013033,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,013033,EEE,,,,Operational,Original
-bufr4/3/07/088/8/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,102002,,,,,Operational,Original
-bufr4/3/07/088/9/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,"= -24 (horas) en la primera repetición, =-1 (hora) en la segunda repetición",,,,Operational,Original
-bufr4/3/07/088/10/014031,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,014031,"SSS en la primera repetición, SS en la segunda repetición",,,,Operational,Original
-bufr4/3/07/088/11/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,102002,,,,,Operational,Original
-bufr4/3/07/088/12/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,t R,,,,Operational,Original
-bufr4/3/07/088/13/013011,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,013011,"RRR | = 0 sin precipitación, =–0,1 traza",,,,Operational,Original
-bufr4/3/07/088/14/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,007032,Medición de la temperatura,,,,Operational,Original
-bufr4/3/07/088/15/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–12 (horas),,,,Operational,Original
-bufr4/3/07/088/16/012111,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,012111,s n,T T T x x x,,,Operational,Original
-bufr4/3/07/088/17/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–12 (horas),,,,Operational,Original
-bufr4/3/07/088/18/012112,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,012112,s n I.2 – BUFR Tabla D/07 — 29,T T T n n n (continúa),,,Operational,Original
+bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–24 (horas),,,,Operational,Original
+bufr4/3/07/088/5/002004,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,002004,i E,,,,Operational,Original
+bufr4/3/07/088/6/013033,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,013033,EEE,,,,Operational,Original
+bufr4/3/07/088/7/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,102002,,,,,Operational,Original
+bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,"= -24 (horas) en la primera repetición, =-1 (hora) en la segunda repetición",,,,Operational,Original
+bufr4/3/07/088/8/014031,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,014031,"SSS en la primera repetición, SS en la segunda repetición",,,,Operational,Original
+bufr4/3/07/088/7/102002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,102002,,,,,Operational,Original
+bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,t R,,,,Operational,Original
+bufr4/3/07/088/9/013011,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,013011,"RRR | = 0 sin precipitación, =–0,1 traza",,,,Operational,Original
+bufr4/3/07/088/10/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,007032,Medición de la temperatura,,,,Operational,Original
+bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–12 (horas),,,,Operational,Original
+bufr4/3/07/088/11/012111,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,012111,s n,T T T x x x,,,Operational,Original
+bufr4/3/07/088/2/004024,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004024,=–12 (horas),,,,Operational,Original
+bufr4/3/07/088/12/012112,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,012112,s n I.2 – BUFR Tabla D/07 — 29,T T T n n n (continúa),,,Operational,Original
+bufr4/3/07/088/10/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,007032,Medición del viento,,,,Operational,Original
+bufr4/3/07/088/13/002002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,002002,i w,,,,Operational,Original
+bufr4/3/07/088/14/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,008021,= 2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/07/088/15/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,004025,"= -10 (minutos), o número de minutos tras un cambio significativo del viento, si lo hubiese",,,,Operational,Original
+bufr4/3/07/088/16/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,011001,"dd | Si dd = 00 en calma o dd = 99 variable, 0 11 001 = 0",,,,Operational,Original
+bufr4/3/07/088/17/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,011002,ff,,,,Operational,Original
+bufr4/3/07/088/14/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307088,,,008021,Fijar en faltante,,,,Operational,Original
 bufr4/3/07/089/1/307087,07,Secuencias de los informes de las observaciones de superficie (tierra),307089,(anular),,307087,,,,,Operational,Original
 bufr4/3/07/089/2/307089,07,Secuencias de los informes de las observaciones de superficie (tierra),307089,(anular),,307089,,,,,Operational,Original
-bufr4/3/07/089/3/307088,07,Secuencias de los informes de las observaciones de superficie (tierra),307089,(anular),,307088,,,,,Operational,Original
+bufr4/3/07/089/2/307088,07,Secuencias de los informes de las observaciones de superficie (tierra),307089,(anular),,307088,,,,,Operational,Original
 bufr4/3/07/090/1/301092,07,Secuencias de los informes de las observaciones de superficie (tierra),307090,,,301092,,,,,Operational,Original
 bufr4/3/07/090/2/302031,07,Secuencias de los informes de las observaciones de superficie (tierra),307090,,,302031,,,,,Operational,Original
 bufr4/3/07/090/3/302035,07,Secuencias de los informes de las observaciones de superficie (tierra),307090,,,302035,,,,,Operational,Original
@@ -556,30 +836,206 @@ bufr4/3/07/091/11/101005,07,Secuencias de los informes de las observaciones de s
 bufr4/3/07/091/12/307063,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,307063,,,,,Operational,Original
 bufr4/3/07/091/13/007061,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007061,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
-bufr4/3/07/091/15/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
-bufr4/3/07/091/16/302069,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302069,,,,,Operational,Original
-bufr4/3/07/091/17/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007032,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/091/18/007033,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007033,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/07/091/19/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,105000,,,,,Operational,Original
-bufr4/3/07/091/20/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
-bufr4/3/07/091/21/020031,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,020031,,,,,Operational,Original
-bufr4/3/07/091/22/020032,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,020032,,,,,Operational,Original
-bufr4/3/07/091/23/002038,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,002038,,,,,Operational,Original
-bufr4/3/07/091/24/022043,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,022043,Escala: 2,,,,Operational,Original
-bufr4/3/07/091/25/302021,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302021,,,,,Operational,Original
-bufr4/3/07/091/26/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
-bufr4/3/07/091/27/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
-bufr4/3/07/091/28/302078,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302078,,,,,Operational,Original
-bufr4/3/07/091/29/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
-bufr4/3/07/091/30/302073,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302073,,,,,Operational,Original
-bufr4/3/07/091/31/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
-bufr4/3/07/091/32/302175,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302175,,,,,Operational,Original
-bufr4/3/07/091/33/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,102000,,,,,Operational,Original
-bufr4/3/07/091/34/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,I.2 – BUFR Tabla D/07 — 31,(continúa),,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/15/302069,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302069,,,,,Operational,Original
+bufr4/3/07/091/16/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/091/17/007033,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007033,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/091/18/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,105000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/19/020031,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,020031,,,,,Operational,Original
+bufr4/3/07/091/20/020032,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,020032,,,,,Operational,Original
+bufr4/3/07/091/21/002038,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,002038,,,,,Operational,Original
+bufr4/3/07/091/22/022043,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,022043,Escala: 2,,,,Operational,Original
+bufr4/3/07/091/23/302021,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302021,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/24/302078,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302078,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/25/302073,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302073,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/27/302175,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302175,,,,,Operational,Original
+bufr4/3/07/091/28/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,102000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,I.2 – BUFR Tabla D/07 — 31,(continúa),,,Operational,Original
+bufr4/3/07/091/26/302074,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302074,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/27/302175,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302175,,,,,Operational,Original
+bufr4/3/07/091/28/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,102000,,,,,Operational,Original
+bufr4/3/07/091/29/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,004025,=–10 (minutos),,,,Operational,Original
+bufr4/3/07/091/30/302076,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302076,,,,,Operational,Original
+bufr4/3/07/091/31/302071,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302071,,,,,Operational,Original
+bufr4/3/07/091/32/302077,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302077,,,,,Operational,Original
+bufr4/3/07/091/17/007033,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007033,Fijar en faltante,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/33/302079,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302079,,,,,Operational,Original
+bufr4/3/07/091/16/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/34/302080,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302080,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/35/302081,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302081,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/36/302082,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302082,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/29/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,004025,=–10 (minutos),,,,Operational,Original
+bufr4/3/07/091/37/013059,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,013059,,,,,Operational,Original
+bufr4/3/07/091/14/101000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,101000,,,,,Operational,Original
+bufr4/3/07/091/10/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,031000,,,,,Operational,Original
+bufr4/3/07/091/38/302083,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,302083,,,,,Operational,Original
+bufr4/3/07/091/39/033005,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,033005,,,,,Operational,Original
+bufr4/3/07/091/40/033006,07,Secuencias de los informes de las observaciones de superficie (tierra),307091,,,033006,,,,,Operational,Original
 bufr4/3/07/092/1/301150,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,(anular),,301150,,,,,Operational,Original
 bufr4/3/07/092/2/301001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,(anular),,301001,,,,,Operational,Original
 bufr4/3/07/092/3/208040,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,(anular),,208040,,,,,Operational,Original
 bufr4/3/07/092/4/001019,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,(anular),,001019,,(continúa),,,Operational,Original
+bufr4/3/07/092/5/208000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,208000,,,,,Operational,Original
+bufr4/3/07/092/6/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301011,La identificación de la hora indica el final del período de -n minutos,,,,Operational,Original
+bufr4/3/07/092/7/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301012,,,,,Operational,Original
+bufr4/3/07/092/8/301021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301021,,,,,Operational,Original
+bufr4/3/07/092/9/007030,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007030,,,,,Operational,Original
+bufr4/3/07/092/10/001023,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,001023,,,,,Operational,Original
+bufr4/3/07/092/11/108000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,108000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/13/007031,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007031,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/16/010004,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,010004,Valor medido de la presión del aire en el emplazamiento del sensor y a la altura del sensor,,,,Operational,Original
+bufr4/3/07/092/17/010051,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,010051,,,,,Operational,Original
+bufr4/3/07/092/18/007004,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007004,Nivel estándar,,,,Operational,Original
+bufr4/3/07/092/19/010009,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,010009,Nivel estándar,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/21/115000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,115000,,,,,Operational,Original
+bufr4/3/07/092/22/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031001,,,,,Operational,Original
+bufr4/3/07/092/23/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007032,,,,,Operational,Original
+bufr4/3/07/092/24/008010,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008010,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/25/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,012101,Escala: 2,,,,Operational,Original
+bufr4/3/07/092/26/012103,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,012103,Escala: 2,,,,Operational,Original
+bufr4/3/07/092/27/202129,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,202129,,,,,Operational,Original
+bufr4/3/07/092/28/201132,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,201132,,,,,Operational,Original
+bufr4/3/07/092/29/013003,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,013003,"Información obligatoria (suponiendo que haya un sensor de humedad instalado), anchura de datos 11 bits",,,,Operational,Original
+bufr4/3/07/092/30/201000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,201000,Anular,,,,Operational,Original
+bufr4/3/07/092/31/202000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,202000,Anular,,,,Operational,Original
+bufr4/3/07/092/32/013009,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,013009,Valor original medido,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/23/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/24/008010,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008010,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/33/107000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,107000,,,,,Operational,Original
+bufr4/3/07/092/22/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031001,I.2 – BUFR Tabla D/07 — 33,(continúa),,,Operational,Original
+bufr4/3/07/092/34/007061,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007061,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/35/012130,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,012130,,,,,Operational,Original
+bufr4/3/07/092/36/013111,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,013111,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/34/007061,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007061,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/37/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,105000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/38/033041,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,033041,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/39/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020001,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/40/113000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,113000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/41/020010,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020010,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/33/107000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,107000,,,,,Operational,Original
+bufr4/3/07/092/22/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031001,,,,,Operational,Original
+bufr4/3/07/092/42/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008002,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/43/020011,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020011,,,,,Operational,Original
+bufr4/3/07/092/44/020013,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020013,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/42/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008002,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/37/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,105000,,,,,Operational,Original
+bufr4/3/07/092/22/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031001,,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/45/020062,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020062,,,,,Operational,Original
+bufr4/3/07/092/46/013013,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,013013,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/37/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,105000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,= –n minutos,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/48/020003,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,020003,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/37/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,105000,,(continúa),,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,= –n minutos,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/49/013011,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,013011,Nieve,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/21/115000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,115000,,,,,Operational,Original
+bufr4/3/07/092/22/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031001,,,,,Operational,Original
+bufr4/3/07/092/23/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007032,,,,,Operational,Original
+bufr4/3/07/092/50/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008021,= 2 promediada en el tiempo,,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,"=–10 minutos, o número de minutos tras un cambio significativo de viento",,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/51/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,011001,,,,,Operational,Original
+bufr4/3/07/092/52/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,011002,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/50/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008021,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/53/011043,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,011043,,,,,Operational,Original
+bufr4/3/07/092/54/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,011041,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/23/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/092/37/105000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,105000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,= –n minutos (por defecto n=10),,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/55/014031,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014031,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/56/110000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,110000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,Abierto o cerrado (1/0),,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,= –n minutos (por defecto n = 10),,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/57/014002,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014002,"Radiación de onda larga ascendente| De acuerdo con la Tabla B de BUFR, en la Clase 14, nota 2: valores negativos I.2 – BUFR Tabla D/07 — 35",(continúa),,,Operational,Original
+bufr4/3/07/092/57/014002,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014002,"Radiación de onda larga descendente |De acuerdo con la Tabla B de BUFR, en la Clase 14, nota 1: valores positivos",,,,Operational,Original
+bufr4/3/07/092/58/014004,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014004,"Radiación de onda larga ascendente |De acuerdo con la Tabla B de BUFR, en la Clase 14, nota 2: valores negativos",,,,Operational,Original
+bufr4/3/07/092/59/014028,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014028,,,,,Operational,Original
+bufr4/3/07/092/60/014029,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014029,,,,,Operational,Original
+bufr4/3/07/092/61/014030,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014030,,,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/40/113000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,113000,,,,,Operational,Original
+bufr4/3/07/092/12/031000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031000,,,,,Operational,Original
+bufr4/3/07/092/47/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,004025,= –n minutos (por defecto n = 10),,,,Operational,Original
+bufr4/3/07/092/62/002071,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,002071,UV-A: 315 nm,,,,Operational,Original
+bufr4/3/07/092/63/002072,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,002072,UV-A: 85 nm,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,,,,,Operational,Original
+bufr4/3/07/092/64/014072,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014072,"Integrada en un período especificado |Irradiación UV-A |De acuerdo con la Tabla B de BUFR, en la Clase 14, nota 8 ( 21348 longitud de onda UV-A 315 ≤ λ ≤400 nm)",ISO : intervalo de,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,,,,Operational,Original
+bufr4/3/07/092/62/002071,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,002071,UV-B: 280 nm,,,,Operational,Original
+bufr4/3/07/092/63/002072,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,002072,UV-B: 35 nm,,,,Operational,Original
+bufr4/3/07/092/14/204018,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204018,,,,,Operational,Original
+bufr4/3/07/092/15/031021,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,031021,Banderín de calidad,,,,Operational,Original
+bufr4/3/07/092/64/014072,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,014072,"Integrada en un período especificado | Irradiación UV-B | De acuerdo con la Tabla B de BUFR, en la Clase 14, nota 8 ( 21348 longitud de onda UV-B 280 ≤ λ ≤ 315 nm)",ISO intervalo de,,,Operational,Original
+bufr4/3/07/092/20/204000,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,204000,Anular,(continúa),,,Operational,Original
+bufr4/3/07/092/141/301090,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301090,,,,,Operational,Original
+bufr4/3/07/092/142/301089,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301089,,,,,Operational,Original
+bufr4/3/07/092/24/008010,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,008010,,,,,Operational,Original
+bufr4/3/07/092/144/301091,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,301091,,,,,Operational,Original
+bufr4/3/07/092/145/302084,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,302084,,,,,Operational,Original
+bufr4/3/07/092/146/302085,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,302085,,,,,Operational,Original
+bufr4/3/07/092/147/033005,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,033005,,,,,Operational,Original
+bufr4/3/07/092/148/033006,07,Secuencias de los informes de las observaciones de superficie (tierra),307092,,,033006,,,,,Operational,Original
 bufr4/3/07/101/1/301089,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,301089,,,,,Operational,Original
 bufr4/3/07/101/2/001019,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,001019,,,,,Operational,Original
 bufr4/3/07/101/3/002001,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,002001,,,,,Operational,Original
@@ -589,10 +1045,10 @@ bufr4/3/07/101/6/301021,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/101/7/007030,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,007030,,,,,Operational,Original
 bufr4/3/07/101/8/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,007032,,,,,Operational,Original
 bufr4/3/07/101/9/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,012101,,,,,Operational,Original
-bufr4/3/07/101/10/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,007032,,,,,Operational,Original
-bufr4/3/07/101/11/002177,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,002177,,,,,Operational,Original
-bufr4/3/07/101/12/020062,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,020062,,,,,Operational,Original
-bufr4/3/07/101/13/013013,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,013013,,,,,Operational,Original
+bufr4/3/07/101/8/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,007032,,,,,Operational,Original
+bufr4/3/07/101/10/002177,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,002177,,,,,Operational,Original
+bufr4/3/07/101/11/020062,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,020062,,,,,Operational,Original
+bufr4/3/07/101/12/013013,07,Secuencias de los informes de las observaciones de superficie (tierra),307101,,,013013,,,,,Operational,Original
 bufr4/3/07/102/1/301089,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,301089,,,,,Operational,Original
 bufr4/3/07/102/2/001018,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,001018,Para identificación del emplazamiento de vigilancia meteorológica de la carretera,,,,Operational,Original
 bufr4/3/07/102/3/001015,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,001015,,,,,Operational,Original
@@ -605,6 +1061,39 @@ bufr4/3/07/102/9/003019,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/102/10/301011,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,301011,,,,,Operational,Original
 bufr4/3/07/102/11/301012,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,301012,,,,,Operational,Original
 bufr4/3/07/102/12/301021,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,301021,I.2 – BUFR Tabla D/07 — 37,(continúa),,,Operational,Original
+bufr4/3/07/102/13/007030,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007030,,,,,Operational,Original
+bufr4/3/07/102/14/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007032,,,,,Operational,Original
+bufr4/3/07/102/15/012101,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,012101,,,,,Operational,Original
+bufr4/3/07/102/16/012103,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,012103,,,,,Operational,Original
+bufr4/3/07/102/17/013003,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,013003,,,,,Operational,Original
+bufr4/3/07/102/14/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007032,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/102/18/020001,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,020001,,,,,Operational,Original
+bufr4/3/07/102/19/109000,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,109000,,,,,Operational,Original
+bufr4/3/07/102/20/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,031001,,,,,Operational,Original
+bufr4/3/07/102/21/003016,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,003016,,,,,Operational,Original
+bufr4/3/07/102/22/012128,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,012128,,,,,Operational,Original
+bufr4/3/07/102/23/102000,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,102000,,,,,Operational,Original
+bufr4/3/07/102/20/031001,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,031001,,,,,Operational,Original
+bufr4/3/07/102/24/007061,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007061,"= 0,30 m en la primera repetición, = p. ej. 0,15 o 0,07 m en la segunda repetición",,,,Operational,Original
+bufr4/3/07/102/25/012129,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,012129,,,,,Operational,Original
+bufr4/3/07/102/24/007061,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007061,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/102/26/013116,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,013116,,,,,Operational,Original
+bufr4/3/07/102/27/020138,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,020138,,,,,Operational,Original
+bufr4/3/07/102/28/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,004025,=–15 minutos,,,,Operational,Original
+bufr4/3/07/102/29/020024,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,020024,"Intensidad de la precipitación (débil, moderada, fuerte)",,,,Operational,Original
+bufr4/3/07/102/30/013055,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,013055,,,,,Operational,Original
+bufr4/3/07/102/31/020021,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,020021,,,,,Operational,Original
+bufr4/3/07/102/32/013011,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,013011,,,,,Operational,Original
+bufr4/3/07/102/14/007032,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,007032,,,,,Operational,Original
+bufr4/3/07/102/33/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,008021,= 2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/07/102/28/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,004025,=–10 minutos,,,,Operational,Original
+bufr4/3/07/102/34/011001,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,011001,,,,,Operational,Original
+bufr4/3/07/102/35/011002,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,011002,,,,,Operational,Original
+bufr4/3/07/102/33/008021,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,008021,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/07/102/28/004025,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,004025,En minutos,,,,Operational,Original
+bufr4/3/07/102/36/011043,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,011043,,,,,Operational,Original
+bufr4/3/07/102/37/011041,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,011041,,(continúa),,,Operational,Original
+bufr4/3/07/102/38/033005,07,Secuencias de los informes de las observaciones de superficie (tierra),307102,,,033005,,,,,Operational,Original
 bufr4/3/07/103/1/301150,07,Secuencias de los informes de las observaciones de superficie (tierra),307103,,,301150,,,,,Operational,Original
 bufr4/3/07/103/2/307101,07,Secuencias de los informes de las observaciones de superficie (tierra),307103,,,307101,,,,,Operational,Original
 bufr4/3/07/103/3/013117,07,Secuencias de los informes de las observaciones de superficie (tierra),307103,,,013117,,,,,Operational,Original
@@ -618,9 +1107,9 @@ bufr4/3/07/182/5/302047,07,Secuencias de los informes de las observaciones de su
 bufr4/3/07/182/6/008002,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,008002,Fijar en faltante (anular),,,,Operational,Original
 bufr4/3/07/182/7/302048,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302048,,,,,Operational,Original
 bufr4/3/07/182/8/302037,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302037,12 horas anteriores,,,,Operational,Original
-bufr4/3/07/182/9/012122,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,012122,s n s n,T’ T’ g g T T g g,,,Operational,Original
-bufr4/3/07/182/10/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302043,,,,,Operational,Original
-bufr4/3/07/182/11/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302044,,,,,Operational,Original
-bufr4/3/07/182/12/101002,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,101002,,,,,Operational,Original
-bufr4/3/07/182/13/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302045,,,,,Operational,Original
-bufr4/3/07/182/14/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302046,"en los datos alfanuméricos,–1 o en m s en los datos alfanuméricos.–1–1 en los datos alfanuméricos,–1 o en m s–1–1 I.2 – BUFR Tabla D/07 — 39",en los datos alfanuméricos. (continúa),,,Operational,Original
+bufr4/3/07/182/10/012122,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,012122,s n s n,T’ T’ g g T T g g,,,Operational,Original
+bufr4/3/07/182/11/302043,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302043,,,,,Operational,Original
+bufr4/3/07/182/12/302044,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302044,,,,,Operational,Original
+bufr4/3/07/182/13/101002,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,101002,,,,,Operational,Original
+bufr4/3/07/182/14/302045,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302045,,,,,Operational,Original
+bufr4/3/07/182/15/302046,07,Secuencias de los informes de las observaciones de superficie (tierra),307182,,,302046,"en los datos alfanuméricos,–1 o en m s en los datos alfanuméricos.–1–1 en los datos alfanuméricos,–1 o en m s–1–1 I.2 – BUFR Tabla D/07 — 39",en los datos alfanuméricos. (continúa),,,Operational,Original

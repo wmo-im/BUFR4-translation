@@ -46,6 +46,8 @@ bufr4/3/09/012/4/303012,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/013/1/301039,09,Secuencias de los sondeos verticales (datos convencionales),309013,,,301039,"Identificación del buque, etc.",,,,Operational,Original
 bufr4/3/09/013/2/302004,09,Secuencias de los sondeos verticales (datos convencionales),309013,,,302004,Cubierta de nubes significativa,,,,Operational,Original
 bufr4/3/09/013/3/101000,09,Secuencias de los sondeos verticales (datos convencionales),309013,,,101000,,(continúa),,,Operational,Original
+bufr4/3/09/013/4/031001,09,Secuencias de los sondeos verticales (datos convencionales),309013,,,031001,,,,,Operational,Original
+bufr4/3/09/013/5/303013,09,Secuencias de los sondeos verticales (datos convencionales),309013,,,303013,,,,,Operational,Original
 bufr4/3/09/014/1/301039,09,Secuencias de los sondeos verticales (datos convencionales),309014,,,301039,"Identificación del buque, etc.",,,,Operational,Original
 bufr4/3/09/014/2/302004,09,Secuencias de los sondeos verticales (datos convencionales),309014,,,302004,Cubierta de nubes significativa,,,,Operational,Original
 bufr4/3/09/014/3/101000,09,Secuencias de los sondeos verticales (datos convencionales),309014,,,101000,,,,,Operational,Original
@@ -100,9 +102,9 @@ bufr4/3/09/021/15/011111,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/021/16/033002,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,033002,,,,,Operational,Original
 bufr4/3/09/021/17/011006,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,011006,,,,,Operational,Original
 bufr4/3/09/021/18/011112,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,011112,,,,,Operational,Original
-bufr4/3/09/021/19/033002,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,033002,,,,,Operational,Original
-bufr4/3/09/021/20/010071,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,010071,,,,,Operational,Original
-bufr4/3/09/021/21/027079,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,027079,,,,,Operational,Original
+bufr4/3/09/021/16/033002,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,033002,,,,,Operational,Original
+bufr4/3/09/021/19/010071,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,010071,,,,,Operational,Original
+bufr4/3/09/021/20/027079,09,Secuencias de los sondeos verticales (datos convencionales),309021,,,027079,,,,,Operational,Original
 bufr4/3/09/022/1/301001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301001,,,,,Operational,Original
 bufr4/3/09/022/2/005001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,005001,,,,,Operational,Original
 bufr4/3/09/022/3/006001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,006001,,,,,Operational,Original
@@ -116,6 +118,104 @@ bufr4/3/09/022/10/007007,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/022/11/301021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301021,,,,,Operational,Original
 bufr4/3/09/022/12/012007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,012007,,,,,Operational,Original
 bufr4/3/09/022/13/012008,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,012008,,(continúa),,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/15/011006,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,011006,,,,,Operational,Original
+bufr4/3/09/022/16/011112,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,011112,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/18/027079,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,027079,,,,,Operational,Original
+bufr4/3/09/022/1/301001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301001,,,,,Operational,Original
+bufr4/3/09/022/2/005001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,005001,,,,,Operational,Original
+bufr4/3/09/022/3/006001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,006001,,,,,Operational,Original
+bufr4/3/09/022/4/007030,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,007030,,,,,Operational,Original
+bufr4/3/09/022/5/301014,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301014,,,,,Operational,Original
+bufr4/3/09/022/6/002003,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002003,,,,,Operational,Original
+bufr4/3/09/022/26/302004,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,302004,,,,,Operational,Original
+bufr4/3/09/022/27/302005,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,302005,,,,,Operational,Original
+bufr4/3/09/022/8/110000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,110000,,,,,Operational,Original
+bufr4/3/09/022/9/031001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,031001,,,,,Operational,Original
+bufr4/3/09/022/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,007007,,,,,Operational,Original
+bufr4/3/09/022/11/301021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301021,,,,,Operational,Original
+bufr4/3/09/022/32/101000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,101000,,,,,Operational,Original
+bufr4/3/09/022/9/031001,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,031001,Número de mediciones de longitud de onda presente en los datos,,,,Operational,Original
+bufr4/3/09/022/7/002121,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002121,,,,,Operational,Original
+bufr4/3/09/022/35/015063,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015063,,,,,Operational,Original
+bufr4/3/09/022/36/015064,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015064,,,,,Operational,Original
+bufr4/3/09/022/37/015065,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015065,,,,,Operational,Original
+bufr4/3/09/022/38/015066,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015066,,,,,Operational,Original
+bufr4/3/09/022/39/015067,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015067,,,,,Operational,Original
+bufr4/3/09/022/40/015068,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015068,,,,,Operational,Original
+bufr4/3/09/022/41/015069,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015069,,,,,Operational,Original
+bufr4/3/09/022/42/015070,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015070,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/44/015072,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015072,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/18/027079,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,027079,,,,,Operational,Original
+bufr4/3/09/022/48/301132,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301132,,,,,Operational,Original
+bufr4/3/09/022/49/201151,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201151,,,,,Operational,Original
+bufr4/3/09/022/50/202130,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202130,,,,,Operational,Original
+bufr4/3/09/022/7/002121,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002121,I.2 – Tabla BUFR D/09 — 5,(continúa),,,Operational,Original
+bufr4/3/09/022/52/202000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202000,,,,,Operational,Original
+bufr4/3/09/022/53/201000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201000,,,,,Operational,Original
+bufr4/3/09/022/54/008021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,008021,=2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/09/022/55/004025,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,004025,,,,,Operational,Original
+bufr4/3/09/022/56/109000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,109000,,,,,Operational,Original
+bufr4/3/09/022/57/031002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,031002,,,,,Operational,Original
+bufr4/3/09/022/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,007007,,,,,Operational,Original
+bufr4/3/09/022/11/301021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301021,,,,,Operational,Original
+bufr4/3/09/022/6/002003,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002003,,,,,Operational,Original
+bufr4/3/09/022/61/011004,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,011004,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/15/011006,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,011006,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/18/027079,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,027079,,,,,Operational,Original
+bufr4/3/09/022/67/301132,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301132,,,,,Operational,Original
+bufr4/3/09/022/68/201151,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201151,,,,,Operational,Original
+bufr4/3/09/022/69/202130,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202130,,,,,Operational,Original
+bufr4/3/09/022/7/002121,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002121,,,,,Operational,Original
+bufr4/3/09/022/71/202000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202000,,,,,Operational,Original
+bufr4/3/09/022/72/201000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201000,,,,,Operational,Original
+bufr4/3/09/022/73/008021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,008021,=2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/09/022/74/004025,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,004025,,,,,Operational,Original
+bufr4/3/09/022/75/106000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,106000,,,,,Operational,Original
+bufr4/3/09/022/76/031002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,031002,,,,,Operational,Original
+bufr4/3/09/022/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,007007,,,,,Operational,Original
+bufr4/3/09/022/11/301021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301021,,,,,Operational,Original
+bufr4/3/09/022/12/012007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,012007,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/18/027079,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,027079,,,,,Operational,Original
+bufr4/3/09/022/83/301132,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301132,,,,,Operational,Original
+bufr4/3/09/022/84/302004,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,302004,,,,,Operational,Original
+bufr4/3/09/022/85/302005,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,302005,,,,,Operational,Original
+bufr4/3/09/022/86/008092,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,008092,,,,,Operational,Original
+bufr4/3/09/022/87/008093,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,008093,,,,,Operational,Original
+bufr4/3/09/022/88/008021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,008021,,,,,Operational,Original
+bufr4/3/09/022/89/004025,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,004025,,,,,Operational,Original
+bufr4/3/09/022/90/201138,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201138,,(continúa),,,Operational,Original
+bufr4/3/09/022/91/202126,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202126,,,,,Operational,Original
+bufr4/3/09/022/7/002121,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,002121,,,,,Operational,Original
+bufr4/3/09/022/93/202000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,202000,,,,,Operational,Original
+bufr4/3/09/022/94/201000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,201000,,,,,Operational,Original
+bufr4/3/09/022/95/115000,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,115000,,,,,Operational,Original
+bufr4/3/09/022/96/031002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,031002,,,,,Operational,Original
+bufr4/3/09/022/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,007007,,,,,Operational,Original
+bufr4/3/09/022/11/301021,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,301021,= 2 promediado en el tiempo,,,,Operational,Original
+bufr4/3/09/022/99/015073,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015073,,,,,Operational,Original
+bufr4/3/09/022/100/015064,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015064,,,,,Operational,Original
+bufr4/3/09/022/101/015074,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015074,,,,,Operational,Original
+bufr4/3/09/022/102/015066,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015066,,,,,Operational,Original
+bufr4/3/09/022/103/015075,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015075,,,,,Operational,Original
+bufr4/3/09/022/104/015068,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015068,,,,,Operational,Original
+bufr4/3/09/022/105/015076,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015076,,,,,Operational,Original
+bufr4/3/09/022/106/015077,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015077,,,,,Operational,Original
+bufr4/3/09/022/107/015078,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015078,,,,,Operational,Original
+bufr4/3/09/022/108/015072,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,015072,,,,,Operational,Original
+bufr4/3/09/022/14/033002,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,033002,,,,,Operational,Original
+bufr4/3/09/022/17/010071,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,010071,,,,,Operational,Original
+bufr4/3/09/022/18/027079,09,Secuencias de los sondeos verticales (datos convencionales),309022,,,027079,,,,,Operational,Original
 bufr4/3/09/030/1/015004,09,Secuencias de los sondeos verticales (datos convencionales),309030,,,015004,,,,,Operational,Original
 bufr4/3/09/030/2/015005,09,Secuencias de los sondeos verticales (datos convencionales),309030,,,015005,,,,,Operational,Original
 bufr4/3/09/030/3/104000,09,Secuencias de los sondeos verticales (datos convencionales),309030,,,104000,,,,,Operational,Original
@@ -133,6 +233,8 @@ bufr4/3/09/031/6/008006,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/031/7/007004,09,Secuencias de los sondeos verticales (datos convencionales),309031,,,007004,,,,,Operational,Original
 bufr4/3/09/031/8/015003,09,Secuencias de los sondeos verticales (datos convencionales),309031,,,015003,,,,,Operational,Original
 bufr4/3/09/040/1/301075,09,Secuencias de los sondeos verticales (datos convencionales),309040,,,301075,I.2 – Tabla BUFR D/09 — 7,(continúa),,,Operational,Original
+bufr4/3/09/040/2/301076,09,Secuencias de los sondeos verticales (datos convencionales),309040,,,301076,,,,,Operational,Original
+bufr4/3/09/040/3/309030,09,Secuencias de los sondeos verticales (datos convencionales),309040,,,309030,,,,,Operational,Original
 bufr4/3/09/041/1/307041,09,Secuencias de los sondeos verticales (datos convencionales),309041,,,307041,Descripción de la parte situada en tierra,,,,Operational,Original
 bufr4/3/09/041/2/301075,09,Secuencias de los sondeos verticales (datos convencionales),309041,,,301075,Identificación de la parte de sondeo del ozono,,,,Operational,Original
 bufr4/3/09/041/3/301076,09,Secuencias de los sondeos verticales (datos convencionales),309041,,,301076,,,,,Operational,Original
@@ -150,6 +252,8 @@ bufr4/3/09/044/2/301075,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/044/3/301076,09,Secuencias de los sondeos verticales (datos convencionales),309044,,,301076,,,,,Operational,Original
 bufr4/3/09/044/4/309030,09,Secuencias de los sondeos verticales (datos convencionales),309044,,,309030,,,,,Operational,Original
 bufr4/3/09/045/1/301075,09,Secuencias de los sondeos verticales (datos convencionales),309045,,,301075,,(continúa),,,Operational,Original
+bufr4/3/09/045/2/301076,09,Secuencias de los sondeos verticales (datos convencionales),309045,,,301076,,,,,Operational,Original
+bufr4/3/09/045/3/309031,09,Secuencias de los sondeos verticales (datos convencionales),309045,,,309031,,,,,Operational,Original
 bufr4/3/09/046/1/307041,09,Secuencias de los sondeos verticales (datos convencionales),309046,,,307041,Descripción de la parte situada en tierra,,,,Operational,Original
 bufr4/3/09/046/2/301075,09,Secuencias de los sondeos verticales (datos convencionales),309046,,,301075,Identificación de la parte de sondeo del ozono,,,,Operational,Original
 bufr4/3/09/046/3/301076,09,Secuencias de los sondeos verticales (datos convencionales),309046,,,301076,,,,,Operational,Original
@@ -172,18 +276,18 @@ bufr4/3/09/050/3/301114,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/050/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,101000,,,,,Operational,Original
 bufr4/3/09/050/5/031002,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,031002,,,,,Operational,Original
 bufr4/3/09/050/6/303050,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,303050,,,,,Operational,Original
-bufr4/3/09/050/7/101000,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,101000,,,,,Operational,Original
-bufr4/3/09/050/8/031001,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,031001,,,,,Operational,Original
-bufr4/3/09/050/9/303051,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,303051,,,,,Operational,Original
+bufr4/3/09/050/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,101000,,,,,Operational,Original
+bufr4/3/09/050/7/031001,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,031001,,,,,Operational,Original
+bufr4/3/09/050/8/303051,09,Secuencias de los sondeos verticales (datos convencionales),309050,,,303051,,,,,Operational,Original
 bufr4/3/09/051/1/301110,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,301110,,,,,Operational,Original
 bufr4/3/09/051/2/301113,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,301113,,,,,Operational,Original
 bufr4/3/09/051/3/301114,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,301114,,,,,Operational,Original
 bufr4/3/09/051/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,101000,,,,,Operational,Original
 bufr4/3/09/051/5/031002,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,031002,,,,,Operational,Original
 bufr4/3/09/051/6/303052,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,303052,,,,,Operational,Original
-bufr4/3/09/051/7/101000,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,101000,,,,,Operational,Original
-bufr4/3/09/051/8/031001,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,031001,,,,,Operational,Original
-bufr4/3/09/051/9/303053,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,303053,,,,,Operational,Original
+bufr4/3/09/051/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,101000,,,,,Operational,Original
+bufr4/3/09/051/7/031001,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,031001,,,,,Operational,Original
+bufr4/3/09/051/8/303053,09,Secuencias de los sondeos verticales (datos convencionales),309051,,,303053,,,,,Operational,Original
 bufr4/3/09/052/1/301111,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,301111,,,,,Operational,Original
 bufr4/3/09/052/2/301113,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,301113,,,,,Operational,Original
 bufr4/3/09/052/3/301114,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,301114,,,,,Operational,Original
@@ -192,17 +296,18 @@ bufr4/3/09/052/5/022043,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/052/6/101000,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,101000,,,,,Operational,Original
 bufr4/3/09/052/7/031002,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,031002,,,,,Operational,Original
 bufr4/3/09/052/8/303054,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,303054,,,,,Operational,Original
-bufr4/3/09/052/9/101000,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,101000,,,,,Operational,Original
-bufr4/3/09/052/10/031001,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,031001,,(continúa),,,Operational,Original
+bufr4/3/09/052/6/101000,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,101000,,,,,Operational,Original
+bufr4/3/09/052/9/031001,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,031001,,(continúa),,,Operational,Original
+bufr4/3/09/052/10/303051,09,Secuencias de los sondeos verticales (datos convencionales),309052,,,303051,,,,,Operational,Original
 bufr4/3/09/053/1/301112,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,301112,,,,,Operational,Original
 bufr4/3/09/053/2/301113,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,301113,,,,,Operational,Original
 bufr4/3/09/053/3/301114,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,301114,,,,,Operational,Original
 bufr4/3/09/053/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,101000,,,,,Operational,Original
 bufr4/3/09/053/5/031002,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,031002,,,,,Operational,Original
 bufr4/3/09/053/6/303054,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,303054,,,,,Operational,Original
-bufr4/3/09/053/7/101000,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,101000,,,,,Operational,Original
-bufr4/3/09/053/8/031001,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,031001,,,,,Operational,Original
-bufr4/3/09/053/9/303051,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,303051,,,,,Operational,Original
+bufr4/3/09/053/4/101000,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,101000,,,,,Operational,Original
+bufr4/3/09/053/7/031001,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,031001,,,,,Operational,Original
+bufr4/3/09/053/8/303051,09,Secuencias de los sondeos verticales (datos convencionales),309053,,,303051,,,,,Operational,Original
 bufr4/3/09/054/1/301001,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,301001,Identificación del lugar del lanzamiento,,,,Operational,Original
 bufr4/3/09/054/2/001011,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,001011,Señal de llamada del buque,,,,Operational,Original
 bufr4/3/09/054/3/301011,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,301011,,,,,Operational,Original
@@ -221,12 +326,15 @@ bufr4/3/09/054/15/007004,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/054/16/010009,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,010009,,,,,Operational,Original
 bufr4/3/09/054/17/012101,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,012101,,,,,Operational,Original
 bufr4/3/09/054/18/012103,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,012103,,,,,Operational,Original
-bufr4/3/09/054/19/008023,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008023,= 32 media del vector,,,,Operational,Original
-bufr4/3/09/054/20/011001,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011001,,,,,Operational,Original
-bufr4/3/09/054/21/011002,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011002,,,,,Operational,Original
-bufr4/3/09/054/22/008023,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008023,Fijar en faltante,,,,Operational,Original
-bufr4/3/09/054/23/011019,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011019,,,,,Operational,Original
-bufr4/3/09/054/24/008050,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008050,= 2 temperatura I.2 – Tabla BUFR D/09 — 11,(continúa),,,Operational,Original
+bufr4/3/09/054/14/008023,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008023,= 32 media del vector,,,,Operational,Original
+bufr4/3/09/054/19/011001,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011001,,,,,Operational,Original
+bufr4/3/09/054/20/011002,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011002,,,,,Operational,Original
+bufr4/3/09/054/14/008023,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008023,Fijar en faltante,,,,Operational,Original
+bufr4/3/09/054/21/011019,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,011019,,,,,Operational,Original
+bufr4/3/09/054/22/008050,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008050,= 2 temperatura I.2 – Tabla BUFR D/09 — 11,(continúa),,,Operational,Original
+bufr4/3/09/054/23/008020,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008020,Días,,,,Operational,Original
+bufr4/3/09/054/22/008050,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008050,= 9 viento,,,,Operational,Original
+bufr4/3/09/054/23/008020,09,Secuencias de los sondeos verticales (datos convencionales),309054,,,008020,Días,,,,Operational,Original
 bufr4/3/09/055/1/301111,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,301111,,,,,Operational,Original
 bufr4/3/09/055/2/025061,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,025061,,,,,Operational,Original
 bufr4/3/09/055/3/001081,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,001081,,,,,Operational,Original
@@ -247,17 +355,27 @@ bufr4/3/09/055/17/007032,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/055/18/002002,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,002002,,,,,Operational,Original
 bufr4/3/09/055/19/011001,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,011001,,,,,Operational,Original
 bufr4/3/09/055/20/011002,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,011002,,,,,Operational,Original
-bufr4/3/09/055/21/007032,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,007032,Fijar en faltante,,,,Operational,Original
-bufr4/3/09/055/22/020003,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,020003,,,,,Operational,Original
-bufr4/3/09/055/23/302049,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,302049,,,,,Operational,Original
-bufr4/3/09/055/24/022043,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,022043,,,,,Operational,Original
-bufr4/3/09/055/25/101000,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,101000,,,,,Operational,Original
-bufr4/3/09/055/26/031002,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,031002,,,,,Operational,Original
-bufr4/3/09/055/27/303055,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,303055,,,,,Operational,Original
+bufr4/3/09/055/17/007032,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,007032,Fijar en faltante,,,,Operational,Original
+bufr4/3/09/055/21/020003,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,020003,,,,,Operational,Original
+bufr4/3/09/055/22/302049,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,302049,,,,,Operational,Original
+bufr4/3/09/055/23/022043,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,022043,,,,,Operational,Original
+bufr4/3/09/055/24/101000,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,101000,,,,,Operational,Original
+bufr4/3/09/055/25/031002,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,031002,,,,,Operational,Original
+bufr4/3/09/055/26/303055,09,Secuencias de los sondeos verticales (datos convencionales),309055,,,303055,,,,,Operational,Original
 bufr4/3/09/056/1/301150,09,Secuencias de los sondeos verticales (datos convencionales),309056,(anular),,301150,,,,,Operational,Original
 bufr4/3/09/056/2/301111,09,Secuencias de los sondeos verticales (datos convencionales),309056,(anular),,301111,,,,,Operational,Original
 bufr4/3/09/056/3/301128,09,Secuencias de los sondeos verticales (datos convencionales),309056,(anular),,301128,Válido también para el descenso,,,,Operational,Original
 bufr4/3/09/056/4/301113,09,Secuencias de los sondeos verticales (datos convencionales),309056,(anular),,301113,(Véase la nota 10.),(continúa),,,Operational,Original
+bufr4/3/09/056/5/008091,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,008091,= 2 comienzo de la observación,,,,Operational,Original
+bufr4/3/09/056/6/301021,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,301021,,,,,Operational,Original
+bufr4/3/09/056/7/007007,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,007007,Inicio del descenso de la radiosonda sobre el nivel medio del mar,,,,Operational,Original
+bufr4/3/09/056/5/008091,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,008091,Fijar en faltante,,,,Operational,Original
+bufr4/3/09/056/8/101000,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,101000,,,,,Operational,Original
+bufr4/3/09/056/9/031002,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,031002,,,,,Operational,Original
+bufr4/3/09/056/10/303056,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,303056,(Véanse las notas 11 y 12.),,,,Operational,Original
+bufr4/3/09/056/8/101000,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,101000,,,,,Operational,Original
+bufr4/3/09/056/11/031001,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,031001,,,,,Operational,Original
+bufr4/3/09/056/12/303051,09,Secuencias de los sondeos verticales (datos convencionales),309056,,,303051,,,,,Operational,Original
 bufr4/3/09/057/1/301150,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,301150,,,,,Operational,Original
 bufr4/3/09/057/2/301111,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,301111,,,,,Operational,Original
 bufr4/3/09/057/3/301128,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,301128,,,,,Operational,Original
@@ -268,9 +386,9 @@ bufr4/3/09/057/7/022043,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/057/8/101000,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,101000,,,,,Operational,Original
 bufr4/3/09/057/9/031002,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,031002,,,,,Operational,Original
 bufr4/3/09/057/10/303056,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,303056,,,,,Operational,Original
-bufr4/3/09/057/11/101000,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,101000,,,,,Operational,Original
-bufr4/3/09/057/12/031001,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,031001,,,,,Operational,Original
-bufr4/3/09/057/13/303051,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,303051,,,,,Operational,Original
+bufr4/3/09/057/8/101000,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,101000,,,,,Operational,Original
+bufr4/3/09/057/11/031001,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,031001,,,,,Operational,Original
+bufr4/3/09/057/12/303051,09,Secuencias de los sondeos verticales (datos convencionales),309057,(anular),,303051,,,,,Operational,Original
 bufr4/3/09/060/1/301123,09,Secuencias de los sondeos verticales (datos convencionales),309060,,,301123,,,,,Operational,Original
 bufr4/3/09/060/2/301121,09,Secuencias de los sondeos verticales (datos convencionales),309060,,,301121,,,,,Operational,Original
 bufr4/3/09/060/3/302050,09,Secuencias de los sondeos verticales (datos convencionales),309060,,,302050,,,,,Operational,Original
@@ -288,14 +406,14 @@ bufr4/3/09/061/10/033007,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/061/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033035,Presión,,,,Operational,Original
 bufr4/3/09/061/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033015,Presión,,,,Operational,Original
 bufr4/3/09/061/13/013009,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,013009,,,,,Operational,Original
-bufr4/3/09/061/14/033007,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033007,Humedad relativa,,,,Operational,Original
-bufr4/3/09/061/15/033035,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033035,Humedad relativa,,,,Operational,Original
-bufr4/3/09/061/16/033015,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033015,Humedad relativa,,,,Operational,Original
-bufr4/3/09/061/17/002013,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,002013,,,,,Operational,Original
-bufr4/3/09/061/18/012101,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,012101,,,,,Operational,Original
-bufr4/3/09/061/19/033007,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033007,Temperatura,,,,Operational,Original
-bufr4/3/09/061/20/033035,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033035,Temperatura,,,,Operational,Original
-bufr4/3/09/061/21/033015,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033015,Temperatura,,,,Operational,Original
+bufr4/3/09/061/10/033007,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033007,Humedad relativa,,,,Operational,Original
+bufr4/3/09/061/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033035,Humedad relativa,,,,Operational,Original
+bufr4/3/09/061/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033015,Humedad relativa,,,,Operational,Original
+bufr4/3/09/061/14/002013,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,002013,,,,,Operational,Original
+bufr4/3/09/061/15/012101,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,012101,,,,,Operational,Original
+bufr4/3/09/061/10/033007,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033007,Temperatura,,,,Operational,Original
+bufr4/3/09/061/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033035,Temperatura,,,,Operational,Original
+bufr4/3/09/061/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309061,,,033015,Temperatura,,,,Operational,Original
 bufr4/3/09/062/1/301120,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,301120,,,,,Operational,Original
 bufr4/3/09/062/2/008041,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,008041,= 6 observación de nivel de vuelo,,,,Operational,Original
 bufr4/3/09/062/3/301122,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,301122,,,,,Operational,Original
@@ -303,17 +421,18 @@ bufr4/3/09/062/4/005001,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/062/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Latitud,,,,Operational,Original
 bufr4/3/09/062/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Latitud,,,,Operational,Original
 bufr4/3/09/062/7/006001,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,006001,,,,,Operational,Original
-bufr4/3/09/062/8/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Longitud,,,,Operational,Original
-bufr4/3/09/062/9/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Longitud,,,,Operational,Original
-bufr4/3/09/062/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,007007,,,,,Operational,Original
-bufr4/3/09/062/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Altura,,,,Operational,Original
-bufr4/3/09/062/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Altura,,,,Operational,Original
-bufr4/3/09/062/13/011003,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,011003,,,,,Operational,Original
-bufr4/3/09/062/14/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Componente u,,,,Operational,Original
-bufr4/3/09/062/15/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Componente u,,,,Operational,Original
-bufr4/3/09/062/16/011004,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,011004,,,,,Operational,Original
-bufr4/3/09/062/17/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Componente v,,,,Operational,Original
-bufr4/3/09/062/18/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Componente v,(continúa),,,Operational,Original
+bufr4/3/09/062/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Longitud,,,,Operational,Original
+bufr4/3/09/062/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Longitud,,,,Operational,Original
+bufr4/3/09/062/8/007007,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,007007,,,,,Operational,Original
+bufr4/3/09/062/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Altura,,,,Operational,Original
+bufr4/3/09/062/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Altura,,,,Operational,Original
+bufr4/3/09/062/9/011003,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,011003,,,,,Operational,Original
+bufr4/3/09/062/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Componente u,,,,Operational,Original
+bufr4/3/09/062/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Componente u,,,,Operational,Original
+bufr4/3/09/062/10/011004,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,011004,,,,,Operational,Original
+bufr4/3/09/062/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033035,Componente v,,,,Operational,Original
+bufr4/3/09/062/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033015,Componente v,(continúa),,,Operational,Original
+bufr4/3/09/062/11/033007,09,Secuencias de los sondeos verticales (datos convencionales),309062,,,033007,Datos en bruto de viento sin suavizar obtenidos mediante GPS,,,,Operational,Original
 bufr4/3/09/063/1/301120,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,301120,,,,,Operational,Original
 bufr4/3/09/063/2/008041,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,008041,= 6 observación de nivel de vuelo,,,,Operational,Original
 bufr4/3/09/063/3/301122,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,301122,,,,,Operational,Original
@@ -321,18 +440,18 @@ bufr4/3/09/063/4/005001,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/063/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Latitud,,,,Operational,Original
 bufr4/3/09/063/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Latitud,,,,Operational,Original
 bufr4/3/09/063/7/006001,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,006001,,,,,Operational,Original
-bufr4/3/09/063/8/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Longitud,,,,Operational,Original
-bufr4/3/09/063/9/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Longitud,,,,Operational,Original
-bufr4/3/09/063/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,007007,,,,,Operational,Original
-bufr4/3/09/063/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Altura,,,,Operational,Original
-bufr4/3/09/063/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Altura,,,,Operational,Original
-bufr4/3/09/063/13/011003,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,011003,,,,,Operational,Original
-bufr4/3/09/063/14/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Componente u,,,,Operational,Original
-bufr4/3/09/063/15/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Componente u,,,,Operational,Original
-bufr4/3/09/063/16/011004,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,011004,,,,,Operational,Original
-bufr4/3/09/063/17/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Componente v,,,,Operational,Original
-bufr4/3/09/063/18/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Componente v,,,,Operational,Original
-bufr4/3/09/063/19/033007,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033007,Datos en bruto del viento suavizado obtenidos mediante GPS,,,,Operational,Original
+bufr4/3/09/063/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Longitud,,,,Operational,Original
+bufr4/3/09/063/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Longitud,,,,Operational,Original
+bufr4/3/09/063/8/007007,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,007007,,,,,Operational,Original
+bufr4/3/09/063/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Altura,,,,Operational,Original
+bufr4/3/09/063/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Altura,,,,Operational,Original
+bufr4/3/09/063/9/011003,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,011003,,,,,Operational,Original
+bufr4/3/09/063/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Componente u,,,,Operational,Original
+bufr4/3/09/063/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Componente u,,,,Operational,Original
+bufr4/3/09/063/10/011004,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,011004,,,,,Operational,Original
+bufr4/3/09/063/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033035,Componente v,,,,Operational,Original
+bufr4/3/09/063/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033015,Componente v,,,,Operational,Original
+bufr4/3/09/063/11/033007,09,Secuencias de los sondeos verticales (datos convencionales),309063,,,033007,Datos en bruto del viento suavizado obtenidos mediante GPS,,,,Operational,Original
 bufr4/3/09/064/1/301120,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,301120,,,,,Operational,Original
 bufr4/3/09/064/2/008041,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,008041,= 6 observación de nivel de vuelo,,,,Operational,Original
 bufr4/3/09/064/3/301122,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,301122,,,,,Operational,Original
@@ -344,11 +463,21 @@ bufr4/3/09/064/8/007004,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/064/9/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Presión,,,,Operational,Original
 bufr4/3/09/064/10/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Presión,,,,Operational,Original
 bufr4/3/09/064/11/013003,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,013003,,,,,Operational,Original
-bufr4/3/09/064/12/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Humedad relativa,,,,Operational,Original
-bufr4/3/09/064/13/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Humedad relativa,,,,Operational,Original
-bufr4/3/09/064/14/202000,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,202000,Anular,,,,Operational,Original
-bufr4/3/09/064/15/201000,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,201000,Anular,,,,Operational,Original
-bufr4/3/09/064/16/104002,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,104002,I.2 – Tabla BUFR D/09 — 15,(continúa),,,Operational,Original
+bufr4/3/09/064/9/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Humedad relativa,,,,Operational,Original
+bufr4/3/09/064/10/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Humedad relativa,,,,Operational,Original
+bufr4/3/09/064/12/202000,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,202000,Anular,,,,Operational,Original
+bufr4/3/09/064/13/201000,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,201000,Anular,,,,Operational,Original
+bufr4/3/09/064/6/104002,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,104002,I.2 – Tabla BUFR D/09 — 15,(continúa),,,Operational,Original
+bufr4/3/09/064/14/002013,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,002013,,,,,Operational,Original
+bufr4/3/09/064/15/012101,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,012101,,,,,Operational,Original
+bufr4/3/09/064/9/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Temperatura,,,,Operational,Original
+bufr4/3/09/064/10/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Temperatura,,,,Operational,Original
+bufr4/3/09/064/16/012103,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,012103,,,,,Operational,Original
+bufr4/3/09/064/9/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Temperatura del punto de rocío,,,,Operational,Original
+bufr4/3/09/064/10/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Temperatura del punto de rocío,,,,Operational,Original
+bufr4/3/09/064/17/010009,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,010009,,,,,Operational,Original
+bufr4/3/09/064/9/033035,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033035,Altura geopotencial,,,,Operational,Original
+bufr4/3/09/064/10/033015,09,Secuencias de los sondeos verticales (datos convencionales),309064,,,033015,Altura geopotencial,,,,Operational,Original
 bufr4/3/09/065/1/301120,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,301120,,,,,Operational,Original
 bufr4/3/09/065/2/008041,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,008041,= 6 observación de nivel de vuelo,,,,Operational,Original
 bufr4/3/09/065/3/301122,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,301122,,,,,Operational,Original
@@ -356,17 +485,17 @@ bufr4/3/09/065/4/005001,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/065/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Latitud,,,,Operational,Original
 bufr4/3/09/065/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Latitud,,,,Operational,Original
 bufr4/3/09/065/7/006001,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,006001,,,,,Operational,Original
-bufr4/3/09/065/8/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Longitud,,,,Operational,Original
-bufr4/3/09/065/9/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Longitud,,,,Operational,Original
-bufr4/3/09/065/10/007007,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,007007,,,,,Operational,Original
-bufr4/3/09/065/11/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Altura,,,,Operational,Original
-bufr4/3/09/065/12/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Altura,,,,Operational,Original
-bufr4/3/09/065/13/011003,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,011003,,,,,Operational,Original
-bufr4/3/09/065/14/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Componente u,,,,Operational,Original
-bufr4/3/09/065/15/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Componente u,,,,Operational,Original
-bufr4/3/09/065/16/011004,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,011004,,,,,Operational,Original
-bufr4/3/09/065/17/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Componente v,,,,Operational,Original
-bufr4/3/09/065/18/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Componente v,,,,Operational,Original
+bufr4/3/09/065/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Longitud,,,,Operational,Original
+bufr4/3/09/065/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Longitud,,,,Operational,Original
+bufr4/3/09/065/8/007007,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,007007,,,,,Operational,Original
+bufr4/3/09/065/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Altura,,,,Operational,Original
+bufr4/3/09/065/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Altura,,,,Operational,Original
+bufr4/3/09/065/9/011003,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,011003,,,,,Operational,Original
+bufr4/3/09/065/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Componente u,,,,Operational,Original
+bufr4/3/09/065/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Componente u,,,,Operational,Original
+bufr4/3/09/065/10/011004,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,011004,,,,,Operational,Original
+bufr4/3/09/065/5/033035,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033035,Componente v,,,,Operational,Original
+bufr4/3/09/065/6/033015,09,Secuencias de los sondeos verticales (datos convencionales),309065,,,033015,Componente v,,,,Operational,Original
 bufr4/3/09/066/1/301120,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,301120,,,,,Operational,Original
 bufr4/3/09/066/2/008041,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,008041,= 6 observación de nivel de vuelo,,,,Operational,Original
 bufr4/3/09/066/3/301122,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,301122,,,,,Operational,Original
@@ -378,6 +507,13 @@ bufr4/3/09/066/8/007004,09,Secuencias de los sondeos verticales (datos convencio
 bufr4/3/09/066/9/013003,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,013003,,,,,Operational,Original
 bufr4/3/09/066/10/202000,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,202000,Anular,,,,Operational,Original
 bufr4/3/09/066/11/201000,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,201000,Anular,(continúa),,,Operational,Original
+bufr4/3/09/066/12/002013,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,002013,,,,,Operational,Original
+bufr4/3/09/066/13/012101,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,012101,,,,,Operational,Original
+bufr4/3/09/066/14/012103,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,012103,,,,,Operational,Original
+bufr4/3/09/066/15/010009,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,010009,,,,,Operational,Original
+bufr4/3/09/066/16/010007,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,010007,,,,,Operational,Original
+bufr4/3/09/066/17/011002,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,011002,,,,,Operational,Original
+bufr4/3/09/066/18/011001,09,Secuencias de los sondeos verticales (datos convencionales),309066,,,011001,,,,,Operational,Original
 bufr4/3/09/070/1/001035,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,001035,,,,,Operational,Original
 bufr4/3/09/070/2/001032,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,001032,,,,,Operational,Original
 bufr4/3/09/070/3/001015,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,001015,,,,,Operational,Original
@@ -394,6 +530,41 @@ bufr4/3/09/070/13/007030,09,Secuencias de los sondeos verticales (datos convenci
 bufr4/3/09/070/14/025031,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,025031,,,,,Operational,Original
 bufr4/3/09/070/15/008021,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,008021,"= 4 predicción, = 16 análisis, = 27 de primera aproximación",,,,Operational,Original
 bufr4/3/09/070/16/004014,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,004014,/Véase la columna de la izquierda. I.2 – Tabla BUFR D/09 — 17,(continúa),,,Operational,Original
+bufr4/3/09/070/17/010004,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,010004,,,,,Operational,Original
+bufr4/3/09/070/18/010051,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,010051,,,,,Operational,Original
+bufr4/3/09/070/19/010009,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,010009,,,,,Operational,Original
+bufr4/3/09/070/20/020010,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,020010,,,,,Operational,Original
+bufr4/3/09/070/21/013095,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,013095,,,,,Operational,Original
+bufr4/3/09/070/22/128000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,128000,,,,,Operational,Original
+bufr4/3/09/070/23/031002,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,031002,/Véase la columna de la izquierda.,,,,Operational,Original
+bufr4/3/09/070/24/113000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,113000,,,,,Operational,Original
+bufr4/3/09/070/25/031000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,031000,"= 1 la coordenada vertical es la presión, = 0 en los demás casos",,,,Operational,Original
+bufr4/3/09/070/12/008086,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,008086,Bit 1 fijado a 0 y otros bits según corresponda,,,,Operational,Original
+bufr4/3/09/070/26/007004,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,007004,,,,,Operational,Original
+bufr4/3/09/070/27/011001,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011001,Grados verdaderos,,,,Operational,Original
+bufr4/3/09/070/28/011002,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011002,m/s,,,,Operational,Original
+bufr4/3/09/070/29/012101,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012101,,,,,Operational,Original
+bufr4/3/09/070/30/012102,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012102,,,,,Operational,Original
+bufr4/3/09/070/31/012103,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012103,,,,,Operational,Original
+bufr4/3/09/070/19/010009,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,010009,,,,,Operational,Original
+bufr4/3/09/070/32/103000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,103000,,,,,Operational,Original
+bufr4/3/09/070/25/031000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,031000,= 1 incluir opcionalmente datos mejorados del modelo,,,,Operational,Original
+bufr4/3/09/070/33/011021,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011021,,,,,Operational,Original
+bufr4/3/09/070/34/011022,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011022,,,,,Operational,Original
+bufr4/3/09/070/35/011005,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011005,Movimiento vertical,,,,Operational,Original
+bufr4/3/09/070/36/104000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,104000,,,,,Operational,Original
+bufr4/3/09/070/25/031000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,031000,"= 1 coordenada vertical es 10 m sobre el nivel del terreno, = 0 en los demás casos",,,,Operational,Original
+bufr4/3/09/070/12/008086,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,008086,"Bit 1 fijado a 1, bit 8 fijado a 1",,,,Operational,Original
+bufr4/3/09/070/37/007006,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,007006,= 10 m,,,,Operational,Original
+bufr4/3/09/070/27/011001,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011001,Grados verdaderos,,,,Operational,Original
+bufr4/3/09/070/28/011002,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,011002,m/s,,,,Operational,Original
+bufr4/3/09/070/38/105000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,105000,,,,,Operational,Original
+bufr4/3/09/070/25/031000,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,031000,"= 1 coordenada vertical es 2 m sobre el nivel del terreno, = 0 en los demás casos",(continúa),,,Operational,Original
+bufr4/3/09/070/12/008086,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,008086,,,,,Operational,Original
+bufr4/3/09/070/37/007006,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,007006,= 2 m,,,,Operational,Original
+bufr4/3/09/070/29/012101,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012101,,,,,Operational,Original
+bufr4/3/09/070/30/012102,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012102,,,,,Operational,Original
+bufr4/3/09/070/31/012103,09,Secuencias de los sondeos verticales (datos convencionales),309070,,,012103,,,,,Operational,Original
 bufr4/3/09/071/1/301001,09,Secuencias de los sondeos verticales (datos convencionales),309071,,,301001,,,,,Operational,Original
 bufr4/3/09/071/2/002014,09,Secuencias de los sondeos verticales (datos convencionales),309071,,,002014,,,,,Operational,Original
 bufr4/3/09/071/3/002003,09,Secuencias de los sondeos verticales (datos convencionales),309071,,,002003,,,,,Operational,Original

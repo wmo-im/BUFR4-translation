@@ -34,6 +34,10 @@ bufr4/3/21/007/1/025009,21,Secuencias de los informes de las observaciones de ra
 bufr4/3/21/007/2/025010,21,Secuencias de los informes de las observaciones de radar,321007,,,025010,,,,,Operational,Original
 bufr4/3/21/007/3/025011,21,Secuencias de los informes de las observaciones de radar,321007,,,025011,,,,,Operational,Original
 bufr4/3/21/007/4/025012,21,Secuencias de los informes de las observaciones de radar,321007,,,025012,I.2 – BUFR Tabla D/21 — 1,(continúa),,,Operational,Original
+bufr4/3/21/007/5/025013,21,Secuencias de los informes de las observaciones de radar,321007,,,025013,,,,,Operational,Original
+bufr4/3/21/007/6/025015,21,Secuencias de los informes de las observaciones de radar,321007,,,025015,,,,,Operational,Original
+bufr4/3/21/007/7/025016,21,Secuencias de los informes de las observaciones de radar,321007,,,025016,,,,,Operational,Original
+bufr4/3/21/007/8/025017,21,Secuencias de los informes de las observaciones de radar,321007,,,025017,,,,,Operational,Original
 bufr4/3/21/008/1/025006,21,Secuencias de los informes de las observaciones de radar,321008,,,025006,,,,,Operational,Original
 bufr4/3/21/008/2/025007,21,Secuencias de los informes de las observaciones de radar,321008,,,025007,,,,,Operational,Original
 bufr4/3/21/008/3/025008,21,Secuencias de los informes de las observaciones de radar,321008,,,025008,,,,,Operational,Original
@@ -65,17 +69,25 @@ bufr4/3/21/021/4/002106,21,Secuencias de los informes de las observaciones de ra
 bufr4/3/21/021/5/201000,21,Secuencias de los informes de las observaciones de radar,321021,,,201000,Anular,,,,Operational,Original
 bufr4/3/21/021/6/201132,21,Secuencias de los informes de las observaciones de radar,321021,,,201132,11 bits,,,,Operational,Original
 bufr4/3/21/021/7/202130,21,Secuencias de los informes de las observaciones de radar,321021,,,202130,Escala:–6,(continúa),,,Operational,Original
-bufr4/3/21/022/1/010007,21,Secuencias de los informes de las observaciones de radar,321022,,,010007,,,,,Operational,Original
+bufr4/3/21/021/8/002121,21,Secuencias de los informes de las observaciones de radar,321021,,,002121,,,,,Operational,Original
+bufr4/3/21/021/9/202000,21,Secuencias de los informes de las observaciones de radar,321021,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/021/5/201000,21,Secuencias de los informes de las observaciones de radar,321021,,,201000,Anular,,,,Operational,Original
+bufr4/3/21/021/10/201133,21,Secuencias de los informes de las observaciones de radar,321021,,,201133,11 bits,,,,Operational,Original
+bufr4/3/21/021/11/202129,21,Secuencias de los informes de las observaciones de radar,321021,,,202129,Escala: 0,,,,Operational,Original
+bufr4/3/21/021/12/025001,21,Secuencias de los informes de las observaciones de radar,321021,,,025001,,,,,Operational,Original
+bufr4/3/21/021/9/202000,21,Secuencias de los informes de las observaciones de radar,321021,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/021/5/201000,21,Secuencias de los informes de las observaciones de radar,321021,,,201000,Anular,,,,Operational,Original
+bufr4/3/21/022/1/007007,21,Secuencias de los informes de las observaciones de radar,321022,,,007007,,,,,Operational,Original
 bufr4/3/21/022/2/204001,21,Secuencias de los informes de las observaciones de radar,321022,,,204001,1 bit,,,,Operational,Original
 bufr4/3/21/022/3/031021,21,Secuencias de los informes de las observaciones de radar,321022,,,031021,,,,,Operational,Original
 bufr4/3/21/022/4/011001,21,Secuencias de los informes de las observaciones de radar,321022,,,011001,,,,,Operational,Original
 bufr4/3/21/022/5/204000,21,Secuencias de los informes de las observaciones de radar,321022,,,204000,Anular,,,,Operational,Original
 bufr4/3/21/022/6/011002,21,Secuencias de los informes de las observaciones de radar,321022,,,011002,,,,,Operational,Original
-bufr4/3/21/022/7/204001,21,Secuencias de los informes de las observaciones de radar,321022,,,204001,1 bit,,,,Operational,Original
-bufr4/3/21/022/8/031021,21,Secuencias de los informes de las observaciones de radar,321022,,,031021,,,,,Operational,Original
-bufr4/3/21/022/9/011006,21,Secuencias de los informes de las observaciones de radar,321022,,,011006,,,,,Operational,Original
-bufr4/3/21/022/10/204000,21,Secuencias de los informes de las observaciones de radar,321022,,,204000,Anular,,,,Operational,Original
-bufr4/3/21/022/11/021030,21,Secuencias de los informes de las observaciones de radar,321022,,,021030,,,,,Operational,Original
+bufr4/3/21/022/2/204001,21,Secuencias de los informes de las observaciones de radar,321022,,,204001,1 bit,,,,Operational,Original
+bufr4/3/21/022/3/031021,21,Secuencias de los informes de las observaciones de radar,321022,,,031021,,,,,Operational,Original
+bufr4/3/21/022/7/011006,21,Secuencias de los informes de las observaciones de radar,321022,,,011006,,,,,Operational,Original
+bufr4/3/21/022/5/204000,21,Secuencias de los informes de las observaciones de radar,321022,,,204000,Anular,,,,Operational,Original
+bufr4/3/21/022/8/021030,21,Secuencias de los informes de las observaciones de radar,321022,,,021030,,,,,Operational,Original
 bufr4/3/21/023/1/007007,21,Secuencias de los informes de las observaciones de radar,321023,,,007007,,,,,Operational,Original
 bufr4/3/21/023/2/021091,21,Secuencias de los informes de las observaciones de radar,321023,,,021091,,,,,Operational,Original
 bufr4/3/21/023/3/021030,21,Secuencias de los informes de las observaciones de radar,321023,,,021030,,,,,Operational,Original
@@ -96,6 +108,19 @@ bufr4/3/21/025/1/007007,21,Secuencias de los informes de las observaciones de ra
 bufr4/3/21/025/2/021091,21,Secuencias de los informes de las observaciones de radar,321025,,,021091,,,,,Operational,Original
 bufr4/3/21/025/3/021030,21,Secuencias de los informes de las observaciones de radar,321025,,,021030,,,,,Operational,Original
 bufr4/3/21/025/4/202129,21,Secuencias de los informes de las observaciones de radar,321025,,,202129,Escala: 2 I.2 – BUFR Tabla D/21 — 3,(continúa),,,Operational,Original
+bufr4/3/21/025/5/021014,21,Secuencias de los informes de las observaciones de radar,321025,,,021014,,,,,Operational,Original
+bufr4/3/21/025/6/201129,21,Secuencias de los informes de las observaciones de radar,321025,,,201129,9 bits,,,,Operational,Original
+bufr4/3/21/025/7/021017,21,Secuencias de los informes de las observaciones de radar,321025,,,021017,,,,,Operational,Original
+bufr4/3/21/025/8/202000,21,Secuencias de los informes de las observaciones de radar,321025,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/025/9/201000,21,Secuencias de los informes de las observaciones de radar,321025,,,201000,Anular,,,,Operational,Original
+bufr4/3/21/025/10/021092,21,Secuencias de los informes de las observaciones de radar,321025,,,021092,,,,,Operational,Original
+bufr4/3/21/025/3/021030,21,Secuencias de los informes de las observaciones de radar,321025,,,021030,Con referencia a la señal RASS,,,,Operational,Original
+bufr4/3/21/025/11/025092,21,Secuencias de los informes de las observaciones de radar,321025,,,025092,,,,,Operational,Original
+bufr4/3/21/025/6/201129,21,Secuencias de los informes de las observaciones de radar,321025,,,201129,9 bits,,,,Operational,Original
+bufr4/3/21/025/4/202129,21,Secuencias de los informes de las observaciones de radar,321025,,,202129,Escala: 2,,,,Operational,Original
+bufr4/3/21/025/7/021017,21,Secuencias de los informes de las observaciones de radar,321025,,,021017,Con referencia a la señal RASS,,,,Operational,Original
+bufr4/3/21/025/8/202000,21,Secuencias de los informes de las observaciones de radar,321025,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/025/9/201000,21,Secuencias de los informes de las observaciones de radar,321025,,,201000,Anular,,,,Operational,Original
 bufr4/3/21/026/1/010007,21,Secuencias de los informes de las observaciones de radar,321026,,,010007,,,,,Operational,Original
 bufr4/3/21/026/2/204001,21,Secuencias de los informes de las observaciones de radar,321026,,,204001,1 bit,,,,Operational,Original
 bufr4/3/21/026/3/031021,21,Secuencias de los informes de las observaciones de radar,321026,,,031021,,,,,Operational,Original
@@ -113,15 +138,17 @@ bufr4/3/21/027/4/002112,21,Secuencias de los informes de las observaciones de ra
 bufr4/3/21/027/5/201000,21,Secuencias de los informes de las observaciones de radar,321027,,,201000,Anular,,,,Operational,Original
 bufr4/3/21/027/6/201131,21,Secuencias de los informes de las observaciones de radar,321027,,,201131,,,,,Operational,Original
 bufr4/3/21/027/7/002111,21,Secuencias de los informes de las observaciones de radar,321027,,,002111,,,,,Operational,Original
-bufr4/3/21/027/8/201000,21,Secuencias de los informes de las observaciones de radar,321027,,,201000,Anular,,,,Operational,Original
-bufr4/3/21/027/9/202000,21,Secuencias de los informes de las observaciones de radar,321027,,,202000,Anular,,,,Operational,Original
-bufr4/3/21/027/10/002104,21,Secuencias de los informes de las observaciones de radar,321027,,,002104,,,,,Operational,Original
-bufr4/3/21/027/11/021105,21,Secuencias de los informes de las observaciones de radar,321027,,,021105,,,,,Operational,Original
-bufr4/3/21/027/12/021106,21,Secuencias de los informes de las observaciones de radar,321027,,,021106,,,,,Operational,Original
-bufr4/3/21/027/13/021107,21,Secuencias de los informes de las observaciones de radar,321027,,,021107,,,,,Operational,Original
-bufr4/3/21/027/14/021114,21,Secuencias de los informes de las observaciones de radar,321027,,,021114,,,,,Operational,Original
-bufr4/3/21/027/15/021115,21,Secuencias de los informes de las observaciones de radar,321027,,,021115,,,,,Operational,Original
-bufr4/3/21/027/16/021116,21,Secuencias de los informes de las observaciones de radar,321027,,,021116,,(continúa),,,Operational,Original
+bufr4/3/21/027/5/201000,21,Secuencias de los informes de las observaciones de radar,321027,,,201000,Anular,,,,Operational,Original
+bufr4/3/21/027/8/202000,21,Secuencias de los informes de las observaciones de radar,321027,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/027/9/002104,21,Secuencias de los informes de las observaciones de radar,321027,,,002104,,,,,Operational,Original
+bufr4/3/21/027/10/021105,21,Secuencias de los informes de las observaciones de radar,321027,,,021105,,,,,Operational,Original
+bufr4/3/21/027/11/021106,21,Secuencias de los informes de las observaciones de radar,321027,,,021106,,,,,Operational,Original
+bufr4/3/21/027/12/021107,21,Secuencias de los informes de las observaciones de radar,321027,,,021107,,,,,Operational,Original
+bufr4/3/21/027/13/021114,21,Secuencias de los informes de las observaciones de radar,321027,,,021114,,,,,Operational,Original
+bufr4/3/21/027/14/021115,21,Secuencias de los informes de las observaciones de radar,321027,,,021115,,,,,Operational,Original
+bufr4/3/21/027/15/021116,21,Secuencias de los informes de las observaciones de radar,321027,,,021116,,(continúa),,,Operational,Original
+bufr4/3/21/027/16/008018,21,Secuencias de los informes de las observaciones de radar,321027,,,008018,,,,,Operational,Original
+bufr4/3/21/027/17/021117,21,Secuencias de los informes de las observaciones de radar,321027,,,021117,,,,,Operational,Original
 bufr4/3/21/028/1/021118,21,Secuencias de los informes de las observaciones de radar,321028,,,021118,,,,,Operational,Original
 bufr4/3/21/028/2/202129,21,Secuencias de los informes de las observaciones de radar,321028,,,202129,,,,,Operational,Original
 bufr4/3/21/028/3/201132,21,Secuencias de los informes de las observaciones de radar,321028,,,201132,,,,,Operational,Original
@@ -129,17 +156,17 @@ bufr4/3/21/028/4/002112,21,Secuencias de los informes de las observaciones de ra
 bufr4/3/21/028/5/201000,21,Secuencias de los informes de las observaciones de radar,321028,,,201000,Anular,,,,Operational,Original
 bufr4/3/21/028/6/201131,21,Secuencias de los informes de las observaciones de radar,321028,,,201131,,,,,Operational,Original
 bufr4/3/21/028/7/002111,21,Secuencias de los informes de las observaciones de radar,321028,,,002111,,,,,Operational,Original
-bufr4/3/21/028/8/201000,21,Secuencias de los informes de las observaciones de radar,321028,,,201000,Anular,,,,Operational,Original
-bufr4/3/21/028/9/202000,21,Secuencias de los informes de las observaciones de radar,321028,,,202000,Anular,,,,Operational,Original
-bufr4/3/21/028/10/002104,21,Secuencias de los informes de las observaciones de radar,321028,,,002104,,,,,Operational,Original
-bufr4/3/21/028/11/021123,21,Secuencias de los informes de las observaciones de radar,321028,,,021123,,,,,Operational,Original
-bufr4/3/21/028/12/021106,21,Secuencias de los informes de las observaciones de radar,321028,,,021106,,,,,Operational,Original
-bufr4/3/21/028/13/021107,21,Secuencias de los informes de las observaciones de radar,321028,,,021107,,,,,Operational,Original
-bufr4/3/21/028/14/021114,21,Secuencias de los informes de las observaciones de radar,321028,,,021114,,,,,Operational,Original
-bufr4/3/21/028/15/021115,21,Secuencias de los informes de las observaciones de radar,321028,,,021115,,,,,Operational,Original
-bufr4/3/21/028/16/021116,21,Secuencias de los informes de las observaciones de radar,321028,,,021116,,,,,Operational,Original
-bufr4/3/21/028/17/008018,21,Secuencias de los informes de las observaciones de radar,321028,,,008018,,,,,Operational,Original
-bufr4/3/21/028/18/021117,21,Secuencias de los informes de las observaciones de radar,321028,,,021117,,,,,Operational,Original
+bufr4/3/21/028/5/201000,21,Secuencias de los informes de las observaciones de radar,321028,,,201000,Anular,,,,Operational,Original
+bufr4/3/21/028/8/202000,21,Secuencias de los informes de las observaciones de radar,321028,,,202000,Anular,,,,Operational,Original
+bufr4/3/21/028/9/002104,21,Secuencias de los informes de las observaciones de radar,321028,,,002104,,,,,Operational,Original
+bufr4/3/21/028/10/021123,21,Secuencias de los informes de las observaciones de radar,321028,,,021123,,,,,Operational,Original
+bufr4/3/21/028/11/021106,21,Secuencias de los informes de las observaciones de radar,321028,,,021106,,,,,Operational,Original
+bufr4/3/21/028/12/021107,21,Secuencias de los informes de las observaciones de radar,321028,,,021107,,,,,Operational,Original
+bufr4/3/21/028/13/021114,21,Secuencias de los informes de las observaciones de radar,321028,,,021114,,,,,Operational,Original
+bufr4/3/21/028/14/021115,21,Secuencias de los informes de las observaciones de radar,321028,,,021115,,,,,Operational,Original
+bufr4/3/21/028/15/021116,21,Secuencias de los informes de las observaciones de radar,321028,,,021116,,,,,Operational,Original
+bufr4/3/21/028/16/008018,21,Secuencias de los informes de las observaciones de radar,321028,,,008018,,,,,Operational,Original
+bufr4/3/21/028/17/021117,21,Secuencias de los informes de las observaciones de radar,321028,,,021117,,,,,Operational,Original
 bufr4/3/21/030/1/008085,21,Secuencias de los informes de las observaciones de radar,321030,,,008085,,,,,Operational,Original
 bufr4/3/21/030/2/202129,21,Secuencias de los informes de las observaciones de radar,321030,,,202129,Aumentar la escala en 10,1,,,Operational,Original
 bufr4/3/21/030/3/201131,21,Secuencias de los informes de las observaciones de radar,321030,,,201131,Aumentar la anchura de datos en 3 bits,,,,Operational,Original

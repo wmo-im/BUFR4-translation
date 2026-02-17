@@ -49,6 +49,13 @@ bufr4/3/06/013/1/306012,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/013/2/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,301011,Fecha de referencia para la serie temporal,,,,Operational,Original
 bufr4/3/06/013/3/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,301013,Hora de referencia para la serie temporal,,,,Operational,Original
 bufr4/3/06/013/4/022120,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,022120,,(continúa),,,Operational,Original
+bufr4/3/06/013/5/022121,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,022121,,,,,Operational,Original
+bufr4/3/06/013/6/004015,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,004015,Añadido para inicializar la hora de referencia,,,,Operational,Original
+bufr4/3/06/013/7/004065,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,004065,Añadido a cada valor de datos de la serie temporal,,,,Operational,Original
+bufr4/3/06/013/8/102000,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,102000,,,,,Operational,Original
+bufr4/3/06/013/9/031001,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,031001,,,,,Operational,Original
+bufr4/3/06/013/10/022038,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,022038,,,,,Operational,Original
+bufr4/3/06/013/11/022040,06,Secuencias meteorológicas u oceanográficas comunes a las,306013,,,022040,,,,,Operational,Original
 bufr4/3/06/014/1/306012,06,Secuencias meteorológicas u oceanográficas comunes a las,306014,,,306012,,,,,Operational,Original
 bufr4/3/06/014/2/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306014,,,301011,Fecha de referencia para la serie temporal,,,,Operational,Original
 bufr4/3/06/014/3/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306014,,,301013,Hora de referencia para la serie temporal,,,,Operational,Original
@@ -63,6 +70,18 @@ bufr4/3/06/016/1/301011,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/016/2/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,301013,Hora de referencia para la serie temporal,,,,Operational,Original
 bufr4/3/06/016/3/010004,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,010004,Nivel de la estación,,,,Operational,Original
 bufr4/3/06/016/4/010051,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,010051,I.2 – BUFR Tabla D/06 — 3,(continúa),,,Operational,Original
+bufr4/3/06/016/5/302032,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,302032,,,,,Operational,Original
+bufr4/3/06/016/6/007032,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,007032,,,,,Operational,Original
+bufr4/3/06/016/7/002002,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,002002,,,,,Operational,Original
+bufr4/3/06/016/8/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,008021,= 2 promediada en el tiempo,,,,Operational,Original
+bufr4/3/06/016/9/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,004025,"P. ej. = 1 para 1 minuto, = 10 para 10 minutos",,,,Operational,Original
+bufr4/3/06/016/10/011001,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,011001,,,,,Operational,Original
+bufr4/3/06/016/11/011002,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,011002,,,,,Operational,Original
+bufr4/3/06/016/9/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,004025,En minutos,,,,Operational,Original
+bufr4/3/06/016/12/011043,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,011043,,,,,Operational,Original
+bufr4/3/06/016/13/011041,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,011041,,,,,Operational,Original
+bufr4/3/06/016/14/025026,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,025026,Voltaje de la batería de la EMA,,,,Operational,Original
+bufr4/3/06/016/15/012060,06,Secuencias meteorológicas u oceanográficas comunes a las,306016,,,012060,,,,,Operational,Original
 bufr4/3/06/017/1/002032,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,002032,= 0 profundidades fijas del sensor,,,,Operational,Original
 bufr4/3/06/017/2/008034,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008034,,,,,Operational,Original
 bufr4/3/06/017/3/106000,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,106000,,,,,Operational,Original
@@ -71,9 +90,9 @@ bufr4/3/06/017/5/007065,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/017/6/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008080,,,,,Operational,Original
 bufr4/3/06/017/7/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,033050,,,,,Operational,Original
 bufr4/3/06/017/8/022045,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,022045,En K con tres decimales,,,,Operational,Original
-bufr4/3/06/017/9/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008080,,,,,Operational,Original
-bufr4/3/06/017/10/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,033050,,,,,Operational,Original
-bufr4/3/06/017/11/008034,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008034,Fijar en faltante,,,,Operational,Original
+bufr4/3/06/017/6/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008080,,,,,Operational,Original
+bufr4/3/06/017/7/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,033050,,,,,Operational,Original
+bufr4/3/06/017/2/008034,06,Secuencias meteorológicas u oceanográficas comunes a las,306017,,,008034,Fijar en faltante,,,,Operational,Original
 bufr4/3/06/018/1/002032,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,002032,= 0 profundidades fijas del sensor,,,,Operational,Original
 bufr4/3/06/018/2/008034,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,008034,,,,,Operational,Original
 bufr4/3/06/018/3/109000,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,109000,,,,,Operational,Original
@@ -82,7 +101,12 @@ bufr4/3/06/018/5/007065,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/018/6/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,008080,,,,,Operational,Original
 bufr4/3/06/018/7/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,033050,,,,,Operational,Original
 bufr4/3/06/018/8/022045,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,022045,En K con tres decimales,,,,Operational,Original
-bufr4/3/06/018/9/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,008080,,(continúa),,,Operational,Original
+bufr4/3/06/018/6/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,(anular),,008080,,(continúa),,,Operational,Original
+bufr4/3/06/018/7/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,,,033050,,,,,Operational,Original
+bufr4/3/06/018/9/022064,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,,,022064,,,,,Operational,Original
+bufr4/3/06/018/6/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,,,008080,,,,,Operational,Original
+bufr4/3/06/018/7/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,,,033050,,,,,Operational,Original
+bufr4/3/06/018/2/008034,06,Secuencias meteorológicas u oceanográficas comunes a las,306018,,,008034,Fijar en faltante,,,,Operational,Original
 bufr4/3/06/019/1/001075,06,Secuencias meteorológicas u oceanográficas comunes a las,306019,(anular),,001075,Alfanumérica,,,,Operational,Original
 bufr4/3/06/019/2/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306019,(anular),,301011,,,,,Operational,Original
 bufr4/3/06/019/3/301012,06,Secuencias meteorológicas u oceanográficas comunes a las,306019,(anular),,301012,,,,,Operational,Original
@@ -130,12 +154,14 @@ bufr4/3/06/025/4/022039,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/027/1/001005,06,Secuencias meteorológicas u oceanográficas comunes a las,306027,,,001005,,,,,Operational,Original
 bufr4/3/06/027/2/001052,06,Secuencias meteorológicas u oceanográficas comunes a las,306027,,,001052,,,,,Operational,Original
 bufr4/3/06/027/3/002047,06,Secuencias meteorológicas u oceanográficas comunes a las,306027,,,002047,,(continúa),,,Operational,Original
+bufr4/3/06/027/4/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306027,,,301011,Hora en que el mensaje es transmitido al sistema terreno,,,,Operational,Original
+bufr4/3/06/027/5/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306027,,,301013,,,,,Operational,Original
 bufr4/3/06/028/1/306027,06,Secuencias meteorológicas u oceanográficas comunes a las,306028,,,306027,,,,,Operational,Original
 bufr4/3/06/028/2/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306028,,,301011,Hora de observación,,,,Operational,Original
 bufr4/3/06/028/3/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306028,,,301013,,,,,Operational,Original
 bufr4/3/06/028/4/301021,06,Secuencias meteorológicas u oceanográficas comunes a las,306028,,,301021,,,,,Operational,Original
 bufr4/3/06/029/1/025170,06,Secuencias meteorológicas u oceanográficas comunes a las,306029,,,025170,Segundos Segundos,,,,Operational,Original
-bufr4/3/06/029/2/025172,06,Secuencias meteorológicas u oceanográficas comunes a las,306029,,,025172,,,,,Operational,Original
+bufr4/3/06/029/3/025172,06,Secuencias meteorológicas u oceanográficas comunes a las,306029,,,025172,,,,,Operational,Original
 bufr4/3/06/030/1/306027,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,306027,,,,,Operational,Original
 bufr4/3/06/030/2/306029,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,306029,,,,,Operational,Original
 bufr4/3/06/030/3/111000,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,111000,,,,,Operational,Original
@@ -144,84 +170,94 @@ bufr4/3/06/030/5/033002,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/030/6/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,301011,Fecha/hora de referencia de la serie temporal,,,,Operational,Original
 bufr4/3/06/030/7/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,301013,,,,,Operational,Original
 bufr4/3/06/030/8/025025,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,025025,CPU del BPR,,,,Operational,Original
-bufr4/3/06/030/9/025025,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,025025,DSP del módem acústico,,,,Operational,Original
-bufr4/3/06/030/10/025026,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,025026,Módem acústico,,,,Operational,Original
-bufr4/3/06/030/11/022185,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,022185,,,,,Operational,Original
-bufr4/3/06/030/12/004015,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,004015,Añadido para reinicializar la hora de referencia I.2 – BUFR Tabla D/06 — 7,(continúa),,,Operational,Original
+bufr4/3/06/030/8/025025,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,025025,DSP del módem acústico,,,,Operational,Original
+bufr4/3/06/030/9/025026,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,025026,Módem acústico,,,,Operational,Original
+bufr4/3/06/030/10/022185,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,022185,,,,,Operational,Original
+bufr4/3/06/030/11/004015,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,004015,Añadido para reinicializar la hora de referencia I.2 – BUFR Tabla D/06 — 7,(continúa),,,Operational,Original
+bufr4/3/06/030/12/004065,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,004065,Añadido a cada valor de datos de la serie temporal,,,,Operational,Original
+bufr4/3/06/030/13/101004,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,101004,,,,,Operational,Original
+bufr4/3/06/030/14/022182,06,Secuencias meteorológicas u oceanográficas comunes a las,306030,,,022182,,,,,Operational,Original
 bufr4/3/06/031/1/306027,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,306027,,,,,Operational,Original
 bufr4/3/06/031/2/306029,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,306029,,,,,Operational,Original
 bufr4/3/06/031/3/001053,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,001053,,,,,Operational,Original
 bufr4/3/06/031/4/033002,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,033002,Situación del mensaje,,,,Operational,Original
 bufr4/3/06/031/5/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301011,Hora de detección del tsunami,,,,Operational,Original
 bufr4/3/06/031/6/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301013,,,,,Operational,Original
-bufr4/3/06/031/7/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301011,Fecha/hora de referencia de la serie temporal,,,,Operational,Original
-bufr4/3/06/031/8/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301013,,,,,Operational,Original
-bufr4/3/06/031/9/022185,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022185,,,,,Operational,Original
-bufr4/3/06/031/10/022182,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022182,Determinación del valor real notificado en la serie temporal,,,,Operational,Original
-bufr4/3/06/031/11/004016,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,004016,Añadido para reinicializar la hora de referencia,,,,Operational,Original
-bufr4/3/06/031/12/004066,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,004066,Añadido a cada valor de datos de la serie temporal,,,,Operational,Original
-bufr4/3/06/031/13/101000,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,101000,,,,,Operational,Original
-bufr4/3/06/031/14/031001,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,031001,,,,,Operational,Original
-bufr4/3/06/031/15/022184,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022184,,,,,Operational,Original
+bufr4/3/06/031/5/301011,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301011,Fecha/hora de referencia de la serie temporal,,,,Operational,Original
+bufr4/3/06/031/6/301013,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,301013,,,,,Operational,Original
+bufr4/3/06/031/7/022185,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022185,,,,,Operational,Original
+bufr4/3/06/031/8/022182,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022182,Determinación del valor real notificado en la serie temporal,,,,Operational,Original
+bufr4/3/06/031/9/004016,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,004016,Añadido para reinicializar la hora de referencia,,,,Operational,Original
+bufr4/3/06/031/10/004066,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,004066,Añadido a cada valor de datos de la serie temporal,,,,Operational,Original
+bufr4/3/06/031/11/101000,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,101000,,,,,Operational,Original
+bufr4/3/06/031/12/031001,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,031001,,,,,Operational,Original
+bufr4/3/06/031/13/022184,06,Secuencias meteorológicas u oceanográficas comunes a las,306031,,,022184,,,,,Operational,Original
 bufr4/3/06/033/1/002033,06,Secuencias meteorológicas u oceanográficas comunes a las,306033,,,002033,,,,,Operational,Original
 bufr4/3/06/033/2/007063,06,Secuencias meteorológicas u oceanográficas comunes a las,306033,,,007063,,,,,Operational,Original
 bufr4/3/06/033/3/022064,06,Secuencias meteorológicas u oceanográficas comunes a las,306033,,,022064,,,,,Operational,Original
 bufr4/3/06/034/1/002031,06,Secuencias meteorológicas u oceanográficas comunes a las,306034,,,002031,,,,,Operational,Original
 bufr4/3/06/034/2/003010,06,Secuencias meteorológicas u oceanográficas comunes a las,306034,,,003010,,(continúa),,,Operational,Original
+bufr4/3/06/034/3/002040,06,Secuencias meteorológicas u oceanográficas comunes a las,306034,,,002040,,,,,Operational,Original
+bufr4/3/06/034/4/022005,06,Secuencias meteorológicas u oceanográficas comunes a las,306034,,,022005,,,,,Operational,Original
+bufr4/3/06/034/5/022032,06,Secuencias meteorológicas u oceanográficas comunes a las,306034,,,022032,,,,,Operational,Original
 bufr4/3/06/035/1/112000,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,112000,,,,,Operational,Original
 bufr4/3/06/035/2/031002,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,031002,,,,,Operational,Original
 bufr4/3/06/035/3/007062,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,007062,En metros,,,,Operational,Original
 bufr4/3/06/035/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,= 13 profundidad a un nivel dado,,,,Operational,Original
 bufr4/3/06/035/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
 bufr4/3/06/035/6/007065,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,007065,,,,,Operational,Original
-bufr4/3/06/035/7/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
-bufr4/3/06/035/8/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
-bufr4/3/06/035/9/022043,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,022043,,,,,Operational,Original
-bufr4/3/06/035/10/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,= 11 temperatura a un nivel dado,,,,Operational,Original
-bufr4/3/06/035/11/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
-bufr4/3/06/035/12/022064,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,022064,= 12 salinidad a un nivel dado,,,,Operational,Original
-bufr4/3/06/035/13/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,,,,,Operational,Original
-bufr4/3/06/035/14/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
+bufr4/3/06/035/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
+bufr4/3/06/035/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
+bufr4/3/06/035/7/022043,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,022043,,,,,Operational,Original
+bufr4/3/06/035/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,= 11 temperatura a un nivel dado,,,,Operational,Original
+bufr4/3/06/035/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
+bufr4/3/06/035/8/022064,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,022064,= 12 salinidad a un nivel dado,,,,Operational,Original
+bufr4/3/06/035/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,008080,,,,,Operational,Original
+bufr4/3/06/035/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306035,,,033050,,,,,Operational,Original
 bufr4/3/06/036/1/112000,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,112000,,,,,Operational,Original
 bufr4/3/06/036/2/031002,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,031002,,,,,Operational,Original
 bufr4/3/06/036/3/007062,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,007062,En metros,,,,Operational,Original
 bufr4/3/06/036/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 13 profundidad a un nivel dado,,,,Operational,Original
 bufr4/3/06/036/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,,,,,Operational,Original
 bufr4/3/06/036/6/007065,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,007065,,,,,Operational,Original
-bufr4/3/06/036/7/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
-bufr4/3/06/036/8/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,,,,,Operational,Original
-bufr4/3/06/036/9/022031,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,022031,,,,,Operational,Original
-bufr4/3/06/036/10/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 14 velocidad de la corriente a un nivel dado,,,,Operational,Original
-bufr4/3/06/036/11/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,,,,,Operational,Original
-bufr4/3/06/036/12/022004,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,022004,,,,,Operational,Original
-bufr4/3/06/036/13/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 15 dirección de la corriente a un nivel dado,,,,Operational,Original
-bufr4/3/06/036/14/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,I.2 – BUFR Tabla D/06 — 9,(continúa),,,Operational,Original
+bufr4/3/06/036/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
+bufr4/3/06/036/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,,,,,Operational,Original
+bufr4/3/06/036/7/022031,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,022031,,,,,Operational,Original
+bufr4/3/06/036/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 14 velocidad de la corriente a un nivel dado,,,,Operational,Original
+bufr4/3/06/036/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,,,,,Operational,Original
+bufr4/3/06/036/8/022004,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,022004,,,,,Operational,Original
+bufr4/3/06/036/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,008080,= 15 dirección de la corriente a un nivel dado,,,,Operational,Original
+bufr4/3/06/036/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306036,,,033050,I.2 – BUFR Tabla D/06 — 9,(continúa),,,Operational,Original
 bufr4/3/06/037/1/109000,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,109000,,,,,Operational,Original
 bufr4/3/06/037/2/031002,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,031002,,,,,Operational,Original
 bufr4/3/06/037/3/007062,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,007062,,,,,Operational,Original
 bufr4/3/06/037/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,008080,= 13 profundidad a un nivel dado,,,,Operational,Original
 bufr4/3/06/037/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,033050,,,,,Operational,Original
 bufr4/3/06/037/6/007065,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,007065,,,,,Operational,Original
-bufr4/3/06/037/7/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
-bufr4/3/06/037/8/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,033050,,,,,Operational,Original
-bufr4/3/06/037/9/022188,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,022188,,,,,Operational,Original
-bufr4/3/06/037/10/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,008080,= 16 oxígeno disuelto a un nivel dado,,,,Operational,Original
-bufr4/3/06/037/11/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,033050,,,,,Operational,Original
+bufr4/3/06/037/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,008080,= 10 presión a un nivel dado,,,,Operational,Original
+bufr4/3/06/037/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,033050,,,,,Operational,Original
+bufr4/3/06/037/7/022188,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,022188,,,,,Operational,Original
+bufr4/3/06/037/4/008080,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,008080,= 16 oxígeno disuelto a un nivel dado,,,,Operational,Original
+bufr4/3/06/037/5/033050,06,Secuencias meteorológicas u oceanográficas comunes a las,306037,,,033050,,,,,Operational,Original
 bufr4/3/06/038/1/010004,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,010004,,,,,Operational,Original
 bufr4/3/06/038/2/010051,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,010051,,,,,Operational,Original
 bufr4/3/06/038/3/007033,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,007033,Altura del sensor de temperatura del aire/ humedad,,,,Operational,Original
 bufr4/3/06/038/4/012101,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,012101,A la altura de observación,,,,Operational,Original
 bufr4/3/06/038/5/012103,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,012103,A la altura de observación,,,,Operational,Original
 bufr4/3/06/038/6/013003,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,013003,Con respecto al agua a todas las temperaturas,,,,Operational,Original
-bufr4/3/06/038/7/007033,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,007033,Altura del sensor de velocidad del viento,,,,Operational,Original
-bufr4/3/06/038/8/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,008021,=2 promediada en el tiempo,,,,Operational,Original
-bufr4/3/06/038/9/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Período en que se han promediado los vientos,,,,Operational,Original
-bufr4/3/06/038/10/011001,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011001,A la altura de observación,,,,Operational,Original
-bufr4/3/06/038/11/011002,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011002,A la altura de observación,,,,Operational,Original
-bufr4/3/06/038/12/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,008021,Fijar en faltante (anular),,,,Operational,Original
-bufr4/3/06/038/13/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Período de tiempo en que se observan ráfagas máximas,,,,Operational,Original
-bufr4/3/06/038/14/011041,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011041,,,,,Operational,Original
-bufr4/3/06/038/15/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Fijar en faltante (anular),(continúa),,,Operational,Original
+bufr4/3/06/038/3/007033,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,007033,Altura del sensor de velocidad del viento,,,,Operational,Original
+bufr4/3/06/038/7/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,008021,=2 promediada en el tiempo,,,,Operational,Original
+bufr4/3/06/038/8/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Período en que se han promediado los vientos,,,,Operational,Original
+bufr4/3/06/038/9/011001,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011001,A la altura de observación,,,,Operational,Original
+bufr4/3/06/038/10/011002,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011002,A la altura de observación,,,,Operational,Original
+bufr4/3/06/038/7/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,008021,Fijar en faltante (anular),,,,Operational,Original
+bufr4/3/06/038/8/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Período de tiempo en que se observan ráfagas máximas,,,,Operational,Original
+bufr4/3/06/038/11/011041,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,011041,,,,,Operational,Original
+bufr4/3/06/038/8/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,004025,Fijar en faltante (anular),(continúa),,,Operational,Original
+bufr4/3/06/038/3/007033,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,007033,Fijar en faltante,,,,Operational,Original
+bufr4/3/06/038/12/002005,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,002005,,,,,Operational,Original
+bufr4/3/06/038/13/007063,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,007063,,,,,Operational,Original
+bufr4/3/06/038/14/022049,06,Secuencias meteorológicas u oceanográficas comunes a las,306038,,,022049,,,,,Operational,Original
 bufr4/3/06/039/1/022078,06,Secuencias meteorológicas u oceanográficas comunes a las,306039,(anular),,022078,,,,,Operational,Original
 bufr4/3/06/039/2/022070,06,Secuencias meteorológicas u oceanográficas comunes a las,306039,(anular),,022070,,,,,Operational,Original
 bufr4/3/06/039/3/022073,06,Secuencias meteorológicas u oceanográficas comunes a las,306039,(anular),,022073,,,,,Operational,Original
@@ -245,20 +281,25 @@ bufr4/3/06/041/3/031001,06,Secuencias meteorológicas u oceanográficas comunes 
 bufr4/3/06/041/4/007062,06,Secuencias meteorológicas u oceanográficas comunes a las,306041,,,007062,,,,,Operational,Original
 bufr4/3/06/041/5/022043,06,Secuencias meteorológicas u oceanográficas comunes a las,306041,,,022043,,,,,Operational,Original
 bufr4/3/06/042/1/002169,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,002169,"P. ej. = 2 WOTAN, = 3 anemómetro acústico I.2 – BUFR Tabla D/06 — 11",(continúa),,,Operational,Original
+bufr4/3/06/042/2/007033,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,007033,Altura del anemómetro sobre la superficie del agua o altura efectiva para WOTAN,,,,Operational,Original
+bufr4/3/06/042/3/008021,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,008021,= 2 promediada en el tiempo,,,,Operational,Original
+bufr4/3/06/042/4/004025,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,004025,Período de promediación en minutos,,,,Operational,Original
+bufr4/3/06/042/5/011001,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,011001,A la altura de medición,,,,Operational,Original
+bufr4/3/06/042/6/011002,06,Secuencias meteorológicas u oceanográficas comunes a las,306042,,,011002,A la altura de medición,,,,Operational,Original
 bufr4/3/06/043/1/041001,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041001,,,,,Operational,Original
 bufr4/3/06/043/2/008043,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,008043,Fijar en 3 (dióxido de carbono),,,,Operational,Original
 bufr4/3/06/043/3/015028,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,015028,,,,,Operational,Original
-bufr4/3/06/043/4/008043,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,008043,Anular,,,,Operational,Original
-bufr4/3/06/043/5/013080,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,013080,,,,,Operational,Original
-bufr4/3/06/043/6/041005,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041005,,,,,Operational,Original
-bufr4/3/06/043/7/041003,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041003,,,,,Operational,Original
-bufr4/3/06/043/8/022188,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,022188,,,,,Operational,Original
-bufr4/3/06/043/9/041002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041002,,,,,Operational,Original
-bufr4/3/06/043/10/106000,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,106000,,,,,Operational,Original
-bufr4/3/06/043/11/031000,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,031000,,,,,Operational,Original
-bufr4/3/06/043/12/004024,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,004024,Fijar en -1 (hora anterior),,,,Operational,Original
-bufr4/3/06/043/13/014002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014002,Radiación de onda larga descendente,,,,Operational,Original
-bufr4/3/06/043/14/014002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014002,Radiación de onda larga ascendente,,,,Operational,Original
-bufr4/3/06/043/15/014012,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014012,,,,,Operational,Original
-bufr4/3/06/043/16/014004,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014004,,,,,Operational,Original
-bufr4/3/06/043/17/004024,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,004024,Anular,,,,Operational,Original
+bufr4/3/06/043/2/008043,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,008043,Anular,,,,Operational,Original
+bufr4/3/06/043/4/013080,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,013080,,,,,Operational,Original
+bufr4/3/06/043/5/041005,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041005,,,,,Operational,Original
+bufr4/3/06/043/6/041003,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041003,,,,,Operational,Original
+bufr4/3/06/043/7/022188,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,022188,,,,,Operational,Original
+bufr4/3/06/043/8/041002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,041002,,,,,Operational,Original
+bufr4/3/06/043/9/106000,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,106000,,,,,Operational,Original
+bufr4/3/06/043/10/031000,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,031000,,,,,Operational,Original
+bufr4/3/06/043/11/004024,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,004024,Fijar en -1 (hora anterior),,,,Operational,Original
+bufr4/3/06/043/12/014002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014002,Radiación de onda larga descendente,,,,Operational,Original
+bufr4/3/06/043/12/014002,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014002,Radiación de onda larga ascendente,,,,Operational,Original
+bufr4/3/06/043/13/014012,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014012,,,,,Operational,Original
+bufr4/3/06/043/14/014004,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,014004,,,,,Operational,Original
+bufr4/3/06/043/11/004024,06,Secuencias meteorológicas u oceanográficas comunes a las,306043,,,004024,Anular,,,,Operational,Original
