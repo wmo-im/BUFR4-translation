@@ -101,7 +101,7 @@ bufr4/3/04/036/8/008003,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/036/9/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,Cobertura de nubes,,020081,Nubosidad en el segmento,Nubes medias,,,Operational,Original
 bufr4/3/04/036/10/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,Cobertura de nubes,,008003,SignificaciÃ³n vertical (observaciones satelitales,Nubes altas,,,Operational,Original
 bufr4/3/04/036/11/020081,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,Cobertura de nubes,,020081,Nubosidad en el segmento,Nubes altas,,,Operational,Original
-bufr4/3/04/036/12/0080003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,Cobertura de nubes,,080003,SignificaciÃ³n vertical (observaciones satelitales,Anular,,,Operational,Original
+bufr4/3/04/036/12/008003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304036,Cobertura de nubes,,008003,SignificaciÃ³n vertical (observaciones satelitales,Anular,,,Operational,Original
 bufr4/3/04/037/1/002153,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,Datos de radiancia del cielo completo,,002153,Frecuencia central del canal del satÃ©lite,,,,Operational,Original
 bufr4/3/04/037/2/002154,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,Datos de radiancia del cielo completo,,002154,Ancho de banda del canal del satÃ©lite,,,,Operational,Original
 bufr4/3/04/037/3/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304037,Datos de radiancia del cielo completo,,012063,Temperatura de lumicia,,,,Operational,Original
