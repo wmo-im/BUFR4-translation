@@ -719,14 +719,14 @@ bufr4/0/20/062/10,020062,Estado del suelo (con o sin nieve),10,Suelo predominant
 bufr4/0/20/062/11,020062,Estado del suelo (con o sin nieve),11,Nieve compacta o húmeda (con hielo o sin él) que cubre menos de la mitad del suelo,con nieve o cobertura de hielo mensurable,,,,Operational,Original
 bufr4/0/20/062/12,020062,Estado del suelo (con o sin nieve),12,"Nieve compacta o húmeda (con hielo o sin él) que cubre, por lo menos, la mitad del suelo, pero no completamente",con nieve o cobertura de hielo mensurable,,,,Operational,Original
 bufr4/0/20/062/13,020062,Estado del suelo (con o sin nieve),13,"Manto regular de nieve compacta o húmeda, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,Operational,Original
-bufr4/0/20/062/14,020062,Estado del suelo (con o sin nieve),14,"Capa irregular de nieve, compacta o húmeda, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/15,020062,Estado del suelo (con o sin nieve),15,Nieve seca suelta que cubre menos de la mitad del suelo,con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/16,020062,Estado del suelo (con o sin nieve),16,"Nieve seca suelta, que cubre por lo menos, la mitad del suelo, pero no completamente",con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/17,020062,Estado del suelo (con o sin nieve),17,"Capa regular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/18,020062,Estado del suelo (con o sin nieve),18,"Capa irregular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/19,020062,Estado del suelo (con o sin nieve),19,Nieve que cubre completamente el suelo; ventiscas profundas,con nieve o cobertura de hielo mensurable,,,,,Original
-bufr4/0/20/062/20-30,020062,Estado del suelo (con o sin nieve),20-30,Reservadas,,,,,,Original
-bufr4/0/20/062/31,020062,Estado del suelo (con o sin nieve),31,Valor faltante,,,,,,Original
+bufr4/0/20/062/14,020062,Estado del suelo (con o sin nieve),14,"Capa irregular de nieve, compacta o húmeda, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/15,020062,Estado del suelo (con o sin nieve),15,Nieve seca suelta que cubre menos de la mitad del suelo,con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/16,020062,Estado del suelo (con o sin nieve),16,"Nieve seca suelta, que cubre por lo menos, la mitad del suelo, pero no completamente",con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/17,020062,Estado del suelo (con o sin nieve),17,"Capa regular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/18,020062,Estado del suelo (con o sin nieve),18,"Capa irregular de nieve seca suelta, que cubre completamente el suelo",con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/19,020062,Estado del suelo (con o sin nieve),19,Nieve que cubre completamente el suelo; ventiscas profundas,con nieve o cobertura de hielo mensurable,,,,Operational,Original
+bufr4/0/20/062/20-30,020062,Estado del suelo (con o sin nieve),20-30,Reservadas,,,,,Operational,Original
+bufr4/0/20/062/31,020062,Estado del suelo (con o sin nieve),31,Valor faltante,,,,,Operational,Original
 bufr4/0/20/063/0,020063,Fenómenos especiales,0,Reservada,,,,,Operational,Original
 bufr4/0/20/063/1,020063,Fenómenos especiales,1,"Velocidad máxima de las ráfagas superior a 11,5 m/s",,,,,Operational,Original
 bufr4/0/20/063/2,020063,Fenómenos especiales,2,"Velocidad media máxima del viento superior a 17,5 m/s",,,,,Operational,Original

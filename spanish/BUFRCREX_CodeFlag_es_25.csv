@@ -16,7 +16,7 @@ bufr4/0/25/006/7,025006,Conversión Z a R,7,Valor faltante,,,,,Operational,Origi
 bufr4/0/25/009/1,025009,Método de calibración,1,Ninguno,,,,,Operational,Original
 bufr4/0/25/009/2,025009,Método de calibración,2,Blanco o señal de calibración,,,,,Operational,Original
 bufr4/0/25/009/3,025009,Método de calibración,3,Con relación a los pluviómetros,,,,,Operational,Original
-bufr4/0/25/009/4,025009,Método de calibración,4,Con relación a otros instrumentos (distrómetro, atenuación),,,,,Original
+bufr4/0/25/009/4,025009,Método de calibración,4,Con relación a otros instrumentos (distrómetro, atenuación),,,,Deprecated,Original
 bufr4/0/25/009/4,025009,Método de calibración,Los 4,Valor faltante,,,,,Operational,Original
 bufr4/0/25/010/0,025010,Tratamiento de los ecos parásitos,0,Ninguno,,,,,Operational,Original
 bufr4/0/25/010/1,025010,Tratamiento de los ecos parásitos,1,Mapa,,,,,Operational,Original
