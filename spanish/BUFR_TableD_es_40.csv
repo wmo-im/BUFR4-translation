@@ -288,29 +288,29 @@ bufr4/3/40/008/67/040018,40,Secuencias adicionales de los informes satelitales,3
 bufr4/3/40/008/68/040019,40,Secuencias adicionales de los informes satelitales,340008,Índices del componente principal de la banda,Análisis de las escenas VHRR,040019,GIacVarImagIIS – variancia de las mediciones del reproductor de imágenes,,,,Operational,Original
 bufr4/3/40/008/69/040021,40,Secuencias adicionales de los informes satelitales,340008,Índices del componente principal de la banda,Análisis de las escenas VHRR,040021,Fracción de píxel AVHRR ponderado en el campo de visión de IASI cubierto de nieve/hielo,,,,Operational,Original
 bufr4/3/40/008/70/040022,40,Secuencias adicionales de los informes satelitales,340008,Índices del componente principal de la banda,Análisis de las escenas VHRR,040022,"Número de píxeles AVHRR faltantes, defectuosos o ausentes",,,,Operational,Original
-bufr4/3/40/009/1/001007,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,001007,Identificador del satélite,,,,Operational,Original
-bufr4/3/40/009/2/001031,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,001031,Identificación del centro de origen/generación,,,,Operational,Original
-bufr4/3/40/009/3/002019,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,002019,Instrumentos de satélite,,,,Operational,Original
-bufr4/3/40/009/4/002020,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,002020,Clasificación de los satélites,,,,Operational,Original
-bufr4/3/40/009/5/301011,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,301011,Año,,,,Operational,Original
-bufr4/3/40/009/6/301013,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,301013,Hora,,,,Operational,Original
-bufr4/3/40/009/7/005040,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,005040,Número de órbita,,,,Operational,Original
-bufr4/3/40/009/8/201136,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,201136,Cambio de anchura de datos Añadir 8 a la anchura,,,,Operational,Original
-bufr4/3/40/009/9/005041,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,005041,Número de la línea de exploración,,,,Operational,Original
-bufr4/3/40/009/10/201000,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,201000,Cambio de anchura de datos Anular,,,,Operational,Original
-bufr4/3/40/009/11/025071,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,025071,Número de tramas,,,,Operational,Original
-bufr4/3/40/009/12/005001,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,005001,Latitud (gran precisión),,,,Operational,Original
-bufr4/3/40/009/13/005001,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,005001,Latitud (gran precisión),,,,Operational,Original
-bufr4/3/40/009/14/006001,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,006001,Longitud (gran precisión),,,,Operational,Original
-bufr4/3/40/009/15/006001,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,006001,Longitud (gran precisión),,,,Operational,Original
-bufr4/3/40/009/16/107064,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,107064,Repetir 7 descriptores 64 veces,,,,Operational,Original
-bufr4/3/40/009/17/106032,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,106032,Repetir 6 descriptores 32 veces,,,,Operational,Original
-bufr4/3/40/009/18/008012,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,008012,Calificador tierra/mar,,,,Operational,Original
-bufr4/3/40/009/19/008013,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,008013,Calificador día/noche,,,,Operational,Original
-bufr4/3/40/009/20/008065,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,008065,Indicador de destello solar,,,,Operational,Original
-bufr4/3/40/009/21/008072,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,008072,Tipo de píxel(es),,,,Operational,Original
-bufr4/3/40/009/22/013039,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,013039,Tipo de terreno (hielo/nieve),,,,Operational,Original
-bufr4/3/40/009/23/040015,40,Secuencias adicionales de los informes satelitales,340009,Índices del componente principal de la banda,,040015,Índice de vegetación diferencial normalizado (IVDN),,,,Operational,Original
+bufr4/3/40/009/1/001007,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,001007,Identificador del satélite,,,,Operational,Original
+bufr4/3/40/009/2/001031,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,001031,Identificación del centro de origen/generación,,,,Operational,Original
+bufr4/3/40/009/3/002019,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,002019,Instrumentos de satélite,,,,Operational,Original
+bufr4/3/40/009/4/002020,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,002020,Clasificación de los satélites,,,,Operational,Original
+bufr4/3/40/009/5/301011,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,301011,Año,,,,Operational,Original
+bufr4/3/40/009/6/301013,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,301013,Hora,,,,Operational,Original
+bufr4/3/40/009/7/005040,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005040,Número de órbita,,,,Operational,Original
+bufr4/3/40/009/8/201136,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201136,Cambio de anchura de datos Añadir 8 a la anchura,,,,Operational,Original
+bufr4/3/40/009/9/005041,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005041,Número de la línea de exploración,,,,Operational,Original
+bufr4/3/40/009/10/201000,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201000,Cambio de anchura de datos Anular,,,,Operational,Original
+bufr4/3/40/009/11/025071,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,025071,Número de tramas,,,,Operational,Original
+bufr4/3/40/009/12/005001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005001,Latitud (gran precisión),,,,Operational,Original
+bufr4/3/40/009/13/005001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005001,Latitud (gran precisión),,,,Operational,Original
+bufr4/3/40/009/14/006001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,006001,Longitud (gran precisión),,,,Operational,Original
+bufr4/3/40/009/15/006001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,006001,Longitud (gran precisión),,,,Operational,Original
+bufr4/3/40/009/16/107064,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,107064,Repetir 7 descriptores 64 veces,,,,Operational,Original
+bufr4/3/40/009/17/106032,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,106032,Repetir 6 descriptores 32 veces,,,,Operational,Original
+bufr4/3/40/009/18/008012,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,008012,Calificador tierra/mar,,,,Operational,Original
+bufr4/3/40/009/19/008013,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,008013,Calificador día/noche,,,,Operational,Original
+bufr4/3/40/009/20/008065,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,008065,Indicador de destello solar,,,,Operational,Original
+bufr4/3/40/009/21/008072,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,008072,Tipo de píxel(es),,,,Operational,Original
+bufr4/3/40/009/22/013039,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,013039,Tipo de terreno (hielo/nieve),,,,Operational,Original
+bufr4/3/40/009/23/040015,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,040015,Índice de vegetación diferencial normalizado (IVDN),,,,Operational,Original
 bufr4/3/40/010/1/001007,40,Secuencias adicionales de los informes satelitales,340010,(Datos OGDR de JASON-2),Satélite,001007,Identificador del satélite,,,,Operational,Original
 bufr4/3/40/010/2/002019,40,Secuencias adicionales de los informes satelitales,340010,(Datos OGDR de JASON-2),Satélite,002019,Instrumentos de satélite,,,,Operational,Original
 bufr4/3/40/010/3/001096,40,Secuencias adicionales de los informes satelitales,340010,(Datos OGDR de JASON-2),Satélite,001096,Adquisición de estación,,,,Operational,Original

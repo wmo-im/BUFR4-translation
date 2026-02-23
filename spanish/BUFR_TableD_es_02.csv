@@ -89,8 +89,8 @@ bufr4/3/02/038/1/020003,02,Secuencias meteorológicas comunes a los datos de sup
 bufr4/3/02/038/2/004024,02,Secuencias meteorológicas comunes a los datos de superficie,302038,(Tiempo presente y pasado),,004024,Período o desplazamiento de tiempo,Horas,,,Operational,Original
 bufr4/3/02/038/3/020004,02,Secuencias meteorológicas comunes a los datos de superficie,302038,(Tiempo presente y pasado),,020004,Tiempo pasado (1),,,,Operational,Original
 bufr4/3/02/038/4/020005,02,Secuencias meteorológicas comunes a los datos de superficie,302038,(Tiempo presente y pasado),,020005,Tiempo pasado (2),,,,Operational,Original
-bufr4/3/02/039/1/004024,02,Secuencias meteorológicas comunes a los datos de superficie,302039,(Tiempo presente y pasado),,004024,(Datos de insolación (de 1 hora a períodos de 24 horas)) Período o desplazamiento de tiempo,Horas,,,Operational,Original
-bufr4/3/02/039/2/014031,02,Secuencias meteorológicas comunes a los datos de superficie,302039,(Tiempo presente y pasado),,014031,Insolación total,,,,Operational,Original
+bufr4/3/02/039/1/004024,02,Secuencias meteorológicas comunes a los datos de superficie,302039,(Datos de insolación (de 1 hora a períodos de 24 horas)),,004024,(Datos de insolación (de 1 hora a períodos de 24 horas)) Período o desplazamiento de tiempo,Horas,,,Operational,Original
+bufr4/3/02/039/2/014031,02,Secuencias meteorológicas comunes a los datos de superficie,302039,(Datos de insolación (de 1 hora a períodos de 24 horas)),,014031,Insolación total,,,,Operational,Original
 bufr4/3/02/040/1/007032,02,Secuencias meteorológicas comunes a los datos de superficie,302040,(Medición de la precipitación),,007032,Altura del sensor sobre el suelo local (o la cubierta de la plataforma marina),Medición de la precipitación,,,Operational,Original
 bufr4/3/02/040/2/102002,02,Secuencias meteorológicas comunes a los datos de superficie,302040,(Medición de la precipitación),,102002,Repetir 2 descriptores 2 veces,,,,Operational,Original
 bufr4/3/02/040/3/004024,02,Secuencias meteorológicas comunes a los datos de superficie,302040,(Medición de la precipitación),,004024,Período o desplazamiento de tiempo,Horas,,,Operational,Original

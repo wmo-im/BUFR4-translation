@@ -1091,9 +1091,9 @@ bufr4/3/10/069/9/202129,10,Secuencias de los sondeos verticales (datos satelital
 bufr4/3/10/069/10/012063,10,Secuencias de los sondeos verticales (datos satelitales),310069,(Variables del canal del VASS),,012063,Temperatura de luminancia,,,,Operational,Original
 bufr4/3/10/069/11/202000,10,Secuencias de los sondeos verticales (datos satelitales),310069,(Variables del canal del VASS),,202000,Cambio de escala,Anular,,,Operational,Original
 bufr4/3/10/069/12/201000,10,Secuencias de los sondeos verticales (datos satelitales),310069,(Variables del canal del VASS),,201000,Cambio de la anchura de datos,Anular,,,Operational,Original
-bufr4/3/10/070/1/310068,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Datos de viento obtenidos por satélite) ,,310068,Variables del campo de visión del VASS,,,,Operational,Original
-bufr4/3/10/070/2/101013,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Datos de viento obtenidos por satélite) ,,101013,Repetir 1 descriptor 13 veces,,,,Operational,Original
-bufr4/3/10/070/3/310069,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Datos de viento obtenidos por satélite) ,,310069,Variables del canal del VASS,,,,Operational,Original
+bufr4/3/10/070/1/310068,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Informe de la sonda de temperatura por microondas del VASS del FY-3),,310068,Variables del campo de visión del VASS,,,,Operational,Original
+bufr4/3/10/070/2/101013,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Informe de la sonda de temperatura por microondas del VASS del FY-3),,101013,Repetir 1 descriptor 13 veces,,,,Operational,Original
+bufr4/3/10/070/3/310069,10,Secuencias de los sondeos verticales (datos satelitales),310070,(Informe de la sonda de temperatura por microondas del VASS del FY-3),,310069,Variables del canal del VASS,,,,Operational,Original
 bufr4/3/10/071/1/310068,10,Secuencias de los sondeos verticales (datos satelitales),310071,(Datos de viento obtenidos por satélite) ,,310068,Variables del campo de visión del VASS,,,,Operational,Original
 bufr4/3/10/071/2/101015,10,Secuencias de los sondeos verticales (datos satelitales),310071,(Datos de viento obtenidos por satélite) ,,101015,Repetir 1 descriptor 15 veces,,,,Operational,Original
 bufr4/3/10/071/3/310069,10,Secuencias de los sondeos verticales (datos satelitales),310071,(Datos de viento obtenidos por satélite) ,,310069,Variables del canal del VASS,,,,Operational,Original
