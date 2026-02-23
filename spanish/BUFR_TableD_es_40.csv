@@ -295,9 +295,9 @@ bufr4/3/40/009/4/002020,40,Secuencias adicionales de los informes satelitales,34
 bufr4/3/40/009/5/301011,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,301011,Año,,,,Operational,Original
 bufr4/3/40/009/6/301013,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,301013,Hora,,,,Operational,Original
 bufr4/3/40/009/7/005040,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005040,Número de órbita,,,,Operational,Original
-bufr4/3/40/009/8/201136,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201136,Cambio de anchura de datos Añadir 8 a la anchura,,,,Operational,Original
+bufr4/3/40/009/8/201136,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201136,Cambio de anchura de datos,Añadir 8 a la anchura,,,Operational,Original
 bufr4/3/40/009/9/005041,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005041,Número de la línea de exploración,,,,Operational,Original
-bufr4/3/40/009/10/201000,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201000,Cambio de anchura de datos Anular,,,,Operational,Original
+bufr4/3/40/009/10/201000,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,201000,Cambio de anchura de datos,Anular,,,Operational,Original
 bufr4/3/40/009/11/025071,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,025071,Número de tramas,,,,Operational,Original
 bufr4/3/40/009/12/005001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005001,Latitud (gran precisión),,,,Operational,Original
 bufr4/3/40/009/13/005001,40,Secuencias adicionales de los informes satelitales,340009,(Índice de vegetación diferencial normalizado (IVDN)),,005001,Latitud (gran precisión),,,,Operational,Original
