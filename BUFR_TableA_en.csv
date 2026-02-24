@@ -1,35 +1,35 @@
-CodeFigure,Meaning_en,Status
-0,Surface data - land,Operational
-1,Surface data - sea,Operational
-2,Vertical soundings (other than satellite),Operational
-3,Vertical soundings (satellite),Operational
-4,Single level upper-air data (other than satellite),Operational
-5,Single level upper-air data (satellite),Operational
-6,Radar data,Operational
-7,Synoptic features,Operational
-8,Physical/chemical constituents,Operational
-9,Dispersal and transport,Operational
-10,Radiological data,Operational
-11,"BUFR tables, complete replacement or update",Operational
-12,Surface data (satellite),Operational
-13,Forecasts,Operational
-14,Warnings,Operational
-15-19,Reserved,Operational
-20,Status information,Operational
-21,Radiances (satellite measured),Operational
-22,Radar (satellite) but not altimeter and scatterometer,Operational
-23,Lidar (satellite),Operational
-24,Scatterometry (satellite),Operational
-25,Altimetry (satellite),Operational
-26,Spectrometry (satellite),Operational
-27,Gravity measurement (satellite),Operational
-28,Precision orbit (satellite),Operational
-29,Space environment (satellite),Operational
-30,Calibration datasets (satellite),Operational
-31,Oceanographic data,Operational
-32,Lidar (ground-based),Operational
-33-100,Reserved,Operational
-101,Image data (satellite),Operational
-102-239,Reserved,Operational
-240-254,For experimental use,Operational
-255,Other category,Operational
+CodeFigure,Meaning_en,Status,translated_by
+0,Surface data - land,Operational,Original
+1,Surface data - sea,Operational,Original
+2,Vertical soundings (other than satellite),Operational,Original
+3,Vertical soundings (satellite),Operational,Original
+4,Single level upper-air data (other than satellite),Operational,Original
+5,Single level upper-air data (satellite),Operational,Original
+6,Radar data,Operational,Original
+7,Synoptic features,Operational,Original
+8,Physical/chemical constituents,Operational,Original
+9,Dispersal and transport,Operational,Original
+10,Radiological data,Operational,Original
+11,"BUFR tables, complete replacement or update",Operational,Original
+12,Surface data (satellite),Operational,Original
+13,Forecasts,Operational,Original
+14,Warnings,Operational,Original
+15-19,Reserved,Operational,Original
+20,Status information,Operational,Original
+21,Radiances (satellite measured),Operational,Original
+22,Radar (satellite) but not altimeter and scatterometer,Operational,Original
+23,Lidar (satellite),Operational,Original
+24,Scatterometry (satellite),Operational,Original
+25,Altimetry (satellite),Operational,Original
+26,Spectrometry (satellite),Operational,Original
+27,Gravity measurement (satellite),Operational,Original
+28,Precision orbit (satellite),Operational,Original
+29,Space environment (satellite),Operational,Original
+30,Calibration datasets (satellite),Operational,Original
+31,Oceanographic data,Operational,Original
+32,Lidar (ground-based),Operational,Original
+33-100,Reserved,Operational,Original
+101,Image data (satellite),Operational,Original
+102-239,Reserved,Operational,Original
+240-254,For experimental use,Operational,Original
+255,Other category,Operational,Original
