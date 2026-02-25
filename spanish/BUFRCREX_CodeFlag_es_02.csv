@@ -836,7 +836,7 @@ bufr4/0/02/159/3,002159,Instrumento MWR,3,Canal de redundancia,,,,,Operational,O
 bufr4/0/02/159/4,002159,Instrumento MWR,4,Protección de bus de potencia,,,,,Operational,Original
 bufr4/0/02/159/5,002159,Instrumento MWR,5,Protección frente a sobrevoltaje/sobrecargas,,,,,Operational,Original
 bufr4/0/02/159/6,002159,Instrumento MWR,6,Reservados,,,,,Operational,Original
-bufr4/0/02/159/7,002159,Instrumento MWR,7,Reservados,,,,,,Original
+bufr4/0/02/159/7,002159,Instrumento MWR,7,Reservados,,,,,Operational,Original
 bufr4/0/02/159/8,002159,Instrumento MWR,Los 8,Valor faltante,,,,,Operational,Original
 bufr4/0/02/160/0,002160,Longitud de onda del radar,0,Reservada,,,,,Operational,Original
 bufr4/0/02/160/1,002160,Longitud de onda del radar,1,10 a menos de 20 mm,,,,,Operational,Original
