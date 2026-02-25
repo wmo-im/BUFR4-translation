@@ -512,7 +512,7 @@ bufr4/0/20/023/12,020023,Otros fenómenos meteorológicos,12,Tromba de agua,,,,,
 bufr4/0/20/023/13,020023,Otros fenómenos meteorológicos,13,Cizalladura de viento,,,,,Operational,Original
 bufr4/0/20/023/14,020023,Otros fenómenos meteorológicos,14,Remolinos de polvo,,,,,Operational,Original
 bufr4/0/20/023/15-17,020023,Otros fenómenos meteorológicos,15-17,Reservados,,,,,Operational,Original
-bufr4/0/20/023/18,020023,Otros fenómenos meteorológicos,Los 18,Valor faltante,,,,,Operational,Original
+bufr4/0/20/023/All-18,020023,Otros fenómenos meteorológicos,Los 18,Valor faltante,,,,,Operational,Original
 bufr4/0/20/024/0,020024,Intensidad de los fenómenos,0,Ausencia de fenómenos,,,,,Operational,Original
 bufr4/0/20/024/1,020024,Intensidad de los fenómenos,1,Ligero,,,,,Operational,Original
 bufr4/0/20/024/2,020024,Intensidad de los fenómenos,2,Moderado,,,,,Operational,Original
@@ -535,7 +535,7 @@ bufr4/0/20/025/13,020025,Oscurecimiento,13,Nieve,,,,,Operational,Original
 bufr4/0/20/025/14,020025,Oscurecimiento,14,Nubes,,,,,Operational,Original
 bufr4/0/20/025/15,020025,Oscurecimiento,15,Precipitación,,,,,Operational,Original
 bufr4/0/20/025/16,020025,Oscurecimiento,16,Imposible determinar si hay o no precipitación de nieve 17–20,,,,,Operational,Original
-bufr4/0/20/025/21,020025,Oscurecimiento,Los 21,Valor faltante,,,,,Operational,Original
+bufr4/0/20/025/All-21,020025,Oscurecimiento,Los 21,Valor faltante,,,,,Operational,Original
 bufr4/0/20/026/0,020026,Carácter del oscurecimiento,0,Sin cambios,,,,,Operational,Original
 bufr4/0/20/026/1,020026,Carácter del oscurecimiento,1,Poco profundo,,,,,Operational,Original
 bufr4/0/20/026/2,020026,Carácter del oscurecimiento,2,Bancos,,,,,Operational,Original
@@ -560,7 +560,7 @@ bufr4/0/20/027/5,020027,Ocurrencia de los fenómenos*,5,Reservado,,,,,Operationa
 bufr4/0/20/027/6,020027,Ocurrencia de los fenómenos*,6,Por debajo del nivel de la estación,,,,,Operational,Original
 bufr4/0/20/027/7,020027,Ocurrencia de los fenómenos*,7,En la estación,,, (véase la Nota 1),,Operational,Original
 bufr4/0/20/027/8,020027,Ocurrencia de los fenómenos*,8,En las cercanías,,, (véase la Nota 2),,Operational,Original
-bufr4/0/20/027/9,020027,Ocurrencia de los fenómenos*,Los 9,Valor faltante,,,,,Operational,Original
+bufr4/0/20/027/All-9,020027,Ocurrencia de los fenómenos*,Los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/20/028/0,020028,Cambio esperado en intensidad,0,Ningún cambio (NC),,,,,Operational,Original
 bufr4/0/20/028/1,020028,Cambio esperado en intensidad,1,Predicción de debilitamiento (WKN),,,,,Operational,Original
 bufr4/0/20/028/2,020028,Cambio esperado en intensidad,2,Predicción de intensificación (INTSF),,,,,Operational,Original
@@ -580,7 +580,7 @@ bufr4/0/20/032/7,020032,Velocidad de acumulación del hielo (estimada),7,Valor f
 bufr4/0/20/033/1,020033,Causa de la acumulación del hielo,1,Engelamiento causado por roción oceánico,,,,,Operational,Original
 bufr4/0/20/033/2,020033,Causa de la acumulación del hielo,2,Engelamiento causado por la niebla,,,,,Operational,Original
 bufr4/0/20/033/3,020033,Causa de la acumulación del hielo,3,Engelamiento causado por la lluvia,,,,,Operational,Original
-bufr4/0/20/033/4,020033,Causa de la acumulación del hielo,Los 4,Valor faltante,,,,,Operational,Original
+bufr4/0/20/033/All-4,020033,Causa de la acumulación del hielo,Los 4,Valor faltante,,,,,Operational,Original
 bufr4/0/20/034/0,020034,Concentración del hielo marino,0,Ningún hielo a la vista,,,,,Operational,Original
 bufr4/0/20/034/1,020034,Concentración del hielo marino,1,"Buque en canal abierto con una anchura de más de 1,0 milla marina, o buque en hielo fijo con frontera superior al límite de visibilidad",,,,,Operational,Original
 bufr4/0/20/034/2,020034,Concentración del hielo marino,2,"Presencia de hielos marinos en concentraciones inferiores a 3/10 (3/8), aguas libres o hielo a la deriva muy abierto",La concentración de hielos marinos no es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
