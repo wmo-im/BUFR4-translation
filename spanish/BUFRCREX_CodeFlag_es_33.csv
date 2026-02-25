@@ -33,7 +33,7 @@ bufr4/0/33/005/21,033005,Información sobre la calidad (datos EMA),21,Datos de c
 bufr4/0/33/005/22,033005,Información sobre la calidad (datos EMA),22,Datos de evaporación/evapotranspiración sospechosos,,,,,Operational,Original
 bufr4/0/33/005/23,033005,Información sobre la calidad (datos EMA),23,Datos de insolación sospechosos,,,,,Operational,Original
 bufr4/0/33/005/24-29,033005,Información sobre la calidad (datos EMA),24-29,Reservados,,,,,Operational,Original
-bufr4/0/33/005/30,033005,Información sobre la calidad (datos EMA),Los 30,Valor faltante,,,,,Operational,Original
+bufr4/0/33/005/All-30,033005,Información sobre la calidad (datos EMA),Los 30,Valor faltante,,,,,Operational,Original
 bufr4/0/33/006/0,033006,Información interna sobre el estado de la medición (EMA),0,Ningún problema luego de la autoverificación,,,,,Operational,Original
 bufr4/0/33/006/1,033006,Información interna sobre el estado de la medición (EMA),1,"Al menos un aviso activo, sin alarmas",,,,,Operational,Original
 bufr4/0/33/006/2,033006,Información interna sobre el estado de la medición (EMA),2,Al menos una alarma activa,,,,,Operational,Original
@@ -133,7 +133,7 @@ bufr4/0/33/030/5,033030,Banderines de estado de la línea de exploración para A
 bufr4/0/33/030/6,033030,Banderines de estado de la línea de exploración para ATOVS,6,Primera hora correcta después de la puesta al día del reloj,,,,,Operational,Original
 bufr4/0/33/030/7,033030,Banderines de estado de la línea de exploración para ATOVS,7,El estado de los instrumentos cambió durante el barrido,,,,,Operational,Original
 bufr4/0/33/030/8-23,033030,Banderines de estado de la línea de exploración para ATOVS,8-23,Reservados,,,,,Operational,Original
-bufr4/0/33/030/24,033030,Banderines de estado de la línea de exploración para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/030/All-24,033030,Banderines de estado de la línea de exploración para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/031/1,033031,Banderines de calidad de la línea de exploración para ATOVS,1,"El campo horario es malo, pero puede ser inferido de la hora correcta anterior",,,,,Operational,Original
 bufr4/0/33/031/2,033031,Banderines de calidad de la línea de exploración para ATOVS,2,El campo horario es malo y no puede ser inferido de la hora correcta anterior,,,,,Operational,Original
 bufr4/0/33/031/3,033031,Banderines de calidad de la línea de exploración para ATOVS,3,"Este registro inicia una secuencia que no concuerda con las horas anteriores (es decir, discontinuidad en el tiempo). Este hecho puede estar asociado o no a una puesta al día del reloj de la sonda (véanse los banderines de estado de la línea de exploración de la sonda ATOVS)",,,,,Operational,Original
@@ -156,7 +156,7 @@ bufr4/0/33/031/19,033031,Banderines de calidad de la línea de exploración para
 bufr4/0/33/031/20,033031,Banderines de calidad de la línea de exploración para ATOVS,20,Calibración de la línea de exploración hacia el espacio,,,,,Operational,Original
 bufr4/0/33/031/21,033031,Banderines de calidad de la línea de exploración para ATOVS,21,Hacia la Tierra,,,,,Operational,Original
 bufr4/0/33/031/22-23,033031,Banderines de calidad de la línea de exploración para ATOVS,22-23,Reservados,,,,,Operational,Original
-bufr4/0/33/031/24,033031,Banderines de calidad de la línea de exploración para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/031/All-24,033031,Banderines de calidad de la línea de exploración para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/032/1,033032,Banderines de calidad del canal para ATOVS,1,Ningún cálculo correcto de cuerpo negro para la línea de exploración,,,,,Operational,Original
 bufr4/0/33/032/2,033032,Banderines de calidad del canal para ATOVS,2,Ningún cálculo correcto de visión de espacio para esta línea,,,,,Operational,Original
 bufr4/0/33/032/3,033032,Banderines de calidad del canal para ATOVS,3,Ningún dato correcto de PRT para esta línea,,,,,Operational,Original
@@ -165,12 +165,12 @@ bufr4/0/33/032/5,033032,Banderines de calidad del canal para ATOVS,5,Algunos cá
 bufr4/0/33/032/6,033032,Banderines de calidad del canal para ATOVS,6,Algunos datos del PRT son incorrectos para esta línea,,,,,Operational,Original
 bufr4/0/33/032/7,033032,Banderines de calidad del canal para ATOVS,7,La calidad de esta exploración es reducida,,,,,Operational,Original
 bufr4/0/33/032/8-23,033032,Banderines de calidad del canal para ATOVS,8-23,Reservados (bits fijos en cero),,,,,Operational,Original
-bufr4/0/33/032/24,033032,Banderines de calidad del canal para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/032/All-24,033032,Banderines de calidad del canal para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/033/1,033033,Banderines de calidad del campo de visión para ATOVS,1,Se indica 1 si se realizó una calibración secundaria,,,,,Operational,Original
 bufr4/0/33/033/2-21,033033,Banderines de calidad del campo de visión para ATOVS,2-21,El bit n indica 1 si la temperatura de luminancia en el canal n-1 no es físicamente razonable o no ha sido calculada debido a problemas de calibración,,,"Notas: 1) Si todos los bits indican 0, eso significa una buena calibración. 2) Los bits 2 a 21 se utilizan para la sonda HIRS, pero solamente se emplean los bits 2 a 16 para la sonda AMSU-A y los bits 2 a 6 para la sonda AMSU-B.",,Operational,Original
 bufr4/0/33/033/22,033033,Banderines de calidad del campo de visión para ATOVS,22,Se indica 1 si faltan todos los canales,,,,,Operational,Original
 bufr4/0/33/033/23,033033,Banderines de calidad del campo de visión para ATOVS,23,Sospechoso,,,,,Operational,Original
-bufr4/0/33/033/24,033033,Banderines de calidad del campo de visión para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/033/All-24,033033,Banderines de calidad del campo de visión para ATOVS,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/035/0,033035,Control de calidad manual/automático,0,"Control de calidad automático aceptado, sin control manual",,,,,Operational,Original
 bufr4/0/33/035/1,033035,Control de calidad manual/automático,1,"Control de calidad automático aceptado, después del control manual",,,,,Operational,Original
 bufr4/0/33/035/2,033035,Control de calidad manual/automático,2,"Control de calidad automático aceptado, pero eliminado después del control manual",,,,,Operational,Original
@@ -201,7 +201,7 @@ bufr4/0/33/037/16,033037,Error de correlación del viento,16,Blanco fuera de cas
 bufr4/0/33/037/17,033037,Error de correlación del viento,17,Blanco fuera del intervalo de máxima/mínima presión,,,,,Operational,Original
 bufr4/0/33/037/18,033037,Error de correlación del viento,18,Vector lento marcado por el autoeditor,,,,,Operational,Original
 bufr4/0/33/037/19,033037,Error de correlación del viento,19,Vectores marcados por el autoeditor,,,,,Operational,Original
-bufr4/0/33/037/20,033037,Error de correlación del viento,Los 20,Valor faltante,,,,,Operational,Original
+bufr4/0/33/037/All-20,033037,Error de correlación del viento,Los 20,Valor faltante,,,,,Operational,Original
 bufr4/0/33/038/1,033038,Banderines de calidad para datos del GNSS* basados en tierra,1,Calidad del retardo cenital total considerada deficiente,,,,,Operational,Original
 bufr4/0/33/038/2,033038,Banderines de calidad para datos del GNSS* basados en tierra,2,Satélites GALILEO utilizados,,,,,Operational,Original
 bufr4/0/33/038/3,033038,Banderines de calidad para datos del GNSS* basados en tierra,3,Satélites GLONASS utilizados,,,,,Operational,Original
@@ -211,7 +211,7 @@ bufr4/0/33/038/6,033038,Banderines de calidad para datos del GNSS* basados en ti
 bufr4/0/33/038/7,033038,Banderines de calidad para datos del GNSS* basados en tierra,7,Carga de marea oceánica aplicada,,,,,Operational,Original
 bufr4/0/33/038/8,033038,Banderines de calidad para datos del GNSS* basados en tierra,8,Proceso de datos sobre la calidad del clima,,,,,Operational,Original
 bufr4/0/33/038/9,033038,Banderines de calidad para datos del GNSS* basados en tierra,9,Proceso de datos en tiempo casi real,,,,,Operational,Original
-bufr4/0/33/038/10,033038,Banderines de calidad para datos del GNSS* basados en tierra,Los 10,Valor faltante,,,,,Operational,Original
+bufr4/0/33/038/All-10,033038,Banderines de calidad para datos del GNSS* basados en tierra,Los 10,Valor faltante,,,,,Operational,Original
 bufr4/0/33/039/1,033039,Banderines de calidad para datos de ocultación radio,1,Calidad no nominal,,,,,Operational,Original
 bufr4/0/33/039/2,033039,Banderines de calidad para datos de ocultación radio,2,Producto no en línea,,,,,Operational,Original
 bufr4/0/33/039/3,033039,Banderines de calidad para datos de ocultación radio,3,Banderín de ocultación ascendente,,,,,Operational,Original
@@ -222,7 +222,7 @@ bufr4/0/33/039/7,033039,Banderines de calidad para datos de ocultación radio,7,
 bufr4/0/33/039/8-13,033039,Banderines de calidad para datos de ocultación radio,8-13,Reservados,,,,,Operational,Original
 bufr4/0/33/039/14,033039,Banderines de calidad para datos de ocultación radio,14,"Perfil de fondo, no nominal",,,,,Operational,Original
 bufr4/0/33/039/15,033039,Banderines de calidad para datos de ocultación radio,15,"Perfil de fondo (es decir, no recobrado) presente",,,,,Operational,Original
-bufr4/0/33/039/16,033039,Banderines de calidad para datos de ocultación radio,Los 16,Valor faltante,,,,,Operational,Original
+bufr4/0/33/039/All-16,033039,Banderines de calidad para datos de ocultación radio,Los 16,Valor faltante,,,,,Operational,Original
 bufr4/0/33/041/0,033041,Atributo del valor siguiente,0,El valor siguiente es el valor verdadero,,,,,Operational,Original
 bufr4/0/33/041/1,033041,Atributo del valor siguiente,1,El valor siguiente es mayor que el valor verdadero (la medición alcanza el límite inferior del instrumento),,,,,Operational,Original
 bufr4/0/33/041/2,033041,Atributo del valor siguiente,2,El valor siguiente es menor que el valor verdadero (la medición alcanza el límite superior del instrumento),,,,,Operational,Original
@@ -238,7 +238,7 @@ bufr4/0/33/043/2,033043,Grado de confianza de la temperatura media en superficie
 bufr4/0/33/043/3,033043,Grado de confianza de la temperatura media en superficie,3,La vista del nadir contiene datos diurnos,,,,,Operational,Original
 bufr4/0/33/043/4,033043,Grado de confianza de la temperatura media en superficie,4,La vista hacia adelante contiene datos diurnos,,,,,Operational,Original
 bufr4/0/33/043/5-7,033043,Grado de confianza de la temperatura media en superficie,5-7,Reservados,,,,,Operational,Original
-bufr4/0/33/043/8,033043,Grado de confianza de la temperatura media en superficie,Los 8,Valor faltante,,,,,Operational,Original
+bufr4/0/33/043/All-8,033043,Grado de confianza de la temperatura media en superficie,Los 8,Valor faltante,,,,,Operational,Original
 bufr4/0/33/044/1,033044,Información sobre la calidad de los datos de ASAR*,1,Media de los datos entrantes fuera del banderín de alcance nominal,,,,,Operational,Original
 bufr4/0/33/044/2,033044,Información sobre la calidad de los datos de ASAR*,2,Desviación típica de los datos entrantes fuera del banderín de alcance nominal,,,,,Operational,Original
 bufr4/0/33/044/3,033044,Información sobre la calidad de los datos de ASAR*,3,Número de lagunas de datos entrantes > valor del umbral,,,,,Operational,Original
@@ -253,7 +253,7 @@ bufr4/0/33/044/11,033044,Información sobre la calidad de los datos de ASAR*,11,
 bufr4/0/33/044/12,033044,Información sobre la calidad de los datos de ASAR*,12,Recuento de iteración del corte azimutal. El corte azimutal no convergió con el número mínimo de iteraciones,,,,,Operational,Original
 bufr4/0/33/044/13,033044,Información sobre la calidad de los datos de ASAR*,13,El corte azimutal no convergió con el número mínimo de iteraciones,,,,,Operational,Original
 bufr4/0/33/044/14,033044,Información sobre la calidad de los datos de ASAR*,14,"Medida de confianza de información de fase. El máximo espectral imaginario es inferior a un umbral mínimo, o el desplazamiento de retardo nulo es superior a un umbral mínimo",,,,,Operational,Original
-bufr4/0/33/044/15,033044,Información sobre la calidad de los datos de ASAR*,Los 15,Valor faltante,,,,,Operational,Original
+bufr4/0/33/044/All-15,033044,Información sobre la calidad de los datos de ASAR*,Los 15,Valor faltante,,,,,Operational,Original
 bufr4/0/33/047/1,033047,Datos de confianza de las mediciones,1,Error detectado y efectuados intentos de recuperación,,,,,Operational,Original
 bufr4/0/33/047/2,033047,Datos de confianza de las mediciones,2,Detectada anomalía en tratamiento de datos a bordo,,,,,Operational,Original
 bufr4/0/33/047/3,033047,Datos de confianza de las mediciones,3,Detectada anomalía en proceso de oscilador ultraestable,,,,,Operational,Original
@@ -282,7 +282,7 @@ bufr4/0/33/047/27,033047,Datos de confianza de las mediciones,27,"Estado de prop
 bufr4/0/33/047/28,033047,Datos de confianza de las mediciones,28,"Estado de propagador de órbita para modo de propagación, aviso detectado",,,,,Operational,Original
 bufr4/0/33/047/29,033047,Datos de confianza de las mediciones,29,"Estado de propagador de órbita para modo de inicialización, varios errores",,,,,Operational,Original
 bufr4/0/33/047/30,033047,Datos de confianza de las mediciones,30,"Estado de propagador de órbita para modo de inicialización, aviso detectado",,,,,Operational,Original
-bufr4/0/33/047/31,033047,Datos de confianza de las mediciones,Los 31,Valor faltante,,,,,Operational,Original
+bufr4/0/33/047/All-31,033047,Datos de confianza de las mediciones,Los 31,Valor faltante,,,,,Operational,Original
 bufr4/0/33/048/0,033048,Medida de confianza de inversión SAR*,0,Inversión lograda,,,,,Operational,Original
 bufr4/0/33/048/1,033048,Medida de confianza de inversión SAR*,1,Inversión no lograda,,,,,Operational,Original
 bufr4/0/33/048/2,033048,Medida de confianza de inversión SAR*,2,Reservada,,,,,Operational,Original
@@ -303,9 +303,9 @@ bufr4/0/33/050/9,033050,Banderín de calidad mundial del GTSPP,9,Adecuado para u
 bufr4/0/33/050/10-14,033050,Banderín de calidad mundial del GTSPP,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/33/050/15,033050,Banderín de calidad mundial del GTSPP,15,Valor faltante,,,,,Operational,Original
 bufr4/0/33/052/1-20,033052,Calidad de reseguimiento de datos oceánicos en banda S,1-20,"Los primeros 20 bits menos significativos corresponden a los 20 valores (uno por cada bloque de datos que contenga 0 = medición válida, 1 = inválida). El bit 1 es aplicable al 20° bloque de datos",,,,,Operational,Original
-bufr4/0/33/052/21,033052,Calidad de reseguimiento de datos oceánicos en banda S,Los 21,Valor faltante,,,,,Operational,Original
+bufr4/0/33/052/All-21,033052,Calidad de reseguimiento de datos oceánicos en banda S,Los 21,Valor faltante,,,,,Operational,Original
 bufr4/0/33/053/1-20,033053,Calidad de reseguimiento de datos oceánicos en banda Ku,1-20,"Los primeros 20 bits menos significativos corresponden a los 20 valores (uno por cada bloque de datos que contenga 0 = medición válida, 1 = inválida). El bit 1 es aplicable al 20° bloque de datos",,,,,Operational,Original
-bufr4/0/33/053/21,033053,Calidad de reseguimiento de datos oceánicos en banda Ku,Los 21,Valor faltante,,,,,Operational,Original
+bufr4/0/33/053/All-21,033053,Calidad de reseguimiento de datos oceánicos en banda Ku,Los 21,Valor faltante,,,,,Operational,Original
 bufr4/0/33/055/1-10,033055,Banderín de calidad del vector de viento,1-10,Reservadas,,,,,Operational,Original
 bufr4/0/33/055/11,033055,Banderín de calidad del vector de viento,11,Sigma-0 oceánico no disponible para la recuperación de datos de viento,,,,,Operational,Original
 bufr4/0/33/055/12,033055,Banderín de calidad del vector de viento,12,Viento de primera aproximación no disponible,,,,,Operational,Original
@@ -320,7 +320,7 @@ bufr4/0/33/055/20,033055,Banderín de calidad del vector de viento,20,Banderín 
 bufr4/0/33/055/21,033055,Banderín de calidad del vector de viento,21,Se intenta la inversión (se fija banderín),,,,,Operational,Original
 bufr4/0/33/055/22,033055,Banderín de calidad del vector de viento,22,Se intenta la precipitación (se fija banderín),,,,,Operational,Original
 bufr4/0/33/055/23,033055,Banderín de calidad del vector de viento,23,Se detecta precipitación,,,,,Operational,Original
-bufr4/0/33/055/24,033055,Banderín de calidad del vector de viento,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/055/All-24,033055,Banderín de calidad del vector de viento,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/056/1-7,033056,Banderín de calidad Sigma-0,1-7,Reservadas,,,,,Operational,Original
 bufr4/0/33/056/8,033056,Banderín de calidad Sigma-0,8,Ascendente,,,,,Operational,Original
 bufr4/0/33/056/9,033056,Banderín de calidad Sigma-0,9,Polarización VV,,,,,Operational,Original
@@ -336,7 +336,7 @@ bufr4/0/33/056/18-20,033056,Banderín de calidad Sigma-0,18-20,Reservadas,,,,,Op
 bufr4/0/33/056/21,033056,Banderín de calidad Sigma-0,21,Hielo,,,,,Operational,Original
 bufr4/0/33/056/22,033056,Banderín de calidad Sigma-0,22,Dato faltante a una altitud-longitud dadas para el proceso de marcado de hielo marino para 2 o más días,,,,,Operational,Original
 bufr4/0/33/056/23,033056,Banderín de calidad Sigma-0,23,Contaminación hielo-océano,,,,,Operational,Original
-bufr4/0/33/056/24,033056,Banderín de calidad Sigma-0,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/056/All-24,033056,Banderín de calidad Sigma-0,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/060/0,033060,GqisFlagQual– banderín de calidad individual del sistema IASI,0,Bueno,,,,,Operational,Original
 bufr4/0/33/060/1,033060,GqisFlagQual– banderín de calidad individual del sistema IASI,1,Malo,,,,,Operational,Original
 bufr4/0/33/060/2,033060,GqisFlagQual– banderín de calidad individual del sistema IASI,2,Reservado,,,,,Operational,Original
@@ -346,7 +346,7 @@ bufr4/0/33/066/20,033066,Banderín de calidad de los AMV*,20,"Buen viento, pero 
 bufr4/0/33/066/21,033066,Banderín de calidad de los AMV*,21,"Buen viento, pero se usa un conjunto alternativo de canales para determinar la altura de la cima de las nubes/asignación de la altura de los AMV",,,,,Operational,Original
 bufr4/0/33/066/22,033066,Banderín de calidad de los AMV*,22,Fallos de restricción de la superficie de correlación,,,,,Operational,Original
 bufr4/0/33/066/23,033066,Banderín de calidad de los AMV*,23,Reservado,,,,,Operational,Original
-bufr4/0/33/066/24,033066,Banderín de calidad de los AMV*,Los 24,Valor faltante,,,,,Operational,Original
+bufr4/0/33/066/All-24,033066,Banderín de calidad de los AMV*,Los 24,Valor faltante,,,,,Operational,Original
 bufr4/0/33/070/0,033070,Calidad del contenido total de ozono,0,Toma de datos satisfactoria,,,,,Operational,Original
 bufr4/0/33/070/1,033070,Calidad del contenido total de ozono,1,Banderín de información sobre aerosoles insatisfactorio o anomalía de radiancia NOAA-16,,,,,Operational,Original
 bufr4/0/33/070/2,033070,Calidad del contenido total de ozono,2,Ángulo del cénit solar superior a 84 grados,,,,,Operational,Original
@@ -398,11 +398,11 @@ bufr4/0/33/075/3,033075,Banderines de calidad del nivel de exploración,3,No pue
 bufr4/0/33/075/4,033075,Banderines de calidad del nivel de exploración,4,"Las temperaturas medidas de todo componente de un instrumento (por ejemplo, un divisor de haz, un espejo de exploración, un deflector de exploración, etc.) quedan fuera de los intervalos permitidos (véase la Nota 2)",,,"Notas: 1) Se fija en 1 si el cálculo de la longitud de onda del láser es inválido debido a un error sistemático del diodo láser y/o a que las mediciones de temperatura del diodo láser no se ajustan a los intervalos permitidos que se han predeterminado. Estos intervalos son ajustables. En este caso, se utilizará 1 bit por barrido para el cálculo lamda. 2) Estas temperaturas se utilizan para calcular la contribución “ambiental"" a las radiancias del blanco de calibración interna. Cuando este bit se fija en 1, las temperaturas inválidas se reemplazan por los valores de temperatura validados del blanco de calibración interna.",,Operational,Original
 bufr4/0/33/075/5,033075,Banderines de calidad del nivel de exploración,5,Al menos una de las temperaturas controladas de los instrumentos ha variado más allá de un valor específico de tolerancia,,,,,Operational,Original
 bufr4/0/33/075/6-12,033075,Banderines de calidad del nivel de exploración,6-12,Reservados,,,,,Operational,Original
-bufr4/0/33/075/13,033075,Banderines de calidad del nivel de exploración,Los 13,Valor faltante,,,,,Operational,Original
+bufr4/0/33/075/All-13,033075,Banderines de calidad del nivel de exploración,Los 13,Valor faltante,,,,,Operational,Original
 bufr4/0/33/076/1,033076,Banderines de calidad de la calibración,1,Interferencia lunar en la primera visión del espacio lejano (véase la Nota),,,Nota: Se fija en 1 si al menos un espectro de la media móvil para el espacio lejano se considera no válido debido a una interferencia lunar.,,Operational,Original
 bufr4/0/33/076/2,033076,Banderines de calidad de la calibración,2,Interferencia lunar en la segunda visión del espacio lejano (véase la Nota),,,Nota: Se fija en 1 si al menos un espectro de la media móvil para el espacio lejano se considera no válido debido a una interferencia lunar.,,Operational,Original
 bufr4/0/33/076/3-8,033076,Banderines de calidad de la calibración,3-8,Reservados,,,,,Operational,Original
-bufr4/0/33/076/9,033076,Banderines de calidad de la calibración,Los 9,Valor faltante,,,,,Operational,Original
+bufr4/0/33/076/All-9,033076,Banderines de calidad de la calibración,Los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/33/077/1,033077,Banderines de calidad del campo de visión,1,Calidad degradada del registro de datos científicos,,,,,Operational,Original
 bufr4/0/33/077/2,033077,Banderines de calidad del campo de visión,2,Calidad inválida del registro de datos científicos (véase la nota 1),,,"Notas: 1) La calidad del registro de datos científicos es inválida si falla el reajuste del bit (véase el bit 12) o si se detectan errores en el cálculo de franjas (véase el bit 11), datos inválidos en el registro de datos en bruto (véase el bit 10), calibraciones radiométricas inválidas (véase el bit 5) o calibraciones espectrales inválidas (véase el bit 7). 2) La calibración radiométrica es inválida si no se realiza o si se realiza con datos de calibración inválidos (por ejemplo, cuando el tamaño de la ventana de espacio lejano es igual a 0). 3) La calibración espectral es inválida si se detecta y corrige el error en el cálculo de franjas (véase el bit 8), si la calibración de neón es dudosa y el cálculo lamda no puede actualizarse (véanse los ""Banderines de calidad del nivel de exploración"" (0 33 075) - bit 3). 4) Se fija en 0 si no se detecta ningún error en el cálculo de franjas (véase el bit 11) o si se detecta un error de cálculo pero no se corrige. 5) Se fija en 0 si es de día (ángulo cenital solar < 90°). Se fija en 1 si es de noche (ángulo cenital solar ≥90°). 6) Este banderín indica que el instrumento presenta errores de funcionamiento y que el/los interferograma(s) asociado(s) queda (n) excluido(s) del procesamiento del registro de datos científicos. 7) Este banderín indica que no se ha detectado un número significativo de franjas, desplazando la diferencia de trayecto cero (ZPD) del interferograma fuera de una ventana controlada por el instrumento, y que el interferograma queda excluido del procesamiento del registro de datos científicos.",,Operational,Original
 bufr4/0/33/077/3,033077,Banderines de calidad del campo de visión,3,Información inválida sobre el geoposicionamiento del registro de datos científicos,,,"Notas: 1) La calidad del registro de datos científicos es inválida si falla el reajuste del bit (véase el bit 12) o si se detectan errores en el cálculo de franjas (véase el bit 11), datos inválidos en el registro de datos en bruto (véase el bit 10), calibraciones radiométricas inválidas (véase el bit 5) o calibraciones espectrales inválidas (véase el bit 7). 2) La calibración radiométrica es inválida si no se realiza o si se realiza con datos de calibración inválidos (por ejemplo, cuando el tamaño de la ventana de espacio lejano es igual a 0). 3) La calibración espectral es inválida si se detecta y corrige el error en el cálculo de franjas (véase el bit 8), si la calibración de neón es dudosa y el cálculo lamda no puede actualizarse (véanse los ""Banderines de calidad del nivel de exploración"" (0 33 075) - bit 3). 4) Se fija en 0 si no se detecta ningún error en el cálculo de franjas (véase el bit 11) o si se detecta un error de cálculo pero no se corrige. 5) Se fija en 0 si es de día (ángulo cenital solar < 90°). Se fija en 1 si es de noche (ángulo cenital solar ≥90°). 6) Este banderín indica que el instrumento presenta errores de funcionamiento y que el/los interferograma(s) asociado(s) queda (n) excluido(s) del procesamiento del registro de datos científicos. 7) Este banderín indica que no se ha detectado un número significativo de franjas, desplazando la diferencia de trayecto cero (ZPD) del interferograma fuera de una ventana controlada por el instrumento, y que el interferograma queda excluido del procesamiento del registro de datos científicos.",,Operational,Original
@@ -416,7 +416,7 @@ bufr4/0/33/077/10,033077,Banderines de calidad del campo de visión,10,Datos inv
 bufr4/0/33/077/11,033077,Banderines de calidad del campo de visión,11,Error significativo en el cálculo de franjas detectado (véase la nota 7),,,"Notas: 1) La calidad del registro de datos científicos es inválida si falla el reajuste del bit (véase el bit 12) o si se detectan errores en el cálculo de franjas (véase el bit 11), datos inválidos en el registro de datos en bruto (véase el bit 10), calibraciones radiométricas inválidas (véase el bit 5) o calibraciones espectrales inválidas (véase el bit 7). 2) La calibración radiométrica es inválida si no se realiza o si se realiza con datos de calibración inválidos (por ejemplo, cuando el tamaño de la ventana de espacio lejano es igual a 0). 3) La calibración espectral es inválida si se detecta y corrige el error en el cálculo de franjas (véase el bit 8), si la calibración de neón es dudosa y el cálculo lamda no puede actualizarse (véanse los ""Banderines de calidad del nivel de exploración"" (0 33 075) - bit 3). 4) Se fija en 0 si no se detecta ningún error en el cálculo de franjas (véase el bit 11) o si se detecta un error de cálculo pero no se corrige. 5) Se fija en 0 si es de día (ángulo cenital solar < 90°). Se fija en 1 si es de noche (ángulo cenital solar ≥90°). 6) Este banderín indica que el instrumento presenta errores de funcionamiento y que el/los interferograma(s) asociado(s) queda (n) excluido(s) del procesamiento del registro de datos científicos. 7) Este banderín indica que no se ha detectado un número significativo de franjas, desplazando la diferencia de trayecto cero (ZPD) del interferograma fuera de una ventana controlada por el instrumento, y que el interferograma queda excluido del procesamiento del registro de datos científicos.",,Operational,Original
 bufr4/0/33/077/12,033077,Banderines de calidad del campo de visión,12,Falla de reajuste del bit,,,,,Operational,Original
 bufr4/0/33/077/13-18,033077,Banderines de calidad del campo de visión,13-18,Reservados,,,,,Operational,Original
-bufr4/0/33/077/19,033077,Banderines de calidad del campo de visión,Los 19,Valor faltante,,,,,Operational,Original
+bufr4/0/33/077/All-19,033077,Banderines de calidad del campo de visión,Los 19,Valor faltante,,,,,Operational,Original
 bufr4/0/33/078/0,033078,Calidad del geoposicionamiento,0,Nominal - datos de altitud y efemérides disponibles,,,,,Operational,Original
 bufr4/0/33/078/1,033078,Calidad del geoposicionamiento,1,"Falta, como máximo, una pequeña laguna de datos de altitud y efemérides",,,,,Operational,Original
 bufr4/0/33/078/2,033078,Calidad del geoposicionamiento,2,"Falta más que una pequeña laguna de datos de altitud y efemérides, pero no más que una separación de granulado",,,,,Operational,Original
@@ -434,7 +434,7 @@ bufr4/0/33/079/12,033079,Banderines de calidad del nivel granulado,12,Los númer
 bufr4/0/33/079/13,033079,Banderines de calidad del nivel granulado,13,Los números 56 a 63 no superaron la prueba de buen funcionamiento,,,,,Operational,Original
 bufr4/0/33/079/14,033079,Banderines de calidad del nivel granulado,14,Los números 64 a 70 no superaron la prueba de buen funcionamiento,,,,,Operational,Original
 bufr4/0/33/079/15,033079,Banderines de calidad del nivel granulado,15,Corrección cuadrática aplicada a la función de transferencia radiométrica para la corrección no lineal,,,,,Operational,Original
-bufr4/0/33/079/Todo-16,033079,Banderines de calidad del nivel granulado,Todo 16,Valor faltante,,,,,Operational,Original
+bufr4/0/33/079/All-16,033079,Banderines de calidad del nivel granulado,Todo 16,Valor faltante,,,,,Operational,Original
 bufr4/0/33/080/1-6,033080,Banderines de calidad del nivel de exploración,1-6,Reservados,,,,,Operational,Original
 bufr4/0/33/080/7,033080,Banderines de calidad del nivel de exploración,7,La condición dividir por cero o el lazo de cálculo no convergieron en la PRT* de la banda K/Ka y V (KAV),,,,,Operational,Original
 bufr4/0/33/080/8,033080,Banderines de calidad del nivel de exploración,8,La condición dividir por cero o el lazo de cálculo no convergieron en la PRT de la banda WG,,,,,Operational,Original
@@ -449,7 +449,7 @@ bufr4/0/33/080/16,033080,Banderines de calidad del nivel de exploración,16,Sufi
 bufr4/0/33/080/17,033080,Banderines de calidad del nivel de exploración,17,Suficiencia de la PRT de WG: disponibilidad insuficiente de datos de PRT WG,,,,,Operational,Original
 bufr4/0/33/080/18,033080,Banderines de calidad del nivel de exploración,18,Error en la orientación de la antena hacia el espacio,,,,,Operational,Original
 bufr4/0/33/080/19,033080,Banderines de calidad del nivel de exploración,19,Error en la orientación de la antena hacia el cuerpo negro,,,,,Operational,Original
-bufr4/0/33/080/Todo-20,033080,Banderines de calidad del nivel de exploración,Todo 20,Valor faltante,,,,,Operational,Original
+bufr4/0/33/080/All-20,033080,Banderines de calidad del nivel de exploración,Todo 20,Valor faltante,,,,,Operational,Original
 bufr4/0/33/081/1-2,033081,Banderines de calidad de los datos del canal,1-2,Reservados,,,,,Operational,Original
 bufr4/0/33/081/3,033081,Banderines de calidad de los datos del canal,3,Visión de espacio de la luna,,,,,Operational,Original
 bufr4/0/33/081/4,033081,Banderines de calidad de los datos del canal,4,Error de ganancia: el cálculo del cuerpo negro es inferior o igual al cálculo de visión de espacio más elevado en una exploración,,,,,Operational,Original
@@ -460,7 +460,7 @@ bufr4/0/33/081/8,033081,Banderines de calidad de los datos del canal,8,Condició
 bufr4/0/33/081/9,033081,Banderines de calidad de los datos del canal,9,Condición fuera de la gama de valores para la visión del cuerpo negro,,,,,Operational,Original
 bufr4/0/33/081/10,033081,Banderines de calidad de los datos del canal,10,Incoherencia de la visión de espacio,,,,,Operational,Original
 bufr4/0/33/081/11,033081,Banderines de calidad de los datos del canal,11,Incoherencia de la visión del cuerpo negro,,,,,Operational,Original
-bufr4/0/33/081/Todo-12,033081,Banderines de calidad de los datos del canal,Todo 12,Valor faltante,,,,,Operational,Original
+bufr4/0/33/081/All-12,033081,Banderines de calidad de los datos del canal,Todo 12,Valor faltante,,,,,Operational,Original
 bufr4/0/33/082/1-5,033082,Banderines de calidad del geoposicionamiento,1-5,Reservados,,,,,Operational,Original
 bufr4/0/33/082/6,033082,Banderines de calidad del geoposicionamiento,6,Dentro de la anomalía del Atlántico sur,,,,,Operational,Original
 bufr4/0/33/082/7,033082,Banderines de calidad del geoposicionamiento,7,Datos de entrada no válidos (indica que cualquiera de los datos sobre las efemérides o la posición de las aeronaves no son válidos),,,,,Operational,Original
@@ -472,7 +472,7 @@ bufr4/0/33/082/12,033082,Banderines de calidad del geoposicionamiento,12,"Falta 
 bufr4/0/33/082/13,033082,Banderines de calidad del geoposicionamiento,13,Falta más de una separación de granulado de datos de altitud y efemérides,,,,,Operational,Original
 bufr4/0/33/082/14,033082,Banderines de calidad del geoposicionamiento,14,El número de valores de impulso del codificador por tiempo delta no es el previsto,,,,,Operational,Original
 bufr4/0/33/082/15,033082,Banderines de calidad del geoposicionamiento,15,Eclipse solar durante exploración hacia la Tierra,,,,,Operational,Original
-bufr4/0/33/082/Todo-16,033082,Banderines de calidad del geoposicionamiento,Todo 16,Valor faltante,,,,,Operational,Original
+bufr4/0/33/082/All-16,033082,Banderines de calidad del geoposicionamiento,Todo 16,Valor faltante,,,,,Operational,Original
 bufr4/0/33/083/1-5,033083,Banderines de calidad de los datos de radiancia,1-5,Reservados,,,,,Operational,Original
 bufr4/0/33/083/6,033083,Banderines de calidad de los datos de radiancia,6,Píxel afectado por interferencia de radiofrecuencia,,,,,Operational,Original
 bufr4/0/33/083/7,033083,Banderines de calidad de los datos de radiancia,7,"Calidad de calibración deficiente debido a desviaciones de la visión de espacio, desviaciones de visión según calibración a bordo (OBC), etc. o utilización de una visión de calibración anterior",,,,,Operational,Original
@@ -484,7 +484,7 @@ bufr4/0/33/083/12,033083,Banderines de calidad de los datos de radiancia,12,La l
 bufr4/0/33/083/13,033083,Banderines de calidad de los datos de radiancia,13,Las datos de exploración están ausentes (no hay datos válidos),,,,,Operational,Original
 bufr4/0/33/083/14,033083,Banderines de calidad de los datos de radiancia,14,La calidad de esta línea de exploración es reducida. El valor lo determinan el número de pasos combinados necesarios para encontrar un elemento sustitutivo de los datos de origen de termistor o calibración,,,,,Operational,Original
 bufr4/0/33/083/15,033083,Banderines de calidad de los datos de radiancia,15,Sensor defectuoso,,,,,Operational,Original
-bufr4/0/33/083/Todo-16,033083,Banderines de calidad de los datos de radiancia,Todo 16,Valor faltante,,,,,Operational,Original
+bufr4/0/33/083/All-16,033083,Banderines de calidad de los datos de radiancia,Todo 16,Valor faltante,,,,,Operational,Original
 bufr4/0/33/084/1-5,033084,Banderines de calidad del nivel del pixel,1-5,Reservados,,,,,Operational,Original
 bufr4/0/33/084/6,033084,Banderines de calidad del nivel del pixel,6,TSM global fuera del intervalo de validación,,,,,Operational,Original
 bufr4/0/33/084/7,033084,Banderines de calidad del nivel del pixel,7,TSM somera fuera del intervalo de validación,,,,,Operational,Original
@@ -496,7 +496,7 @@ bufr4/0/33/084/12,033084,Banderines de calidad del nivel del pixel,12,"Exclusió
 bufr4/0/33/084/13,033084,Banderines de calidad del nivel del pixel,13,Presencia de reflexión especular del Sol en el píxel,,,,,Operational,Original
 bufr4/0/33/084/14,033084,Banderines de calidad del nivel del pixel,14,Rebasado el umbral de concentración de hielo (TSM no recuperada debido a que la concentración de hielo rebasa el umbral en las especificaciones del sistema),,,,,Operational,Original
 bufr4/0/33/084/15,033084,Banderines de calidad del nivel del pixel,15,Cirro de escaso grosor detectado en el píxel,,,,,Operational,Original
-bufr4/0/33/084/16,033084,Banderines de calidad del nivel del pixel,Los 16,Valor faltante,,,,,Operational,Original
+bufr4/0/33/084/All-16,033084,Banderines de calidad del nivel del pixel,Los 16,Valor faltante,,,,,Operational,Original
 bufr4/0/33/085/1-3,033085,Banderines de calidad del espesor óptico de aerosol,1-3,Reservados,,,,,Operational,Original
 bufr4/0/33/085/4,033085,Banderines de calidad del espesor óptico de aerosol,4,El exponente de Angstrom está fuera del intervalo de especificación del sistema,,,,,Operational,Original
 bufr4/0/33/085/5,033085,Banderines de calidad del espesor óptico de aerosol,5,"Excluido, el exponente de Angstrom para el espesor óptico de aerosol a 550 nm < 0,15",,,,,Operational,Original
@@ -512,7 +512,7 @@ bufr4/0/33/085/14,033085,Banderines de calidad del espesor óptico de aerosol,14
 bufr4/0/33/085/15,033085,Banderines de calidad del espesor óptico de aerosol,15,Nube adyacente a célula,,,,,Operational,Original
 bufr4/0/33/085/16,033085,Banderines de calidad del espesor óptico de aerosol,16,Contaminación de la nube en célula,,,,,Operational,Original
 bufr4/0/33/085/17,033085,Banderines de calidad del espesor óptico de aerosol,17,El espesor óptico de aerosol está fuera del intervalo de especificación del sistema,,,,,Operational,Original
-bufr4/0/33/085/Todo-18,033085,Banderines de calidad del espesor óptico de aerosol,Todo 18,Valor faltante,,,,,Operational,Original
+bufr4/0/33/085/All-18,033085,Banderines de calidad del espesor óptico de aerosol,Todo 18,Valor faltante,,,,,Operational,Original
 bufr4/0/33/086/0,033086,Recuperación de la calidad del nivel del pixel,0,No recuperada,,,,,Operational,Original
 bufr4/0/33/086/1,033086,Recuperación de la calidad del nivel del pixel,1,Excluida,,,,,Operational,Original
 bufr4/0/33/086/2,033086,Recuperación de la calidad del nivel del pixel,2,Degradada,,,,,Operational,Original
@@ -543,7 +543,7 @@ bufr4/0/33/088/14,033088,Banderines de calidad de la columna total de ozono,14,�
 bufr4/0/33/088/15,033088,Banderines de calidad de la columna total de ozono,15,Los residuos no son coherentes (indica si los residuos de las 22 longitudes de onda son coherentes),,,,,Operational,Original
 bufr4/0/33/088/16,033088,Banderines de calidad de la columna total de ozono,16,La selección del triplete 03 no es coherente en el triplete de ozono recuperado (coherencia),,,,,Operational,Original
 bufr4/0/33/088/17,033088,Banderines de calidad de la columna total de ozono,17,La calidad de los datos entrantes no es buena,,,,,Operational,Original
-bufr4/0/33/088/Todo-18,033088,Banderines de calidad de la columna total de ozono,Todo 18,Valor faltante,,,,,Operational,Original
+bufr4/0/33/088/All-18,033088,Banderines de calidad de la columna total de ozono,Todo 18,Valor faltante,,,,,Operational,Original
 bufr4/0/33/092/1,033092,Banderín de calidad oceánica de banda específica,1,Altímetro en funcionamiento,,,,,Operational,Original
 bufr4/0/33/092/2,033092,Banderín de calidad oceánica de banda específica,2,Radiómetro de microondas en funcionamiento,,,,,Operational,Original
 bufr4/0/33/092/3-8,033092,Banderín de calidad oceánica de banda específica,3-8,Reservadas,,,,,Operational,Original
@@ -569,4 +569,4 @@ bufr4/0/33/093/20,033093,Banderines de calidad ampliados para datos del GNSS ter
 bufr4/0/33/093/21,033093,Banderines de calidad ampliados para datos del GNSS terrestres,21,Proceso de datos en tiempo casi real,,,,,Operational,Original
 bufr4/0/33/093/22,033093,Banderines de calidad ampliados para datos del GNSS terrestres,22,Proceso de datos en tiempo real,,,,,Operational,Original
 bufr4/0/33/093/23-30,033093,Banderines de calidad ampliados para datos del GNSS terrestres,23-30,Reservado,,,,,Operational,Original
-bufr4/0/33/093/31,033093,Banderines de calidad ampliados para datos del GNSS terrestres,Los 31,Valor faltante,,,,,Operational,Original
+bufr4/0/33/093/All-31,033093,Banderines de calidad ampliados para datos del GNSS terrestres,Los 31,Valor faltante,,,,,Operational,Original
