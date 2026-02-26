@@ -168,26 +168,26 @@ bufr4/0/02/024/2,002024,Método de cálculo de la humedad media integrada,2,Téc
 bufr4/0/02/024/3-14,002024,Método de cálculo de la humedad media integrada,3-14,Reservadas,,,,,Operational,Original
 bufr4/0/02/024/15,002024,Método de cálculo de la humedad media integrada,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/025/1,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,1,Reservado,"Los banderines de bits indican el instrumento y/o canales utilizados para obtener diversos parámetros físicos. Cuando, en cualquier grupo de parámetros, todos los bits = 0, no se efectúa recuperación respecto a ese parámetro o serie de parámetros.",,,,Operational,Original
-bufr4/0/02/025,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 1 - Agua precipitable para las capas: superficie hasta 700 hPa, 700 a 500 hPa, y 500 a 300 hPa",,,,,Operational,Original
+bufr4/0/02/025//1,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 1 - Agua precipitable para las capas: superficie hasta 700 hPa, 700 a 500 hPa, y 500 a 300 hPa",,,,,Operational,Original
 bufr4/0/02/025/2,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,2,HIRS,,,,,Operational,Original
 bufr4/0/02/025/3,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,3,MSU,,,,,Operational,Original
 bufr4/0/02/025/4-5,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,4-5,Reservados,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,Grupo 2 - Temperatura y presión tropopáusicas,,,,,Operational,Original
+bufr4/0/02/025//2,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,Grupo 2 - Temperatura y presión tropopáusicas,,,,,Operational,Original
 bufr4/0/02/025/6,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,6,HIRS,,,,,Operational,Original
 bufr4/0/02/025/7,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,7,MSU,,,,,Operational,Original
 bufr4/0/02/025/8-9,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,8-9,Reservados,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,Grupo 3 - Total de ozono,,,,,Operational,Original
+bufr4/0/02/025//3,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,Grupo 3 - Total de ozono,,,,,Operational,Original
 bufr4/0/02/025/10,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,10,"HIRS (1, 2, 3, 8, 9, 16, 17)",,,,,Operational,Original
 bufr4/0/02/025/11,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,11,"HIRS (1, 2, 3, 9, 17)",,,,,Operational,Original
 bufr4/0/02/025/12,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,12,MSU,,,,,Operational,Original
 bufr4/0/02/025/13-14,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,13-14,Reservados,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 4 - Temperatura media para las capas: superficie hasta 850 hPa, 850 a 700 hPa, 700 a 500 hPa, 500 a 400 hPa, 400 a 300 hPa, 300 a 200 hPa, y 200 a 100 hPa",,,,,Operational,Original
+bufr4/0/02/025//4,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 4 - Temperatura media para las capas: superficie hasta 850 hPa, 850 a 700 hPa, 700 a 500 hPa, 500 a 400 hPa, 400 a 300 hPa, 300 a 200 hPa, y 200 a 100 hPa",,,,,Operational,Original
 bufr4/0/02/025/15,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,15,HIRS,,,,,Operational,Original
 bufr4/0/02/025/16,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,16,HIRS,,,*,,Operational,Original
 bufr4/0/02/025/17,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,17,MSU,,,,,Operational,Original
 bufr4/0/02/025/18,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,18,SKINTK (únicamente océano),,,,,Operational,Original
 bufr4/0/02/025/19-20,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,19-20,Reservados,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 5 - Combinaciones de canales utilizadas para obtener temperaturas medias de las capas: 100 a 70 hPa, 70 a 50 hPa, 50 a 30 hPa, 30 a 10 hPa, 10 a 5 hPa, 5 a 2 hPa, 2 a 1 hPa, 1 a 0,4 hPa",,,,,Operational,Original
+bufr4/0/02/025//5,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 5 - Combinaciones de canales utilizadas para obtener temperaturas medias de las capas: 100 a 70 hPa, 70 a 50 hPa, 50 a 30 hPa, 30 a 10 hPa, 10 a 5 hPa, 5 a 2 hPa, 2 a 1 hPa, 1 a 0,4 hPa",,,,,Operational,Original
 bufr4/0/02/025/21,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,21,HIRS,,,*,,Operational,Original
 bufr4/0/02/025/22,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,22,SSU,,,* Valor relegado. Utilícese en su lugar la cifra de clave 6.,,Operational,Original
 bufr4/0/02/025/23,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,23,"MSU (3, 4)",,,,,Operational,Original

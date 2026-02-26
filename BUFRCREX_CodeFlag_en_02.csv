@@ -189,18 +189,18 @@ bufr4/0/02/025//2,002025,Satellite channel(s) used in computation,,Group 2 - Tro
 bufr4/0/02/025/6,002025,Satellite channel(s) used in computation,6,HIRS,,,,,Operational,Original
 bufr4/0/02/025/7,002025,Satellite channel(s) used in computation,7,MSU,,,,,Operational,Original
 bufr4/0/02/025/8-9,002025,Satellite channel(s) used in computation,8-9,Reserved,,,,,Operational,Original
-bufr4/0/02/025,002025,Satellite channel(s) used in computation,,Group 3 - Total ozone,,,,,Operational,Original
+bufr4/0/02/025//3,002025,Satellite channel(s) used in computation,,Group 3 - Total ozone,,,,,Operational,Original
 bufr4/0/02/025/10,002025,Satellite channel(s) used in computation,10,"HIRS (1, 2, 3, 8, 9, 16, 17)",,,,,Operational,Original
 bufr4/0/02/025/11,002025,Satellite channel(s) used in computation,11,"HIRS (1, 2, 3, 9, 17)",,,,,Operational,Original
 bufr4/0/02/025/12,002025,Satellite channel(s) used in computation,12,MSU,,,,,Operational,Original
 bufr4/0/02/025/13-14,002025,Satellite channel(s) used in computation,13-14,Reserved,,,,,Operational,Original
-bufr4/0/02/025,002025,Satellite channel(s) used in computation,,"Group 4 - Mean temperature for the layers: surface to 850 hPa, 850 to 700 hPa, 700 to 500 hPa, 500 to 400 hPa, 400 to 300 hPa, 300 to 200 hPa, and 200 to 100 hPa",,,,,Operational,Original
+bufr4/0/02/025//4,002025,Satellite channel(s) used in computation,,"Group 4 - Mean temperature for the layers: surface to 850 hPa, 850 to 700 hPa, 700 to 500 hPa, 500 to 400 hPa, 400 to 300 hPa, 300 to 200 hPa, and 200 to 100 hPa",,,,,Operational,Original
 bufr4/0/02/025/15,002025,Satellite channel(s) used in computation,15,HIRS,,,,,Operational,Original
 bufr4/0/02/025/16,002025,Satellite channel(s) used in computation,16,HIRS*,,,(see Note 2),47,Operational,Original
 bufr4/0/02/025/17,002025,Satellite channel(s) used in computation,17,MSU,,,,,Operational,Original
 bufr4/0/02/025/18,002025,Satellite channel(s) used in computation,18,SKINTK (ocean only),,,,,Operational,Original
 bufr4/0/02/025/19-20,002025,Satellite channel(s) used in computation,19-20,Reserved,,,,,Operational,Original
-bufr4/0/02/025,002025,Satellite channel(s) used in computation,,"Group 5 - Channel combinations used to obtain mean temperatures for the layers 100 to 70 hPa, 70 to 50 hPa, 50 to 30 hPa, 30 to 10 hPa, 10 to 5 hPa, 5 to 2 hPa, 2 to 1 hPa, 1 to 0.4 hPa",,,,,Operational,Original
+bufr4/0/02/025//5,002025,Satellite channel(s) used in computation,,"Group 5 - Channel combinations used to obtain mean temperatures for the layers 100 to 70 hPa, 70 to 50 hPa, 50 to 30 hPa, 30 to 10 hPa, 10 to 5 hPa, 5 to 2 hPa, 2 to 1 hPa, 1 to 0.4 hPa",,,,,Operational,Original
 bufr4/0/02/025/21,002025,Satellite channel(s) used in computation,21,HIRS,,,(see Note 2),47,Operational,Original
 bufr4/0/02/025/22,002025,Satellite channel(s) used in computation,22,SSU,,,,,Operational,Original
 bufr4/0/02/025/23,002025,Satellite channel(s) used in computation,23,"MSU (3, 4)",,,,,Operational,Original

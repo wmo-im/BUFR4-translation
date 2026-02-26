@@ -1,12 +1,12 @@
 Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
-bufr4/0/20/003,020003,Tiempo presente,,00-49 Sin precipitaciones en la estación en el momento de la observación,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"00-19 Sin precipitación, niebla, niebla helada (excepto para 11 y 12), tempestad de polvo, tempestad de arena, ventisca alta o baja en la estación* en el momento de la observación o, excepto para 09 y 17, durante la hora precedente",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"00-03 Sin presencia de meteoros, excepto fotometeoro",,,,,Operational,Original
+bufr4/0/20/003//1,020003,Tiempo presente,,00-49 Sin precipitaciones en la estación en el momento de la observación,,,,,Operational,Original
+bufr4/0/20/003//2,020003,Tiempo presente,,"00-19 Sin precipitación, niebla, niebla helada (excepto para 11 y 12), tempestad de polvo, tempestad de arena, ventisca alta o baja en la estación* en el momento de la observación o, excepto para 09 y 17, durante la hora precedente",,,,,Operational,Original
+bufr4/0/20/003//3,020003,Tiempo presente,,"00-03 Sin presencia de meteoros, excepto fotometeoro",,,,,Operational,Original
 bufr4/0/20/003/00,020003,Tiempo presente,00,Ningún desarrollo nuboso fue observado o pudo ser observado,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/01,020003,Tiempo presente,01,Nubes que en general van disipándose,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/02,020003,Tiempo presente,02,Estado del cielo sin cambios en su conjunto,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/03,020003,Tiempo presente,03,Nubes en formación o en desarrollo,Variación característica del estado del cielo o haciéndose menos espesas en el curso de la hora precedente,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"04-09 Bruma, polvo, arena o humo",,,,,Operational,Original
+bufr4/0/20/003//4,020003,Tiempo presente,,"04-09 Bruma, polvo, arena o humo",,,,,Operational,Original
 bufr4/0/20/003/04,020003,Tiempo presente,04,"Visibilidad reducida por humo, por ejemplo fuego de maleza o incendio de bosques, humo industrial o cenizas volcánicas",,,,,Operational,Original
 bufr4/0/20/003/05,020003,Tiempo presente,05,Bruma,,,,,Operational,Original
 bufr4/0/20/003/06,020003,Tiempo presente,06,"Polvo en suspensión en el aire, que abarca gran extensión, no levantado por el viento en la estación o en sus alrededores, en el momento de la observación",,,,,Operational,Original
@@ -23,7 +23,7 @@ bufr4/0/20/003/16,020003,Tiempo presente,16,"Precipitación a la vista, que lleg
 bufr4/0/20/003/17,020003,Tiempo presente,17,"Tormenta, pero sin precipitación en el momento de la observación",,,,,Operational,Original
 bufr4/0/20/003/18,020003,Tiempo presente,18,Turbonadas,en la estación o a la vista durante la hora precedente o en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/19,020003,Tiempo presente,19,Nubes con forma de embudo**,en la estación o a la vista durante la hora precedente o en el momento de la observación,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"20-29 Precipitación, niebla, niebla helada o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",,,,,Operational,Original
+bufr4/0/20/003//5,020003,Tiempo presente,,"20-29 Precipitación, niebla, niebla helada o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",,,,,Operational,Original
 bufr4/0/20/003/20,020003,Tiempo presente,20,Llovizna (no engelante) o cinarra,no en forma de chubasco(s),,,,Operational,Original
 bufr4/0/20/003/21,020003,Tiempo presente,21,Lluvia (no engelante),no en forma de chubasco(s),,,,Operational,Original
 bufr4/0/20/003/22,020003,Tiempo presente,22,Nieve,no en forma de chubasco(s),,,,Operational,Original
@@ -34,7 +34,7 @@ bufr4/0/20/003/26,020003,Tiempo presente,26,Chubasco(s) de nieve o de lluvia y n
 bufr4/0/20/003/27,020003,Tiempo presente,27,"Chubasco(s) de granizo*, o de lluvia y granizo*",,,,,Operational,Original
 bufr4/0/20/003/28,020003,Tiempo presente,28,Niebla o niebla helada,,,,,Operational,Original
 bufr4/0/20/003/29,020003,Tiempo presente,29,Tormenta (con o sin precipitación),,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"30-39 Tempestad de polvo, tempestad de arena, ventisca baja o alta",,,,,Operational,Original
+bufr4/0/20/003//6,020003,Tiempo presente,,"30-39 Tempestad de polvo, tempestad de arena, ventisca baja o alta",,,,,Operational,Original
 bufr4/0/20/003/30,020003,Tiempo presente,30,Tempestad de polvo de arena débil o moderada,ha disminuido en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/31,020003,Tiempo presente,31,Tempestad de polvo de arena débil o moderada,sin cambio apreciable en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/32,020003,Tiempo presente,32,Tempestad de polvo de arena débil o moderada,ha comenzado o ha aumentado en el curso de la hora precedente,,,,Operational,Original
@@ -45,7 +45,7 @@ bufr4/0/20/003/36,020003,Tiempo presente,36,Ventisca débil o moderada,generalme
 bufr4/0/20/003/37,020003,Tiempo presente,37,Ventisca fuerte,generalmente baja (por debajo del nivel de la vista del observador),,,,Operational,Original
 bufr4/0/20/003/38,020003,Tiempo presente,38,Ventisca débil o moderada,generalmente alta (por encima del nivel de la vista del observador),,,,Operational,Original
 bufr4/0/20/003/39,020003,Tiempo presente,39,Ventisca fuerte,generalmente alta (por encima del nivel de la vista del observador),,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,40-49 Niebla o niebla helada en el momento de la observación,,,,,Operational,Original
+bufr4/0/20/003//7,020003,Tiempo presente,,40-49 Niebla o niebla helada en el momento de la observación,,,,,Operational,Original
 bufr4/0/20/003/40,020003,Tiempo presente,40,"Niebla o niebla helada a la distancia en el momento de la observación, pero no en la estación durante la hora precedente; la niebla o niebla helada se extiende hasta un nivel superior al del observador",,,,,Operational,Original
 bufr4/0/20/003/41,020003,Tiempo presente,41,Niebla o niebla helada en bancos,,,,,Operational,Original
 bufr4/0/20/003/42,020003,Tiempo presente,42,"Niebla o niebla helada, cielo visible",ha disminuido en el curso de la hora precedente,,,,Operational,Original
@@ -56,8 +56,8 @@ bufr4/0/20/003/46,020003,Tiempo presente,46,"Niebla o niebla helada, cielo visib
 bufr4/0/20/003/47,020003,Tiempo presente,47,"Niebla o niebla helada, cielo invisible",ha comenzado o se ha espesado en el curso de la hora precedente,,,,Operational,Original
 bufr4/0/20/003/48,020003,Tiempo presente,48,"Niebla que deposita cencellada blanca, cielo visible",,,,,Operational,Original
 bufr4/0/20/003/49,020003,Tiempo presente,49,"Niebla que deposita cencellada blanca, cielo invisible",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,50-99 Precipitación en la estación en el momento de la observación,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,50-59 Llovizna,,,,,Operational,Original
+bufr4/0/20/003//8,020003,Tiempo presente,,50-99 Precipitación en la estación en el momento de la observación,,,,,Operational,Original
+bufr4/0/20/003//9,020003,Tiempo presente,,50-59 Llovizna,,,,,Operational,Original
 bufr4/0/20/003/50,020003,Tiempo presente,50,"Llovizna intermitente, no engelante",débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/51,020003,Tiempo presente,51,"Llovizna continua, no engelante",débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/52,020003,Tiempo presente,52,"Llovizna intermitente, no engelante",moderada en el momento de la observación,,,,Operational,Original
@@ -68,7 +68,7 @@ bufr4/0/20/003/56,020003,Tiempo presente,56,"Llovizna débil, engelante",,,,,Ope
 bufr4/0/20/003/57,020003,Tiempo presente,57,Llovizna moderada o fuerte (densa) engelante,,,,,Operational,Original
 bufr4/0/20/003/58,020003,Tiempo presente,58,"Llovizna y lluvia, débil",,,,,Operational,Original
 bufr4/0/20/003/59,020003,Tiempo presente,59,"Llovizna y lluvia, moderada o fuerte",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,60-69 Lluvia,,,,,Operational,Original
+bufr4/0/20/003//10,020003,Tiempo presente,,60-69 Lluvia,,,,,Operational,Original
 bufr4/0/20/003/60,020003,Tiempo presente,60,"Lluvia intermitente, no engelante",débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/61,020003,Tiempo presente,61,"Lluvia continua, no engelante",débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/62,020003,Tiempo presente,62,"Lluvia intermitente, no engelante",moderada en el momento de la observación,,,,Operational,Original
@@ -79,7 +79,7 @@ bufr4/0/20/003/66,020003,Tiempo presente,66,"Lluvia débil, engelante",,,,,Opera
 bufr4/0/20/003/67,020003,Tiempo presente,67,"Lluvia moderada o fuerte, engelante",,,,,Operational,Original
 bufr4/0/20/003/68,020003,Tiempo presente,68,"Lluvia y nieve o llovizna y nieve, débil",,,,,Operational,Original
 bufr4/0/20/003/69,020003,Tiempo presente,69,"Lluvia y nieve o llovizna y nieve, moderada o fuerte",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"70-79 Precipitación sólida, pero no en forma de chubasco",,,,,Operational,Original
+bufr4/0/20/003//11,020003,Tiempo presente,,"70-79 Precipitación sólida, pero no en forma de chubasco",,,,,Operational,Original
 bufr4/0/20/003/70,020003,Tiempo presente,70,Caída intermitente de copos de nieve,débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/71,020003,Tiempo presente,71,Caída continua de copos de nieve,débil en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/72,020003,Tiempo presente,72,Caída intermitente de copos de nieve,moderada en el momento de la observación,,,,Operational,Original
@@ -90,7 +90,7 @@ bufr4/0/20/003/76,020003,Tiempo presente,76,Prismas de hielo (con niebla o sin e
 bufr4/0/20/003/77,020003,Tiempo presente,77,Granos de nieve (cinarra) (con niebla o sin ella),,,,,Operational,Original
 bufr4/0/20/003/78,020003,Tiempo presente,78,Cristales de nieve aislados en forma de estrella (con niebla o sin ella),,,,,Operational,Original
 bufr4/0/20/003/79,020003,Tiempo presente,79,Hielo granulado,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,80-99 Precipitación en forma de chubascos o precipitación con tormenta o después de una tormenta,,,,,Operational,Original
+bufr4/0/20/003//12,020003,Tiempo presente,,80-99 Precipitación en forma de chubascos o precipitación con tormenta o después de una tormenta,,,,,Operational,Original
 bufr4/0/20/003/80,020003,Tiempo presente,80,"Chubasco(s) de lluvia, débil(es)",,,,,Operational,Original
 bufr4/0/20/003/81,020003,Tiempo presente,81,"Chubasco(s) de lluvia, moderado(s) o fuerte(s)",,,,,Operational,Original
 bufr4/0/20/003/82,020003,Tiempo presente,82,"Chubasco(s) de lluvia, violento(s)",,,,,Operational,Original
@@ -111,7 +111,7 @@ bufr4/0/20/003/96,020003,Tiempo presente,96,"Tormenta débil o moderada, con gra
 bufr4/0/20/003/97,020003,Tiempo presente,97,"Tormenta fuerte sin granizo*, pero con lluvia y/o nieve",Tormenta en el momento de la en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/98,020003,Tiempo presente,98,Tormenta con tempestad de polvo o de arena en el momento de la observación,Tormenta en el momento de la en el momento de la observación,,,,Operational,Original
 bufr4/0/20/003/99,020003,Tiempo presente,99,"Tormenta fuerte, con granizo*, en el momento de la observación",Tormenta en el momento de la en el momento de la observación,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Tiempo presente notificado desde una estación automática,,,,,Operational,Original
+bufr4/0/20/003//13,020003,Tiempo presente,,Tiempo presente notificado desde una estación automática,,,,,Operational,Original
 bufr4/0/20/003/100,020003,Tiempo presente,100,No fue observado ningún tiempo significativo,,,,,Operational,Original
 bufr4/0/20/003/101,020003,Tiempo presente,101,Nubes en disolución o haciéndose menos espesas en el curso de la hora precedente,,,,,Operational,Original
 bufr4/0/20/003/102,020003,Tiempo presente,102,Estado del cielo sin cambios en su conjunto en el curso de la hora precedente,,,,,Operational,Original
@@ -125,7 +125,7 @@ bufr4/0/20/003/112,020003,Tiempo presente,112,Relámpagos distantes,,,,,Operatio
 bufr4/0/20/003/113-117,020003,Tiempo presente,113-117,Reservadas,,,,,Operational,Original
 bufr4/0/20/003/118,020003,Tiempo presente,118,Turbonada,,,,,Operational,Original
 bufr4/0/20/003/119,020003,Tiempo presente,119,Reservada,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"Las cifras de clave 120–126 se utilizan para informar sobre precipitación, niebla (o niebla helada) o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",,,,,Operational,Original
+bufr4/0/20/003//14,020003,Tiempo presente,,"Las cifras de clave 120–126 se utilizan para informar sobre precipitación, niebla (o niebla helada) o tormenta en la estación en el curso de la hora precedente pero no en el momento de la observación",,,,,Operational,Original
 bufr4/0/20/003/120,020003,Tiempo presente,120,Niebla,,,,,Operational,Original
 bufr4/0/20/003/121,020003,Tiempo presente,121,PRECIPITACIÓN,,,,,Operational,Original
 bufr4/0/20/003/122,020003,Tiempo presente,122,Llovizna (no engelante) o cinarra,,,,,Operational,Original
@@ -202,8 +202,8 @@ bufr4/0/20/003/195,020003,Tiempo presente,195,"Tormenta, fuerte, con chubascos d
 bufr4/0/20/003/196,020003,Tiempo presente,196,"Tormenta, fuerte, con granizo",,,,,Operational,Original
 bufr4/0/20/003/197-198,020003,Tiempo presente,197-198,Reservadas,,,,,Operational,Original
 bufr4/0/20/003/199,020003,Tiempo presente,199,Tornado,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Tiempo presente (además del tiempo presente notificado desde una estación automática o con dotación de personal),,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 200-209,,,,,Operational,Original
+bufr4/0/20/003//15,020003,Tiempo presente,,Tiempo presente (además del tiempo presente notificado desde una estación automática o con dotación de personal),,,,,Operational,Original
+bufr4/0/20/003//16,020003,Tiempo presente,,Decilos 200-209,,,,,Operational,Original
 bufr4/0/20/003/200-203,020003,Tiempo presente,200-203,No utilizadas,,,,,Operational,Original
 bufr4/0/20/003/204,020003,Tiempo presente,204,Cenizas volcánicas en suspensión a gran altitud,,,,,Operational,Original
 bufr4/0/20/003/205,020003,Tiempo presente,205,No utilizada,,,,,Operational,Original
@@ -211,7 +211,7 @@ bufr4/0/20/003/206,020003,Tiempo presente,206,"Calima espesa de polvo, visibilid
 bufr4/0/20/003/207,020003,Tiempo presente,207,Ventisca de rociones en la estación,,,,,Operational,Original
 bufr4/0/20/003/208,020003,Tiempo presente,208,Ventisca de polvo baja (arena),,,,,Operational,Original
 bufr4/0/20/003/209,020003,Tiempo presente,209,Muro de polvo o arena a distancia (como el haboob),,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 210-219,,,,,Operational,Original
+bufr4/0/20/003//17,020003,Tiempo presente,,Decilos 210-219,,,,,Operational,Original
 bufr4/0/20/003/210,020003,Tiempo presente,210,Calima de nieve,,,,,Operational,Original
 bufr4/0/20/003/211,020003,Tiempo presente,211,Resplandor blanco,,,,,Operational,Original
 bufr4/0/20/003/212,020003,Tiempo presente,212,No utilizada,,,,,Operational,Original
@@ -220,7 +220,7 @@ bufr4/0/20/003/214-216,020003,Tiempo presente,214-216,No utilizadas,,,,,Operatio
 bufr4/0/20/003/217,020003,Tiempo presente,217,Tormenta seca,,,,,Operational,Original
 bufr4/0/20/003/218,020003,Tiempo presente,218,No utilizada,,,,,Operational,Original
 bufr4/0/20/003/219,020003,Tiempo presente,219,Nube de tornado (devastadora) en la estación o a la vista de ésta observada en la hora anterior o en el momento de la observación,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 220-229,,,,,Operational,Original
+bufr4/0/20/003//18,020003,Tiempo presente,,Decilos 220-229,,,,,Operational,Original
 bufr4/0/20/003/220,020003,Tiempo presente,220,Depósito de cenizas volcánicas,,,,,Operational,Original
 bufr4/0/20/003/221,020003,Tiempo presente,221,Depósito de polvo o arena,,,,,Operational,Original
 bufr4/0/20/003/222,020003,Tiempo presente,222,Depósito de rocío,,,,,Operational,Original
@@ -231,11 +231,11 @@ bufr4/0/20/003/226,020003,Tiempo presente,226,Depósito de escarcha,,,,,Operatio
 bufr4/0/20/003/227,020003,Tiempo presente,227,Depósito de cencellada transparente,,,,,Operational,Original
 bufr4/0/20/003/228,020003,Tiempo presente,228,Depósito de costra de hielo (hielo liso),,,,,Operational,Original
 bufr4/0/20/003/229,020003,Tiempo presente,229,No utilizada,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 230-239,,,,,Operational,Original
+bufr4/0/20/003//19,020003,Tiempo presente,,Decilos 230-239,,,,,Operational,Original
 bufr4/0/20/003/230,020003,Tiempo presente,230,Tempestad de polvo o de arena con temperatura inferior a 0°C,,,,,Operational,Original
 bufr4/0/20/003/231-238,020003,Tiempo presente,231-238,No utilizadas,,,,,Operational,Original
 bufr4/0/20/003/239,020003,Tiempo presente,239,"Ventisca de nieve, imposibilidad de determinar si la nieve cae o no",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 240-249,,,,,Operational,Original
+bufr4/0/20/003//20,020003,Tiempo presente,,Decilos 240-249,,,,,Operational,Original
 bufr4/0/20/003/240,020003,Tiempo presente,240,No utilizada,,,,,Operational,Original
 bufr4/0/20/003/241,020003,Tiempo presente,241,Niebla en el mar,,,,,Operational,Original
 bufr4/0/20/003/242,020003,Tiempo presente,242,Niebla en valles,,,,,Operational,Original
@@ -246,7 +246,7 @@ bufr4/0/20/003/246,020003,Tiempo presente,246,Niebla sobre la capa de hielo o el
 bufr4/0/20/003/247,020003,Tiempo presente,247,"Niebla densa, visibilidad 60–90 m",,,,,Operational,Original
 bufr4/0/20/003/248,020003,Tiempo presente,248,"Niebla densa, visibilidad 30–60 m",,,,,Operational,Original
 bufr4/0/20/003/249,020003,Tiempo presente,249,"Niebla densa, visibilidad inferior a 30 m",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 250-259,,,,,Operational,Original
+bufr4/0/20/003//21,020003,Tiempo presente,,Decilos 250-259,,,,,Operational,Original
 bufr4/0/20/003/250,020003,Tiempo presente,250,"Llovizna, velocidad de la caída - menos de 0,10 mm h¯¹ - menos de 0,10 mm h¯¹",,,,,Operational,Original
 bufr4/0/20/003/251,020003,Tiempo presente,251,"Llovizna, velocidad de la caída - 0,10–0,19 mm h-1 - 0,10–0,19 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/252,020003,Tiempo presente,252,"Llovizna, velocidad de la caída - 0,20–0,39 mm h-1 - 0,20–0,39 mm h-1",,,,,Operational,Original
@@ -257,7 +257,7 @@ bufr4/0/20/003/256,020003,Tiempo presente,256,"Llovizna, velocidad de la caída 
 bufr4/0/20/003/257,020003,Tiempo presente,257,"Llovizna, velocidad de la caída - 6,4 mm h¯¹ o más - 6,4 mm h¯¹ o más",,,,,Operational,Original
 bufr4/0/20/003/258,020003,Tiempo presente,258,"Lluvia, intensidad - menos de 1,0 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/259,020003,Tiempo presente,259,"Lluvia, intensidad - 1,0–1,9 mm h-1",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"Lluvia, intensidad - 2,0–3,9 mm h-1",,,,,Operational,Original
+bufr4/0/20/003//22,020003,Tiempo presente,,"Lluvia, intensidad - 2,0–3,9 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/260,020003,Tiempo presente,260,"Lluvia, intensidad - 4,0–7,9 mm h-1 - menos de 1,0 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/261,020003,Tiempo presente,261,"Lluvia, intensidad - 8,0–15,9 mm h-1 - 1,0–1,9 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/262,020003,Tiempo presente,262,"Lluvia, intensidad - 16,0–31,9 mm h-1 - 2,0–3,9 mm h-1",,,,,Operational,Original
@@ -267,7 +267,7 @@ bufr4/0/20/003/265,020003,Tiempo presente,265,"Nevada, intensidad - menos de 1,0
 bufr4/0/20/003/266,020003,Tiempo presente,266,"Nevada, intensidad - 1,0–1,9 cm h-1 - 32,0–63,9 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/267,020003,Tiempo presente,267,"Nevada, intensidad - 2,0–3,9 cm h-1 - 64,0 mm h-¹ o más",,,,,Operational,Original
 bufr4/0/20/003/268-269,020003,Tiempo presente,268-269,"Nevada, intensidad - 4,0–7,9 cm h-1",,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,"Nevada, intensidad - 8,0–15,9 cm h-1",,,,,Operational,Original
+bufr4/0/20/003//23,020003,Tiempo presente,,"Nevada, intensidad - 8,0–15,9 cm h-1",,,,,Operational,Original
 bufr4/0/20/003/270,020003,Tiempo presente,270,"Nevada, intensidad - 16,0–31,9 cm h-1 - menos de 1,0 cm h-1",,,,,Operational,Original
 bufr4/0/20/003/271,020003,Tiempo presente,271,"Nevada, intensidad - 32,0–63,9 cm h-1 - 1,0–1,9 cm h-1",,,,,Operational,Original
 bufr4/0/20/003/272,020003,Tiempo presente,272,"Nevada, intensidad - 64,0 cm h¯¹ o más - 2,0–3,9 cm h-1",,,,,Operational,Original
@@ -278,7 +278,7 @@ bufr4/0/20/003/276,020003,Tiempo presente,276,"Nevada, intensidad - 32,0–63,9 
 bufr4/0/20/003/277,020003,Tiempo presente,277,"Nevada, intensidad - 64,0 cm h¯¹ o más",,,,,Operational,Original
 bufr4/0/20/003/278,020003,Tiempo presente,278,Precipitación de cristales de nieve o hielo con cielo despejado,,,,,Operational,Original
 bufr4/0/20/003/279,020003,Tiempo presente,279,Aguanieve engelante al contacto,,,,,Operational,Original
-bufr4/0/20/003,020003,Tiempo presente,,Decilos 280-299,,,,,Operational,Original
+bufr4/0/20/003//24,020003,Tiempo presente,,Decilos 280-299,,,,,Operational,Original
 bufr4/0/20/003/280,020003,Tiempo presente,280,Precipitación de lluvia,,,,,Operational,Original
 bufr4/0/20/003/281,020003,Tiempo presente,281,"Precipitación de lluvia, engelante",,,,,Operational,Original
 bufr4/0/20/003/282,020003,Tiempo presente,282,Precipitación de lluvia y nieve mezcladas,,,,,Operational,Original
@@ -923,18 +923,18 @@ bufr4/0/20/105/9,020105,Tamaño del enjambre o banda de langostas y duración de
 bufr4/0/20/105/10-14,020105,Tamaño del enjambre o banda de langostas y duración de su paso,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/105/15,020105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/105/0,020105,Tamaño del enjambre o banda de langostas y duración de su paso,0,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
-bufr4/0/20/105/1,020105,Tamaño del enjambre o banda de langostas y duración de su paso,1,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
-bufr4/0/20/105/2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,2,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
-bufr4/0/20/105/3,020105,Tamaño del enjambre o banda de langostas y duración de su paso,3,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
-bufr4/0/20/105/4,020105,Tamaño del enjambre o banda de langostas y duración de su paso,4,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
-bufr4/0/20/105/5,020105,Tamaño del enjambre o banda de langostas y duración de su paso,5,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
-bufr4/0/20/105/6,020105,Tamaño del enjambre o banda de langostas y duración de su paso,6,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
-bufr4/0/20/105/7,020105,Tamaño del enjambre o banda de langostas y duración de su paso,7,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
-bufr4/0/20/105/8,020105,Tamaño del enjambre o banda de langostas y duración de su paso,8,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
-bufr4/0/20/105/9,020105,Tamaño del enjambre o banda de langostas y duración de su paso,9,Más de una bandada de langostas,,,,,Operational,Original
+bufr4/0/20/105/1//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,1,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
+bufr4/0/20/105/2//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,2,"Bandada pequeña inferior a 1 km² o adultos en tierra, decenas o centenas de individuos visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
+bufr4/0/20/105/3//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,3,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
+bufr4/0/20/105/4//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,4,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
+bufr4/0/20/105/5//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,5,"Bandada mediana o adultos dispersos, varios especímenes visibles simultáneamente, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
+bufr4/0/20/105/6//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,6,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace menos de una hora",,,,,Operational,Original
+bufr4/0/20/105/7//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,7,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace entre 1 y 6 horas",,,,,Operational,Original
+bufr4/0/20/105/8//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,8,"Bandada grande o adultos aislados, observados solos, cuyo paso fue registrado hace más 6 de horas",,,,,Operational,Original
+bufr4/0/20/105/9//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,9,Más de una bandada de langostas,,,,,Operational,Original
 bufr4/0/20/105/10,020105,Tamaño del enjambre o banda de langostas y duración de su paso,10,Tamaño de la bandada y/o duración de su paso no determinados por causa de la oscuridad o de fenómenos análogos,,,,,Operational,Original
 bufr4/0/20/105/11-14,020105,Tamaño del enjambre o banda de langostas y duración de su paso,11-14,Reservadas,,,,,Operational,Original
-bufr4/0/20/105/15,020105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,,,,,Operational,Original
+bufr4/0/20/105/15//2,020105,Tamaño del enjambre o banda de langostas y duración de su paso,15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/106/0,020106,Densidad de la población de langostas,0,Reservada,,,,,Operational,Original
 bufr4/0/20/106/1,020106,Densidad de la población de langostas,1,Bandada de densidad escasa (visible solo desde una proximidad que permita distinguir las langostas),,,,,Operational,Original
 bufr4/0/20/106/2,020106,Densidad de la población de langostas,2,Bandada de densidad media,,,,,Operational,Original
