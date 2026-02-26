@@ -181,11 +181,11 @@ bufr4/0/02/024/2,002024,Integrated mean humidity computational method,2,Regressi
 bufr4/0/02/024/3-14,002024,Integrated mean humidity computational method,3-14,Reserved,,,,,Operational,Original
 bufr4/0/02/024/15,002024,Integrated mean humidity computational method,15,Missing value,,,,,Operational,Original
 bufr4/0/02/025/1,002025,Satellite channel(s) used in computation,1,Reserved,,,,,Operational,Original
-bufr4/0/02/025,002025,Satellite channel(s) used in computation,,"Group 1 - Layer precipitable water for the layers: surface to 700 hPa, 700 to 500 hPa, and 500 to 300 hPa",,,,,Operational,Original
+bufr4/0/02/025//1,002025,Satellite channel(s) used in computation,,"Group 1 - Layer precipitable water for the layers: surface to 700 hPa, 700 to 500 hPa, and 500 to 300 hPa",,,,,Operational,Original
 bufr4/0/02/025/2,002025,Satellite channel(s) used in computation,2,HIRS,,,,,Operational,Original
 bufr4/0/02/025/3,002025,Satellite channel(s) used in computation,3,MSU,,,,,Operational,Original
 bufr4/0/02/025/4-5,002025,Satellite channel(s) used in computation,4-5,Reserved,,,,,Operational,Original
-bufr4/0/02/025,002025,Satellite channel(s) used in computation,,Group 2 - Tropopause temperature and pressure,,,,,Operational,Original
+bufr4/0/02/025//2,002025,Satellite channel(s) used in computation,,Group 2 - Tropopause temperature and pressure,,,,,Operational,Original
 bufr4/0/02/025/6,002025,Satellite channel(s) used in computation,6,HIRS,,,,,Operational,Original
 bufr4/0/02/025/7,002025,Satellite channel(s) used in computation,7,MSU,,,,,Operational,Original
 bufr4/0/02/025/8-9,002025,Satellite channel(s) used in computation,8-9,Reserved,,,,,Operational,Original
