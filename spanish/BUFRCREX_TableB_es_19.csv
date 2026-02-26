@@ -1,10 +1,10 @@
 Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
 bufr4/0/19/001,19,Características sinópticas,019001,Tipo de característica sinóptica,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/19/002,19,Características sinópticas,019002,Radio efectivo de la característica (véase la nota 1),m,-2,0,12,m,-2,4,,,Operational,Original
-bufr4/0/19/003,19,Características sinópticas,019003,Umbral de la velocidad del viento (véase la nota 2),m s⁻¹,0,0,8,m s⁻¹,0,3,,,Operational,Original
-bufr4/0/19/004,19,Características sinópticas,019004,Radio efectivo de las velocidades del viento por encima del umbral (véase la nota 2),m,-2,0,12,m,-2,4,,,Operational,Original
-bufr4/0/19/005,19,Características sinópticas,019005,Dirección del desplazamiento de la característica (véase la nota 3),grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/19/006,19,Características sinópticas,019006,Velocidad del desplazamiento de la característica (véase la nota 3),m s⁻¹,2,0,14,m s⁻¹,2,5,,,Operational,Original
+bufr4/0/19/002,19,Características sinópticas,019002,Radio efectivo de la característica (véase la nota 1),m,-2,0,12,m,-2,4,,138,Operational,Original
+bufr4/0/19/003,19,Características sinópticas,019003,Umbral de la velocidad del viento (véase la nota 2),m s⁻¹,0,0,8,m s⁻¹,0,3,,99,Operational,Original
+bufr4/0/19/004,19,Características sinópticas,019004,Radio efectivo de las velocidades del viento por encima del umbral (véase la nota 2),m,-2,0,12,m,-2,4,,99,Operational,Original
+bufr4/0/19/005,19,Características sinópticas,019005,Dirección del desplazamiento de la característica (véase la nota 3),grado verdadero,0,0,9,grado verdadero,0,3,,73,Operational,Original
+bufr4/0/19/006,19,Características sinópticas,019006,Velocidad del desplazamiento de la característica (véase la nota 3),m s⁻¹,2,0,14,m s⁻¹,2,5,,73,Operational,Original
 bufr4/0/19/007,19,Características sinópticas,019007,Radio efectivo de la característica,m,-3,0,12,m,-3,4,,,Operational,Original
 bufr4/0/19/008,19,Características sinópticas,019008,Extensión vertical de la circulación,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/19/009,19,Características sinópticas,019009,Radio efectivo con respecto a velocidad del viento por encima del umbral (tormentas importantes),m,-3,0,12,m,-3,4,,,Operational,Original

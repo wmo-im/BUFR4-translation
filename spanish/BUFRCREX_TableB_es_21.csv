@@ -49,7 +49,7 @@ bufr4/0/21/084,21,Datos de radar,021084,Calibración de objetivo frío,Numérica
 bufr4/0/21/085,21,Datos de radar,021085,Número de bandas transversales del radiómetro ATSR para la exploración de la temperatura de la superficie del mar,Numérica,0,0,4,Numérica,0,2,,,Operational,Original
 bufr4/0/21/086,21,Datos de radar,021086,"Número de píxeles en el nadir solamente, promedio",Numérica,0,0,9,Numérica,0,3,,,Operational,Original
 bufr4/0/21/087,21,Datos de radar,021087,"Número de píxeles en vista dual, promedio",Numérica,0,0,9,Numérica,0,3,,,Operational,Original
-bufr4/0/21/088,21,Datos de radar,021088,Retrodifusor húmedo,dB,0,-5000,13,dB,2,4,,,Operational,Original
+bufr4/0/21/088,21,Datos de radar,021088,Retrodifusor húmedo,dB,2,-5000,13,dB,2,4,,,Operational,Original
 bufr4/0/21/091,21,Datos de radar,021091,Momento 0 del espectro Doppler de la señal del radar,dB,0,-100,8,dB,0,3,,,Operational,Original
 bufr4/0/21/092,21,Datos de radar,021092,"Momento 0 del espectro Doppler de la señal RASS (sistema de sondeo radio-acústico), con referencia a la señal RASS",dB,0,-100,8,dB,0,3,,,Operational,Original
 bufr4/0/21/093,21,Datos de radar,021093,Máximas de la banda Ku,Numérica,3,0,16,Numérica,3,5,,,Operational,Original
@@ -136,4 +136,4 @@ bufr4/0/21/185,21,Datos de radar,021185,Corrección instrumental neta en banda e
 bufr4/0/21/186,21,Datos de radar,021186,Control automático de gacia en banda específica,dB,2,0,13,dB,2,4,,,Operational,Original
 bufr4/0/21/187,21,Datos de radar,021187,Media cuadrática del control automático de gacia específica,dB,2,0,8,dB,2,3,,,Operational,Original
 bufr4/0/21/188,21,Datos de radar,021188,Número de puntos válidos respecto del control automático de gacia en banda específica,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/21/189,21,Datos de radar,021189,Coeficiente corregido de retrodispersión del desplazamiento del centro de gravedad (referencia negativa),dB,2,-32768,16,dB,2,6,,,Operational,Original
+bufr4/0/21/189,21,Datos de radar,021189,Coeficiente corregido de retrodispersión del desplazamiento del centro de gravedad (referencia negativa),dB,2,-32768,16,dB,2,6,,11,Operational,Original
