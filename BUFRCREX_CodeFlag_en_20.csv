@@ -1,12 +1,12 @@
 Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status,translated_by
-bufr4/0/20/003,020003,Present weather,,00-49     No precipitation at the station at the time of observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"00-19     No precipitation, fog, ice fog (except for 11 and 12), duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 and 17, during the preceding hour",,,(see Note 4),77,Operational,Original
-bufr4/0/20/003,020003,Present weather,,00-03     No meteors except photometeors,,,,,Operational,Original
+bufr4/0/20/003//1,020003,Present weather,,00-49     No precipitation at the station at the time of observation,,,,,Operational,Original
+bufr4/0/20/003//2,020003,Present weather,,"00-19     No precipitation, fog, ice fog (except for 11 and 12), duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 and 17, during the preceding hour",,,(see Note 4),77,Operational,Original
+bufr4/0/20/003//3,020003,Present weather,,00-03     No meteors except photometeors,,,,,Operational,Original
 bufr4/0/20/003/00,020003,Present weather,00,Cloud development not observed or not observable,Characteristic change of the state of sky during the past hour,,,,Operational,Original
 bufr4/0/20/003/01,020003,Present weather,01,Clouds generally dissolving or becoming less developed,Characteristic change of the state of sky during the past hour,,,,Operational,Original
 bufr4/0/20/003/02,020003,Present weather,02,State of sky on the whole unchanged,Characteristic change of the state of sky during the past hour,,,,Operational,Original
 bufr4/0/20/003/03,020003,Present weather,03,Clouds generally forming or developing,Characteristic change of the state of sky during the past hour,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"04-09     Haze, dust, sand or smoke",,,,,Operational,Original
+bufr4/0/20/003//4,020003,Present weather,,"04-09     Haze, dust, sand or smoke",,,,,Operational,Original
 bufr4/0/20/003/04,020003,Present weather,04,"Visibility reduced by smoke, e.g. veldt or forest fires, industrial smoke or volcanic ashes",,,,,Operational,Original
 bufr4/0/20/003/05,020003,Present weather,05,Haze,,,,,Operational,Original
 bufr4/0/20/003/06,020003,Present weather,06,"Widespread dust in suspension in the air, not raised by wind at or near the station at the time of observation",,,,,Operational,Original
@@ -23,7 +23,7 @@ bufr4/0/20/003/16,020003,Present weather,16,"Precipitation within sight, reachin
 bufr4/0/20/003/17,020003,Present weather,17,"Thunderstorm, but no precipitation at the time of observation",,,,,Operational,Original
 bufr4/0/20/003/18,020003,Present weather,18,Squalls,at or within sight of the station during the preceding hour or at the time of observation,,,,Operational,Original
 bufr4/0/20/003/19,020003,Present weather,19,Funnel cloud(s),at or within sight of the station during the preceding hour or at the time of observation,,(see Note 5),89,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"20-29     Precipitation, fog, ice fog or thunderstorm at the station during the preceding hour but not at the time of observation",,,,,Operational,Original
+bufr4/0/20/003//5,020003,Present weather,,"20-29     Precipitation, fog, ice fog or thunderstorm at the station during the preceding hour but not at the time of observation",,,,,Operational,Original
 bufr4/0/20/003/20,020003,Present weather,20,Drizzle (not freezing) or snow grains,not falling as shower(s),,,,Operational,Original
 bufr4/0/20/003/21,020003,Present weather,21,Rain (not freezing),not falling as shower(s),,,,Operational,Original
 bufr4/0/20/003/22,020003,Present weather,22,Snow,not falling as shower(s),,,,Operational,Original
@@ -34,7 +34,7 @@ bufr4/0/20/003/26,020003,Present weather,26,"Shower(s) of snow, or of rain and s
 bufr4/0/20/003/27,020003,Present weather,27,"Shower(s) of hail, or of rain and hail",,,(see Note 6),46,Operational,Original
 bufr4/0/20/003/28,020003,Present weather,28,Fog or ice fog,,,,,Operational,Original
 bufr4/0/20/003/29,020003,Present weather,29,Thunderstorm (with or without precipitation),,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"30-39     Duststorm, sandstorm, drifting or blowing snow",,,,,Operational,Original
+bufr4/0/20/003//6,020003,Present weather,,"30-39     Duststorm, sandstorm, drifting or blowing snow",,,,,Operational,Original
 bufr4/0/20/003/30,020003,Present weather,30,Slight or moderate duststorm or sandstorm,has decreased during the preceding hour,,,,Operational,Original
 bufr4/0/20/003/31,020003,Present weather,31,Slight or moderate duststorm or sandstorm,no appreciable change during the preceding hour,,,,Operational,Original
 bufr4/0/20/003/32,020003,Present weather,32,Slight or moderate duststorm or sandstorm,has begun or has increased during the preceding hour,,,,Operational,Original
@@ -45,7 +45,7 @@ bufr4/0/20/003/36,020003,Present weather,36,Slight or moderate drifting snow,gen
 bufr4/0/20/003/37,020003,Present weather,37,Heavy drifting snow,generally low (below eye level),,,,Operational,Original
 bufr4/0/20/003/38,020003,Present weather,38,Slight or moderate blowing snow,generally high (above eye level),,,,Operational,Original
 bufr4/0/20/003/39,020003,Present weather,39,Heavy blowing snow,generally high (above eye level),,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,40-49     Fog or ice fog at the time of observation,,,,,Operational,Original
+bufr4/0/20/003//7,020003,Present weather,,40-49     Fog or ice fog at the time of observation,,,,,Operational,Original
 bufr4/0/20/003/40,020003,Present weather,40,"Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer",,,,,Operational,Original
 bufr4/0/20/003/41,020003,Present weather,41,Fog or ice fog in patches,,,,,Operational,Original
 bufr4/0/20/003/42,020003,Present weather,42,"Fog or ice fog, sky visible",has become thinner during the preceding hour,,,,Operational,Original
@@ -56,8 +56,8 @@ bufr4/0/20/003/46,020003,Present weather,46,"Fog or ice fog, sky visible",has be
 bufr4/0/20/003/47,020003,Present weather,47,"Fog or ice fog, sky invisible",has begun or has become thicker during the preceding hour,,,,Operational,Original
 bufr4/0/20/003/48,020003,Present weather,48,"Fog, depositing rime, sky visible",,,,,Operational,Original
 bufr4/0/20/003/49,020003,Present weather,49,"Fog, depositing rime, sky invisible",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,50-99     Precipitation at the station at the time of observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,50-59     Drizzle,,,,,Operational,Original
+bufr4/0/20/003//8,020003,Present weather,,50-99     Precipitation at the station at the time of observation,,,,,Operational,Original
+bufr4/0/20/003//9,020003,Present weather,,50-59     Drizzle,,,,,Operational,Original
 bufr4/0/20/003/50,020003,Present weather,50,"Drizzle, not freezing, intermittent",slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/51,020003,Present weather,51,"Drizzle, not freezing, continuous",slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/52,020003,Present weather,52,"Drizzle, not freezing, intermittent",moderate at time of observation,,,,Operational,Original
@@ -68,7 +68,7 @@ bufr4/0/20/003/56,020003,Present weather,56,"Drizzle, freezing, slight",,,,,Oper
 bufr4/0/20/003/57,020003,Present weather,57,"Drizzle, freezing, moderate or heavy (dense)",,,,,Operational,Original
 bufr4/0/20/003/58,020003,Present weather,58,"Drizzle and rain, slight",,,,,Operational,Original
 bufr4/0/20/003/59,020003,Present weather,59,"Drizzle and rain, moderate or heavy",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,60-69     Rain,,,,,Operational,Original
+bufr4/0/20/003//10,020003,Present weather,,60-69     Rain,,,,,Operational,Original
 bufr4/0/20/003/60,020003,Present weather,60,"Rain, not freezing, intermittent",slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/61,020003,Present weather,61,"Rain, not freezing, continuous",slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/62,020003,Present weather,62,"Rain, not freezing, intermittent",moderate at time of observation,,,,Operational,Original
@@ -79,7 +79,7 @@ bufr4/0/20/003/66,020003,Present weather,66,"Rain, freezing, slight",,,,,Operati
 bufr4/0/20/003/67,020003,Present weather,67,"Rain, freezing, moderate or heavy",,,,,Operational,Original
 bufr4/0/20/003/68,020003,Present weather,68,"Rain or drizzle and snow, slight",,,,,Operational,Original
 bufr4/0/20/003/69,020003,Present weather,69,"Rain or drizzle and snow, moderate or heavy",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,70-79     Solid precipitation not in showers,,,,,Operational,Original
+bufr4/0/20/003//11,020003,Present weather,,70-79     Solid precipitation not in showers,,,,,Operational,Original
 bufr4/0/20/003/70,020003,Present weather,70,Intermittent fall of snowflakes,slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/71,020003,Present weather,71,Continuous fall of snowflakes,slight at time of observation,,,,Operational,Original
 bufr4/0/20/003/72,020003,Present weather,72,Intermittent fall of snowflakes,moderate at time of observation,,,,Operational,Original
@@ -90,7 +90,7 @@ bufr4/0/20/003/76,020003,Present weather,76,Diamond dust (with or without fog),,
 bufr4/0/20/003/77,020003,Present weather,77,Snow grains (with or without fog),,,,,Operational,Original
 bufr4/0/20/003/78,020003,Present weather,78,Isolated star-like snow crystals (with or without fog),,,,,Operational,Original
 bufr4/0/20/003/79,020003,Present weather,79,Ice pellets,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"80-99     Showery precipitation, or precipitation with current or recent thunderstorm",,,,,Operational,Original
+bufr4/0/20/003//12,020003,Present weather,,"80-99     Showery precipitation, or precipitation with current or recent thunderstorm",,,,,Operational,Original
 bufr4/0/20/003/80,020003,Present weather,80,"Rain shower(s), slight",,,,,Operational,Original
 bufr4/0/20/003/81,020003,Present weather,81,"Rain shower(s), moderate or heavy",,,,,Operational,Original
 bufr4/0/20/003/82,020003,Present weather,82,"Rain shower(s), violent",,,,,Operational,Original
@@ -111,7 +111,7 @@ bufr4/0/20/003/96,020003,Present weather,96,"Thunderstorm, slight or moderate, w
 bufr4/0/20/003/97,020003,Present weather,97,"Thunderstorm, heavy, without hail, but with rain and/or snow at time of observation",Thunderstorm at time of observation,,(see Note 6),46,Operational,Original
 bufr4/0/20/003/98,020003,Present weather,98,Thunderstorm combined with duststorm or sandstorm at time of observation,Thunderstorm at time of observation,,,,Operational,Original
 bufr4/0/20/003/99,020003,Present weather,99,"Thunderstorm, heavy, with hail at time of observation",Thunderstorm at time of observation,,(see Note 6),46,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Present weather reported from an automatic weather station,,,,,Operational,Original
+bufr4/0/20/003//13,020003,Present weather,,Present weather reported from an automatic weather station,,,,,Operational,Original
 bufr4/0/20/003/100,020003,Present weather,100,No significant weather observed,,,,,Operational,Original
 bufr4/0/20/003/101,020003,Present weather,101,Clouds generally dissolving or becoming less developed during the past hour,,,,,Operational,Original
 bufr4/0/20/003/102,020003,Present weather,102,State of sky on the whole unchanged during the past hour,,,,,Operational,Original
@@ -125,7 +125,7 @@ bufr4/0/20/003/112,020003,Present weather,112,Distant lightning,,,,,Operational,
 bufr4/0/20/003/113-117,020003,Present weather,113-117,Reserved,,,,,Operational,Original
 bufr4/0/20/003/118,020003,Present weather,118,Squalls,,,,,Operational,Original
 bufr4/0/20/003/119,020003,Present weather,119,Reserved,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,"Code figures 120-126 are used to report precipitation, fog (or ice fog) or thunderstorm at the station during the preceding hour but not at the time of observation",,,,,Operational,Original
+bufr4/0/20/003//14,020003,Present weather,,"Code figures 120-126 are used to report precipitation, fog (or ice fog) or thunderstorm at the station during the preceding hour but not at the time of observation",,,,,Operational,Original
 bufr4/0/20/003/120,020003,Present weather,120,Fog,,,,,Operational,Original
 bufr4/0/20/003/121,020003,Present weather,121,PRECIPITATION,,,,,Operational,Original
 bufr4/0/20/003/122,020003,Present weather,122,Drizzle (not freezing) or snow grains,,,,,Operational,Original
@@ -202,8 +202,8 @@ bufr4/0/20/003/195,020003,Present weather,195,"Thunderstorm, heavy, with rain sh
 bufr4/0/20/003/196,020003,Present weather,196,"Thunderstorm, heavy, with hail",,,,,Operational,Original
 bufr4/0/20/003/197-198,020003,Present weather,197-198,Reserved,,,,,Operational,Original
 bufr4/0/20/003/199,020003,Present weather,199,Tornado,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Present weather (in addition to present weather report from either a manned or an automatic station),,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 200-209,,,,,Operational,Original
+bufr4/0/20/003//15,020003,Present weather,,Present weather (in addition to present weather report from either a manned or an automatic station),,,,,Operational,Original
+bufr4/0/20/003//16,020003,Present weather,,Deciles 200-209,,,,,Operational,Original
 bufr4/0/20/003/200-203,020003,Present weather,200-203,Not used,,,,,Operational,Original
 bufr4/0/20/003/204,020003,Present weather,204,Volcanic ash suspended in the air aloft,,,,,Operational,Original
 bufr4/0/20/003/205,020003,Present weather,205,Not used,,,,,Operational,Original
@@ -211,7 +211,7 @@ bufr4/0/20/003/206,020003,Present weather,206,"Thick dust haze, visibility less 
 bufr4/0/20/003/207,020003,Present weather,207,Blowing spray at the station,,,,,Operational,Original
 bufr4/0/20/003/208,020003,Present weather,208,Drifting dust (sand),,,,,Operational,Original
 bufr4/0/20/003/209,020003,Present weather,209,Wall of dust or sand in distance (like haboob),,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 210-219,,,,,Operational,Original
+bufr4/0/20/003//17,020003,Present weather,,Deciles 210-219,,,,,Operational,Original
 bufr4/0/20/003/210,020003,Present weather,210,Snow haze,,,,,Operational,Original
 bufr4/0/20/003/211,020003,Present weather,211,Whiteout,,,,,Operational,Original
 bufr4/0/20/003/212,020003,Present weather,212,Not used,,,,,Operational,Original
@@ -220,7 +220,7 @@ bufr4/0/20/003/214-216,020003,Present weather,214-216,Not used,,,,,Operational,O
 bufr4/0/20/003/217,020003,Present weather,217,Dry thunderstorm,,,,,Operational,Original
 bufr4/0/20/003/218,020003,Present weather,218,Not used,,,,,Operational,Original
 bufr4/0/20/003/219,020003,Present weather,219,Tornado cloud (destructive) at or within sight of the station during preceding hour or at the time of observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 220-229,,,,,Operational,Original
+bufr4/0/20/003//18,020003,Present weather,,Deciles 220-229,,,,,Operational,Original
 bufr4/0/20/003/220,020003,Present weather,220,Deposition of volcanic ash,,,,,Operational,Original
 bufr4/0/20/003/221,020003,Present weather,221,Deposition of dust or sand,,,,,Operational,Original
 bufr4/0/20/003/222,020003,Present weather,222,Deposition of dew,,,,,Operational,Original
@@ -231,11 +231,11 @@ bufr4/0/20/003/226,020003,Present weather,226,Deposition of hoar frost,,,,,Opera
 bufr4/0/20/003/227,020003,Present weather,227,Deposition of glaze,,,,,Operational,Original
 bufr4/0/20/003/228,020003,Present weather,228,Deposition of ice crust (ice slick),,,,,Operational,Original
 bufr4/0/20/003/229,020003,Present weather,229,Not used,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 230-239,,,,,Operational,Original
+bufr4/0/20/003//19,020003,Present weather,,Deciles 230-239,,,,,Operational,Original
 bufr4/0/20/003/230,020003,Present weather,230,Duststorm or sandstorm with temperature below 0 deg C,,,,,Operational,Original
 bufr4/0/20/003/231-238,020003,Present weather,231-238,Not used,,,,,Operational,Original
 bufr4/0/20/003/239,020003,Present weather,239,"Blowing snow, impossible to determine whether snow is falling or not",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 240-249,,,,,Operational,Original
+bufr4/0/20/003//20,020003,Present weather,,Deciles 240-249,,,,,Operational,Original
 bufr4/0/20/003/240,020003,Present weather,240,Not used,,,,,Operational,Original
 bufr4/0/20/003/241,020003,Present weather,241,Fog on sea,,,,,Operational,Original
 bufr4/0/20/003/242,020003,Present weather,242,Fog in valleys,,,,,Operational,Original
@@ -246,7 +246,7 @@ bufr4/0/20/003/246,020003,Present weather,246,Fog over ice or snow cover,,,,,Ope
 bufr4/0/20/003/247,020003,Present weather,247,"Dense fog, visibility 60-90 m",,,,,Operational,Original
 bufr4/0/20/003/248,020003,Present weather,248,"Dense fog, visibility 30-60 m",,,,,Operational,Original
 bufr4/0/20/003/249,020003,Present weather,249,"Dense fog, visibility less than 30 m",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 250-259,,,,,Operational,Original
+bufr4/0/20/003//21,020003,Present weather,,Deciles 250-259,,,,,Operational,Original
 bufr4/0/20/003/250,020003,Present weather,250,"Drizzle, rate of fall - less than 0.10 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/251,020003,Present weather,251,"Drizzle, rate of fall - 0.10-0.19 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/252,020003,Present weather,252,"Drizzle, rate of fall - 0.20-0.39 mm h-1",,,,,Operational,Original
@@ -257,7 +257,7 @@ bufr4/0/20/003/256,020003,Present weather,256,"Drizzle, rate of fall - 3.20-6.39
 bufr4/0/20/003/257,020003,Present weather,257,"Drizzle, rate of fall - 6.4 mm h-1 or more",,,,,Operational,Original
 bufr4/0/20/003/258,020003,Present weather,258,Not used,,,,,Operational,Original
 bufr4/0/20/003/259,020003,Present weather,259,Drizzle and snow,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 260-269,,,,,Operational,Original
+bufr4/0/20/003//22,020003,Present weather,,Deciles 260-269,,,,,Operational,Original
 bufr4/0/20/003/260,020003,Present weather,260,"Rain, rate of fall - less than 1.0 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/261,020003,Present weather,261,"Rain, rate of fall - 1.0-1.9 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/262,020003,Present weather,262,"Rain, rate of fall - 2.0-3.9 mm h-1",,,,,Operational,Original
@@ -267,7 +267,7 @@ bufr4/0/20/003/265,020003,Present weather,265,"Rain, rate of fall - 16.0-31.9 mm
 bufr4/0/20/003/266,020003,Present weather,266,"Rain, rate of fall - 32.0-63.9 mm h-1",,,,,Operational,Original
 bufr4/0/20/003/267,020003,Present weather,267,"Rain, rate of fall - 64.0 mm h-1 or more",,,,,Operational,Original
 bufr4/0/20/003/268-269,020003,Present weather,268-269,Not used,,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 270-279,,,,,Operational,Original
+bufr4/0/20/003//23,020003,Present weather,,Deciles 270-279,,,,,Operational,Original
 bufr4/0/20/003/270,020003,Present weather,270,"Snow, rate of fall - less than 1.0 cm h-1",,,,,Operational,Original
 bufr4/0/20/003/271,020003,Present weather,271,"Snow, rate of fall - 1.0-1.9 cm h-1",,,,,Operational,Original
 bufr4/0/20/003/272,020003,Present weather,272,"Snow, rate of fall - 2.0-3.9 cm h-1",,,,,Operational,Original
@@ -278,7 +278,7 @@ bufr4/0/20/003/276,020003,Present weather,276,"Snow, rate of fall - 32.0-63.9 cm
 bufr4/0/20/003/277,020003,Present weather,277,"Snow, rate of fall - 64.0 cm h-1 or more",,,,,Operational,Original
 bufr4/0/20/003/278,020003,Present weather,278,Snow or ice crystal precipitation from a clear sky,,,,,Operational,Original
 bufr4/0/20/003/279,020003,Present weather,279,"Wet snow, freezing on contact",,,,,Operational,Original
-bufr4/0/20/003,020003,Present weather,,Deciles 280-299,,,,,Operational,Original
+bufr4/0/20/003//24,020003,Present weather,,Deciles 280-299,,,,,Operational,Original
 bufr4/0/20/003/280,020003,Present weather,280,Precipitation of rain,,,,,Operational,Original
 bufr4/0/20/003/281,020003,Present weather,281,"Precipitation of rain, freezing",,,,,Operational,Original
 bufr4/0/20/003/282,020003,Present weather,282,Precipitation of rain and snow mixed,,,,,Operational,Original
@@ -735,7 +735,7 @@ bufr4/0/20/063/2,020063,Special phenomena,2,Highest mean wind speed greater than
 bufr4/0/20/063/3-6,020063,Special phenomena,3-6,Reserved,,,,,Operational,Original
 bufr4/0/20/063/7,020063,Special phenomena,7,Visibility greater than 100 000 m,,,,,Operational,Original
 bufr4/0/20/063/8-9,020063,Special phenomena,8-9,Reserved,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,10-19     Mirage,,,,,Operational,Original
+bufr4/0/20/063//1,020063,Special phenomena,,10-19     Mirage,,,,,Operational,Original
 bufr4/0/20/063/10,020063,Special phenomena,10,Mirage - No specification,,,,,Operational,Original
 bufr4/0/20/063/11,020063,Special phenomena,11,Mirage - Image of distant object raised (looming),,,,,Operational,Original
 bufr4/0/20/063/12,020063,Special phenomena,12,Mirage - Image of distant object raised clear above the horizon,,,,,Operational,Original
@@ -746,12 +746,12 @@ bufr4/0/20/063/16,020063,Special phenomena,16,Mirage - Sun or moon seen apprecia
 bufr4/0/20/063/17,020063,Special phenomena,17,"Mirage - Sun visible, although astronomically below the horizon",,,,,Operational,Original
 bufr4/0/20/063/18,020063,Special phenomena,18,"Mirage - Moon visible, although astronomically below the horizon",,,,,Operational,Original
 bufr4/0/20/063/19,020063,Special phenomena,19,Reserved,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,"20-22     Day darkness, worst in direction specified",,,,,Operational,Original
+bufr4/0/20/063//2,020063,Special phenomena,,"20-22     Day darkness, worst in direction specified",,,,,Operational,Original
 bufr4/0/20/063/20,020063,Special phenomena,20,"Day darkness, bad, worst in direction specified",,,,,Operational,Original
 bufr4/0/20/063/21,020063,Special phenomena,21,"Day darkness, very bad, worst in direction specified",,,,,Operational,Original
 bufr4/0/20/063/22,020063,Special phenomena,22,"Day darkness, black, worst in direction specified",,,,,Operational,Original
 bufr4/0/20/063/23-30,020063,Special phenomena,23-30,Reserved,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,31-39     Coloration and/or convergence of clouds associated with a tropical disturbance,,,,,Operational,Original
+bufr4/0/20/063//3,020063,Special phenomena,,31-39     Coloration and/or convergence of clouds associated with a tropical disturbance,,,,,Operational,Original
 bufr4/0/20/063/31,020063,Special phenomena,31,Slight coloration of clouds at sunrise associated with a tropical disturbance,,,,,Operational,Original
 bufr4/0/20/063/32,020063,Special phenomena,32,Deep-red coloration of clouds at sunrise associated with a tropical disturbance,,,,,Operational,Original
 bufr4/0/20/063/33,020063,Special phenomena,33,Slight coloration of clouds at sunset associated with a tropical disturbance,,,,,Operational,Original
@@ -761,13 +761,13 @@ bufr4/0/20/063/36,020063,Special phenomena,36,Convergence of CH clouds at a poin
 bufr4/0/20/063/37,020063,Special phenomena,37,Convergence of CH clouds at a point below 45 deg dissolving or diminishing and associated with a tropical disturbance,,,,,Operational,Original
 bufr4/0/20/063/38,020063,Special phenomena,38,Convergence of CH clouds at a point above 45 deg dissolving or diminishing and associated with a tropical disturbance,,,,,Operational,Original
 bufr4/0/20/063/39,020063,Special phenomena,39,Reserved,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,40-43     Hoar frost or coloured precipitation,,,,,Operational,Original
+bufr4/0/20/063//4,020063,Special phenomena,,40-43     Hoar frost or coloured precipitation,,,,,Operational,Original
 bufr4/0/20/063/40,020063,Special phenomena,40,Hoar frost on horizontal surfaces,,,,,Operational,Original
 bufr4/0/20/063/41,020063,Special phenomena,41,Hoar frost on horizontal and vertical surfaces,,,,,Operational,Original
 bufr4/0/20/063/42,020063,Special phenomena,42,Precipitation containing sand or desert dust,,,,,Operational,Original
 bufr4/0/20/063/43,020063,Special phenomena,43,Precipitation containing volcanic ash,,,,,Operational,Original
 bufr4/0/20/063/44-49,020063,Special phenomena,44-49,Reserved,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,50-59     Nature and/or type of squall,,,,,Operational,Original
+bufr4/0/20/063//5,020063,Special phenomena,,50-59     Nature and/or type of squall,,,,,Operational,Original
 bufr4/0/20/063/50,020063,Special phenomena,50,Calm or light wind followed by a squall,,,,,Operational,Original
 bufr4/0/20/063/51,020063,Special phenomena,51,Calm or light wind followed by a succession of squalls,,,,,Operational,Original
 bufr4/0/20/063/52,020063,Special phenomena,52,Gusty weather followed by a squall,,,,,Operational,Original
@@ -778,7 +778,7 @@ bufr4/0/20/063/56,020063,Special phenomena,56,Squall approaching station,,,,,Ope
 bufr4/0/20/063/57,020063,Special phenomena,57,Line squall,,,,,Operational,Original
 bufr4/0/20/063/58,020063,Special phenomena,58,Squall with drifting or blowing dust or sand,,,,,Operational,Original
 bufr4/0/20/063/59,020063,Special phenomena,59,Line squall with drifting or blowing dust or sand,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,"60-69     Variation of temperature during the period specified, associated with glaze or rime",,,,,Operational,Original
+bufr4/0/20/063//6,020063,Special phenomena,,"60-69     Variation of temperature during the period specified, associated with glaze or rime",,,,,Operational,Original
 bufr4/0/20/063/60,020063,Special phenomena,60,Temperature steady,,,,,Operational,Original
 bufr4/0/20/063/61,020063,Special phenomena,61,"Temperature falling, without going below 0 deg C",,,,,Operational,Original
 bufr4/0/20/063/62,020063,Special phenomena,62,"Temperature rising, without going above 0 deg C",,,,,Operational,Original
@@ -789,7 +789,7 @@ bufr4/0/20/063/66,020063,Special phenomena,66,"Irregular variation, oscillations
 bufr4/0/20/063/67,020063,Special phenomena,67,Variation of temperature not observed,,,,,Operational,Original
 bufr4/0/20/063/68,020063,Special phenomena,68,Not allocated,,,,,Operational,Original
 bufr4/0/20/063/69,020063,Special phenomena,69,Variation of temperature unknown owing to lack of thermograph,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,70-79     Variation of visibility during the period specified,,,,,Operational,Original
+bufr4/0/20/063//7,020063,Special phenomena,,70-79     Variation of visibility during the period specified,,,,,Operational,Original
 bufr4/0/20/063/70,020063,Special phenomena,70,Visibility has not varied (sun visible) towards direction specified,,,(see Note),61,Operational,Original
 bufr4/0/20/063/71,020063,Special phenomena,71,Visibility has not varied (sun invisible) towards direction specified,,,(see Note),61,Operational,Original
 bufr4/0/20/063/72,020063,Special phenomena,72,Visibility has increased (sun visible) towards direction specified,,,(see Note),61,Operational,Original
@@ -800,7 +800,7 @@ bufr4/0/20/063/76,020063,Special phenomena,76,Fog coming from direction specifie
 bufr4/0/20/063/77,020063,Special phenomena,77,"Fog has lifted, without dissipating",,,,,Operational,Original
 bufr4/0/20/063/78,020063,Special phenomena,78,Fog has dispersed without regard to direction,,,,,Operational,Original
 bufr4/0/20/063/79,020063,Special phenomena,79,Moving patches or banks of fog,,,,,Operational,Original
-bufr4/0/20/063,020063,Special phenomena,,80-89     Optical phenomena,,,,,Operational,Original
+bufr4/0/20/063//8,020063,Special phenomena,,80-89     Optical phenomena,,,,,Operational,Original
 bufr4/0/20/063/80,020063,Special phenomena,80,Brocken spectre,,,,,Operational,Original
 bufr4/0/20/063/81,020063,Special phenomena,81,Rainbow,,,,,Operational,Original
 bufr4/0/20/063/82,020063,Special phenomena,82,Solar or lunar halo,,,,,Operational,Original
@@ -925,7 +925,7 @@ bufr4/0/20/104/8,020104,Organization state of swarm or band of locusts,8,"Locust
 bufr4/0/20/104/9,020104,Organization state of swarm or band of locusts,9,"Locusts, all over inflicting severe damage to vegetation, extermination operation in progress",,,,,Operational,Original
 bufr4/0/20/104/10-14,020104,Organization state of swarm or band of locusts,10-14,Reserved,,,,,Operational,Original
 bufr4/0/20/104/15,020104,Organization state of swarm or band of locusts,15,Missing value,,,,,Operational,Original
-bufr4/0/20/105,020105,Size of swarm or band of locusts and duration of passage of swarm,,When 0 20 104 (organization state of swarm or band of locusts) = 0,,,,,Operational,Original
+bufr4/0/20/105//1,020105,Size of swarm or band of locusts and duration of passage of swarm,,When 0 20 104 (organization state of swarm or band of locusts) = 0,,,,,Operational,Original
 bufr4/0/20/105/0,020105,Size of swarm or band of locusts and duration of passage of swarm,0,Reserved,,,,,Operational,Original
 bufr4/0/20/105/1,020105,Size of swarm or band of locusts and duration of passage of swarm,1,Area covered by isolated bands < 10 m2,,,,,Operational,Original
 bufr4/0/20/105/2,020105,Size of swarm or band of locusts and duration of passage of swarm,2,Area covered by isolated bands 10 - 100 m2,,,,,Operational,Original
@@ -938,20 +938,20 @@ bufr4/0/20/105/8,020105,Size of swarm or band of locusts and duration of passage
 bufr4/0/20/105/9,020105,Size of swarm or band of locusts and duration of passage of swarm,9,Area covered by dispersed bands > 1000 km2,,,,,Operational,Original
 bufr4/0/20/105/10-14,020105,Size of swarm or band of locusts and duration of passage of swarm,10-14,Reserved,,,,,Operational,Original
 bufr4/0/20/105/15,020105,Size of swarm or band of locusts and duration of passage of swarm,15,Missing value,,,,,Operational,Original
-bufr4/0/20/105,020105,Size of swarm or band of locusts and duration of passage of swarm,,When 0 20 104 (organization state of swarm or band of locusts) = 1 to 9,,,,,Operational,Original
-bufr4/0/20/105/0,020105,Size of swarm or band of locusts and duration of passage of swarm,0,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage less than 1 hour ago",,,,,Operational,Original
-bufr4/0/20/105/1,020105,Size of swarm or band of locusts and duration of passage of swarm,1,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage 1 to 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/2,020105,Size of swarm or band of locusts and duration of passage of swarm,2,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage over 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/3,020105,Size of swarm or band of locusts and duration of passage of swarm,3,"Medium swarm or scattered adults, several visible simultaneously, duration of passage less than 1 hour ago",,,,,Operational,Original
-bufr4/0/20/105/4,020105,Size of swarm or band of locusts and duration of passage of swarm,4,"Medium swarm or scattered adults, several visible simultaneously, duration of passage 1 to 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/5,020105,Size of swarm or band of locusts and duration of passage of swarm,5,"Medium swarm or scattered adults, several visible simultaneously, duration of passage over 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/6,020105,Size of swarm or band of locusts and duration of passage of swarm,6,"Large swarm or isolated adults, seen singly, duration of passage less than 1 hour ago",,,,,Operational,Original
-bufr4/0/20/105/7,020105,Size of swarm or band of locusts and duration of passage of swarm,7,"Large swarm or isolated adults, seen singly, duration of passage 1 to 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/8,020105,Size of swarm or band of locusts and duration of passage of swarm,8,"Large swarm or isolated adults, seen singly, duration of passage over 6 hours ago",,,,,Operational,Original
-bufr4/0/20/105/9,020105,Size of swarm or band of locusts and duration of passage of swarm,9,More than one swarm of locusts,,,,,Operational,Original
+bufr4/0/20/105//2,020105,Size of swarm or band of locusts and duration of passage of swarm,,When 0 20 104 (organization state of swarm or band of locusts) = 1 to 9,,,,,Operational,Original
+bufr4/0/20/105/0//2,020105,Size of swarm or band of locusts and duration of passage of swarm,0,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage less than 1 hour ago",,,,,Operational,Original
+bufr4/0/20/105/1//2,020105,Size of swarm or band of locusts and duration of passage of swarm,1,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage 1 to 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/2//2,020105,Size of swarm or band of locusts and duration of passage of swarm,2,"Small swarm less than 1 km2 or adults in ground, tens or hundreds of individuals visible simultaneously, duration of passage over 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/3//2,020105,Size of swarm or band of locusts and duration of passage of swarm,3,"Medium swarm or scattered adults, several visible simultaneously, duration of passage less than 1 hour ago",,,,,Operational,Original
+bufr4/0/20/105/4//2,020105,Size of swarm or band of locusts and duration of passage of swarm,4,"Medium swarm or scattered adults, several visible simultaneously, duration of passage 1 to 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/5//2,020105,Size of swarm or band of locusts and duration of passage of swarm,5,"Medium swarm or scattered adults, several visible simultaneously, duration of passage over 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/6//2,020105,Size of swarm or band of locusts and duration of passage of swarm,6,"Large swarm or isolated adults, seen singly, duration of passage less than 1 hour ago",,,,,Operational,Original
+bufr4/0/20/105/7//2,020105,Size of swarm or band of locusts and duration of passage of swarm,7,"Large swarm or isolated adults, seen singly, duration of passage 1 to 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/8//2,020105,Size of swarm or band of locusts and duration of passage of swarm,8,"Large swarm or isolated adults, seen singly, duration of passage over 6 hours ago",,,,,Operational,Original
+bufr4/0/20/105/9//2,020105,Size of swarm or band of locusts and duration of passage of swarm,9,More than one swarm of locusts,,,,,Operational,Original
 bufr4/0/20/105/10,020105,Size of swarm or band of locusts and duration of passage of swarm,10,Size of swarm and/or duration of passage not determined owing to darkness or similar phenomena,,,,,Operational,Original
 bufr4/0/20/105/11-14,020105,Size of swarm or band of locusts and duration of passage of swarm,11-14,Reserved,,,,,Operational,Original
-bufr4/0/20/105/15,020105,Size of swarm or band of locusts and duration of passage of swarm,15,Missing value,,,,,Operational,Original
+bufr4/0/20/105/15//2,020105,Size of swarm or band of locusts and duration of passage of swarm,15,Missing value,,,,,Operational,Original
 bufr4/0/20/106/0,020106,Locust population density,0,Reserved,,,,,Operational,Original
 bufr4/0/20/106/1,020106,Locust population density,1,Thin density swarm (swarm visible only when near enough for individual locusts to be discerned),,,,,Operational,Original
 bufr4/0/20/106/2,020106,Locust population density,2,Medium density swarm,,,,,Operational,Original
@@ -990,7 +990,7 @@ bufr4/0/20/124/0,020124,Lightning stroke or flash,0,Not defined,,,,,Operational,
 bufr4/0/20/124/1,020124,Lightning stroke or flash,1,Lightning stroke,,,,,Operational,Original
 bufr4/0/20/124/2,020124,Lightning stroke or flash,2,"Lightning flash, by manual observation, or if equipment insensitive to stroke resolution",,,,,Operational,Original
 bufr4/0/20/124/3,020124,Lightning stroke or flash,3,Missing value,,,,,Operational,Original
-bufr4/0/20/136,020136,Supplementary cloud type,,0-7   Nature of clouds of vertical development (Ca - Code table 0531),,,,,Operational,Original
+bufr4/0/20/136//1,020136,Supplementary cloud type,,0-7   Nature of clouds of vertical development (Ca - Code table 0531),,,,,Operational,Original
 bufr4/0/20/136/0,020136,Supplementary cloud type,0,Isolated cumulus humilis and/or cumulus mediocris of vertical development,,,,,Operational,Original
 bufr4/0/20/136/1,020136,Supplementary cloud type,1,Numerous cumulus humilis and/or cumulus mediocris of vertical development,,,,,Operational,Original
 bufr4/0/20/136/2,020136,Supplementary cloud type,2,Isolated cumulus congestus of vertical development,,,,,Operational,Original
@@ -1000,7 +1000,7 @@ bufr4/0/20/136/5,020136,Supplementary cloud type,5,Numerous cumulonimbus of vert
 bufr4/0/20/136/6,020136,Supplementary cloud type,6,Isolated cumulus and cumulonimbus of vertical development,,,,,Operational,Original
 bufr4/0/20/136/7,020136,Supplementary cloud type,7,Numerous cumulus and cumulonimbus of vertical development,,,,,Operational,Original
 bufr4/0/20/136/8-9,020136,Supplementary cloud type,8-9,Reserved,,,,,Operational,Original
-bufr4/0/20/136,020136,Supplementary cloud type,,10-19   Orographic clouds (C0 - Code table 0561),,,,,Operational,Original
+bufr4/0/20/136//2,020136,Supplementary cloud type,,10-19   Orographic clouds (C0 - Code table 0561),,,,,Operational,Original
 bufr4/0/20/136/10,020136,Supplementary cloud type,10,Reserved,,,,,Operational,Original
 bufr4/0/20/136/11,020136,Supplementary cloud type,11,"Isolated orographic clouds, pileus, incus, forming",,,,,Operational,Original
 bufr4/0/20/136/12,020136,Supplementary cloud type,12,"Isolated orographic clouds, pileus, incus, not changing",,,,,Operational,Original
@@ -1011,7 +1011,7 @@ bufr4/0/20/136/16,020136,Supplementary cloud type,16,"Irregular banks of orograp
 bufr4/0/20/136/17,020136,Supplementary cloud type,17,"Compact layer of orographic cloud, foehn bank, etc., forming",,,,,Operational,Original
 bufr4/0/20/136/18,020136,Supplementary cloud type,18,"Compact layer of orographic cloud, foehn bank, etc., not changing",,,,,Operational,Original
 bufr4/0/20/136/19,020136,Supplementary cloud type,19,"Compact layer of orographic cloud, foehn bank, etc., dissolving",,,,,Operational,Original
-bufr4/0/20/136,020136,Supplementary cloud type,,20-29   Cloud conditions over mountains and passes (Nm - Code table 2745),,,,,Operational,Original
+bufr4/0/20/136//3,020136,Supplementary cloud type,,20-29   Cloud conditions over mountains and passes (Nm - Code table 2745),,,,,Operational,Original
 bufr4/0/20/136/20,020136,Supplementary cloud type,20,"All mountains open, only small amounts of cloud present",,,,,Operational,Original
 bufr4/0/20/136/21,020136,Supplementary cloud type,21,Mountains partly covered with detached clouds (not more than half the peaks can be seen),,,,,Operational,Original
 bufr4/0/20/136/22,020136,Supplementary cloud type,22,"All mountain slopes covered, peaks and passes free",,,,,Operational,Original
@@ -1023,13 +1023,13 @@ bufr4/0/20/136/27,020136,Supplementary cloud type,27,"Mountains generally covere
 bufr4/0/20/136/28,020136,Supplementary cloud type,28,"All peaks, passes and slopes covered",,,,,Operational,Original
 bufr4/0/20/136/29,020136,Supplementary cloud type,29,"Mountains cannot be seen owing to darkness, fog, snowstorm, precipitation, etc.",,,,,Operational,Original
 bufr4/0/20/136/30-34,020136,Supplementary cloud type,30-34,Reserved,,,,,Operational,Original
-bufr4/0/20/136,020136,Supplementary cloud type,,35-39   Condensation trails (Nt - Code table 2752),,,,,Operational,Original
+bufr4/0/20/136//4,020136,Supplementary cloud type,,35-39   Condensation trails (Nt - Code table 2752),,,,,Operational,Original
 bufr4/0/20/136/35,020136,Supplementary cloud type,35,Non-persistent condensation trails,,,,,Operational,Original
 bufr4/0/20/136/36,020136,Supplementary cloud type,36,Persistent condensation trails covering less than 1/8 of the sky,,,,,Operational,Original
 bufr4/0/20/136/37,020136,Supplementary cloud type,37,Persistent condensation trails covering 1/8 of the sky,,,,,Operational,Original
 bufr4/0/20/136/38,020136,Supplementary cloud type,38,Persistent condensation trails covering 2/8 of the sky,,,,,Operational,Original
 bufr4/0/20/136/39,020136,Supplementary cloud type,39,Persistent condensation trails covering 3/8 or more of the sky,,,,,Operational,Original
-bufr4/0/20/136,020136,Supplementary cloud type,,40-49   Cloud conditions observed from a higher level (Nv - Code table 2754),,,,,Operational,Original
+bufr4/0/20/136//5,020136,Supplementary cloud type,,40-49   Cloud conditions observed from a higher level (Nv - Code table 2754),,,,,Operational,Original
 bufr4/0/20/136/40,020136,Supplementary cloud type,40,No cloud or mist observed from a higher level,,,,,Operational,Original
 bufr4/0/20/136/41,020136,Supplementary cloud type,41,"Mist, clear above observed from a higher level",,,,,Operational,Original
 bufr4/0/20/136/42,020136,Supplementary cloud type,42,Fog patches observed from a higher level,,,,,Operational,Original
