@@ -48,6 +48,7 @@ bufr4/0/19/102/3,019102,Forma y definición del ojo del ciclón tropical,3,Doble
 bufr4/0/19/102/4,019102,Forma y definición del ojo del ciclón tropical,4,Otra forma,,,,,Operational,Original
 bufr4/0/19/102/5,019102,Forma y definición del ojo del ciclón tropical,5,Mal definido,,,,,Operational,Original
 bufr4/0/19/102/6,019102,Forma y definición del ojo del ciclón tropical,6,Indeterminado,,,,,Operational,Original
+bufr4/0/19/102/7,019102,Forma y definición del ojo del ciclón tropical,7,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/19/103/0,019103,Diámetro del eje principal del ojo del ciclón tropical,0,Menos de 5 km,,,,,Operational,Original
 bufr4/0/19/103/1,019103,Diámetro del eje principal del ojo del ciclón tropical,1,De 5 a menos de 10 km,,,,,Operational,Original
 bufr4/0/19/103/2,019103,Diámetro del eje principal del ojo del ciclón tropical,2,De 10 a menos de 15 km,,,,,Operational,Original
@@ -112,7 +113,7 @@ bufr4/0/19/109/2,019109,Diámetro medio de la cobertura nubosa del cicló tropic
 bufr4/0/19/109/3,019109,Diámetro medio de la cobertura nubosa del cicló tropical,3,De 3 a menos de 4º de latitud,,,,,Operational,Original
 bufr4/0/19/109/4,019109,Diámetro medio de la cobertura nubosa del cicló tropical,4,De 4 a menos de 5º de latitud,,,,,Operational,Original
 bufr4/0/19/109/5,019109,Diámetro medio de la cobertura nubosa del cicló tropical,5,De 5 a menos de 6º de latitud,,,,,Operational,Original
-bufr4/0/19/109/6,019109,Diámetro medio de la cobertura nubosa del cicló tropical,6,De 6 a menos de 7º de latitud,,,,,Operational,Original
+bufr4/0/19/109/6,019109,Diámetro medio de la cobertura nubosa del cicló tropical,6,De 6 a menos de 7º de latitud,,,,,Operational ,Original
 bufr4/0/19/109/7,019109,Diámetro medio de la cobertura nubosa del cicló tropical,7,De 7 a menos de 8° de latitud,,,,,Operational,Original
 bufr4/0/19/109/8,019109,Diámetro medio de la cobertura nubosa del cicló tropical,8,De 8 a menos de 9° de latitud,,,,,Operational,Original
 bufr4/0/19/109/9,019109,Diámetro medio de la cobertura nubosa del cicló tropical,9,9° de latitud o más,,,,,Operational,Original

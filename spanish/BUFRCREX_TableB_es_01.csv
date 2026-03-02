@@ -14,6 +14,7 @@ bufr4/0/01/012,01,Identificación,001012,Dirección del movimiento de la platafo
 bufr4/0/01/013,01,Identificación,001013,Velocidad del movimiento de la plataforma de observación*,m s-1,0,0,10,m s-1,0,3,,,Operational,Original
 bufr4/0/01/014,01,Identificación,001014,Velocidad de deriva de la plataforma (alta precisión),m s-1,2,0,10,m s-1,2,4,,,Operational,Original
 bufr4/0/01/015,01,Identificación,001015,Nombre de la estación o emplazamiento,CCITT IA5,0,0,160,Carácter,0,20,,,Operational,Original
+bufr4/0/01/016,01,Identificación,001016,Subidentificador de satélite,Numérica,0,0,16,Numérica,0,5,,,Operational,AI Translator: MCP
 bufr4/0/01/018,01,Identificación,001018,Nombre abreviado de la estación o emplazamiento,CCITT IA5,0,0,40,Carácter,0,5,,,Operational,Original
 bufr4/0/01/019,01,Identificación,001019,Nombre completo de la estación o emplazamiento,CCITT IA5,0,0,256,Carácter,0,32,,,Operational,Original
 bufr4/0/01/020,01,Identificación,001020,Subzona de la Región de la OMM,Numérica,0,0,4,Numérica,0,2,,,Operational,Original
@@ -84,9 +85,16 @@ bufr4/0/01/125,01,Identificación,001125,Serie de identificadores del WIGOS,Num�
 bufr4/0/01/126,01,Identificación,001126,Emisor del identificador del WIGOS,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
 bufr4/0/01/127,01,Identificación,001127,Numero de emisión del WIGOS,Numérica,0,0,16,Numérica,0,5,,,Operational,Original
 bufr4/0/01/128,01,Identificación,001128,Identificador local del WIGOS (carácter),CCITT IA5,0,0,128,Carácter,0,16,,,Operational,Original
+bufr4/0/01/130,01,Identificación,001130,Identificador de tormenta (largo),CCITT IA5,0,0,32,,,,,,Operational,AI Translator: MCP
 bufr4/0/01/144,01,Identificación,001144,Identificador de instantánea,Numérica,0,0,31,Numérica,0,10,,,Operational,Original
+bufr4/0/01/145,01,Identificación,001145,Identificador de fuente de luz,Numérica,0,-8,20,Numérica,0,7,(ver Nota 17),185,Operational,AI Translator: MCP
 bufr4/0/01/150,01,Identificación,001150,Sistema de coordenadas de referencia,Tabla de cifrado,0,0,16,Tabla de cifrado,0,5,,,Operational,Original
 bufr4/0/01/151,01,Identificación,001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,Tabla de cifrado,0,0,12,Tabla de cifrado,0,4,,,Operational,Original
 bufr4/0/01/152,01,Identificación,001152,Semieje mayor del elipsoide de rotación,m,2,0,31,m,2,11,,,Operational,Original
 bufr4/0/01/153,01,Identificación,001153,Semieje menor del elipsoide de rotación,m,2,0,31,m,2,11,,,Operational,Original
 bufr4/0/01/154,01,Identificación,001154,Identificador del sensor,Numérica,0,0,12,Numérica,0,4,,,Operational,Original
+bufr4/0/01/155,01,Identificación,001155,Identificador de recuperación,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,AI Translator: MCP
+bufr4/0/01/156,01,Identificación,001156,Número de vuelo en globo,CCITT IA5,0,0,64,,,,,,Operational,AI Translator: MCP
+bufr4/0/01/157,01,Identificación,001157,Número de registro del globo o otra identificación,CCITT IA5,0,0,80,,,,,,Operational,AI Translator: MCP
+bufr4/0/01/158,01,Identificación,001158,Tipo de envoltura de globo,Tabla de cifrado,0,0,4,,,,,,Operational,AI Translator: MCP
+bufr4/0/01/159,01,Identificación,001159,Tamaño típico de la envoltura del globo,m,1,0,12,,,,(ver Nota 18),195,Operational,AI Translator: MCP

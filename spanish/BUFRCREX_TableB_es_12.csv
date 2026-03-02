@@ -19,7 +19,7 @@ bufr4/0/12/022,12,Temperatura,012022,Temperatura mínima a 2 m,K,2,0,16,°C,2,4,
 bufr4/0/12/023,12,Temperatura,012023,Temperatura,°C,0,-99,8,°C,0,2,,,Operational,Original
 bufr4/0/12/024,12,Temperatura,012024,Temperatura del punto de rocío,°C,0,-99,8,°C,0,2,,,Operational,Original
 bufr4/0/12/030,12,Temperatura,012030,Temperatura del suelo,K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/049,12,Temperatura,012049,Cambio de temperatura en un período especificado,K,1,-30,6,°C,0,2,,,Operational,Original
+bufr4/0/12/049,12,Temperatura,012049,Cambio de temperatura en un período especificado,K,0,-30,6,°C,0,2,,,Operational,Original
 bufr4/0/12/051,12,Temperatura,012051,Desviación típica de la temperatura,K,1,0,10,°C,1,3,,,Operational,Original
 bufr4/0/12/052,12,Temperatura,012052,Temperatura media diaria más alta,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/053,12,Temperatura,012053,Temperatura media diaria más baja,K,1,0,12,°C,1,3,,,Operational,Original
@@ -38,6 +38,7 @@ bufr4/0/12/076,12,Temperatura,012076,Radiancia (véase la nota 2),W m-2 sr-1,3,0
 bufr4/0/12/080,12,Temperatura,012080,Parte real de la temperatura de brillo,K,2,-10000,16,K,2,5,,,Operational,Original
 bufr4/0/12/081,12,Temperatura,012081,Parte imaginaria de la temperatura de brillo,K,2,-10000,16,K,2,5,,,Operational,Original
 bufr4/0/12/082,12,Temperatura,012082,Exactitud radiométrica en píxeles,K,2,0,12,K,2,4,,,Operational,Original
+bufr4/0/12/083,12,Temperatura,012083,Diferencia de temperatura entre observado y calculado,K,2,-10000,16,K,2,6,,,Operational,AI Translator: MCP
 bufr4/0/12/101,12,Temperatura,012101,Temperatura/temperatura del aire,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/102,12,Temperatura,012102,Temperatura de bulbo húmedo,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/103,12,Temperatura,012103,Temperatura de punto de rocío,K,2,0,16,°C,2,4,,,Operational,Original
@@ -62,6 +63,7 @@ bufr4/0/12/129,12,Temperatura,012129,Temperatura de la subsuperficie de la carre
 bufr4/0/12/130,12,Temperatura,012130,Temperatura del suelo,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/131,12,Temperatura,012131,Temperatura de la nieve,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/132,12,Temperatura,012132,Temperatura en la superficie del hielo,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/133,12,Temperatura,012133,Temperatura del hielo,K,2,0,16,,,,,,Operational,AI Translator: MCP
 bufr4/0/12/151,12,Temperatura,012151,Desviación estándar de la temperatura media diaria,K,2,0,12,°C,2,4,,,Operational,Original
 bufr4/0/12/152,12,Temperatura,012152,Temperatura media diaria más alta,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/153,12,Temperatura,012153,Temperatura media diaria más baja,K,2,0,16,°C,2,4,,,Operational,Original
@@ -75,6 +77,7 @@ bufr4/0/12/165,12,Temperatura,012165,Temperatura de brillo de luz solar directa,
 bufr4/0/12/166,12,Temperatura,012166,Exactitud de la instantánea,K,1,-4000,13,K,1,4,,,Operational,Original
 bufr4/0/12/167,12,Temperatura,012167,Exactitud radiométrica (polarización pura),K,1,0,9,K,1,3,,,Operational,Original
 bufr4/0/12/168,12,Temperatura,012168,Exactitud radiométrica (polarización cruzada),K,1,0,9,K,1,3,,,Operational,Original
+bufr4/0/12/169,12,Temperatura,012169,Diferencia de temperatura de brillo,K,3,-100000,18,K,3,6,,,Operational,AI Translator: MCP
 bufr4/0/12/171,12,Temperatura,012171,Temperatura más fría de agrupación,K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/180,12,Temperatura,012180,Temperatura de lumicia promedio a 12 micrones para todos los píxeles claros en el nadir,K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/181,12,Temperatura,012181,Temperatura de lumicia promedio a 11 micrones para todos los píxeles claros en el nadir,K,2,0,16,K,2,5,,,Operational,Original
@@ -86,3 +89,4 @@ bufr4/0/12/186,12,Temperatura,012186,Temperatura media de la superficie del mar 
 bufr4/0/12/187,12,Temperatura,012187,Temperatura media de la superficie del mar en vista dual,K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/188,12,Temperatura,012188,"Temperatura de lumicia interpolada a 23,8 GHz según MWR",K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/189,12,Temperatura,012189,"Temperatura de lumicia interpolada a 36,5 GHz según MWR",K,2,0,16,K,2,5,,,Operational,Original
+bufr4/0/12/190,12,Temperatura,012190,Covarianza del error de temperatura de luminancia,K2,3,-15000,15,K2,3,8,,,Operational,AI Translator: MCP
