@@ -1,7 +1,7 @@
 Id,ClassNo,ClassName_es,FXY,ElementName_es,BUFR_Unit_es,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_es,CREX_Scale,CREX_DataWidth_Char,Note_es,noteIDs,Status,translated_by
-bufr4/0/22/001,22,Elementos oceanográficos,022001,Dirección de las olas,grado verdadero,0,0,9,grado verdadero,0,3,,136,Operational,Original
-bufr4/0/22/002,22,Elementos oceanográficos,022002,Dirección de las olas de viento,grado verdadero,0,0,9,grado verdadero,0,3,,136,Operational,Original
-bufr4/0/22/003,22,Elementos oceanográficos,022003,Dirección de las olas de mar de fondo,grado verdadero,0,0,9,grado verdadero,0,3,,136,Operational,Original
+bufr4/0/22/001,22,Elementos oceanográficos,022001,Dirección de las olas,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 6),136,Operational,Original
+bufr4/0/22/002,22,Elementos oceanográficos,022002,Dirección de las olas de viento,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 6),136,Operational,Original
+bufr4/0/22/003,22,Elementos oceanográficos,022003,Dirección de las olas de mar de fondo,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 6),136,Operational,Original
 bufr4/0/22/004,22,Elementos oceanográficos,022004,Dirección de la corriente,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 7),54,Operational,Original
 bufr4/0/22/005,22,Elementos oceanográficos,022005,Dirección de la corriente en la superficie del mar,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
 bufr4/0/22/011,22,Elementos oceanográficos,022011,Período de las olas,s,0,0,6,s,0,2,,,Operational,Original
@@ -41,14 +41,14 @@ bufr4/0/22/066,22,Elementos oceanográficos,022066,Conductividad del agua,S m-1,
 bufr4/0/22/067,22,Elementos oceanográficos,022067,Tipo de instrumento para la medición del perfil de la temperatura/salinidad del agua,Tabla de cifrado,0,0,10,Tabla de cifrado,0,4,,,Operational,Original
 bufr4/0/22/068,22,Elementos oceanográficos,022068,Tipos de registrador del perfil de la temperatura del agua,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/22/069,22,Elementos oceanográficos,022069,Densidad espectral de las olas,m² Hz-1,3,0,22,m² Hz-1,3,7,,,Operational,Original
-bufr4/0/22/070,22,Elementos oceanográficos,022070,Altura significativa de las olas,m,2,0,13,m,2,4,,146,Operational,Original
+bufr4/0/22/070,22,Elementos oceanográficos,022070,Altura significativa de las olas,m,2,0,13,m,2,4,(véase la nota 1),146,Operational,Original
 bufr4/0/22/071,22,Elementos oceanográficos,022071,Período espectral máximo de las olas,s,1,0,9,s,1,3,,,Operational,Original
 bufr4/0/22/072,22,Elementos oceanográficos,022072,Longitud espectral máxima de las olas,m,0,0,13,m,0,4,,,Operational,Original
 bufr4/0/22/073,22,Elementos oceanográficos,022073,Altura máxima de las olas,m,2,0,13,m,2,4,,,Operational,Original
 bufr4/0/22/074,22,Elementos oceanográficos,022074,Período medio de las olas,s,1,0,9,s,1,3,,,Operational,Original
 bufr4/0/22/075,22,Elementos oceanográficos,022075,Longitud media de las olas,m,0,0,13,m,0,4,,,Operational,Original
-bufr4/0/22/076,22,Elementos oceanográficos,022076,Dirección de la cual provienen las olas dominantes,grado verdadero,0,0,9,grado verdadero,0,3,,137,Operational,Original
-bufr4/0/22/077,22,Elementos oceanográficos,022077,Dispersión direccional de la ola dominante,°,0,0,9,°,0,3,,137,Operational,Original
+bufr4/0/22/076,22,Elementos oceanográficos,022076,Dirección de la cual provienen las olas dominantes,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 2),137,Operational,Original
+bufr4/0/22/077,22,Elementos oceanográficos,022077,Dispersión direccional de la ola dominante,°,0,0,9,°,0,3,(véase la nota 2),137,Operational,Original
 bufr4/0/22/078,22,Elementos oceanográficos,022078,Duración del registro de las olas,s,0,0,12,s,0,4,,,Operational,Original
 bufr4/0/22/079,22,Elementos oceanográficos,022079,Longitud del registro de las olas,m,0,0,16,m,0,5,,,Operational,Original
 bufr4/0/22/080,22,Elementos oceanográficos,022080,Frecuencia central de las bandas de ondas,Hz,3,0,10,Hz,3,4,,,Operational,Original
@@ -57,7 +57,7 @@ bufr4/0/22/082,22,Elementos oceanográficos,022082,Densidad espectral máxima no
 bufr4/0/22/083,22,Elementos oceanográficos,022083,Número de onda espectral máximo no direccional,m3,2,0,20,m3,2,7,,,Operational,Original
 bufr4/0/22/084,22,Elementos oceanográficos,022084,Banda que contiene la densidad espectral máxima no direccional de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/22/085,22,Elementos oceanográficos,022085,Relación de densidad espectral de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
-bufr4/0/22/086,22,Elementos oceanográficos,022086,Dirección media de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,,100,Operational,Original
+bufr4/0/22/086,22,Elementos oceanográficos,022086,Dirección media de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 3),100,Operational,Original
 bufr4/0/22/087,22,Elementos oceanográficos,022087,Dirección principal de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
 bufr4/0/22/088,22,Elementos oceanográficos,022088,Primera coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
 bufr4/0/22/089,22,Elementos oceanográficos,022089,Segunda coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
@@ -68,11 +68,11 @@ bufr4/0/22/093,22,Elementos oceanográficos,022093,Estimación espectral direcci
 bufr4/0/22/094,22,Elementos oceanográficos,022094,Número total de bandas de ondas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/22/095,22,Elementos oceanográficos,022095,Dispersión direccional de cada ola,°,0,0,8,°,0,3,,,Operational,Original
 bufr4/0/22/096,22,Elementos oceanográficos,022096,Anchura espectral de la banda,s-1,3,0,4,s-1,3,2,,,Operational,Original
-bufr4/0/22/097,22,Elementos oceanográficos,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,m,0,0,14,m,0,5,,107,Operational,Original
-bufr4/0/22/098,22,Elementos oceanográficos,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,m,0,0,14,m,0,5,,107,Operational,Original
-bufr4/0/22/099,22,Elementos oceanográficos,022099,Dirección media con números de onda bajos (longitud de onda > 731 m),grado verdadero,0,0,9,grado verdadero,0,3,,107,Operational,Original
-bufr4/0/22/100,22,Elementos oceanográficos,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),°,0,0,9,°,0,3,,107,Operational,Original
-bufr4/0/22/101,22,Elementos oceanográficos,022101,Energía total con números de onda bajos (longitud de onda > 731 m),Numérica,0,0,31,Numérica,0,10,,107,Operational,Original
+bufr4/0/22/097,22,Elementos oceanográficos,022097,Longitud de onda (> 731 m) media del espectro de la imagen con números de onda bajos,m,0,0,14,m,0,5,(véase la nota 5),107,Operational,Original
+bufr4/0/22/098,22,Elementos oceanográficos,022098,Dispersión de la longitud de onda (> 731 m) con números de onda bajos,m,0,0,14,m,0,5,(véase la nota 5),107,Operational,Original
+bufr4/0/22/099,22,Elementos oceanográficos,022099,Dirección media con números de onda bajos (longitud de onda > 731 m),grado verdadero,0,0,9,grado verdadero,0,3,(véase la nota 5),107,Operational,Original
+bufr4/0/22/100,22,Elementos oceanográficos,022100,Dispersión de la dirección con números de onda bajos (longitud de onda > 731 m),°,0,0,9,°,0,3,(véase la nota 5),107,Operational,Original
+bufr4/0/22/101,22,Elementos oceanográficos,022101,Energía total con números de onda bajos (longitud de onda > 731 m),Numérica,0,0,31,Numérica,0,10,(véase la nota 5),107,Operational,Original
 bufr4/0/22/102,22,Elementos oceanográficos,022102,Densidad espectral máxima ajustada no direccional de las olas según la frecuencia,m² s,0,0,14,m² s,0,5,(véase la nota 10),104,Operational,Original
 bufr4/0/22/103,22,Elementos oceanográficos,022103,Densidad espectral máxima ajustada no direccional de las olas según el número de onda,m3,0,0,14,m3,0,5,(véase la nota 10),104,Operational,Original
 bufr4/0/22/104,22,Elementos oceanográficos,022104,Densidad espectral ajustada no direccional de las olas según la frecuencia,m² s,0,0,14,m² s,0,5,(véase la nota 10),104,Operational,Original

@@ -10,7 +10,7 @@ bufr4/0/20/009,20,Fenómenos observados,020009,Indicador general del tiempo (TAF
 bufr4/0/20/010,20,Fenómenos observados,020010,Cubierta de nubes (total),%,0,0,7,%,0,3,(véase la nota 5),20,Operational,Original
 bufr4/0/20/011,20,Fenómenos observados,020011,Nubosidad,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/20/012,20,Fenómenos observados,020012,Tipo de nubes,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/20/013,20,Fenómenos observados,020013,Altura de la base de las nubes,m,-1,-40,11,m,-1,4,,170,Operational,Original
+bufr4/0/20/013,20,Fenómenos observados,020013,Altura de la base de las nubes,m,-1,-40,11,m,-1,4,(véase la nota 6),170,Operational,Original
 bufr4/0/20/014,20,Fenómenos observados,020014,Altura de la cima de las nubes,m,-1,-40,11,m,-1,4,,,Operational,Original
 bufr4/0/20/015,20,Fenómenos observados,020015,Presión en la base de las nubes,Pa,-1,0,14,Pa,-1,5,,,Operational,Original
 bufr4/0/20/016,20,Fenómenos observados,020016,Presión en la cima de las nubes,Pa,-1,0,14,Pa,-1,5,,,Operational,Original
@@ -84,7 +84,7 @@ bufr4/0/20/106,20,Fenómenos observados,020106,Densidad de la población de lang
 bufr4/0/20/107,20,Fenómenos observados,020107,Dirección de los movimientos del enjambre de langostas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/20/108,20,Fenómenos observados,020108,Extensión de la vegetación,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/20/111,20,Fenómenos observados,020111,Componente principal de la elipse de error del eje x,m,-1,0,17,m,-1,6,(véanse las notas 8 y 9),"89,90",Operational,Original
-bufr4/0/20/112,20,Fenómenos observados,020112,Componente menor de la elipse de error del eje y (véanse las notas 8 y 9),m,-1,0,17,m,-1,6,,"89,90",Operational,Original
+bufr4/0/20/112,20,Fenómenos observados,020112,Componente menor de la elipse de error del eje y,m,-1,0,17,m,-1,6,(véanse las notas 8 y 9),"89,90",Operational,Original
 bufr4/0/20/113,20,Fenómenos observados,020113,Componente de la elipse de error del eje z,m,-1,0,17,m,-1,6,(véase la nota 9),89,Operational,Original
 bufr4/0/20/114,20,Fenómenos observados,020114,Ángulo del eje x en la elipse de error,°,2,-18000,16,°,2,5,(véase la nota 10),31,Operational,Original
 bufr4/0/20/115,20,Fenómenos observados,020115,Ángulo del eje z en la elipse de error,°,2,-18000,16,°,2,5,(véase la nota 11),30,Operational,Original

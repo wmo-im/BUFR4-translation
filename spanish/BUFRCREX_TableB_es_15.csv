@@ -26,7 +26,7 @@ bufr4/0/15/034,15,Componentes físicos/químicos,015034,Error estimado en la dif
 bufr4/0/15/035,15,Componentes físicos/químicos,015035,Componente del retraso del trayecto cenital debido al vapor de agua,m,4,0,14,m,4,5,,,Operational,Original
 bufr4/0/15/036,15,Componentes físicos/químicos,015036,Refractividad atmosférica,Unidades N,3,0,19,Unidades N,3,6,(véase la nota 5),142,Operational,Original
 bufr4/0/15/037,15,Componentes físicos/químicos,015037,Ángulo de curvatura,rad,8,-100000,23,rad,8,7,,,Operational,Original
-bufr4/0/15/038,15,Componentes físicos/químicos,015038,Retraso del trayecto debido a una atmósfera neutra,m,4,0,20,m,4,11,,4,Operational,Original
+bufr4/0/15/038,15,Componentes físicos/químicos,015038,Retraso del trayecto debido a una atmósfera neutra,m,4,0,20,m,4,11,(véase la nota 10),4,Operational,Original
 bufr4/0/15/039,15,Componentes físicos/químicos,015039,Error estimado en el retraso del trayecto atmosférico en una atmósfera neutra,m,4,0,14,m,4,9,,,Operational,Original
 bufr4/0/15/041,15,Componentes físicos/químicos,015041,Índice de dióxido de azufre,Numérica,2,-1200,14,Numérica,2,4,(véase la nota 7),78,Operational,Original
 bufr4/0/15/042,15,Componentes físicos/químicos,015042,Reflectancia,%,2,0,14,%,2,5,,,Operational,Original

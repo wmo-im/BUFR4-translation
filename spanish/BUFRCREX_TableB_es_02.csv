@@ -16,7 +16,7 @@ bufr4/0/02/016,02,Instrumentos,002016,Configuración de la radiosonda,Tabla de b
 bufr4/0/02/017,02,Instrumentos,002017,Algoritmos de corrección de las mediciones de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/019,02,Instrumentos,002019,Instrumentos de satélite,Tabla de cifrado,0,0,11,Tabla de cifrado,0,4,,,Operational,Original
 bufr4/0/02/020,02,Instrumentos,002020,Clasificación de los satélites,Tabla de cifrado,0,0,9,Tabla de cifrado,0,3,,,Operational,Original
-bufr4/0/02/021,02,Instrumentos,002021,Datos de instrumentos satelitales utilizados en el proceso*,Tabla de banderines,0,0,9,Tabla de banderines,0,3,,47,Operational,Original
+bufr4/0/02/021,02,Instrumentos,002021,Datos de instrumentos satelitales utilizados en el proceso*,Tabla de banderines,0,0,9,Tabla de banderines,0,3,(véase la nota 8),47,Operational,Original
 bufr4/0/02/022,02,Instrumentos,002022,Técnica utilizada en el proceso de datos satelitales,Tabla de banderines,0,0,8,Tabla de banderines,0,3,,,Operational,Original
 bufr4/0/02/023,02,Instrumentos,002023,Método de cálculo del viento a partir de datos satelitales,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/024,02,Instrumentos,002024,Método de cálculo de la humedad media integrada,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
@@ -80,7 +80,7 @@ bufr4/0/02/095,02,Instrumentos,002095,Tipo de sensor de presión,Tabla de cifrad
 bufr4/0/02/096,02,Instrumentos,002096,Tipo de sensor de temperatura,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/097,02,Instrumentos,002097,Tipo de sensor de humedad,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/099,02,Instrumentos,002099,Polarización,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/02/100,02,Instrumentos,002100,Constante de radar+,dB,1,0,12,dB,1,4,,157,Operational,Original
+bufr4/0/02/100,02,Instrumentos,002100,Constante de radar+,dB,1,0,12,dB,1,4,(véase la nota 9),157,Operational,Original
 bufr4/0/02/101,02,Instrumentos,002101,Tipo de antena,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/102,02,Instrumentos,002102,Altura de la antena sobre la base de la torre,m,0,0,8,m,0,3,,,Operational,Original
 bufr4/0/02/103,02,Instrumentos,002103,Radomo,Tabla de banderines,0,0,2,Tabla de banderines,0,1,,,Operational,Original

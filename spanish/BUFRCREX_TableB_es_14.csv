@@ -29,7 +29,7 @@ bufr4/0/14/033,14,Radiación y radiancia,014033,Insolación total,%,0,0,9,%,0,3,
 bufr4/0/14/034,14,Radiación y radiancia,014034,Insolación integrada en un período determinado,min,0,0,11,min,0,4,,,Operational,Original
 bufr4/0/14/035,14,Radiación y radiancia,014035,Flujo de radiación solar,W m-2,1,0,14,W m-2,1,5,,,Operational,Original
 bufr4/0/14/042,14,Radiación y radiancia,014042,Reflexión bidireccional,%,0,0,7,%,0,3,,,Operational,Original
-bufr4/0/14/043,14,Radiación y radiancia,014043,Radiancia del canal,W m-2 sr-1 µm-1,4,0,23,W m-2 sr-1 µm-1,4,7,,35,Operational,Original
+bufr4/0/14/043,14,Radiación y radiancia,014043,Radiancia del canal,W m-2 sr-1 µm-1,4,0,23,W m-2 sr-1 µm-1,4,7,(véase la nota 7),35,Operational,Original
 bufr4/0/14/044,14,Radiación y radiancia,014044,Radiancia del canal,W m-2 sr-1 cm,7,-100000,22,W m-2 sr-1 cm,7,7,,,Operational,Original
 bufr4/0/14/045,14,Radiación y radiancia,014045,Radiancia del canal,W m-2 sr-1 cm,0,0,11,W m-2 sr-1 cm,0,4,(véase la nota 4),36,Operational,Original
 bufr4/0/14/046,14,Radiación y radiancia,014046,Radiancia IASI ajustada,W m-2 sr-1 cm,0,-5000,16,W m-2 sr-1 cm,0,5,(véase la nota 6),29,Operational,Original

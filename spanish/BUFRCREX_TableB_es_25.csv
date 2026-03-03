@@ -119,7 +119,7 @@ bufr4/0/25/138,25,Información sobre el proceso de datos,025138,"Relación seña
 bufr4/0/25/140,25,Información sobre el proceso de datos,025140,Canal de comienzo,Numérica,0,0,14,Numérica,0,5,,,Operational,Original
 bufr4/0/25/141,25,Información sobre el proceso de datos,025141,Canal de terminación,Numérica,0,0,14,Numérica,0,5,,,Operational,Original
 bufr4/0/25/142,25,Información sobre el proceso de datos,025142,Factor de escala del canal,Numérica,0,0,6,Numérica,0,2,,,Operational,Original
-bufr4/0/25/143,25,Información sobre el proceso de datos,025143,Coeficiente lineal,Numérica,6,-5000000,24,Numérica,6,8,,57,Operational,Original
+bufr4/0/25/143,25,Información sobre el proceso de datos,025143,Coeficiente lineal,Numérica,6,-5000000,24,Numérica,6,8,(véase la nota 4),57,Operational,Original
 bufr4/0/25/148,25,Información sobre el proceso de datos,025148,Coeficiente de variación,Numérica,2,-10000,15,Numérica,2,5,,,Operational,Original
 bufr4/0/25/149,25,Información sobre el proceso de datos,025149,Estimación óptima de costo,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/25/150,25,Información sobre el proceso de datos,025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original

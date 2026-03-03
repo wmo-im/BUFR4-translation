@@ -28,5 +28,5 @@ bufr4/0/07/063,07,Ubicación (vertical),007063,Profundidad bajo la superficie de
 bufr4/0/07/064,07,Ubicación (vertical),007064,Altura representativa del sensor por encima de la estación,m,0,0,4,m,0,2,(véase la nota 8),117,Operational,Original
 bufr4/0/07/065,07,Ubicación (vertical),007065,Presión del agua,Pa,-3,0,17,Pa,-3,6,,,Operational,Original
 bufr4/0/07/070,07,Ubicación (vertical),007070,Profundidad del ancla flotante,m,0,0,10,m,0,4,,,Operational,Original
-bufr4/0/07/071,07,Ubicación (vertical),007071,Altura,m,3,-10000000,26,m,3,8,(alta resolución),,Operational,Original
+bufr4/0/07/071,07,Ubicación (vertical),007071,Altura (alta resolución),m,3,-10000000,26,m,3,8,,,Operational,Original
 bufr4/0/07/072,07,Ubicación (vertical),007072,Ángulo de exploración,grado,2,-9000,15,grados,2,6,,,Operational,Original
