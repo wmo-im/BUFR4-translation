@@ -1,10 +1,10 @@
 Id,Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status,translated_by
-bufr4/3/21/001/1/002101,21,Secuencias de los informes de las observaciones de radar,321001,,,002101,Tipo de antena,,,,Operational,Original
-bufr4/3/21/001/2/002114,21,Secuencias de los informes de las observaciones de radar,321001,,,002114,Superficie equivalente de la antena,,,,Operational,Original
-bufr4/3/21/001/3/002105,21,Secuencias de los informes de las observaciones de radar,321001,,,002105,Ganancia máxima de la antena,,,,Operational,Original
-bufr4/3/21/001/4/002106,21,Secuencias de los informes de las observaciones de radar,321001,,,002106,Anchura del haz a 3 dB,,,,Operational,Original
-bufr4/3/21/001/5/002107,21,Secuencias de los informes de las observaciones de radar,321001,,,002107,Supresión de los lóbulos laterales,,,,Operational,Original
-bufr4/3/21/001/6/002121,21,Secuencias de los informes de las observaciones de radar,321001,,,002121,Frecuencia media,,,,Operational,Original
+bufr4/3/21/001/1/002101,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002101,Tipo de antena,,,,Operational,Original
+bufr4/3/21/001/2/002114,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002114,Superficie equivalente de la antena,,,,Operational,Original
+bufr4/3/21/001/3/002105,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002105,Ganancia máxima de la antena,,,,Operational,Original
+bufr4/3/21/001/4/002106,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002106,Anchura del haz a 3 dB,,,,Operational,Original
+bufr4/3/21/001/5/002107,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002107,Supresión de los lóbulos laterales,,,,Operational,Original
+bufr4/3/21/001/6/002121,21,Secuencias de los informes de las observaciones de radar,321001,(Perfilador del viento — características de la antena),,002121,Frecuencia media,,,,Operational,Original
 bufr4/3/21/003/1/021051,21,Secuencias de los informes de las observaciones de radar,321003,(Perfilador del viento — datos relativos al momento),,021051,Potencia de la señal superior a 1 mW,,,,Operational,Original
 bufr4/3/21/003/2/021014,21,Secuencias de los informes de las observaciones de radar,321003,(Perfilador del viento — datos relativos al momento),,021014,Velocidad media Doppler (radial),,,,Operational,Original
 bufr4/3/21/003/3/021017,21,Secuencias de los informes de las observaciones de radar,321003,(Perfilador del viento — datos relativos al momento),,021017,Ancho espectral de la velocidad Doppler,,,,Operational,Original
