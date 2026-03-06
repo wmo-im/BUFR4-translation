@@ -16,7 +16,7 @@ bufr4/0/25/006/7,025006,Conversión Z a R,7,Valor faltante,,,,,Operational,Origi
 bufr4/0/25/009/1,025009,Método de calibración,1,Ninguno,,,,,Operational,Original
 bufr4/0/25/009/2,025009,Método de calibración,2,Blanco o señal de calibración,,,,,Operational,Original
 bufr4/0/25/009/3,025009,Método de calibración,3,Con relación a los pluviómetros,,,,,Operational,Original
-bufr4/0/25/009/4,025009,Método de calibración,4,Con relación a otros instrumentos (distrómetro, atenuación),,,,Deprecated,Original
+bufr4/0/25/009/4,025009,Método de calibración,4,"Con relación a otros instrumentos (distrómetro, atenuación)",,,,Deprecated,Original,
 bufr4/0/25/009/All-4,025009,Método de calibración,Los 4,Valor faltante,,,,,Operational,Original
 bufr4/0/25/010/0,025010,Tratamiento de los ecos parásitos,0,Ninguno,,,,,Operational,Original
 bufr4/0/25/010/1,025010,Tratamiento de los ecos parásitos,1,Mapa,,,,,Operational,Original
@@ -52,15 +52,15 @@ bufr4/0/25/021/4,025021,Refuerzo del cálculo del viento,4,Verificación de la c
 bufr4/0/25/021/5,025021,Refuerzo del cálculo del viento,5,Otros,,,,,Operational,Original
 bufr4/0/25/021/6-7,025021,Refuerzo del cálculo del viento,6-7,Reservados,,,,,Operational,Original
 bufr4/0/25/021/All-8,025021,Refuerzo del cálculo del viento,Los 8,Valor faltante,,,,,Operational,Original
-bufr4/0/25/022/1,025022,Banderín de rechazo GHRSST,1,No procesado,,,*,,Operational,Original
-bufr4/0/25/022/2,025022,Banderín de rechazo GHRSST,2,Sospecha de tierra,,,*,,Operational,Original
-bufr4/0/25/022/3,025022,Banderín de rechazo GHRSST,3,Velocidad de viento demasiado grande,,,*,,Operational,Original
-bufr4/0/25/022/4,025022,Banderín de rechazo GHRSST,4,Hielo detectado,,,*,,Operational,Original
-bufr4/0/25/022/5,025022,Banderín de rechazo GHRSST,5,Lluvia detectada (datos en microondas únicamente),,,*,,Operational,Original
-bufr4/0/25/022/6,025022,Banderín de rechazo GHRSST,6,Nubosidad detectada (datos en infrarrojos únicamente),,,*,,Operational,Original
-bufr4/0/25/022/7,025022,Banderín de rechazo GHRSST,7,Valor cosmético,,,*,,Operational,Original
-bufr4/0/25/022/8,025022,Banderín de rechazo GHRSST,8,Temperatura de la superficie del mar (SST) fuera de dial,,,*,,Operational,Original
-bufr4/0/25/022/9,025022,Banderín de rechazo GHRSST,9,Valor faltante,,,*,,Operational,Original
+bufr4/0/25/022/1,025022,Banderín de rechazo GHRSST,1,No procesado,,,,,Operational,Original
+bufr4/0/25/022/2,025022,Banderín de rechazo GHRSST,2,Sospecha de tierra,,,,,Operational,Original
+bufr4/0/25/022/3,025022,Banderín de rechazo GHRSST,3,Velocidad de viento demasiado grande,,,,,Operational,Original
+bufr4/0/25/022/4,025022,Banderín de rechazo GHRSST,4,Hielo detectado,,,,,Operational,Original
+bufr4/0/25/022/5,025022,Banderín de rechazo GHRSST,5,Lluvia detectada (datos en microondas únicamente),,,,,Operational,Original
+bufr4/0/25/022/6,025022,Banderín de rechazo GHRSST,6,Nubosidad detectada (datos en infrarrojos únicamente),,,,,Operational,Original
+bufr4/0/25/022/7,025022,Banderín de rechazo GHRSST,7,Valor cosmético,,,,,Operational,Original
+bufr4/0/25/022/8,025022,Banderín de rechazo GHRSST,8,Temperatura de la superficie del mar (SST) fuera de dial,,,,,Operational,Original
+bufr4/0/25/022/9,025022,Banderín de rechazo GHRSST,9,Valor faltante,,,,,Operational,Original
 bufr4/0/25/023/1,025023,Banderín de confianza GHRSST,1,Se ha utilizado el valor de confianza por defecto,,,,,Operational,Original
 bufr4/0/25/023/2,025023,Banderín de confianza GHRSST,2,Se han utilizado la desviación típica y el error sistemático por defecto,,,,,Operational,Original
 bufr4/0/25/023/3,025023,Banderín de confianza GHRSST,3,Sospecha de destello solar,,,,,Operational,Original
@@ -268,10 +268,10 @@ bufr4/0/25/123/0,025123,Configuración del equipo informático para amplificador
 bufr4/0/25/123/1,025123,Configuración del equipo informático para amplificador de gran potencia,1,La configuración del equipo informático para HPA es B,,,,,Operational,Original
 bufr4/0/25/123/2,025123,Configuración del equipo informático para amplificador de gran potencia,2,Reservado,,,,,Operational,Original
 bufr4/0/25/123/3,025123,Configuración del equipo informático para amplificador de gran potencia,3,Valor faltante,,,,,Operational,Original
-bufr4/0/25/124/0,025124,Banderín de proceso de nivel 2 – MWR,0,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es superior al umbral aceptable,,,"(*,**)",,Operational,Original
-bufr4/0/25/124/1,025124,Banderín de proceso de nivel 2 – MWR,1,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es inferior al nivel aceptable,,,*,,Operational,Original
-bufr4/0/25/124/2,025124,Banderín de proceso de nivel 2 – MWR,2,Reservada,,,*,,Operational,Original
-bufr4/0/25/124/3,025124,Banderín de proceso de nivel 2 – MWR,3,Valor faltante,,,,*,Operational,Original
+bufr4/0/25/124/0,025124,Banderín de proceso de nivel 2 – MWR,0,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es superior al umbral aceptable,,,,,Operational,Original
+bufr4/0/25/124/1,025124,Banderín de proceso de nivel 2 – MWR,1,El porcentaje de DSR sin errores de proceso durante el proceso en nivel 2 es inferior al nivel aceptable,,,,,Operational,Original
+bufr4/0/25/124/2,025124,Banderín de proceso de nivel 2 – MWR,2,Reservada,,,,,Operational,Original
+bufr4/0/25/124/3,025124,Banderín de proceso de nivel 2 – MWR,3,Valor faltante,,,,,Operational,Original
 bufr4/0/25/150/1,025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,1,Análisis Dvorak de la intensidad en VIS (imágenes visuales),,,,,Operational,Original
 bufr4/0/25/150/2,025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,2,Análisis Dvorak de la intensidad en EIR (imágenes de infrarrojos realzadas),,,,,Operational,Original
 bufr4/0/25/150/3-14,025150,Método de análisis de la intensidad de los ciclones tropicales a partir de datos obtenidos por satélites,3-14,Reservadas,,,,,Operational,Original

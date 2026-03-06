@@ -145,15 +145,15 @@ bufr4/0/08/013/0,008013,Calificador dia/noche,0,Noche,,,,,Operational,Original
 bufr4/0/08/013/1,008013,Calificador dia/noche,1,Día,,,,,Operational,Original
 bufr4/0/08/013/2,008013,Calificador dia/noche,2,Crepúsculo,,,,,Operational,Original
 bufr4/0/08/013/3,008013,Calificador dia/noche,3,Valor faltante,,,,,Operational,Original
-bufr4/0/08/014/0,008014,Calificador para el alcance visual en pista,0,Valor medio de 10 minutos,valor normal,,,,Operational,Original
-bufr4/0/08/014/1,008014,Calificador para el alcance visual en pista,1,Valor medio de 10 minutos,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/2,008014,Calificador para el alcance visual en pista,2,Valor medio de 10 minutos,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
-bufr4/0/08/014/3,008014,Calificador para el alcance visual en pista,3,Valor mínimo de un minuto,valor normal,,,,Operational,Original
-bufr4/0/08/014/4,008014,Calificador para el alcance visual en pista,4,Valor mínimo de un minuto,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/5,008014,Calificador para el alcance visual en pista,5,Valor mínimo de un minuto,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
-bufr4/0/08/014/6,008014,Calificador para el alcance visual en pista,6,Valor máximo de un minuto,valor normal,,,,Operational,Original
-bufr4/0/08/014/7,008014,Calificador para el alcance visual en pista,7,Valor máximo de un minuto,por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,Operational,Original
-bufr4/0/08/014/8,008014,Calificador para el alcance visual en pista,8,Valor máximo de un minuto,por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,Operational,Original
+bufr4/0/08/014/0,008014,Calificador para el alcance visual en pista,0,Valor medio de 10 minutos - valor normal,,,,,Operational,Original
+bufr4/0/08/014/1,008014,Calificador para el alcance visual en pista,1,Valor medio de 10 minutos - por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/2,008014,Calificador para el alcance visual en pista,2,Valor medio de 10 minutos - por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
+bufr4/0/08/014/3,008014,Calificador para el alcance visual en pista,3,Valor mínimo de un minuto - valor normal,,,,,Operational,Original
+bufr4/0/08/014/4,008014,Calificador para el alcance visual en pista,4,Valor mínimo de un minuto - por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/5,008014,Calificador para el alcance visual en pista,5,Valor mínimo de un minuto - por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
+bufr4/0/08/014/6,008014,Calificador para el alcance visual en pista,6,Valor máximo de un minuto - valor normal,,,,,Operational,Original
+bufr4/0/08/014/7,008014,Calificador para el alcance visual en pista,7,Valor máximo de un minuto - por encima del límite superior para evaluaciones del alcance visual en pista (P),,,,,Operational,Original
+bufr4/0/08/014/8,008014,Calificador para el alcance visual en pista,8,Valor máximo de un minuto - por debajo del límite inferior para evaluaciones del alcance visual en pista (M),,,,,Operational,Original
 bufr4/0/08/014/9-14,008014,Calificador para el alcance visual en pista,9-14,Reservadas,,,,,Operational,Original
 bufr4/0/08/014/15,008014,Calificador para el alcance visual en pista,15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/015/0,008015,Calificador significativo del sensor,0,Sensor único,,,,,Operational,Original
