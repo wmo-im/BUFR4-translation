@@ -56,7 +56,11 @@ bufr4/3/01/028/1/008040,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/028/2/033042,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,033042,Tipo de límite representado por el valor siguiente,,,,Operational,Original
 bufr4/3/01/028/3/007010,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,007010,Nivel de vuelo,,,,Operational,Original
 bufr4/3/01/028/4/101000,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,101000,Repetición diferida de 1 descriptor,,,,Operational,Original
+<<<<<<< HEAD
 bufr4/3/01/028/5/031002,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,031002,Factor ampliado de repetición diferida del descriptor,,(véase la Nota 6),61,Operational,Original
+=======
+bufr4/3/01/028/5/031002,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,031002,Factor ampliado de repetición diferida del descriptor,,(véase la Nota 6),66,Operational,Original
+>>>>>>> b000c6a (more cleanup)
 bufr4/3/01/028/6/301023,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,301023,Latitud/longitud (precisión aproximada),,,,Operational,Original
 bufr4/3/01/028/7/019007,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,019007,Radio del elemento efectivo,,(véase la nota 7),61,Operational,Original
 bufr4/3/01/028/8/008040,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,008040,Significación del nivel de vuelo,Fijar en faltante (anular),,,Operational,Original
@@ -167,8 +171,8 @@ bufr4/3/01/047/5/001012,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/047/6/301045,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301045,Ubicación y velocidad del satélite,,,,Operational,Original
 bufr4/3/01/047/7/002021,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,002021,Datos de los instrumentos satelitales utilizados en las operaciones de proceso,,,,Operational,Original
 bufr4/3/01/047/8/301011,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301011,"Año, mes, día",,,,Operational,Original
-bufr4/3/01/047/9/301012,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301012,"Hora, minuto",16 bits,,,Operational,Original
-bufr4/3/01/047/10/201138,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201138,Cambio de anchura de los datos,,,,Operational,Original
+bufr4/3/01/047/9/301012,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301012,"Hora, minuto",,,,Operational,Original
+bufr4/3/01/047/10/201138,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201138,Cambio de anchura de los datos,16 bits,,,Operational,Original
 bufr4/3/01/047/11/202131,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,202131,Cambio de escala,Escala: 3,,,Operational,Original
 bufr4/3/01/047/12/004006,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,004006,Segundo,,,,Operational,Original
 bufr4/3/01/047/13/201000,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201000,Cambio de anchura de los datos,Anular,,,Operational,Original
