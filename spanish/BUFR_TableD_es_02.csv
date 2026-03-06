@@ -57,8 +57,8 @@ bufr4/3/02/024/2/101002,02,Secuencias meteorológicas comunes a los datos de sup
 bufr4/3/02/024/3/302023,02,Secuencias meteorológicas comunes a los datos de superficie,302024,(Olas de viento y de mar de fondo),,302023,Olas de mar de fondo,2 sistemas de mar de fondo,,,Operational,Original
 bufr4/3/02/031/1/302001,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,302001,Presión y cambio de presión en 3 horas,,,,Operational,Original
 bufr4/3/02/031/2/010062,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,010062,Cambio de presión en 24 horas,,,,Operational,Original
-bufr4/3/02/031/3/007004,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,007004,Presión,,,,Operational,Original
-bufr4/3/02/031/4/010009,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,010009,Altura geopotencial,Nivel estándar,,,Operational,Original
+bufr4/3/02/031/3/007004,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,007004,Presión,Nivel estándar,,,Operational,Original
+bufr4/3/02/031/4/010009,02,Secuencias meteorológicas comunes a los datos de superficie,302031,(Información sobre la presión),,010009,Altura geopotencial,,,,Operational,Original
 bufr4/3/02/032/1/007032,02,Secuencias meteorológicas comunes a los datos de superficie,302032,(Datos de temperatura y humedad),,007032,Altura del sensor sobre el suelo local (o la cubierta de la plataforma marina),Medición de la temperatura y la humedad,,,Operational,Original
 bufr4/3/02/032/2/012101,02,Secuencias meteorológicas comunes a los datos de superficie,302032,(Datos de temperatura y humedad),,012101,Temperatura/temperatura del aire,Escala: 2,,,Operational,Original
 bufr4/3/02/032/3/012103,02,Secuencias meteorológicas comunes a los datos de superficie,302032,(Datos de temperatura y humedad),,012103,Temperatura del punto de rocío,Escala: 2,,,Operational,Original
