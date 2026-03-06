@@ -25,6 +25,7 @@ bufr4/0/08/023,08,Calificadores de significación,008023,Estadísticas de primer
 bufr4/0/08/024,08,Calificadores de significación,008024,Estadísticas de diferencia,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/025,08,Calificadores de significación,008025,Calificador de diferencia de tiempo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,(véase la nota 5),,Operational,Original
 bufr4/0/08/026,08,Calificadores de significación,008026,Significación matricial,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/08/027,08,Calificadores de significación,008027,Tipo de medición de anomalía de altura de la superficie del mar,Tabla de cifrado,0,0,8,,,,,,Operational,AI Translator: MCP
 bufr4/0/08/029,08,Calificadores de significación,008029,Tipo de superficie,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/08/030,08,Calificadores de significación,008030,"Manual de claves (vol. I.1, sec. C) - Tabla de cifrado de la cual se obtienen los datos",Numérica,0,0,13,Numérica,0,4,,,Operational,Original
 bufr4/0/08/031,08,Calificadores de significación,008031,Categoría de datos de la Tabla A de CREX,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
@@ -41,6 +42,7 @@ bufr4/0/08/041,08,Calificadores de significación,008041,Significación de datos
 bufr4/0/08/042,08,Calificadores de significación,008042,Significación del sondeo vertical ampliado,Tabla de banderines,0,0,18,Tabla de banderines,0,6,,,Operational,Original
 bufr4/0/08/043,08,Calificadores de significación,008043,Tipo de componente atmosférico químico o físico,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/08/044,08,Calificadores de significación,008044,Número de registro del CAS,CCITT IA5,0,0,88,Caracteres,0,11,,,Operational,Original
+bufr4/0/08/045,08,Calificadores de significación,008045,Característica de materia particulada,Tabla de cifrado,0,0,8,Caracteres,0,2,,,Operational,AI Translator: MCP
 bufr4/0/08/046,08,Calificadores de significación,008046,Tipo de componente químico o físico atmosférico,Tabla de cifrado común C-14,0,0,16,Tabla de cifrado común C-14,0,5,,,Operational,Original
 bufr4/0/08/049,08,Calificadores de significación,008049,Número de observaciones,Numérica,0,0,8,Numérica,0,3,,,Operational,Original
 bufr4/0/08/050,08,Calificadores de significación,008050,Calificador del número de valores faltantes en el cálculo de estadísticas,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
@@ -48,10 +50,12 @@ bufr4/0/08/051,08,Calificadores de significación,008051,Calificador del número
 bufr4/0/08/052,08,Calificadores de significación,008052,Condición por la que se deduce el número de días de ocurrencia,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/053,08,Calificadores de significación,008053,Calificador del día de ocurrencia,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/08/054,08,Calificadores de significación,008054,Calificador de la velocidad del viento o de las ráfagas de viento,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
+bufr4/0/08/055,08,Calificadores de significación,008055,Método utilizado para calcular los componentes promedio del viento después de eliminar el vórtice.,Tabla de cifrado,0,0,4,,,,,,Operational,AI Translator: MCP
 bufr4/0/08/060,08,Calificadores de significación,008060,Significación del modo de exploración de la muestra,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/065,08,Calificadores de significación,008065,Indicador de destello solar,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/08/066,08,Calificadores de significación,008066,Indicador de semitransparencia,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/08/070,08,Calificadores de significación,008070,Calificador del producto de sondeo vertical,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/08/071,08,Calificadores de significación,008071,Tipo de estimación de costos,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP
 bufr4/0/08/072,08,Calificadores de significación,008072,Tipo de píxel(es),Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/08/074,08,Calificadores de significación,008074,Tipo de eco del altímetro,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/08/075,08,Calificadores de significación,008075,Calificador de órbita ascendente/descendente,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,Original
@@ -70,3 +74,11 @@ bufr4/0/08/090,08,Calificadores de significación,008090,Escala decimal de los s
 bufr4/0/08/091,08,Calificadores de significación,008091,Significación de las coordenadas,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/08/092,08,Calificadores de significación,008092,Expresión de la incertidumbre en la medición,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/08/093,08,Calificadores de significación,008093,Significación de la incertidumbre en la medición,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/08/094,08,Calificadores de significación,008094,Método utilizado para calcular la temperatura media diaria,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,AI Translator: MCP
+bufr4/0/08/095,08,Calificadores de significación,008095,Clasificación de calidad de ubicación y medición para temperatura,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,AI Translator: MCP
+bufr4/0/08/096,08,Calificadores de significación,008096,Clasificación de calidad de medición y ubicación para la precipitación,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,AI Translator: MCP
+bufr4/0/08/097,08,Calificadores de significación,008097,Método utilizado para calcular la temperatura promedio del instrumento,Tabla de cifrado,0,0,7,Tabla de cifrado,0,3,,,Operational,AI Translator: MCP
+bufr4/0/08/098,08,Calificadores de significación,008098,Fuente de medición de temperatura,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
+bufr4/0/08/099,08,Calificadores de significación,008099,Detección de dirección,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
+bufr4/0/08/100,08,Calificadores de significación,008100,Tipo de valor de observación siguiente,Tabla de cifrado,0,0,8,,,,,,Operational,AI Translator: MCP
+bufr4/0/08/101,08,Calificadores de significación,008101,Fase del vuelo en globo,Tabla de cifrado,0,0,4,,,,,,Operational,AI Translator: MCP

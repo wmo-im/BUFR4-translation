@@ -38,12 +38,14 @@ bufr4/0/01/029/31,001029,Fuente de la ISS*,31,Valor faltante,,,,,Operational,Ori
 bufr4/0/01/031,001031,Identificación del centro de origen/generación,,,,,,,Operational,Original
 bufr4/0/01/033,001033,Identificación del centro de origen/generación,,,,,,,Operational,Original
 bufr4/0/01/034,001034,Identificación del centro secundario de origen/generación,,,,,,,Operational,Original
+bufr4/0/01/035,001035,Centro de origen/generación,,,,,,,Operational,AI Translator: MCP
 bufr4/0/01/036/0-36000,001036,Organismo encargado de operar la plataforma de observación,0-36000,Reservadas,,,,,Operational,Original
 bufr4/0/01/036/36001,001036,Organismo encargado de operar la plataforma de observación,36001,"Australia, Bureau of Meteorology (BoM)",,,,,Operational,Original
 bufr4/0/01/036/36002,001036,Organismo encargado de operar la plataforma de observación,36002,"Australia, Joint Australian Facility for Ocean Observing Systems (JAFOOS)",,,,,Operational,Original
 bufr4/0/01/036/36003,001036,Organismo encargado de operar la plataforma de observación,36003,"Australia, the Commonwealth Scientific and Industrial Research Organization (CSIRO)",,,,,Operational,Original
 bufr4/0/01/036/36004-124000,001036,Organismo encargado de operar la plataforma de observación,36004-124000,Reservadas,,,,,Operational,Original
 bufr4/0/01/036/124001,001036,Organismo encargado de operar la plataforma de observación,124001,"Canadá, Marine Environmental Data Service (MEDS) 124002 Canadá, Institute of Ocean Sciences (IOS)",,,,,Operational,Original
+bufr4/0/01/036/124002,001036,Organismo encargado de operar la plataforma de observación,124002,"Canadá, Instituto de Ciencias del Océano (IOS)",,,,,Operational,AI Translator: MCP
 bufr4/0/01/036/124003-124172,001036,Organismo encargado de operar la plataforma de observación,124003-124172,Reservadas,,,,,Operational,Original
 bufr4/0/01/036/124173,001036,Organismo encargado de operar la plataforma de observación,124173,"Canadá, Ministerio del Medio Ambiente de Canadá",,,,,Operational,Original
 bufr4/0/01/036/124174,001036,Organismo encargado de operar la plataforma de observación,124174,"Canadá, Ministerio de Defensa Nacional",,,,,Operational,Original
@@ -82,7 +84,11 @@ bufr4/0/01/036/724001,001036,Organismo encargado de operar la plataforma de obse
 bufr4/0/01/036/724002-826000,001036,Organismo encargado de operar la plataforma de observación,724002-826000,Reservadas,,,,,Operational,Original
 bufr4/0/01/036/826001,001036,Organismo encargado de operar la plataforma de observación,826001,"Reino Unido, Hydrographic Office",,,,,Operational,Original
 bufr4/0/01/036/826002,001036,Organismo encargado de operar la plataforma de observación,826002,"Reino Unido, Southampton Oceanography Centre (SOC)",,,,,Operational,Original
-bufr4/0/01/036/826003-840000,001036,Organismo encargado de operar la plataforma de observación,826003-840000,Reservadas,,,,,Operational,Original
+bufr4/0/01/036/826003,001036,Organismo encargado de operar la plataforma de observación,826003,"Reino Unido, Centro para el Medio Ambiente, la Ciencia de Pesquerías y Acuicultura (Cefas)",,,,,Operational,AI Translator: MCP
+bufr4/0/01/036/826004,001036,Organismo encargado de operar la plataforma de observación,826004,"Reino Unido, Marine Scotland (MS)",,,,,Operational,AI Translator: MCP
+bufr4/0/01/036/826005,001036,Organismo encargado de operar la plataforma de observación,826005,"Reino Unido, Laboratorio Marino de Plymouth (PML)",,,,,Operational,AI Translator: MCP
+bufr4/0/01/036/826006,001036,Organismo encargado de operar la plataforma de observación,826006,"Reino Unido, Encuesta Antártica Británica (BAS)",,,,,Operational,AI Translator: MCP
+bufr4/0/01/036/826007-840000,001036,Organismo encargado de operar la plataforma de observación,826007-840000,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/01/036/840001,001036,Organismo encargado de operar la plataforma de observación,840001,"Estados Unidos, NOAA Atlantic Oceanographic and Meteorological Laboratories (AOML)",,,,,Operational,Original
 bufr4/0/01/036/840002,001036,Organismo encargado de operar la plataforma de observación,840002,"Estados Unidos, NOAA Pacific Marine Environmental Laboratories (PMEL)",,,,,Operational,Original
 bufr4/0/01/036/840003,001036,Organismo encargado de operar la plataforma de observación,840003,"Estados Unidos, Scripps Institution of Oceanography (SIO)",,,,,Operational,Original
@@ -351,3 +357,20 @@ bufr4/0/01/151/0,001151,Dato de referencia del nivel medio del mar obtenido resp
 bufr4/0/01/151/1,001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,1,Sistema báltico de altura 1977,,,,,Operational,Original
 bufr4/0/01/151/2-4094,001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,2-4094,Reservadas,,,,,Operational,Original
 bufr4/0/01/151/4095,001151,Dato de referencia del nivel medio del mar obtenido respecto a una referencia fija,4095,Valor faltante,,,,,Operational,Original
+bufr4/0/01/155/0,001155,Identificador de recuperación,0,Algoritmo Correcto Estándar (SCA),,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/1,001155,Identificador de recuperación,1,Algoritmo Correcto Estándar mid-bin (SCA mid-bin),,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/2,001155,Identificador de recuperación,2,Estimación de Máxima Verosimilitud (MLE),,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/3,001155,Identificador de recuperación,3,Perfil de Estimación Óptima (OE-PRO),,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/4,001155,Identificador de recuperación,4,Grupo,,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/5,001155,Identificador de recuperación,5,Grupo contenedor intermedio,,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/6,001155,Identificador de recuperación,6,Estimación de Máxima Verosimilitud – Alta resolución horizontal (MLEsub),,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/7-254,001155,Identificador de recuperación,7-254,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/01/155/255,001155,Identificador de recuperación,255,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/0,001158,Tipo de envoltura de globo,0,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/1,001158,Tipo de envoltura de globo,1,Globo de superpresión (SPB) sin control de altitud,,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/2,001158,Tipo de envoltura de globo,2,SPB con control de altitud,,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/3,001158,Tipo de envoltura de globo,3,Globo de presión cero (ZPB),,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/4,001158,Tipo de envoltura de globo,4,Montgolfier de Infrarrojos (MIR),,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/5,001158,Tipo de envoltura de globo,5,Dirigible (globo con forma de dirigible),,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/6,001158,Tipo de envoltura de globo,6,Tetroón (globo tetraédrico NOAA),,,,,Operational,AI Translator: MCP
+bufr4/0/01/158/15,001158,Tipo de envoltura de globo,15,Valor faltante,,,,,Operational,AI Translator: MCP

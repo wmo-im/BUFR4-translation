@@ -14,3 +14,6 @@ bufr4/0/42/012,42,Elementos oceanográficos,042012,b1 Coeficiente de la serie di
 bufr4/0/42/013,42,Elementos oceanográficos,042013,a2 Coeficiente de la serie direccional de Fourier,Numérica,4,-20000,15,Numérica,4,6,,,Operational,Original
 bufr4/0/42/014,42,Elementos oceanográficos,042014,b2 Coeficiente de la serie direccional de Fourier,Numérica,4,-20000,15,Numérica,4,6,,,Operational,Original
 bufr4/0/42/015,42,Elementos oceanográficos,042015,Verificar el factor K,Numérica,2,0,12,Numérica,2,4,,,Operational,Original
+bufr4/0/42/016,42,Elementos oceanográficos,042016,Densidad potencial del agua de mar referenciada a la superficie del mar,kg m-3,5,-10000000,24,kg m-3,5,9,,,Operational,AI Translator: MCP
+bufr4/0/42/017,42,Elementos oceanográficos,042017,Bandera de calidad de los espectros de olas de mar de fondo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
+bufr4/0/42/018,42,Elementos oceanográficos,042018,Bandera de calidad para cada partición del espectro de olas de mar de fondo.,Tabla de cifrado,0,0,4,Tabla de cifrado,0,4,,,Operational,AI Translator: MCP

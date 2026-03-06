@@ -58,7 +58,7 @@ bufr4/0/22/083,22,Elementos oceanográficos,022083,Número de onda espectral má
 bufr4/0/22/084,22,Elementos oceanográficos,022084,Banda que contiene la densidad espectral máxima no direccional de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/22/085,22,Elementos oceanográficos,022085,Relación de densidad espectral de las olas,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/22/086,22,Elementos oceanográficos,022086,Dirección media de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
-bufr4/0/22/087,22,Elementos oceanográficos,022087,Dirección principal de donde provienen las olas,grado verdadero,0,,9,grado verdadero,0,3,,,Operational,Original
+bufr4/0/22/087,22,Elementos oceanográficos,022087,Dirección principal de donde provienen las olas,grado verdadero,0,0,9,grado verdadero,0,3,,,Operational,Original
 bufr4/0/22/088,22,Elementos oceanográficos,022088,Primera coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
 bufr4/0/22/089,22,Elementos oceanográficos,022089,Segunda coordenada polar normalizada obtenida con los coeficientes de Fourier,Numérica,2,0,7,Numérica,2,3,,,Operational,Original
 bufr4/0/22/090,22,Elementos oceanográficos,022090,Estimación espectral no direccional atendiendo la frecuencia de las olas,m² s,2,0,20,m² s,2,7,,,Operational,Original
@@ -115,7 +115,7 @@ bufr4/0/22/163,22,Elementos oceanográficos,022163,Número de puntos válidos a 
 bufr4/0/22/164,22,Elementos oceanográficos,022164,Media cuadrática de la altura de ola significativa a 20 Hz en banda Ku,m,3,0,16,m,3,5,,,Operational,Original
 bufr4/0/22/165,22,Elementos oceanográficos,022165,Número de puntos válidos a 20 Hz para altura de ola significativa en banda Ku,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
 bufr4/0/22/166,22,Elementos oceanográficos,022166,Corrección instrumental neta de la altura de ola significativa en banda Ku,m,3,-1000,11,m,3,4,,,Operational,Original
-bufr4/0/22/167,22,Elementos oceanográficos,022167,Número de puntos válidos de retrodispersión en banda Ku,Numérica,0,0,10,Numérica,3,4,,,Operational,Original
+bufr4/0/22/167,22,Elementos oceanográficos,022167,Número de puntos válidos de retrodispersión en banda Ku,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
 bufr4/0/22/168,22,Elementos oceanográficos,022168,Alcance oceánico en banda C,m,3,0,31,m,3,10,,,Operational,Original
 bufr4/0/22/169,22,Elementos oceanográficos,022169,Media cuadrática del alcance oceánico en banda C,m,3,0,16,m,3,5,,,Operational,Original
 bufr4/0/22/170,22,Elementos oceanográficos,022170,Número de puntos válidos a 20 Hz en banda C,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
