@@ -145,9 +145,9 @@ bufr4/0/02/021/8,002021,Datos de instrumentos satelitales utilizados en el proce
 bufr4/0/02/021/All-9,002021,Datos de instrumentos satelitales utilizados en el proceso,Los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/02/022/1,002022,Técnica utilizada en el proceso de datos satelitales,1,Técnica de proceso sin especificar,,,Banderines de bit que indican los elementos incluidos en el proceso de datos de sondeo.,,Operational,Original
 bufr4/0/02/022/2,002022,Técnica utilizada en el proceso de datos satelitales,2,Regresión estadística automatizada,,,,,Operational,Original
-bufr4/0/02/022/3,002022,Técnica utilizada en el proceso de datos satelitales,3,Trayecto despejado,,,"Nota 1) Por trayecto despejado se entiende que el sondeo se ha realizado a partir de radiancias claras obtenidas de mediciones reales en puntos despejados. Se han aplicado datos HIRS troposféricos y estratosféricos, así como datos MSU y SSU.",,Operational,Original
-bufr4/0/02/022/4,002022,Técnica utilizada en el proceso de datos satelitales,4,Trayecto parcialmente nuboso,,,"Nota 2) Por trayecto parcialmente nuboso se entiende que el sondeo se ha llevado a cabo a partir de radiancias claras que se han calculado en puntos parcialmente nubosos. Se han aplicado datos HIRS, troposféricos y estratosféricos, así como datos MSU y SSU.",,Operational,Original
-bufr4/0/02/022/5,002022,Técnica utilizada en el proceso de datos satelitales,5,Trayecto nuboso,,,"Nota 3) Por trayecto nuboso se entiende que el sondeo se ha realizado únicamente a partir de datos HIRS estratosféricos, y datos MSU y SSU. No se han aplicado datos HIRS troposféricos a causa de nubosidad",,Operational,Original
+bufr4/0/02/022/3,002022,Técnica utilizada en el proceso de datos satelitales,3,Trayecto despejado,,,Nota 1,28,Operational,Original
+bufr4/0/02/022/4,002022,Técnica utilizada en el proceso de datos satelitales,4,Trayecto parcialmente nuboso,,,Nota 2,62,Operational,Original
+bufr4/0/02/022/5,002022,Técnica utilizada en el proceso de datos satelitales,5,Trayecto nuboso,,,Nota 3,30,Operational,Original
 bufr4/0/02/022/6-7,002022,Técnica utilizada en el proceso de datos satelitales,6-7,Reservados,,,,,Operational,Original
 bufr4/0/02/022/All-8,002022,Técnica utilizada en el proceso de datos satelitales,Los 8,Valor faltante,,,,,Operational,Original
 bufr4/0/02/023/0,002023,Método de cálculo del viento a partir de datos satelitales,0,Reservada,,,,,Operational,Original
@@ -183,7 +183,7 @@ bufr4/0/02/025/12,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,12,
 bufr4/0/02/025/13-14,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,13-14,Reservados,,,,,Operational,Original
 bufr4/0/02/025//4,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 4 - Temperatura media para las capas: superficie hasta 850 hPa, 850 a 700 hPa, 700 a 500 hPa, 500 a 400 hPa, 400 a 300 hPa, 300 a 200 hPa, y 200 a 100 hPa",,,,,Operational,Original
 bufr4/0/02/025/15,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,15,HIRS,,,,,Operational,Original
-bufr4/0/02/025/16,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,16,HIRS,,,Nota: HIRS* equivale a : canales HIRS 1 (669 cm–1) 2 (679 cm–1) 3 (690 cm–1) 4 (2 358 cm–1),,Operational,Original
+bufr4/0/02/025/16,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,16,HIRS,,,Nota 2,47,Operational,Original
 bufr4/0/02/025/17,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,17,MSU,,,,,Operational,Original
 bufr4/0/02/025/18,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,18,SKINTK (únicamente océano),,,,,Operational,Original
 bufr4/0/02/025/19-20,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,19-20,Reservados,,,,,Operational,Original
@@ -194,7 +194,7 @@ bufr4/0/02/025/23,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,23,
 bufr4/0/02/025/24,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,24,Reservado,,,,,Operational,Original
 bufr4/0/02/025/All-25,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,Los 25,Valor faltante,,,,,Operational,Original
 bufr4/0/02/030/0,002030,Método de medición de la corriente,0,Reservada,,,,,Operational,Original
-bufr4/0/02/030/1,002030,Método de medición de la corriente,1,ADCP (perfilador de corriente de efecto Doppler),,,Valor relegado. Utilícese en su lugar la cifra de clave 6.,,Operational,Original
+bufr4/0/02/030/1,002030,Método de medición de la corriente,1,ADCP (perfilador de corriente de efecto Doppler),,,Nota,91,Operational,Original
 bufr4/0/02/030/2,002030,Método de medición de la corriente,2,GEK (Electrocinetógrafo geomagnético),,,,,Operational,Original
 bufr4/0/02/030/3,002030,Método de medición de la corriente,3,Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos de 3 a 6 horas,,,,,Operational,Original
 bufr4/0/02/030/4,002030,Método de medición de la corriente,4,"Dirección y deriva del buque determinadas mediante marcaciones efectuadas a intervalos superiores a 6 horas, pero inferiores a 12 horas",,,,,Operational,Original
@@ -343,8 +343,8 @@ bufr4/0/02/048/14,002048,Indicador del sensor del satélite,14,Reservada,,,Nota 
 bufr4/0/02/048/15,002048,Indicador del sensor del satélite,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/049/1,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,1,Técnica de proceso no definida,,,,,Operational,Original
 bufr4/0/02/049/2,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,2,Recuperación física simultánea,"14,71",,,,Operational,Original
-bufr4/0/02/049/3,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,3,Sondeo en cielo despejado,"14,37",,,,Operational,Original
-bufr4/0/02/049/4,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,4,Sondeo en cielo nuboso,"14,06",,,,Operational,Original
+bufr4/0/02/049/3,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,3,Sondeo en cielo despejado,"14,37",,Nota 1,29,Operational,Original
+bufr4/0/02/049/4,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,4,Sondeo en cielo nuboso,"14,06",,Nota 2,31,Operational,Original
 bufr4/0/02/049/5-7,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,5-7,Reservadas para uso futuro,"13,64",,,,Operational,Original
 bufr4/0/02/049/All-8,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Los 8,Valor faltante,"13,37",,,,Operational,Original
 bufr4/0/02/050/1,002050,Canales utilizados por un satélite geoestacionario de sondeo,1,1,"12,66",,,,Operational,Original
@@ -451,9 +451,9 @@ bufr4/0/02/062/5,002062,Tipo de sistema de retransmisión de datos procedentes d
 bufr4/0/02/062/6-14,002062,Tipo de sistema de retransmisión de datos procedentes de aeronaves,6-14,Reservadas,,,,,Operational,Original
 bufr4/0/02/062/15,002062,Tipo de sistema de retransmisión de datos procedentes de aeronaves,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/064/0,002064,Calidad del ángulo de balanceo de la aeronave,0,Buena,,,Nota: La calidad mala se define actualmente como un ángulo de balanceo superior a 5 grados con relación a la vertical.,,Operational,Original
-bufr4/0/02/064/1,002064,Calidad del ángulo de balanceo de la aeronave,1,Mala,,,Nota: La calidad mala se define actualmente como un ángulo de balanceo superior a 5 grados con relación a la vertical.,,Operational,Original
-bufr4/0/02/064/2,002064,Calidad del ángulo de balanceo de la aeronave,2,Reservada,,,Nota: La calidad mala se define actualmente como un ángulo de balanceo superior a 5 grados con relación a la vertical.,,Operational,Original
-bufr4/0/02/064/3,002064,Calidad del ángulo de balanceo de la aeronave,3,Valor faltante,,,Nota: La calidad mala se define actualmente como un ángulo de balanceo superior a 5 grados con relación a la vertical.,,Operational,Original
+bufr4/0/02/064/1,002064,Calidad del ángulo de balanceo de la aeronave,1,Mala,,,Nota,20,Operational,Original
+bufr4/0/02/064/2,002064,Calidad del ángulo de balanceo de la aeronave,2,Reservada,,,,,Operational,Original
+bufr4/0/02/064/3,002064,Calidad del ángulo de balanceo de la aeronave,3,Valor faltante,,,,,Operational,Original
 bufr4/0/02/066/0,002066,Sistema de recepción en tierra de la radiosonda,0,InterMet IMS 2000,,,,,Operational,Original
 bufr4/0/02/066/1,002066,Sistema de recepción en tierra de la radiosonda,1,InterMet IMS 1500C,,,,,Operational,Original
 bufr4/0/02/066/2,002066,Sistema de recepción en tierra de la radiosonda,2,Shanghai GTC1,,,,,Operational,Original
@@ -643,8 +643,8 @@ bufr4/0/02/143/19,002143,Tipo de instrumento de medición del ozono,19,Sonda ele
 bufr4/0/02/143/20-126,002143,Tipo de instrumento de medición del ozono,20-126,Reservada,,,,,Operational,Original
 bufr4/0/02/143/127,002143,Tipo de instrumento de medición del ozono,127,Valor faltante,,,,,Operational,Original
 bufr4/0/02/144/0,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,0,Exposición directa al sol,,,,,Operational,Original
-bufr4/0/02/144/1,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,1,"Exposición directa al sol, atenuador #1",,,Nota: Los apartados 1 y 2 no deberían utilizarse.,38,Operational,Original
-bufr4/0/02/144/2,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,2,"Exposición directa al sol, atenuador #2",,,Nota: Los apartados 1 y 2 no deberían utilizarse.,38,Operational,Original
+bufr4/0/02/144/1,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,1,"Exposición directa al sol, atenuador #1",,,Nota,38,Operational,Original
+bufr4/0/02/144/2,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,2,"Exposición directa al sol, atenuador #2",,,Nota,38,Operational,Original
 bufr4/0/02/144/3,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,3,Centrada en la luna,,,,,Operational,Original
 bufr4/0/02/144/4,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,4,Centrada en el sol,,,,,Operational,Original
 bufr4/0/02/144/5,002144,Tipo de fuente luminosa para el espectrofotómetro de Brewer,5,Centrada en el sol con correcciones provenientes de la medición del cielo adyacente,,,,,Operational,Original

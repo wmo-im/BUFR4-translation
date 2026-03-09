@@ -14,7 +14,7 @@ bufr4/0/13/040/3,013040,Banderín de superficie,3,Hielo,,,,,Operational,Original
 bufr4/0/13/040/4,013040,Banderín de superficie,4,Posibilidad de hielo,,,,,Operational,Original
 bufr4/0/13/040/5,013040,Banderín de superficie,5,Océano,,,,,Operational,Original
 bufr4/0/13/040/6,013040,Banderín de superficie,6,Costa,,,,,Operational,Original
-bufr4/0/13/040/7,013040,Banderín de superficie,7,Aguas interiores*,,,,,Operational,Original
+bufr4/0/13/040/7,013040,Banderín de superficie,7,Aguas interiores,,,Nota,56,Operational,Original
 bufr4/0/13/040/8,013040,Banderín de superficie,8,Cubierta de nieve,,,,,Operational,Original
 bufr4/0/13/040/9,013040,Banderín de superficie,9,Hielo marino,,,,,Operational,Original
 bufr4/0/13/040/10,013040,Banderín de superficie,10,Agua estancada,,,,,Operational,Original

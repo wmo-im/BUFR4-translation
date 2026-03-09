@@ -13,11 +13,11 @@ bufr4/0/25/006/2,025006,Conversión Z a R,2,"(Z (F1), Z (F2)) a atenuación a R"
 bufr4/0/25/006/3-5,025006,Conversión Z a R,3-5,Reservadas,,,,,Operational,Original
 bufr4/0/25/006/6,025006,Conversión Z a R,6,Otros,,,,,Operational,Original
 bufr4/0/25/006/7,025006,Conversión Z a R,7,Valor faltante,,,,,Operational,Original
-bufr4/0/25/009/1,025009,Método de calibración,1,Ninguno,,,,,Operational,Original
-bufr4/0/25/009/2,025009,Método de calibración,2,Blanco o señal de calibración,,,,,Operational,Original
-bufr4/0/25/009/3,025009,Método de calibración,3,Con relación a los pluviómetros,,,,,Operational,Original
-bufr4/0/25/009/4,025009,Método de calibración,4,"Con relación a otros instrumentos (distrómetro, atenuación)",,,,Deprecated,Original,
-bufr4/0/25/009/All-4,025009,Método de calibración,Los 4,Valor faltante,,,,,Operational,Original
+bufr4/0/25/009/1,025009,Método de calibración,1,Ninguno,,,,,Deprecated,Original
+bufr4/0/25/009/2,025009,Método de calibración,2,Blanco o señal de calibración,,,,,Deprecated,Original
+bufr4/0/25/009/3,025009,Método de calibración,3,Con relación a los pluviómetros,,,,,Deprecated,Original
+bufr4/0/25/009/4,025009,Método de calibración,4,"Con relación a otros instrumentos (distrómetro, atenuación)",,,,,Deprecated,Original
+bufr4/0/25/009/All-4,025009,Método de calibración,Los 4,Valor faltante,,,,,Deprecated,Original
 bufr4/0/25/010/0,025010,Tratamiento de los ecos parásitos,0,Ninguno,,,,,Operational,Original
 bufr4/0/25/010/1,025010,Tratamiento de los ecos parásitos,1,Mapa,,,,,Operational,Original
 bufr4/0/25/010/2,025010,Tratamiento de los ecos parásitos,2,Inserción de datos para un ángulo del lugar más elevado y mapa,,,,,Operational,Original
@@ -192,7 +192,7 @@ bufr4/0/25/090/5,025090,Banderín de estado orbital,5,La órbita (preliminar/pre
 bufr4/0/25/090/6,025090,Banderín de estado orbital,6,La órbita (preliminar/precisa) es extrapolada respecto de una duración inferior a un día,,,,,Operational,Original
 bufr4/0/25/090/7,025090,Banderín de estado orbital,7,La órbita (preliminar/precisa) es extrapolada respecto de una duración de uno a dos días,,,,,Operational,Original
 bufr4/0/25/090/8,025090,Banderín de estado orbital,8,"La órbita (preliminar/precisa) es extrapolada respecto de una duración superior a dos días, o inmediatamente a continuación de una maniobra",,,,,Operational,Original
-bufr4/0/25/090/9,025090,Banderín de estado orbital,9,Órbita del navegador DORIS* DIODE**,,,,,Operational,Original
+bufr4/0/25/090/9,025090,Banderín de estado orbital,9,Órbita del navegador DORIS DIODE,,,Nota,37,Operational,Original
 bufr4/0/25/090/10-14,025090,Banderín de estado orbital,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/25/090/15,025090,Banderín de estado orbital,15,Valor faltante,,,,,Operational,Original
 bufr4/0/25/093/1,025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),1,Sin corrección,,,,,Operational,Original
@@ -306,7 +306,7 @@ bufr4/0/25/187/0,025187,Banderín de confianza,0,Válido,,,,,Operational,Origina
 bufr4/0/25/187/1,025187,Banderín de confianza,1,Inválido,,,,,Operational,Original
 bufr4/0/25/187/2-14,025187,Banderín de confianza,2-14,Reservadas,,,,,Operational,Original
 bufr4/0/25/187/15,025187,Banderín de confianza,15,Valor faltante,,,,,Operational,Original
-bufr4/0/25/188/0,025188,Método para reducir la presión al nivel del mar,0,Presión ajustada al nivel medio del mar con arreglo a la publicación OMM-N° 8* para las estaciones de bajo nivel (< 50 m),,,,,Operational,Original
+bufr4/0/25/188/0,025188,Método para reducir la presión al nivel del mar,0,Presión ajustada al nivel medio del mar con arreglo a la publicación OMM-N° 8 para las estaciones de bajo nivel (< 50 m),,,Nota,44,Operational,Original
 bufr4/0/25/188/1,025188,Método para reducir la presión al nivel del mar,1,Presión ajustada al nivel medio del mar con arreglo a la publicación OMM-N° 8 para las estaciones por debajo de 750 m,,,,,Operational,Original
 bufr4/0/25/188/2,025188,Método para reducir la presión al nivel del mar,2,Presión ajustada al nivel del mar con arreglo a la práctica nacional,,,,,Operational,Original
 bufr4/0/25/188/3,025188,Método para reducir la presión al nivel del mar,3,Presión ajustada al nivel del mar local con arreglo a la práctica nacional,,,,,Operational,Original

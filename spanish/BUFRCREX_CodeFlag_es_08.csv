@@ -189,13 +189,13 @@ bufr4/0/08/019/7-14,008019,Calificador para el identificador del centro siguient
 bufr4/0/08/019/15,008019,Calificador para el identificador del centro siguiente,15,Valor faltante,,,,,Operational,Original
 bufr4/0/08/021/0,008021,Significación temporal,0,Reservada,,,,,Operational,Original
 bufr4/0/08/021/1,008021,Significación temporal,1,Serie temporal,,,,,Operational,Original
-bufr4/0/08/021/2,008021,Significación temporal,2,Valor medio del tiempo (véase la nota 1),,,,,Operational,Original
+bufr4/0/08/021/2,008021,Significación temporal,2,Valor medio del tiempo,,,(véase la nota 1),4,Operational,Original
 bufr4/0/08/021/3,008021,Significación temporal,3,Acumulado,,,,,Operational,Original
 bufr4/0/08/021/4,008021,Significación temporal,4,Predicción,,,,,Operational,Original
 bufr4/0/08/021/5,008021,Significación temporal,5,Serie temporal de predicción,,,,,Operational,Original
 bufr4/0/08/021/6,008021,Significación temporal,6,Tiempo medio de predicción,,,,,Operational,Original
 bufr4/0/08/021/7,008021,Significación temporal,7,Predicción acumulada,,,,,Operational,Original
-bufr4/0/08/021/8,008021,Significación temporal,8,Media de conjunto (véase la nota 2),,,,,Operational,Original
+bufr4/0/08/021/8,008021,Significación temporal,8,Media de conjunto,,,(véase la nota 2),3,Operational,Original
 bufr4/0/08/021/9,008021,Significación temporal,9,Serie temporal de medias de conjunto,,,,,Operational,Original
 bufr4/0/08/021/10,008021,Significación temporal,10,Promedio de tiempo de medias de conjunto,,,,,Operational,Original
 bufr4/0/08/021/11,008021,Significación temporal,11,Valor acumulado de medias de conjunto,,,,,Operational,Original
@@ -236,23 +236,23 @@ bufr4/0/08/023/14-31,008023,Estadísticas de primer orden*,14-31,Reservadas,,,,,
 bufr4/0/08/023/32,008023,Estadísticas de primer orden*,32,Media vectorial,,,,,Operational,Original
 bufr4/0/08/023/33-62,008023,Estadísticas de primer orden*,33-62,Reservadas para uso local,,,,,Operational,Original
 bufr4/0/08/023/63,008023,Estadísticas de primer orden*,63,Valor faltante,,,,,Operational,Original
-bufr4/0/08/024/0-1,008024,Estadísticas de diferencia*,0-1,Reservadas,,,,,Operational,Original
-bufr4/0/08/024/2,008024,Estadísticas de diferencia*,2,Observada menos máxima,,,,,Operational,Original
-bufr4/0/08/024/3,008024,Estadísticas de diferencia*,3,Observada menos mínima,,,,,Operational,Original
-bufr4/0/08/024/4,008024,Estadísticas de diferencia*,4,Observada menos media,,,,,Operational,Original
-bufr4/0/08/024/5,008024,Estadísticas de diferencia*,5,Observada menos mediana,,,,,Operational,Original
-bufr4/0/08/024/6,008024,Estadísticas de diferencia*,6,Observada menos modo,,,,,Operational,Original
-bufr4/0/08/024/7-10,008024,Estadísticas de diferencia*,7-10,Reservadas,,,,,Operational,Original
-bufr4/0/08/024/11,008024,Estadísticas de diferencia*,11,Observada menos climatología (anomalía),,,,,Operational,Original
-bufr4/0/08/024/12,008024,Estadísticas de diferencia*,12,Observada menos valor analizado,,,,,Operational,Original
-bufr4/0/08/024/13,008024,Estadísticas de diferencia*,13,Observada menos valor analizado inicializado,,,,,Operational,Original
-bufr4/0/08/024/14,008024,Estadísticas de diferencia*,14,Observada menos valor de predicción**,,,,,Operational,Original
-bufr4/0/08/024/15-20,008024,Estadísticas de diferencia*,15-20,Reservadas,,,,,Operational,Original
-bufr4/0/08/024/21,008024,Estadísticas de diferencia*,21,Observada menos valor interpolado,,,,,Operational,Original
-bufr4/0/08/024/22,008024,Estadísticas de diferencia*,22,Observada menos valor calculado hidrostáticamente,,,,,Operational,Original
-bufr4/0/08/024/23-31,008024,Estadísticas de diferencia*,23-31,Reservadas,,,,,Operational,Original
-bufr4/0/08/024/32-62,008024,Estadísticas de diferencia*,32-62,Reservadas para uso local,,,,,Operational,Original
-bufr4/0/08/024/63,008024,Estadísticas de diferencia*,63,Valor faltante,,,,,Operational,Original
+bufr4/0/08/024/0-1,008024,Estadísticas de diferencia,0-1,Reservadas,,,Nota 1,36,Operational,Original
+bufr4/0/08/024/2,008024,Estadísticas de diferencia,2,Observada menos máxima,,,,,Operational,Original
+bufr4/0/08/024/3,008024,Estadísticas de diferencia,3,Observada menos mínima,,,,,Operational,Original
+bufr4/0/08/024/4,008024,Estadísticas de diferencia,4,Observada menos media,,,,,Operational,Original
+bufr4/0/08/024/5,008024,Estadísticas de diferencia,5,Observada menos mediana,,,,,Operational,Original
+bufr4/0/08/024/6,008024,Estadísticas de diferencia,6,Observada menos modo,,,,,Operational,Original
+bufr4/0/08/024/7-10,008024,Estadísticas de diferencia,7-10,Reservadas,,,,,Operational,Original
+bufr4/0/08/024/11,008024,Estadísticas de diferencia,11,Observada menos climatología (anomalía),,,,,Operational,Original
+bufr4/0/08/024/12,008024,Estadísticas de diferencia,12,Observada menos valor analizado,,,,,Operational,Original
+bufr4/0/08/024/13,008024,Estadísticas de diferencia,13,Observada menos valor analizado inicializado,,,,,Operational,Original
+bufr4/0/08/024/14,008024,Estadísticas de diferencia,14,Observada menos valor de predicción,,,Nota 2,93,Operational,Original
+bufr4/0/08/024/15-20,008024,Estadísticas de diferencia,15-20,Reservadas,,,,,Operational,Original
+bufr4/0/08/024/21,008024,Estadísticas de diferencia,21,Observada menos valor interpolado,,,,,Operational,Original
+bufr4/0/08/024/22,008024,Estadísticas de diferencia,22,Observada menos valor calculado hidrostáticamente,,,,,Operational,Original
+bufr4/0/08/024/23-31,008024,Estadísticas de diferencia,23-31,Reservadas,,,,,Operational,Original
+bufr4/0/08/024/32-62,008024,Estadísticas de diferencia,32-62,Reservadas para uso local,,,,,Operational,Original
+bufr4/0/08/024/63,008024,Estadísticas de diferencia,63,Valor faltante,,,,,Operational,Original
 bufr4/0/08/025/0,008025,Calificador de diferencia de tiempo,0,Tiempo universal coordinado (UTC) menos hora local de referencia,,,,,Operational,Original
 bufr4/0/08/025/1,008025,Calificador de diferencia de tiempo,1,Hora local de referencia,,,,,Operational,Original
 bufr4/0/08/025/2,008025,Calificador de diferencia de tiempo,2,Tiempo universal coordinado (UTC) menos reloj del satélite,,,,,Operational,Original
@@ -426,7 +426,7 @@ bufr4/0/08/042/12,008042,Significación del sondeo vertical ampliado,12,Comienzo
 bufr4/0/08/042/13,008042,Significación del sondeo vertical ampliado,13,Fin de datos faltantes de viento,,,,,Operational,Original
 bufr4/0/08/042/14,008042,Significación del sondeo vertical ampliado,14,Techo del sondeo del viento,,,,,Operational,Original
 bufr4/0/08/042/15,008042,Significación del sondeo vertical ampliado,15,Nivel determinado por decisión regional,,,,,Operational,Original
-bufr4/0/08/042/16,008042,Significación del sondeo vertical ampliado,16,Nivel de congelación,,,,,Operational,Original
+bufr4/0/08/042/16,008042,Significación del sondeo vertical ampliado,16,Nivel de congelación,,,Nota,41,Operational,Original
 bufr4/0/08/042/17,008042,Significación del sondeo vertical ampliado,17,Nivel de presión indicado originariamente por la altura como coordinada vertical,,,,,Operational,Original
 bufr4/0/08/042/All-18,008042,Significación del sondeo vertical ampliado,Todos los 18,Valor faltante,,,,,Operational,Original
 bufr4/0/08/043/0,008043,Tipo de componente atmosférico químico o físico,0,Ozono,"Fórmula: O3, Número CAS: 10028-15-6",,,,Operational,Original
@@ -594,7 +594,7 @@ bufr4/0/08/081/3,008081,Tipo de equipo,3,Plataforma de observación,,,,,Operatio
 bufr4/0/08/081/4-62,008081,Tipo de equipo,4-62,Reservadas,,,,,Operational,Original
 bufr4/0/08/081/63,008081,Tipo de equipo,63,Valor faltante,,,,,Operational,Original
 bufr4/0/08/082/0,008082,Modificación de la altura del sensor a otro valor,0,a altura del sensor no se modifica,,,,,Operational,Original
-bufr4/0/08/082/1,008082,Modificación de la altura del sensor a otro valor,1,La altura del sensor se cambia al nivel estándar *,,,,,Operational,Original
+bufr4/0/08/082/1,008082,Modificación de la altura del sensor a otro valor,1,La altura del sensor se cambia al nivel estándar,,,Nota,48,Operational,Original
 bufr4/0/08/082/2-6,008082,Modificación de la altura del sensor a otro valor,2-6,Reservadas,,,,,Operational,Original
 bufr4/0/08/082/7,008082,Modificación de la altura del sensor a otro valor,7,Valor faltante,,,,,Operational,Original
 bufr4/0/08/083/1,008083,Indicador del valor nominal,1,Ajustado a/con respecto a la altura representativa del sensor del suelo local (o cubierta de la plataforma marina),,,,,Operational,Original
