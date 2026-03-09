@@ -16,7 +16,7 @@ noteID,note_es,translated_by
 15,(To be developed),Original
 16,"A consecutive sequence of 2 or more of location coordinates, such as latitude and longitude pairs,defines a line or polygon. Points shall be joined in the order given in the message. Any area described will fall left of the drawn boundary in the direction established by the order of the points given in the message. This definition is for simple non-intersecting polygons without holes.",Original
 17,All bits off implies a good calibration.,Original
-18,All first-order statistics are in the units defined by the original data descriptors.,Original
+18,Todas las estadísticas de primer orden están expresadas en las unidades definidas por los descriptores de datos originales.,Original
 19,Associated field significance shall be used initially in conjunction with the quality of observed data.,Original
 20,La calidad mala se define actualmente como un ángulo de balanceo superior a 5 grados con relación a la vertical.,Original
 21,"Beginning with the first bit position (high order bit), if the bit position is set to one, then the channel is used. If the bit position is set to zero, then the channel is not used.",Original
@@ -34,7 +34,7 @@ noteID,note_es,translated_by
 33,Code figures 11-19: Period of current measurement (drift method).,Original
 34,"Code figures for generic precipitation (code figures 140-148) are arranged in order of increasing complexity. For example, a very simple station that can sense only the presence or absence of precipitation would use code figure 140 (precipitation). At the next level, an automatic station capable of sensing amount but not type would use code figure 141 or 142. An automatic station capable of sensing gross type (liquid, solid, freezing) and amount would use code figures 143-148. An automatic station capable of reporting actual types of precipitation (e.g. drizzle rain), but not the amount, would use the appropriate whole decile number (e.g. 150 for generic drizzle, 160 for generic rain).",Original
 35,Descriptor 0 25 009 is deprecated. 0 25 029 should be used instead.,Original
-36,"Difference statistics are difference values; they have dimensions the same as the corresponding reported values with respect to units, but assume a range centred on zero (e.g., the difference between reported and analysed values, the difference between reported and forecast values).",Original
+36,"Las estadísticas de diferencia son valores de diferencia; sus dimensiones son iguales a las de los valores correspondientes comunicados con respecto a unidades, pero con una gama centrada en cero (por ejemplo, diferencia entre valores comunicados y analizados, diferencia entre valores comunicados y previstos, etc.).",Original
 37,"DIODE son las siglas de ""détermination immédiate d'orbite par DORIS embarqué"" (determinación inmediata de órbita mediante DORIS instalado a bordo). Es una de las funciones del instrumento DORIS, que calcula la posición y velocidad del satélite.",Original
 38,Los apartados 1 y 2 no deberían utilizarse.,Original
 39,"El EPSG es un conjunto de datos de sistemas de coordenadas y transformaciones de sistemas de coordenadas, elaborado y mantenido inicialmente por el Grupo Europeo de Encuestas sobre el Petróleo (EPSG). En la actualidad lo mantiene el Subcomité de Geodesia de la International Association of Oil and Gas Producers Geomatics Committee.", Original
@@ -90,9 +90,10 @@ noteID,note_es,translated_by
 90,Type of instrumentation and original units for wind measurement (measured in m s–1 unless otherwise indicated).,Original
 91,Valor relegado. Utilícese en su lugar la cifra de clave 6.,Original
 92,"Cuando la cifra de clave 4 se usa para especificar un sistema de coordenadas de referencia adaptado, el dato elipsoide será un elipsoide de revolución oblato, en el que el eje mayor es uniplanar con el plano ecuatorial y el eje menor atraviesa el meridiano principal hacia el polo principal. El Norte corresponde a la dirección desde el ecuador hacia el polo principal. El Este corresponde a la dirección en sentido antihorario desde el meridiano principal visto desde el Polo Norte. En este caso se deben especificar los semiejes mayor y menor (por ejemplo, mediante los descriptores 0 01 152 y 0 01 153).",Original
-93,"Where observed minus forecast values are represented, the period of the forecast shall be indicated by an appropriate descriptor from Class 04.",Original
-94,"Where the original reporting method is as indicated by code figure 1, the following conversion is recommended to obtain a suitable data value corresponding to descriptor 0 01 012:Reported value Data value0 01 452 903 1354 1805 2256 2707 3158 3609 511",Original
-95,"Where the original reporting method is as indicated by code figure 1, the following conversion is recommended to obtain a suitable data value corresponding to descriptor 0 01 013:Reported value Data value 0 01 12 43 74 95 126 147 178 199 21/ 1023",Original
+93,"Cuando están representados valores observados menos valores de predicción, el período de la predicción se
+indicará mediante un descriptor apropiado de Clase 04.",Original
+94,"Where the original reporting method is as indicated by code figure 1, the following conversion is recommended to obtain a suitable data value corresponding to descriptor 0 01 012: Reported value Data value 0 01 452 903 1354 1805 2256 2707 3158 3609 511",Original
+95,"Where the original reporting method is as indicated by code figure 1, the following conversion is recommended to obtain a suitable data value corresponding to descriptor 0 01 013: Reported value Data value 0 01 12 43 74 95 126 147 178 199 21/ 1023",Original
 96,"Coincidiendo con la observación de trombas marinas o nubes con forma de embudo, en decir, a más de 3 km de la estación.",Original
 97,"The letters a, b, c, d and e generically represent the weight associated with the respective temperature T. The sub-index of T: 1, 2, 3, x and n represent the values measured at different times or maximum (x) or minimum (n) values.",Original
 98,"Code figures 1 - 24 are siting classifications and measurement quality classifications according to the Guide to Instruments and Methods of Observation (WMO-No. 8), Volume I, Chapter 1, Annex 1.D and Annex 1.G.",Original

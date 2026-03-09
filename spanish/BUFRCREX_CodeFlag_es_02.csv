@@ -188,7 +188,7 @@ bufr4/0/02/025/17,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,17,
 bufr4/0/02/025/18,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,18,SKINTK (únicamente océano),,,,,Operational,Original
 bufr4/0/02/025/19-20,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,19-20,Reservados,,,,,Operational,Original
 bufr4/0/02/025//5,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,,"Grupo 5 - Combinaciones de canales utilizadas para obtener temperaturas medias de las capas: 100 a 70 hPa, 70 a 50 hPa, 50 a 30 hPa, 30 a 10 hPa, 10 a 5 hPa, 5 a 2 hPa, 2 a 1 hPa, 1 a 0,4 hPa",,,,,Operational,Original
-bufr4/0/02/025/21,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,21,HIRS,,,,47,Operational,Original
+bufr4/0/02/025/21,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,21,HIRS,,,Nota 2,47,Operational,Original
 bufr4/0/02/025/22,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,22,SSU,,,,,Operational,Original
 bufr4/0/02/025/23,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,23,"MSU (3, 4)",,,,,Operational,Original
 bufr4/0/02/025/24,002025,Canal(es) satelital(es) utilizado(s) en el cálculo,24,Reservado,,,,,Operational,Original
@@ -270,17 +270,17 @@ bufr4/0/02/038/13,002038,Método de medición de la temperatura y/o salinidad de
 bufr4/0/02/038/14,002038,Método de medición de la temperatura y/o salinidad del agua,14,Otros,,,,,Operational,Original
 bufr4/0/02/038/15,002038,Método de medición de la temperatura y/o salinidad del agua,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/039/0,002039,Método de medición de la temperatura con bulbo húmedo,0,Medición con bulbo húmedo,,,,,Operational,Original
-bufr4/0/02/039/1,002039,Método de medición de la temperatura con bulbo húmedo,1,Medición con bulbo húmedo cuando el bulbo está helado,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
-bufr4/0/02/039/2,002039,Método de medición de la temperatura con bulbo húmedo,2,Cálculo con bulbo húmedo,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
-bufr4/0/02/039/3,002039,Método de medición de la temperatura con bulbo húmedo,3,Cálculo con bulbo húmedo cuando el bulbo está helado,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
-bufr4/0/02/039/4-6,002039,Método de medición de la temperatura con bulbo húmedo,4-6,Reservadas,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
-bufr4/0/02/039/7,002039,Método de medición de la temperatura con bulbo húmedo,7,Valor faltante,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
-bufr4/0/02/040/0,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,0,Movimiento del buque eliminado mediante el establecimiento de la media,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
-bufr4/0/02/040/1,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,1,Movimiento del buque eliminado por compensación,,,,,Operational,Original
-bufr4/0/02/040/2,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,2,Movimiento del buque no eliminado,,,,,Operational,Original
-bufr4/0/02/040/3,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,3,Movimiento del buque eliminado mediante el establecimiento de la media,,,,,Operational,Original
-bufr4/0/02/040/4,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,4,Movimiento del buque eliminado por compensación,,,,,Operational,Original
-bufr4/0/02/040/5,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,5,Movimiento del buque no eliminado,,,,,Operational,Original
+bufr4/0/02/039/1,002039,Método de medición de la temperatura con bulbo húmedo,1,Medición con bulbo húmedo cuando el bulbo está helado,,,,,Operational,Original
+bufr4/0/02/039/2,002039,Método de medición de la temperatura con bulbo húmedo,2,Cálculo con bulbo húmedo,,,,,Operational,Original
+bufr4/0/02/039/3,002039,Método de medición de la temperatura con bulbo húmedo,3,Cálculo con bulbo húmedo cuando el bulbo está helado,,,,,Operational,Original
+bufr4/0/02/039/4-6,002039,Método de medición de la temperatura con bulbo húmedo,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/02/039/7,002039,Método de medición de la temperatura con bulbo húmedo,7,Valor faltante,,,,,Operational,Original
+bufr4/0/02/040/0,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,0,Movimiento del buque eliminado mediante el establecimiento de la media,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
+bufr4/0/02/040/1,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,1,Movimiento del buque eliminado por compensación,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
+bufr4/0/02/040/2,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,2,Movimiento del buque no eliminado,Velocidad del buque eliminada por un sistema de localización del fondo del océano,,,,Operational,Original
+bufr4/0/02/040/3,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,3,Movimiento del buque eliminado mediante el establecimiento de la media,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
+bufr4/0/02/040/4,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,4,Movimiento del buque eliminado por compensación,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
+bufr4/0/02/040/5,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,5,Movimiento del buque no eliminado,Velocidad del buque eliminada por otros sistemas de navegación,,,,Operational,Original
 bufr4/0/02/040/6,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,6,No se utiliza el método Doppler de establecimiento del perfil de la corriente,,,,,Operational,Original
 bufr4/0/02/040/7-14,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,7-14,Reservadas,,,,,Operational,Original
 bufr4/0/02/040/15,002040,Método para eliminar los efectos de la velocidad y del movimiento de la plataforma en la medición de la corriente,15,Valor faltante,,,,,Operational,Original
@@ -342,30 +342,30 @@ bufr4/0/02/048/13,002048,Indicador del sensor del satélite,13,OSCAT2,,,Nota 1,,
 bufr4/0/02/048/14,002048,Indicador del sensor del satélite,14,Reservada,,,Nota 2,,Operational,Original
 bufr4/0/02/048/15,002048,Indicador del sensor del satélite,15,Valor faltante,,,,,Operational,Original
 bufr4/0/02/049/1,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,1,Técnica de proceso no definida,,,,,Operational,Original
-bufr4/0/02/049/2,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,2,Recuperación física simultánea,"14,71",,,,Operational,Original
-bufr4/0/02/049/3,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,3,Sondeo en cielo despejado,"14,37",,Nota 1,29,Operational,Original
-bufr4/0/02/049/4,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,4,Sondeo en cielo nuboso,"14,06",,Nota 2,31,Operational,Original
-bufr4/0/02/049/5-7,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,5-7,Reservadas para uso futuro,"13,64",,,,Operational,Original
-bufr4/0/02/049/All-8,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Los 8,Valor faltante,"13,37",,,,Operational,Original
-bufr4/0/02/050/1,002050,Canales utilizados por un satélite geoestacionario de sondeo,1,1,"12,66",,,,Operational,Original
-bufr4/0/02/050/2,002050,Canales utilizados por un satélite geoestacionario de sondeo,2,2,"12,02",,,,Operational,Original
-bufr4/0/02/050/3,002050,Canales utilizados por un satélite geoestacionario de sondeo,3,3,"11,03",,,,Operational,Original
-bufr4/0/02/050/4,002050,Canales utilizados por un satélite geoestacionario de sondeo,4,5,"9,71",,,,Operational,Original
-bufr4/0/02/050/5,002050,Canales utilizados por un satélite geoestacionario de sondeo,5,5,"7,43",,,,Operational,Original
-bufr4/0/02/050/6,002050,Canales utilizados por un satélite geoestacionario de sondeo,6,6,"7,02",,,,Operational,Original
-bufr4/0/02/050/7,002050,Canales utilizados por un satélite geoestacionario de sondeo,7,7,"6,51",,,,Operational,Original
-bufr4/0/02/050/8,002050,Canales utilizados por un satélite geoestacionario de sondeo,8,8,"4,57",,,,Operational,Original
-bufr4/0/02/050/9,002050,Canales utilizados por un satélite geoestacionario de sondeo,9,9,"4,52",,,,Operational,Original
-bufr4/0/02/050/10,002050,Canales utilizados por un satélite geoestacionario de sondeo,10,10,"4,45",,,,Operational,Original
-bufr4/0/02/050/11,002050,Canales utilizados por un satélite geoestacionario de sondeo,11,11,"4,13",,,,Operational,Original
-bufr4/0/02/050/12,002050,Canales utilizados por un satélite geoestacionario de sondeo,12,12,"3,98",,,,Operational,Original
-bufr4/0/02/050/13,002050,Canales utilizados por un satélite geoestacionario de sondeo,13,13,"3,74",,,,Operational,Original
-bufr4/0/02/050/14,002050,Canales utilizados por un satélite geoestacionario de sondeo,14,14,"0,969",,,,Operational,Original
-bufr4/0/02/050/15,002050,Canales utilizados por un satélite geoestacionario de sondeo,15,15,,,,,Operational,Original
-bufr4/0/02/050/16,002050,Canales utilizados por un satélite geoestacionario de sondeo,16,16,,,,,Operational,Original
-bufr4/0/02/050/17,002050,Canales utilizados por un satélite geoestacionario de sondeo,17,17,,,,,Operational,Original
-bufr4/0/02/050/18,002050,Canales utilizados por un satélite geoestacionario de sondeo,18,18,,,,,Operational,Original
-bufr4/0/02/050/19,002050,Canales utilizados por un satélite geoestacionario de sondeo,19,19,,,,,Operational,Original
+bufr4/0/02/049/2,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,2,Recuperación física simultánea,,,,,Operational,Original
+bufr4/0/02/049/3,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,3,Sondeo en cielo despejado,,,Nota 1,29,Operational,Original
+bufr4/0/02/049/4,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,4,Sondeo en cielo nuboso,,,Nota 2,31,Operational,Original
+bufr4/0/02/049/5-7,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,5-7,Reservadas para uso futuro,,,,,Operational,Original
+bufr4/0/02/049/All-8,002049,Técnica utilizada para el proceso de datos de satélites geoestacionarios,Los 8,Valor faltante,,,,,Operational,Original
+bufr4/0/02/050/1,002050,Canales utilizados por un satélite geoestacionario de sondeo,1,1,"14,71",,,,Operational,Original
+bufr4/0/02/050/2,002050,Canales utilizados por un satélite geoestacionario de sondeo,2,2,"14,37",,,,Operational,Original
+bufr4/0/02/050/3,002050,Canales utilizados por un satélite geoestacionario de sondeo,3,3,"14,06",,,,Operational,Original
+bufr4/0/02/050/4,002050,Canales utilizados por un satélite geoestacionario de sondeo,4,5,"13,64",,,,Operational,Original
+bufr4/0/02/050/5,002050,Canales utilizados por un satélite geoestacionario de sondeo,5,5,"13,37",,,,Operational,Original
+bufr4/0/02/050/6,002050,Canales utilizados por un satélite geoestacionario de sondeo,6,6,"12,66",,,,Operational,Original
+bufr4/0/02/050/7,002050,Canales utilizados por un satélite geoestacionario de sondeo,7,7,"12,02",,,,Operational,Original
+bufr4/0/02/050/8,002050,Canales utilizados por un satélite geoestacionario de sondeo,8,8,"11,03",,,,Operational,Original
+bufr4/0/02/050/9,002050,Canales utilizados por un satélite geoestacionario de sondeo,9,9,"9,71",,,,Operational,Original
+bufr4/0/02/050/10,002050,Canales utilizados por un satélite geoestacionario de sondeo,10,10,"7,43",,,,Operational,Original
+bufr4/0/02/050/11,002050,Canales utilizados por un satélite geoestacionario de sondeo,11,11,"7,02",,,,Operational,Original
+bufr4/0/02/050/12,002050,Canales utilizados por un satélite geoestacionario de sondeo,12,12,"6,51",,,,Operational,Original
+bufr4/0/02/050/13,002050,Canales utilizados por un satélite geoestacionario de sondeo,13,13,"4,57",,,,Operational,Original
+bufr4/0/02/050/14,002050,Canales utilizados por un satélite geoestacionario de sondeo,14,14,"4,52",,,,Operational,Original
+bufr4/0/02/050/15,002050,Canales utilizados por un satélite geoestacionario de sondeo,15,15,"4,45",,,,Operational,Original
+bufr4/0/02/050/16,002050,Canales utilizados por un satélite geoestacionario de sondeo,16,16,"4,13",,,,Operational,Original
+bufr4/0/02/050/17,002050,Canales utilizados por un satélite geoestacionario de sondeo,17,17,"3,98",,,,Operational,Original
+bufr4/0/02/050/18,002050,Canales utilizados por un satélite geoestacionario de sondeo,18,18,"3,74",,,,Operational,Original
+bufr4/0/02/050/19,002050,Canales utilizados por un satélite geoestacionario de sondeo,19,19,"0,969",,,,Operational,Original
 bufr4/0/02/050/All-20,002050,Canales utilizados por un satélite geoestacionario de sondeo,Los 20,Valor faltante,,,,,Operational,Original
 bufr4/0/02/051/0,002051,Indicador que determina el método de observación de las temperaturas extremas,0,Reservada,,,,,Operational,Original
 bufr4/0/02/051/1,002051,Indicador que determina el método de observación de las temperaturas extremas,1,Termómetros a la máxima y a la mínima,,,,,Operational,Original

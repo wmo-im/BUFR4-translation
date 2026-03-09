@@ -334,7 +334,7 @@ bufr4/0/20/005/9,020005,Tiempo pasado (2),9,"Tormenta(s), con precipitación o s
 bufr4/0/20/005/10,020005,Tiempo pasado (2),10,Ninguna observación de tiempo significativo,,,,,Operational,Original
 bufr4/0/20/005/11,020005,Tiempo pasado (2),11,VISIBILIDAD REDUCIDA,,,(véase la nota),82,Operational,Original
 bufr4/0/20/005/12,020005,Tiempo pasado (2),12,"Fenómenos de ventisca, visibilidad reducida",,,,,Operational,Original
-bufr4/0/20/005/13,020005,Tiempo pasado (2),13,NIEBLA (véase la nota),,,,82,Operational,Original
+bufr4/0/20/005/13,020005,Tiempo pasado (2),13,NIEBLA,,,(véase la nota),82,Operational,Original
 bufr4/0/20/005/14,020005,Tiempo pasado (2),14,PRECIPITACIÓN,,,(véase la nota),82,Operational,Original
 bufr4/0/20/005/15,020005,Tiempo pasado (2),15,Llovizna,,,,,Operational,Original
 bufr4/0/20/005/16,020005,Tiempo pasado (2),16,Lluvia,,,,,Operational,Original
@@ -377,13 +377,13 @@ bufr4/0/20/009/4,020009,Indicador general del tiempo (TAF/METAR),4,Ausencia de t
 bufr4/0/20/009/5-14,020009,Indicador general del tiempo (TAF/METAR),5-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/009/15,020009,Indicador general del tiempo (TAF/METAR),15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/011/0,020011,Nubosidad,0,0,0,,,,Operational,Original
-bufr4/0/20/011/1,020011,Nubosidad,1,"1 octa o menos, pero no cero",,,,,Operational,Original
+bufr4/0/20/011/1,020011,Nubosidad,1,"1 octa o menos, pero no cero","1/10 o menos, pero no cero",,,,Operational,Original
 bufr4/0/20/011/2,020011,Nubosidad,2,2 octas,2/10 - 3/10,,,,Operational,Original
 bufr4/0/20/011/3,020011,Nubosidad,3,3 octas,4/10,,,,Operational,Original
 bufr4/0/20/011/4,020011,Nubosidad,4,4 octas,5/10,,,,Operational,Original
 bufr4/0/20/011/5,020011,Nubosidad,5,5 octas,6/10,,,,Operational,Original
 bufr4/0/20/011/6,020011,Nubosidad,6,6 octas,7/10 - 8/10,,,,Operational,Original
-bufr4/0/20/011/7,020011,Nubosidad,7,"7 octas o más, pero no 8 octas",,,,,Operational,Original
+bufr4/0/20/011/7,020011,Nubosidad,7,"7 octas o más, pero no 8 octas","9/10 o más, pero no 10/10",,,,Operational,Original
 bufr4/0/20/011/8,020011,Nubosidad,8,8 octas,10/10,,,,Operational,Original
 bufr4/0/20/011/9,020011,Nubosidad,9,Cielo cubierto por la niebla y/u otros fenómenos meteorológicos,,,,,Operational,Original
 bufr4/0/20/011/10,020011,Nubosidad,10,Cielo parcialmente cubierto por la niebla y/u otros fenómenos meteorológicos,,,,,Operational,Original
@@ -552,7 +552,7 @@ bufr4/0/20/026/12,020026,Carácter del oscurecimiento,12,Resplandor blanco,,,,,O
 bufr4/0/20/026/13,020026,Carácter del oscurecimiento,13,Ventisca baja y ventisca alta,,,,,Operational,Original
 bufr4/0/20/026/14,020026,Carácter del oscurecimiento,14,Reservada,,,,,Operational,Original
 bufr4/0/20/026/15,020026,Carácter del oscurecimiento,15,Valor faltante,,,,,Operational,Original
-bufr4/0/20/027/1,020027,Ocurrencia de los fenómenos,1,A la hora de observación,,,Nota 1,63,Operational,Original
+bufr4/0/20/027/1,020027,Ocurrencia de los fenómenos,1,A la hora de observación,,,,,Operational,Original
 bufr4/0/20/027/2,020027,Ocurrencia de los fenómenos,2,En la hora precedente,,,,,Operational,Original
 bufr4/0/20/027/3,020027,Ocurrencia de los fenómenos,3,En el período del tiempo pasado W1W2,,,,,Operational,Original
 bufr4/0/20/027/4,020027,Ocurrencia de los fenómenos,4,En el período de tiempo especificado,,,,,Operational,Original
