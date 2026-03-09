@@ -163,26 +163,26 @@ bufr4/0/02/024/2,002024,Méthode de calcul de l'humidité moyenne intégrée,2,T
 bufr4/0/02/024/3-14,002024,Méthode de calcul de l'humidité moyenne intégrée,3-14,En réserve,,,,,Operational,Original
 bufr4/0/02/024/15,002024,Méthode de calcul de l'humidité moyenne intégrée,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/025/1,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,1,En réserve,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 1 — Eau précipitable pour les couches: surface à 700 hPa, 700 à 500 hPa, et 500 à 300 hPa",,,,,Operational,Original
+bufr4/0/02/025//1,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 1 — Eau précipitable pour les couches: surface à 700 hPa, 700 à 500 hPa, et 500 à 300 hPa",,,,,Operational,Original
 bufr4/0/02/025/2,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,2,HIRS,,,,,Operational,Original
 bufr4/0/02/025/3,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,3,MSU,,,,,Operational,Original
 bufr4/0/02/025/4-5,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,4-5,En réserve,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,Groupe 2 — Température et pression au niveau de la tropopause,,,,,Operational,Original
+bufr4/0/02/025//2,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,Groupe 2 — Température et pression au niveau de la tropopause,,,,,Operational,Original
 bufr4/0/02/025/6,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,6,HIRS,,,,,Operational,Original
 bufr4/0/02/025/7,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,7,MSU,,,,,Operational,Original
 bufr4/0/02/025/8-9,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,8-9,En réserve,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,Groupe 3 — Ozone total,,,,,Operational,Original
+bufr4/0/02/025//3,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,Groupe 3 — Ozone total,,,,,Operational,Original
 bufr4/0/02/025/10,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,10,"HIRS (1, 2, 3, 8, 9, 16, 17)",,,,,Operational,Original
 bufr4/0/02/025/11,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,11,"HIRS (1, 2, 3, 9, 17)",,,,,Operational,Original
 bufr4/0/02/025/12,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,12,MSU,,,,,Operational,Original
 bufr4/0/02/025/13-14,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,13-14,En réserve,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 4 — Température moyenne pour les couches: surface à 850 hPa, 850 à 700 hPa, 700 à 500 hPa, 500 à 400 hPa, 400 à 300 hPa, 300 à 200 hPa, et 200 à 100 hPa",,,,,Operational,Original
+bufr4/0/02/025//4,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 4 — Température moyenne pour les couches: surface à 850 hPa, 850 à 700 hPa, 700 à 500 hPa, 500 à 400 hPa, 400 à 300 hPa, 300 à 200 hPa, et 200 à 100 hPa",,,,,Operational,Original
 bufr4/0/02/025/15,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,15,HIRS,,,,,Operational,Original
 bufr4/0/02/025/16,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,16,HIRS*,,,,,Operational,Original
 bufr4/0/02/025/17,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,17,MSU,,,,,Operational,Original
 bufr4/0/02/025/18,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,18,SKINTK (océan uniquement),,,,,Operational,Original
 bufr4/0/02/025/19-20,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,19-20,En réserve,,,,,Operational,Original
-bufr4/0/02/025,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 5 — Combinaison de canaux utilisés pour obtenir des températures moyennes pour les couches: 100 à 70 hPa, 70 à 50 hPa, 50 à 30 hPa, 30 à 10 hPa, 10 à 5 hPa, 5 à 2 hPa, 2 à 1 hPa, 1 à 0,4 hPa",,,,,Operational,Original
+bufr4/0/02/025//5,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,,"Groupe 5 — Combinaison de canaux utilisés pour obtenir des températures moyennes pour les couches: 100 à 70 hPa, 70 à 50 hPa, 50 à 30 hPa, 30 à 10 hPa, 10 à 5 hPa, 5 à 2 hPa, 2 à 1 hPa, 1 à 0,4 hPa",,,,,Operational,Original
 bufr4/0/02/025/21,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,21,HIRS*,,,,,Operational,Original
 bufr4/0/02/025/22,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,22,SSU,,,,,Operational,Original
 bufr4/0/02/025/23,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,23,"MSU (3, 4)",,,,,Operational,Original
@@ -346,25 +346,25 @@ bufr4/0/02/049/3,002049,Technique utilisée pour le traitement des données de s
 bufr4/0/02/049/4,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,4,Sondage par atmosphère nuageuse,,,,,Operational,Original
 bufr4/0/02/049/5-7,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,5-7,En réserve pour utilisation future,,,,,Operational,Original
 bufr4/0/02/049/All-8,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/050/1,002050,Canaux utilisés par le sondeur du satellite géostationnaire,1,nan,1,"14,71",,,Operational,Original
-bufr4/0/02/050/2,002050,Canaux utilisés par le sondeur du satellite géostationnaire,2,nan,2,"14,37",,,Operational,Original
-bufr4/0/02/050/3,002050,Canaux utilisés par le sondeur du satellite géostationnaire,3,nan,3,"14,06",,,Operational,Original
-bufr4/0/02/050/4,002050,Canaux utilisés par le sondeur du satellite géostationnaire,4,nan,4,"13,64",,,Operational,Original
-bufr4/0/02/050/5,002050,Canaux utilisés par le sondeur du satellite géostationnaire,5,nan,5,"13,37",,,Operational,Original
-bufr4/0/02/050/6,002050,Canaux utilisés par le sondeur du satellite géostationnaire,6,nan,6,"12,66",,,Operational,Original
-bufr4/0/02/050/7,002050,Canaux utilisés par le sondeur du satellite géostationnaire,7,nan,7,"12,02",,,Operational,Original
-bufr4/0/02/050/8,002050,Canaux utilisés par le sondeur du satellite géostationnaire,8,nan,8,"11,03",,,Operational,Original
-bufr4/0/02/050/9,002050,Canaux utilisés par le sondeur du satellite géostationnaire,9,nan,9,"9,71",,,Operational,Original
-bufr4/0/02/050/10,002050,Canaux utilisés par le sondeur du satellite géostationnaire,10,nan,10,"7,43",,,Operational,Original
-bufr4/0/02/050/11,002050,Canaux utilisés par le sondeur du satellite géostationnaire,11,nan,11,"7,02",,,Operational,Original
-bufr4/0/02/050/12,002050,Canaux utilisés par le sondeur du satellite géostationnaire,12,nan,12,"6,51",,,Operational,Original
-bufr4/0/02/050/13,002050,Canaux utilisés par le sondeur du satellite géostationnaire,13,nan,13,"4,57",,,Operational,Original
-bufr4/0/02/050/14,002050,Canaux utilisés par le sondeur du satellite géostationnaire,14,nan,14,"4,52",,,Operational,Original
-bufr4/0/02/050/15,002050,Canaux utilisés par le sondeur du satellite géostationnaire,15,nan,15,"4,45",,,Operational,Original
-bufr4/0/02/050/16,002050,Canaux utilisés par le sondeur du satellite géostationnaire,16,nan,16,"4,13",,,Operational,Original
-bufr4/0/02/050/17,002050,Canaux utilisés par le sondeur du satellite géostationnaire,17,nan,17,"3,98",,,Operational,Original
-bufr4/0/02/050/18,002050,Canaux utilisés par le sondeur du satellite géostationnaire,18,nan,18,"3,74",,,Operational,Original
-bufr4/0/02/050/19,002050,Canaux utilisés par le sondeur du satellite géostationnaire,19,nan,19,"0,969",,,Operational,Original
+bufr4/0/02/050/1,002050,Canaux utilisés par le sondeur du satellite géostationnaire,1,,1,"14,71",,,Operational,Original
+bufr4/0/02/050/2,002050,Canaux utilisés par le sondeur du satellite géostationnaire,2,,2,"14,37",,,Operational,Original
+bufr4/0/02/050/3,002050,Canaux utilisés par le sondeur du satellite géostationnaire,3,,3,"14,06",,,Operational,Original
+bufr4/0/02/050/4,002050,Canaux utilisés par le sondeur du satellite géostationnaire,4,,4,"13,64",,,Operational,Original
+bufr4/0/02/050/5,002050,Canaux utilisés par le sondeur du satellite géostationnaire,5,,5,"13,37",,,Operational,Original
+bufr4/0/02/050/6,002050,Canaux utilisés par le sondeur du satellite géostationnaire,6,,6,"12,66",,,Operational,Original
+bufr4/0/02/050/7,002050,Canaux utilisés par le sondeur du satellite géostationnaire,7,,7,"12,02",,,Operational,Original
+bufr4/0/02/050/8,002050,Canaux utilisés par le sondeur du satellite géostationnaire,8,,8,"11,03",,,Operational,Original
+bufr4/0/02/050/9,002050,Canaux utilisés par le sondeur du satellite géostationnaire,9,,9,"9,71",,,Operational,Original
+bufr4/0/02/050/10,002050,Canaux utilisés par le sondeur du satellite géostationnaire,10,,10,"7,43",,,Operational,Original
+bufr4/0/02/050/11,002050,Canaux utilisés par le sondeur du satellite géostationnaire,11,,11,"7,02",,,Operational,Original
+bufr4/0/02/050/12,002050,Canaux utilisés par le sondeur du satellite géostationnaire,12,,12,"6,51",,,Operational,Original
+bufr4/0/02/050/13,002050,Canaux utilisés par le sondeur du satellite géostationnaire,13,,13,"4,57",,,Operational,Original
+bufr4/0/02/050/14,002050,Canaux utilisés par le sondeur du satellite géostationnaire,14,,14,"4,52",,,Operational,Original
+bufr4/0/02/050/15,002050,Canaux utilisés par le sondeur du satellite géostationnaire,15,,15,"4,45",,,Operational,Original
+bufr4/0/02/050/16,002050,Canaux utilisés par le sondeur du satellite géostationnaire,16,,16,"4,13",,,Operational,Original
+bufr4/0/02/050/17,002050,Canaux utilisés par le sondeur du satellite géostationnaire,17,,17,"3,98",,,Operational,Original
+bufr4/0/02/050/18,002050,Canaux utilisés par le sondeur du satellite géostationnaire,18,,18,"3,74",,,Operational,Original
+bufr4/0/02/050/19,002050,Canaux utilisés par le sondeur du satellite géostationnaire,19,,19,"0,969",,,Operational,Original
 bufr4/0/02/050/All-20,002050,Canaux utilisés par le sondeur du satellite géostationnaire,20 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/051/0,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,0,En réserve,,,,,Operational,Original
 bufr4/0/02/051/1,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,1,Thermomètres à maximum et à minimum,,,,,Operational,Original
@@ -372,11 +372,11 @@ bufr4/0/02/051/2,002051,Indicateur servant à préciser la méthode d'observatio
 bufr4/0/02/051/3,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,3,Thermographe,,,,,Operational,Original
 bufr4/0/02/051/4-14,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,4-14,En réserve,,,,,Operational,Original
 bufr4/0/02/051/15,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/052/1,002052,Canaux utilisés par l'imageur du satellite géostationnaire,1,nan,1,"0,55-0,75",,,Operational,Original
-bufr4/0/02/052/2,002052,Canaux utilisés par l'imageur du satellite géostationnaire,2,nan,2,"3,9",,,Operational,Original
-bufr4/0/02/052/3,002052,Canaux utilisés par l'imageur du satellite géostationnaire,3,nan,3,"6,7",,,Operational,Original
-bufr4/0/02/052/4,002052,Canaux utilisés par l'imageur du satellite géostationnaire,4,nan,4,"10,7",,,Operational,Original
-bufr4/0/02/052/5,002052,Canaux utilisés par l'imageur du satellite géostationnaire,5,nan,5,"12,0",,,Operational,Original
+bufr4/0/02/052/1,002052,Canaux utilisés par l'imageur du satellite géostationnaire,1,,1,"0,55-0,75",,,Operational,Original
+bufr4/0/02/052/2,002052,Canaux utilisés par l'imageur du satellite géostationnaire,2,,2,"3,9",,,Operational,Original
+bufr4/0/02/052/3,002052,Canaux utilisés par l'imageur du satellite géostationnaire,3,,3,"6,7",,,Operational,Original
+bufr4/0/02/052/4,002052,Canaux utilisés par l'imageur du satellite géostationnaire,4,,4,"10,7",,,Operational,Original
+bufr4/0/02/052/5,002052,Canaux utilisés par l'imageur du satellite géostationnaire,5,,5,"12,0",,,Operational,Original
 bufr4/0/02/052/All-6,002052,Canaux utilisés par l'imageur du satellite géostationnaire,6 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/053/0,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,0,Température de luminance observée,,,,,Operational,Original
 bufr4/0/02/053/1,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,1,Température de luminance avec application d'une correction de distorsion,,,,,Operational,Original
