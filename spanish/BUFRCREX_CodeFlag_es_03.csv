@@ -105,7 +105,7 @@ bufr4/0/03/019/2,003019,Tipo de construcción,2,Construcción de hormigón,,,,,O
 bufr4/0/03/019/3,003019,Tipo de construcción,3,Construcción con vigas de acero,,,,,Operational,Original
 bufr4/0/03/019/4,003019,Tipo de construcción,4,Puente con vigas cajón,,,,,Operational,Original
 bufr4/0/03/019/5,003019,Tipo de construcción,5,Tablero ortotrópico,,,,,Operational,Original
-bufr4/0/03/019/6,003019,Tipo de construcción,6,Asfalto drete,,,,,Operational,Original
+bufr4/0/03/019/6,003019,Tipo de construcción,6,Asfalto drenante,,,,,Operational,Original
 bufr4/0/03/019/7-14,003019,Tipo de construcción,7-14,Reservadas,,,,,Operational,Original
 bufr4/0/03/019/15,003019,Tipo de construcción,15,Valor faltante,,,,,Operational,Original
 bufr4/0/03/020/0,003020,Material del abrigo del termómetro/higrómetro,0,Madera,,,,,Operational,Original

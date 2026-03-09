@@ -33,7 +33,7 @@ noteID,note_es,translated_by
 32,Code figures 1-9: Duration and time of current measurement (vector or Doppler current profiling method).,Original
 33,Code figures 11-19: Period of current measurement (drift method).,Original
 34,"Code figures for generic precipitation (code figures 140-148) are arranged in order of increasing complexity. For example, a very simple station that can sense only the presence or absence of precipitation would use code figure 140 (precipitation). At the next level, an automatic station capable of sensing amount but not type would use code figure 141 or 142. An automatic station capable of sensing gross type (liquid, solid, freezing) and amount would use code figures 143-148. An automatic station capable of reporting actual types of precipitation (e.g. drizzle rain), but not the amount, would use the appropriate whole decile number (e.g. 150 for generic drizzle, 160 for generic rain).",Original
-35,Descriptor 0 25 009 is deprecated. 0 25 029 should be used instead.,Original
+35,El descriptor 0 25 009 ha dejado de utilizarse. Utilícese en su lugar el descriptor 0 25 029.,Original
 36,"Las estadísticas de diferencia son valores de diferencia; sus dimensiones son iguales a las de los valores correspondientes comunicados con respecto a unidades, pero con una gama centrada en cero (por ejemplo, diferencia entre valores comunicados y analizados, diferencia entre valores comunicados y previstos, etc.).",Original
 37,"DIODE son las siglas de ""détermination immédiate d'orbite par DORIS embarqué"" (determinación inmediata de órbita mediante DORIS instalado a bordo). Es una de las funciones del instrumento DORIS, que calcula la posición y velocidad del satélite.",Original
 38,Los apartados 1 y 2 no deberían utilizarse.,Original

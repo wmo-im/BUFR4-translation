@@ -541,7 +541,7 @@ bufr4/0/33/088/12,033088,Banderines de calidad de la columna total de ozono,12,�
 bufr4/0/33/088/13,033088,Banderines de calidad de la columna total de ozono,13,Ángulo cenital del sol en condición degradada (80 grados ≤ ángulo cenital del sol < 88 grados),,,,,Operational,Original
 bufr4/0/33/088/14,033088,Banderines de calidad de la columna total de ozono,14,Índice SO2 > 6 DU (condición degradada),,,,,Operational,Original
 bufr4/0/33/088/15,033088,Banderines de calidad de la columna total de ozono,15,Los residuos no son coherentes (indica si los residuos de las 22 longitudes de onda son coherentes),,,,,Operational,Original
-bufr4/0/33/088/16,033088,Banderines de calidad de la columna total de ozono,16,La selección del triplete 03 no es coherente en el triplete de ozono recuperado (coherencia),,,,,Operational,Original
+bufr4/0/33/088/16,033088,Banderines de calidad de la columna total de ozono,16,La selección del triplete O3 no es coherente en el triplete de ozono recuperado (coherencia),,,,,Operational,Original
 bufr4/0/33/088/17,033088,Banderines de calidad de la columna total de ozono,17,La calidad de los datos entrantes no es buena,,,,,Operational,Original
 bufr4/0/33/088/All-18,033088,Banderines de calidad de la columna total de ozono,Todo 18,Valor faltante,,,,,Operational,Original
 bufr4/0/33/092/1,033092,Banderín de calidad oceánica de banda específica,1,Altímetro en funcionamiento,,,,,Operational,Original
