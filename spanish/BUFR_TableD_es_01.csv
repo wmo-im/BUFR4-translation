@@ -1,9 +1,9 @@
 Id,Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status,translated_by
 bufr4/3/01/001/1/001001,01,Secuencias correspondientes a la posición y a la identificación,301001,Números de bloque y de la estación de la OMM,,001001,Número de bloque de la OMM,,,,Operational,Original
 bufr4/3/01/001/2/001002,01,Secuencias correspondientes a la posición y a la identificación,301001,Números de bloque y de la estación de la OMM,,001002,Número de la estación de la OMM,,,,Operational,Original
-bufr4/3/01/002/1/001003,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001003,Número de Región de la OMM /zona geográfica,,,,Operational,Original
-bufr4/3/01/002/2/001004,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001004,Subárea de Región de la OMM,,,,Operational,Original
-bufr4/3/01/002/3/001005,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001005,Identificador de boya/plataforma,,,,Operational,Original
+bufr4/3/01/002/1/001003,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001003,Número de Región de la OMM /zona geográfica,,(véase la nota 1),11,Operational,Original
+bufr4/3/01/002/2/001004,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001004,Subárea de Región de la OMM,,(véase la nota 1),11,Operational,Original
+bufr4/3/01/002/3/001005,01,Secuencias correspondientes a la posición y a la identificación,301002,,,001005,Identificador de boya/plataforma,,(véase la nota 1),11,Operational,Original
 bufr4/3/01/003/1/001011,01,Secuencias correspondientes a la posición y a la identificación,301003,Señal de llamada del buque y movimiento,,001011,Identificador de buque o de estación terrestre móvil,Señal de llamada del buque,,,Operational,Original
 bufr4/3/01/003/2/001012,01,Secuencias correspondientes a la posición y a la identificación,301003,Señal de llamada del buque y movimiento,,001012,Dirección del movimiento de la plataforma de observación,,,,Operational,Original
 bufr4/3/01/003/3/001013,01,Secuencias correspondientes a la posición y a la identificación,301003,Señal de llamada del buque y movimiento,,001013,Velocidad del movimiento de la plataforma de observación,,,,Operational,Original
@@ -24,7 +24,7 @@ bufr4/3/01/013/3/004006,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/014/1/102002,01,Secuencias correspondientes a la posición y a la identificación,301014,Período de tiempo,,102002,Repetir 2 descriptores 2 veces,,,,Operational,Original
 bufr4/3/01/014/2/301011,01,Secuencias correspondientes a la posición y a la identificación,301014,Período de tiempo,,301011,"Año, mes, día",,,,Operational,Original
 bufr4/3/01/014/3/301012,01,Secuencias correspondientes a la posición y a la identificación,301014,Período de tiempo,,301012,"Hora, minuto",,,,Operational,Original
-bufr4/3/01/018/1/001114,01,Secuencias correspondientes a la posición y a la identificación,301018,Señal de llamada del buque encriptada y método de encriptación,,001114,Identificador encriptado del buque o de la estación terrestre móvil (encriptación base64),,(Véanse las notas 2 a 4),,Operational,Original
+bufr4/3/01/018/1/001114,01,Secuencias correspondientes a la posición y a la identificación,301018,Señal de llamada del buque encriptada y método de encriptación,,001114,Identificador encriptado del buque o de la estación terrestre móvil (encriptación base64),,(Véanse las notas 2 a 4),"57,23",Operational,Original
 bufr4/3/01/018/2/025185,01,Secuencias correspondientes a la posición y a la identificación,301018,Señal de llamada del buque encriptada y método de encriptación,,025185,Método de encriptación,,,,Operational,Original
 bufr4/3/01/018/3/025186,01,Secuencias correspondientes a la posición y a la identificación,301018,Señal de llamada del buque encriptada y método de encriptación,,025186,Versión de la clave de encriptación,,,,Operational,Original
 bufr4/3/01/021/1/005001,01,Secuencias correspondientes a la posición y a la identificación,301021,Latitud/longitud (gran precisión),,005001,Latitud (gran precisión),,,,Operational,Original
@@ -56,7 +56,11 @@ bufr4/3/01/028/1/008040,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/028/2/033042,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,033042,Tipo de límite representado por el valor siguiente,,,,Operational,Original
 bufr4/3/01/028/3/007010,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,007010,Nivel de vuelo,,,,Operational,Original
 bufr4/3/01/028/4/101000,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,101000,Repetición diferida de 1 descriptor,,,,Operational,Original
+<<<<<<< HEAD
 bufr4/3/01/028/5/031002,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,031002,Factor ampliado de repetición diferida del descriptor,,(véase la Nota 6),61,Operational,Original
+=======
+bufr4/3/01/028/5/031002,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,031002,Factor ampliado de repetición diferida del descriptor,,(véase la Nota 6),66,Operational,Original
+>>>>>>> b000c6a (more cleanup)
 bufr4/3/01/028/6/301023,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,301023,Latitud/longitud (precisión aproximada),,,,Operational,Original
 bufr4/3/01/028/7/019007,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,019007,Radio del elemento efectivo,,(véase la nota 7),61,Operational,Original
 bufr4/3/01/028/8/008040,01,Secuencias correspondientes a la posición y a la identificación,301028,"Sección horizontal de un elemento descrito como un polígono, un círculo, una línea o un punto",,008040,Significación del nivel de vuelo,Fijar en faltante (anular),,,Operational,Original
@@ -87,13 +91,13 @@ bufr4/3/01/034/2/002001,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/034/3/301011,01,Secuencias correspondientes a la posición y a la identificación,301034,Boya/plataforma — fija,,301011,"Año, mes, día",,,,Operational,Original
 bufr4/3/01/034/4/301012,01,Secuencias correspondientes a la posición y a la identificación,301034,Boya/plataforma — fija,,301012,"Hora, minuto",,,,Operational,Original
 bufr4/3/01/034/5/301023,01,Secuencias correspondientes a la posición y a la identificación,301034,Boya/plataforma — fija,,301023,Latitud/longitud (precisión aproximada),,,,Operational,Original
-bufr4/3/01/035/1/001005,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,001005,Identificador de la boya/plataforma,,,,Operational,Original
-bufr4/3/01/035/2/001012,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,001012,Dirección del movimiento de la plataforma de observación,,,,Operational,Original
-bufr4/3/01/035/3/001013,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,001013,Velocidad del movimiento de la plataforma de observación,,,,Operational,Original
-bufr4/3/01/035/4/002001,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,002001,Tipo de estación,,,,Operational,Original
-bufr4/3/01/035/5/301011,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,301011,"Año, mes, día",,,,Operational,Original
-bufr4/3/01/035/6/301012,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,301012,"Hora, minuto",,,,Operational,Original
-bufr4/3/01/035/7/301023,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma) (véase la nota 8,,301023,Latitud/longitud (precisión aproximada),,,,Operational,Original
+bufr4/3/01/035/1/001005,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,001005,Identificador de la boya/plataforma,,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/2/001012,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,001012,Dirección del movimiento de la plataforma de observación,,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/3/001013,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,001013,Velocidad del movimiento de la plataforma de observación,,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/4/002001,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,002001,Tipo de estación,,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/5/301011,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,301011,"Año, mes, día",,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/6/301012,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,301012,"Hora, minuto",,(véase la nota 8),12,Operational,Original
+bufr4/3/01/035/7/301023,01,Secuencias correspondientes a la posición y a la identificación,301035,Movimiento de la boya/plataforma),,301023,Latitud/longitud (precisión aproximada),,(véase la nota 8),12,Operational,Original
 bufr4/3/01/036/1/301003,01,Secuencias correspondientes a la posición y a la identificación,301036,Buque,,301003,Señal de llamada y movimiento del buque,,,,Operational,Original
 bufr4/3/01/036/2/002001,01,Secuencias correspondientes a la posición y a la identificación,301036,Buque,,002001,Tipo de estación,,,,Operational,Original
 bufr4/3/01/036/3/301011,01,Secuencias correspondientes a la posición y a la identificación,301036,Buque,,301011,"Año, mes, día",,,,Operational,Original
@@ -167,8 +171,8 @@ bufr4/3/01/047/5/001012,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/047/6/301045,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301045,Ubicación y velocidad del satélite,,,,Operational,Original
 bufr4/3/01/047/7/002021,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,002021,Datos de los instrumentos satelitales utilizados en las operaciones de proceso,,,,Operational,Original
 bufr4/3/01/047/8/301011,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301011,"Año, mes, día",,,,Operational,Original
-bufr4/3/01/047/9/301012,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301012,"Hora, minuto",16 bits,,,Operational,Original
-bufr4/3/01/047/10/201138,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201138,Cambio de anchura de los datos,,,,Operational,Original
+bufr4/3/01/047/9/301012,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,301012,"Hora, minuto",,,,Operational,Original
+bufr4/3/01/047/10/201138,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201138,Cambio de anchura de los datos,16 bits,,,Operational,Original
 bufr4/3/01/047/11/202131,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,202131,Cambio de escala,Escala: 3,,,Operational,Original
 bufr4/3/01/047/12/004006,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,004006,Segundo,,,,Operational,Original
 bufr4/3/01/047/13/201000,01,Secuencias correspondientes a la posición y a la identificación,301047,Encabezamiento del producto ERS,,201000,Cambio de anchura de los datos,Anular,,,Operational,Original
@@ -343,9 +347,9 @@ bufr4/3/01/112/2/002011,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/112/3/002013,01,Secuencias correspondientes a la posición y a la identificación,301112,Identificación del punto de lanzamiento e instrumentos de la radiosonda con paracaídas,,002013,Corrección de la radiación solar y de infrarrojo,,,,Operational,Original
 bufr4/3/01/112/4/002014,01,Secuencias correspondientes a la posición y a la identificación,301112,Identificación del punto de lanzamiento e instrumentos de la radiosonda con paracaídas,,002014,Técnica de seguimiento de trayectoria/ situación del sistema,,,,Operational,Original
 bufr4/3/01/112/5/002003,01,Secuencias correspondientes a la posición y a la identificación,301112,Identificación del punto de lanzamiento e instrumentos de la radiosonda con paracaídas,,002003,Tipo de instrumentos de medición utilizados,,,,Operational,Original
-bufr4/3/01/113/1/008021,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento) (véase la nota 11,,008021,Significación temporal,=18 hora de lanzamiento,,,Operational,Original
-bufr4/3/01/113/2/301011,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento) (véase la nota 11,,301011,"Año, mes, día",Hora de lanzamiento,,,Operational,Original
-bufr4/3/01/113/3/301013,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento) (véase la nota 11,,301013,"Hora, minuto, segundo",Hora de lanzamiento,,,Operational,Original
+bufr4/3/01/113/1/008021,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento,,008021,Significación temporal,=18 hora de lanzamiento,(véase la nota 11),72,Operational,Original
+bufr4/3/01/113/2/301011,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento,,301011,"Año, mes, día",Hora de lanzamiento,,,Operational,Original
+bufr4/3/01/113/3/301013,01,Secuencias correspondientes a la posición y a la identificación,301113,Fecha/hora de lanzamiento,,301013,"Hora, minuto, segundo",Hora de lanzamiento,,,Operational,Original
 bufr4/3/01/114/1/301021,01,Secuencias correspondientes a la posición y a la identificación,301114,Coordenadas horizontales y verticales del sitio de lanzamiento,,301021,Latitud/longitud (gran precisión),,,,Operational,Original
 bufr4/3/01/114/2/007030,01,Secuencias correspondientes a la posición y a la identificación,301114,Coordenadas horizontales y verticales del sitio de lanzamiento,,007030,Altura del suelo de la estación sobre el nivel medio del mar,,,,Operational,Original
 bufr4/3/01/114/3/007031,01,Secuencias correspondientes a la posición y a la identificación,301114,Coordenadas horizontales y verticales del sitio de lanzamiento,,007031,Altura del barómetro sobre el nivel medio del mar,,,,Operational,Original
@@ -360,7 +364,7 @@ bufr4/3/01/121/2/301122,01,Secuencias correspondientes a la posición y a la ide
 bufr4/3/01/121/3/301021,01,Secuencias correspondientes a la posición y a la identificación,301121,(Ubicaci�n del punto de lanzamiento de la radiosonda),,301021,Latitud/longitud (gran precisión),,,,Operational,Original
 bufr4/3/01/121/4/007031,01,Secuencias correspondientes a la posición y a la identificación,301121,(Ubicaci�n del punto de lanzamiento de la radiosonda),,007031,Altura de barómetro sobre el nivel medio del mar,,,,Operational,Original
 bufr4/3/01/121/5/007007,01,Secuencias correspondientes a la posición y a la identificación,301121,(Ubicaci�n del punto de lanzamiento de la radiosonda),,007007,Altura,Lanzamiento de la radiosonda sobre el nivel medio del mar,,,Operational,Original
-bufr4/3/01/122/1/301011,01,Secuencias correspondientes a la posición y a la identificación,301122,(Fecha/hora (hasta centésimas de segundo)),,301011,"Año, mes, día",,(véase la nota 11,,Operational,Original
+bufr4/3/01/122/1/301011,01,Secuencias correspondientes a la posición y a la identificación,301122,(Fecha/hora (hasta centésimas de segundo)),,301011,"Año, mes, día",,(véase la nota 11,72,Operational,Original
 bufr4/3/01/122/2/301012,01,Secuencias correspondientes a la posición y a la identificación,301122,(Fecha/hora (hasta centésimas de segundo)),,301012,"Hora, minuto",,,,Operational,Original
 bufr4/3/01/122/3/201135,01,Secuencias correspondientes a la posición y a la identificación,301122,(Fecha/hora (hasta centésimas de segundo)),,201135,Cambio anchura de datos,,,,Operational,Original
 bufr4/3/01/122/4/202130,01,Secuencias correspondientes a la posición y a la identificación,301122,(Fecha/hora (hasta centésimas de segundo)),,202130,Cambio de escala,,,,Operational,Original

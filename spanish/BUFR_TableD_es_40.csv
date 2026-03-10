@@ -61,7 +61,7 @@ bufr4/3/40/004/6/025142,40,Secuencias adicionales de los informes satelitales,34
 bufr4/3/40/004/7/014047,40,Secuencias adicionales de los informes satelitales,340004,(Secuencia de escenas AVHRR de nivel 1c IASI),,014047,Radiancia media ajustada AVHRR,,,,Operational,Original
 bufr4/3/40/004/8/025142,40,Secuencias adicionales de los informes satelitales,340004,(Secuencia de escenas AVHRR de nivel 1c IASI),,025142,Factor de escala del canal,,,,Operational,Original
 bufr4/3/40/004/9/014048,40,Secuencias adicionales de los informes satelitales,340004,(Secuencia de escenas AVHRR de nivel 1c IASI),,014048,Radiancia de la desviación estándar ajustada AVHRR,,,,Operational,Original
-bufr4/3/40/005/1/001007,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,001007,Identificador del satélite,,,,Operational,Original
+bufr4/3/40/005/1/001007,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,001007,Identificador del satélite,,(véase la nota),14,Operational,Original
 bufr4/3/40/005/2/002019,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,002019,Instrumentos de satélite,,,,Operational,Original
 bufr4/3/40/005/3/001096,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,001096,Adquisición de estación,,,,Operational,Original
 bufr4/3/40/005/4/025061,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,025061,Identificación y número de versión del software,,,,Operational,Original
@@ -69,16 +69,16 @@ bufr4/3/40/005/5/005044,40,Secuencias adicionales de los informes satelitales,34
 bufr4/3/40/005/6/005040,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,005040,Número de órbita,,,,Operational,Original
 bufr4/3/40/005/7/001030,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,001030,Identificador del modelo numérico,,,,Operational,Original
 bufr4/3/40/005/8/004001,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004001,Año,,,,Operational,Original
-bufr4/3/40/005/9/004002,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,004002,Mes,,,,Operational,Original
-bufr4/3/40/005/10/004003,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,004003,Día,,,,Operational,Original
-bufr4/3/40/005/11/004004,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,004004,Hora,,,,Operational,Original
-bufr4/3/40/005/12/004005,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,004005,Minuto,,,,Operational,Original
-bufr4/3/40/005/13/004007,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,004007,Segundos de un minuto (precisión de microsegundos),,,,Operational,Original
+bufr4/3/40/005/9/004002,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004002,Mes,,,,Operational,Original
+bufr4/3/40/005/10/004003,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004003,Día,,,,Operational,Original
+bufr4/3/40/005/11/004004,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004004,Hora,,,,Operational,Original
+bufr4/3/40/005/12/004005,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004005,Minuto,,,,Operational,Original
+bufr4/3/40/005/13/004007,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Datación,004007,Segundos de un minuto (precisión de microsegundos),,,,Operational,Original
 bufr4/3/40/005/14/005001,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Ubicación y tipo de superficie,005001,Latitud (gran precisión),,,,Operational,Original
-bufr4/3/40/005/15/006001,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,006001,Longitud (gran precisión),,,,Operational,Original
-bufr4/3/40/005/16/008029,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,008029,Tipo de superficie,,,,Operational,Original
-bufr4/3/40/005/17/008074,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,008074,Tipo de eco del altímetro,,,,Operational,Original
-bufr4/3/40/005/18/008077,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,008077,Tipo de superficie detectada mediante radiómetro,,,,Operational,Original
+bufr4/3/40/005/15/006001,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Ubicación y tipo de superficie,006001,Longitud (gran precisión),,,,Operational,Original
+bufr4/3/40/005/16/008029,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Ubicación y tipo de superficie,008029,Tipo de superficie,,,,Operational,Original
+bufr4/3/40/005/17/008074,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Ubicación y tipo de superficie,008074,Tipo de eco del altímetro,,,,Operational,Original
+bufr4/3/40/005/18/008077,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Ubicación y tipo de superficie,008077,Tipo de superficie detectada mediante radiómetro,,,,Operational,Original
 bufr4/3/40/005/19/040011,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Banderines,040011,Banderín de interpolación,,,,Operational,Original
 bufr4/3/40/005/20/025097,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Banderines,025097,Estimación del error tridimensional de la órbita del navegador,,,,Operational,Original
 bufr4/3/40/005/21/025095,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Banderines,025095,Banderín de estado del altímetro,,,,Operational,Original
@@ -90,22 +90,22 @@ bufr4/3/40/005/26/040012,40,Secuencias adicionales de los informes satelitales,3
 bufr4/3/40/005/27/040013,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Banderines,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,,,,Operational,Original
 bufr4/3/40/005/28/021169,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Banderines,021169,Indicador de presencia de hielo,,,,Operational,Original
 bufr4/3/40/005/29/022151,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022151,Alcance oceánico en banda Ku,,,,Operational,Original
-bufr4/3/40/005/30/022162,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022162,Media cuadrática del alcance oceánico en banda Ku a 20 Hz,,,,Operational,Original
-bufr4/3/40/005/31/022163,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022163,Número de puntos válidos a 20 Hz para banda Ku,,,,Operational,Original
-bufr4/3/40/005/32/025160,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,025160,Corrección instrumental neta en banda Ku,,,,Operational,Original
-bufr4/3/40/005/33/025133,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,025133,Corrección de error sistemático sobre el estado del mar en banda Ku,,,,Operational,Original
-bufr4/3/40/005/34/022156,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022156,Altura de ola significativa en banda Ku,,,,Operational,Original
-bufr4/3/40/005/35/022164,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022164,Media cuadrática de la altura de ola significativa a20 Hz en banda Ku,,,,Operational,Original
-bufr4/3/40/005/36/022165,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022165,Número de puntos válidos a 20 Hz para altura de ola significativa en banda Ku,,,,Operational,Original
-bufr4/3/40/005/37/022166,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022166,Corrección instrumental neta de la altura de ola significativa en banda Ku,,,,Operational,Original
-bufr4/3/40/005/38/021137,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021137,Coeficiente corregido de retrodispersión oceánica en banda Ku,,,,Operational,Original
-bufr4/3/40/005/39/021138,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021138,Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,,,,Operational,Original
-bufr4/3/40/005/40/022167,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,022167,Número de puntos válidos de retrodispersión en banda Ku,,,,Operational,Original
-bufr4/3/40/005/41/021139,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021139,Corrección instrumental neta en banda Ku para control automático de ganancia,,,,Operational,Original
-bufr4/3/40/005/42/021118,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021118,Corrección de atenuación respecto de SIGMA-0,,,,Operational,Original
-bufr4/3/40/005/43/021145,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021145,Control de ganancia automático en banda Ku,,,,Operational,Original
-bufr4/3/40/005/44/021146,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021146,Media cuadrática del control automático de ganancia en banda Ku,,,,Operational,Original
-bufr4/3/40/005/45/021147,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),,021147,Número de puntos válidos respecto del control automático de ganancia en banda Ku,,,,Operational,Original
+bufr4/3/40/005/30/022162,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022162,Media cuadrática del alcance oceánico en banda Ku a 20 Hz,,,,Operational,Original
+bufr4/3/40/005/31/022163,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022163,Número de puntos válidos a 20 Hz para banda Ku,,,,Operational,Original
+bufr4/3/40/005/32/025160,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,025160,Corrección instrumental neta en banda Ku,,,,Operational,Original
+bufr4/3/40/005/33/025133,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,025133,Corrección de error sistemático sobre el estado del mar en banda Ku,,,,Operational,Original
+bufr4/3/40/005/34/022156,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022156,Altura de ola significativa en banda Ku,,,,Operational,Original
+bufr4/3/40/005/35/022164,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022164,Media cuadrática de la altura de ola significativa a20 Hz en banda Ku,,,,Operational,Original
+bufr4/3/40/005/36/022165,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022165,Número de puntos válidos a 20 Hz para altura de ola significativa en banda Ku,,,,Operational,Original
+bufr4/3/40/005/37/022166,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022166,Corrección instrumental neta de la altura de ola significativa en banda Ku,,,,Operational,Original
+bufr4/3/40/005/38/021137,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021137,Coeficiente corregido de retrodispersión oceánica en banda Ku,,,,Operational,Original
+bufr4/3/40/005/39/021138,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021138,Coeficiente corregido estándar de retrodispersión oceánica en banda Ku,,,,Operational,Original
+bufr4/3/40/005/40/022167,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,022167,Número de puntos válidos de retrodispersión en banda Ku,,,,Operational,Original
+bufr4/3/40/005/41/021139,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021139,Corrección instrumental neta en banda Ku para control automático de ganancia,,,,Operational,Original
+bufr4/3/40/005/42/021118,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021118,Corrección de atenuación respecto de SIGMA-0,,,,Operational,Original
+bufr4/3/40/005/43/021145,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021145,Control de ganancia automático en banda Ku,,,,Operational,Original
+bufr4/3/40/005/44/021146,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021146,Media cuadrática del control automático de ganancia en banda Ku,,,,Operational,Original
+bufr4/3/40/005/45/021147,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda Ku,021147,Número de puntos válidos respecto del control automático de ganancia en banda Ku,,,,Operational,Original
 bufr4/3/40/005/46/022168,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda C,022168,Alcance oceánico en banda C,,,,Operational,Original
 bufr4/3/40/005/47/022169,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda C,022169,Media cuadrática del alcance oceánico en banda C,,,,Operational,Original
 bufr4/3/40/005/48/022170,40,Secuencias adicionales de los informes satelitales,340005,(Datos OGDR de JASON-2),Altímetro: banda C,022170,Número de puntos válidos a 20 Hz en banda C,,,,Operational,Original
