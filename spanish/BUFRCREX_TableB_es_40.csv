@@ -37,14 +37,14 @@ bufr4/0/40/035,40,Datos satelitales,040035,Distancia del satélite,m,0,380000,18
 bufr4/0/40/036,40,Datos satelitales,040036,Tipo de clasificación de productos Lidar L2b,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/40/037,40,Datos satelitales,040037,Tasa de retrodispersión,Numérica,3,500,20,Numérica,3,7,,,Operational,Original
 bufr4/0/40/038,40,Datos satelitales,040038,Tamaño de las partículas de la nube,m,7,0,28,m,7,6,,,Operational,Original
-bufr4/0/40/039,40,Datos satelitales,040039,Intensidad de las imágenes complejas de observación única,Numérica,2,-25,5,Numérica,0,3,,,Operational,Original
+bufr4/0/40/039,40,Datos satelitales,040039,Intensidad de las imágenes complejas de observación única,Numérica,0,-25,5,Numérica,0,3,,,Operational,Original
 bufr4/0/40/040,40,Datos satelitales,040040,Asimetría de las imágenes complejas de observación única,Numérica,2,1,13,Numérica,0,4,,,Operational,Original
 bufr4/0/40/041,40,Datos satelitales,040041,Curtosis de las imágenes complejas de observación única,Numérica,2,1,13,Numérica,0,4,,,Operational,Original
 bufr4/0/40/042,40,Datos satelitales,040042,Varianza de las imágenes complejas de observación única,Numérica,2,1,13,Numérica,0,4,,,Operational,Original
 bufr4/0/40/043,40,Datos satelitales,040043,Indicador de maniobras del satélite,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
-bufr4/0/40/044,40,Datos satelitales,040044,Índice de polvo,Numérica,1,0,8,Numérica,1,,,,Operational,Original
+bufr4/0/40/044,40,Datos satelitales,040044,Índice de polvo,Numérica,1,0,8,Numérica,1,3,,,Operational,Original
 bufr4/0/40/045,40,Datos satelitales,040045,Formación de nubes y determinación de la altura,Tabla de banderines,0,0,5,Tabla de banderines,0,2,,,Operational,Original
-bufr4/0/40/046,40,Datos satelitales,040046,Resumen de nubosidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,,,,Operational,Original
+bufr4/0/40/046,40,Datos satelitales,040046,Resumen de nubosidad,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/40/047,40,Datos satelitales,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/40/048,40,Datos satelitales,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/40/049,40,Datos satelitales,040049,Pruebas de nubes ejecutadas y resultados,Tabla de banderines,0,0,16,Tabla de banderines,0,5,,,Operational,Original
@@ -67,9 +67,9 @@ bufr4/0/40/065,40,Datos satelitales,040065,Principales vectores propios de la ma
 bufr4/0/40/066,40,Datos satelitales,040066,Indicador de calidad del vapor de agua atmosférico,Numérica,1,0,8,Numérica,1,3,,,Operational,Original
 bufr4/0/40/067,40,Datos satelitales,040067,Indicador de calidad de la temperatura atmosférica,Numérica,1,0,8,Numérica,1,3,,,Operational,Original
 bufr4/0/40/068,40,Datos satelitales,040068,Banderín de calidad de la recuperación general del SO2,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
-bufr4/0/40/069,40,Datos satelitales,040069,Error de recuperación estimado mediante PWLR* para la temperatura d,K,4,-1000000,21,K,4,7,,,Operational,Original
+bufr4/0/40/069,40,Datos satelitales,040069,Error de recuperación estimado mediante PWLR* para la temperatura d,K,4,-1000000,21,K,4,7,(véase la nota),114,Operational,Original
 bufr4/0/40/070,40,Datos satelitales,040070,Error de recuperación estimado mediante PWLR* para el punto de rocí,K,4,-1000000,21,K,4,7,,,Operational,Original
-bufr4/0/40/071,40,Datos satelitales,040071,Matriz de covarianza del error de recuperación para el ozono en el,Numérica,4,-1000000,2,Numérica,4,7,,,Operational,Original
+bufr4/0/40/071,40,Datos satelitales,040071,Matriz de covarianza del error de recuperación para el ozono en el,Numérica,4,-1000000,21,Numérica,4,7,,,Operational,Original
 bufr4/0/40/072,40,Datos satelitales,040072,Indicador de calidad de la recuperación estimado mediante PWLR para,Numérica,1,0,8,Numérica,1,3,,,Operational,Original
 bufr4/0/40/073,40,Datos satelitales,040073,Error de recuperación estimado mediante PWLR para la temperatura de,K,1,0,8,K,1,3,,,Operational,Original
 bufr4/0/40/074,40,Datos satelitales,040074,Banderines de calidad de interferometría general,Tabla de banderines,0,0,16,,,,,,Operational,Original
