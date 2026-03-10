@@ -42,10 +42,10 @@ bufr4/0/19/101/10,019101,Precisión de la posición del centro del ciclón tropi
 bufr4/0/19/101/11-14,019101,Precisión de la posición del centro del ciclón tropical,11-14,No utilizadas,,,,,Operational,Original
 bufr4/0/19/101/15,019101,Precisión de la posición del centro del ciclón tropical,15,Valor faltante,,,,,Operational,Original
 bufr4/0/19/102/0,019102,Forma y definición del ojo del ciclón tropical,0,Circular,,,,,Operational,Original
-bufr4/0/19/102/1,019102,Forma y definición del ojo del ciclón tropical,1,"Elíptica – la longitud del eje menor alcanza, por lo menos, los 3/4 del eje mayor",,,,,Operational,Original
-bufr4/0/19/102/2,019102,Forma y definición del ojo del ciclón tropical,2,Elíptica - la longitud del eje menor es inferior a 3/4 del eje mayor,,,,,Operational,Original
-bufr4/0/19/102/3,019102,Forma y definición del ojo del ciclón tropical,3,Doble ojo aparente,,,,,Operational,Original
-bufr4/0/19/102/4,019102,Forma y definición del ojo del ciclón tropical,4,Otra forma,,,,,Operational,Original
+bufr4/0/19/102/1,019102,Forma y definición del ojo del ciclón tropical,1,"Elíptica – la longitud del eje menor alcanza, por lo menos, los 3/4 del eje mayor",bien definido,,,,Operational,Original
+bufr4/0/19/102/2,019102,Forma y definición del ojo del ciclón tropical,2,Elíptica - la longitud del eje menor es inferior a 3/4 del eje mayor,bien definido,,,,Operational,Original
+bufr4/0/19/102/3,019102,Forma y definición del ojo del ciclón tropical,3,Doble ojo aparente,bien definido,,,,Operational,Original
+bufr4/0/19/102/4,019102,Forma y definición del ojo del ciclón tropical,4,Otra forma,bien definido,,,,Operational,Original
 bufr4/0/19/102/5,019102,Forma y definición del ojo del ciclón tropical,5,Mal definido,,,,,Operational,Original
 bufr4/0/19/102/6,019102,Forma y definición del ojo del ciclón tropical,6,Indeterminado,,,,,Operational,Original
 bufr4/0/19/103/0,019103,Diámetro del eje principal del ojo del ciclón tropical,0,Menos de 5 km,,,,,Operational,Original
