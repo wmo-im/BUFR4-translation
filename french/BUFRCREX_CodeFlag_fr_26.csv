@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/26/010/1,026010,Heures de mesure,1,0100,,,,,Operational,Original
 bufr4/0/26/010/2,026010,Heures de mesure,2,0200,,,,,Operational,Original
 bufr4/0/26/010/3,026010,Heures de mesure,3,0300,,,,,Operational,Original

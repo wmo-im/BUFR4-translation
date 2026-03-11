@@ -1,12 +1,12 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/20/003,020003,Temps présent,,00-49   Pas de précipitations à la station au moment de l'observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"00-19   Pas de précipitations, de brouillard, de brouillard glacé (exception faite pour 11 et 12), de tempête de poussière, de tempête de sable, de chasse-neige basse ou élevée à la station* au moment de l'observation ou, exception faite pour 09 et 17, durant l'heure précédente",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,00-03   Pas de météores excepté des photométéores,,,,,Operational,Original
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/00,020003,Temps présent,00,On n'a pas observé d'évolution des nuages ou l'on n'a pas pu suivre cette évolution,,,,,Operational,Original
 bufr4/0/20/003/01,020003,Temps présent,01,"Dans l'ensemble, nuages se dissipant ou devenant moins épais",Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
 bufr4/0/20/003/02,020003,Temps présent,02,État du ciel inchangé dans l'ensemble,Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
 bufr4/0/20/003/03,020003,Temps présent,03,Nuages en formation ou en train de se développer,Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"04-09   Brume sèche, poussière, sable ou fumée",,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/04,020003,Temps présent,04,"Visibilité réduite par de la fumée, par exemple: feu de brousse ou incendie de forêt, des fumées industrielles ou des cendres volcaniques",,,,,Operational,Original
 bufr4/0/20/003/05,020003,Temps présent,05,Brume sèche,,,,,Operational,Original
 bufr4/0/20/003/06,020003,Temps présent,06,"Poussières en suspension dans l'air d'une manière généralisée, non brassées par le vent à la station ou à proximité de celle-ci au moment de l'observation",,,,,Operational,Original
@@ -23,7 +23,7 @@ bufr4/0/20/003/16,020003,Temps présent,16,"Précipitations en vue, atteignant l
 bufr4/0/20/003/17,020003,Temps présent,17,"Orage, mais pas de précipitations au moment de l'observation",,,,,Operational,Original
 bufr4/0/20/003/18,020003,Temps présent,18,Grains,à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/19,020003,Temps présent,19,Trombe(s)**,à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"20-29   Précipitations, brouillard, brouillard glacé ou orage à la station au cours de l'heure précédente, mais non au moment de l'observation",,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/20,020003,Temps présent,20,Bruine (ne se congelant pas) ou neige en grains,pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/21,020003,Temps présent,21,Pluie (ne se congelant pas),pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/22,020003,Temps présent,22,Neige,pas sous forme d'averse(s),,,,Operational,Original
@@ -34,7 +34,7 @@ bufr4/0/20/003/26,020003,Temps présent,26,"Averse(s) de neige, ou de pluie et d
 bufr4/0/20/003/27,020003,Temps présent,27,"Averse(s) de grêle*, ou de pluie et de grêle*",,,,,Operational,Original
 bufr4/0/20/003/28,020003,Temps présent,28,Brouillard ou brouillard glacé,,,,,Operational,Original
 bufr4/0/20/003/29,020003,Temps présent,29,Orage (avec ou sans précipitations),,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"30-39   Tempête de poussière, tempête de sable, chasse-neige basse ou élevée",,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/30,020003,Temps présent,30,Tempête de poussière ou de sable faible ou modérée,a diminué au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/31,020003,Temps présent,31,Tempête de poussière ou de sable faible ou modérée,sans changement appréciable au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/32,020003,Temps présent,32,Tempête de poussière ou de sable faible ou modérée,a débuté ou a augmenté au cours de l'heure précédente,,,,Operational,Original
@@ -45,7 +45,7 @@ bufr4/0/20/003/36,020003,Temps présent,36,Chasse-neige faible ou modérée,gén
 bufr4/0/20/003/37,020003,Temps présent,37,Forte chasse-neige,généralement basse (au-dessous du niveau de l'œil),,,,Operational,Original
 bufr4/0/20/003/38,020003,Temps présent,38,Chasse-neige faible ou modérée,généralement élevée (au-dessus du niveau de l'œil),,,,Operational,Original
 bufr4/0/20/003/39,020003,Temps présent,39,Forte chasse-neige,généralement élevée (au-dessus du niveau de l'œil),,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,40-49   Brouillard ou brouillard glacé au moment de l'observation,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/40,020003,Temps présent,40,"Brouillard ou brouillard glacé à distance au moment de l'observation, mais non à la station même au cours de l'heure précédente, le brouillard ou le brouillard glacé s'étendant jusqu'à un niveau supérieur à celui de l'observateur",,,,,Operational,Original
 bufr4/0/20/003/41,020003,Temps présent,41,Brouillard ou brouillard glacé en bancs,,,,,Operational,Original
 bufr4/0/20/003/42,020003,Temps présent,42,"Brouillard ou brouillard glacé, ciel visible",s'est aminci au cours de l'heure précédente,,,,Operational,Original
@@ -56,8 +56,8 @@ bufr4/0/20/003/46,020003,Temps présent,46,"Brouillard ou brouillard glacé, cie
 bufr4/0/20/003/47,020003,Temps présent,47,"Brouillard ou brouillard glacé, ciel invisible",a commencé ou est devenu plus épais au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/48,020003,Temps présent,48,"Brouillard, déposant du givre, ciel visible",,,,,Operational,Original
 bufr4/0/20/003/49,020003,Temps présent,49,"Brouillard, déposant du givre, ciel invisible",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,50-99    Précipitations à la station au moment de l'observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,50-59   Bruine,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/50,020003,Temps présent,50,"Bruine, sans congélation, intermittente",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/51,020003,Temps présent,51,"Bruine, sans congélation, continue",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/52,020003,Temps présent,52,"Bruine, sans congélation, intermittente",modérée au moment de l'observation,,,,Operational,Original
@@ -68,7 +68,7 @@ bufr4/0/20/003/56,020003,Temps présent,56,"Bruine, se congelant, faible",,,,,Op
 bufr4/0/20/003/57,020003,Temps présent,57,"Bruine, se congelant, modérée ou forte (dense)",,,,,Operational,Original
 bufr4/0/20/003/58,020003,Temps présent,58,"Bruine et pluie, faibles",,,,,Operational,Original
 bufr4/0/20/003/59,020003,Temps présent,59,"Bruine et pluie, modérées ou fortes",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,60-69   Pluie,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/60,020003,Temps présent,60,"Pluie, sans congélation, intermittente",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/61,020003,Temps présent,61,"Pluie, sans congélation, continue",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/62,020003,Temps présent,62,"Pluie, sans congélation, intermittente",modérée au moment de l'observation,,,,Operational,Original
@@ -79,7 +79,7 @@ bufr4/0/20/003/66,020003,Temps présent,66,"Pluie, se congelant, faible",,,,,Ope
 bufr4/0/20/003/67,020003,Temps présent,67,"Pluie, se congelant, modérée ou forte",,,,,Operational,Original
 bufr4/0/20/003/68,020003,Temps présent,68,"Pluie ou bruine et neige, faibles",,,,,Operational,Original
 bufr4/0/20/003/69,020003,Temps présent,69,"Pluie ou bruine et neige, modérées ou fortes",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,70-79   Précipitations solides non sous forme d'averses,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/70,020003,Temps présent,70,Chute intermittente de flocons de neige,faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/71,020003,Temps présent,71,Chute continue de flocons de neige,faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/72,020003,Temps présent,72,Chute intermittente de flocons de neige,modérée au moment de l'observation,,,,Operational,Original
@@ -90,7 +90,7 @@ bufr4/0/20/003/76,020003,Temps présent,76,Poudrin de glace (avec ou sans brouil
 bufr4/0/20/003/77,020003,Temps présent,77,Neige en grains (avec ou sans brouillard),,,,,Operational,Original
 bufr4/0/20/003/78,020003,Temps présent,78,Etoiles de neige isolées (avec ou sans brouillard),,,,,Operational,Original
 bufr4/0/20/003/79,020003,Temps présent,79,Granules de glace,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"80-99   Précipitations sous forme d'averses, ou précipitations avec orage ou après un orage",,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/80,020003,Temps présent,80,"Averse(s) de pluie, faible(s)",,,,,Operational,Original
 bufr4/0/20/003/81,020003,Temps présent,81,"Averse(s) de pluie, modérée(s) ou forte(s)",,,,,Operational,Original
 bufr4/0/20/003/82,020003,Temps présent,82,"Averse(s) de pluie, violente(s)",,,,,Operational,Original
@@ -111,7 +111,7 @@ bufr4/0/20/003/96,020003,Temps présent,96,"Orage faible ou modéré, avec grêl
 bufr4/0/20/003/97,020003,Temps présent,97,"Orage fort, sans grêle*, mais avec pluie ou neige ou pluie et neige mêlées au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/98,020003,Temps présent,98,Orage avec tempête de poussière ou de sable au moment de l'observation,Orage au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/99,020003,Temps présent,99,"Orage fort, avec grêle* au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Temps présent transmis par une station météorologique automatique,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/100,020003,Temps présent,100,On n'a pas observé de temps significatif,,,,,Operational,Original
 bufr4/0/20/003/101,020003,Temps présent,101,"Dans l'ensemble, nuages se dissipant ou devenant moins épais durant l'heure qui vient de s'écouler",,,,,Operational,Original
 bufr4/0/20/003/102,020003,Temps présent,102,État du ciel inchangé dans l'ensemble durant l'heure qui vient de s'écouler,,,,,Operational,Original
@@ -125,7 +125,7 @@ bufr4/0/20/003/112,020003,Temps présent,112,Éclair à distance,,,,,Operational
 bufr4/0/20/003/113-117,020003,Temps présent,113-117,En réserve,,,,,Operational,Original
 bufr4/0/20/003/118,020003,Temps présent,118,Grains,,,,,Operational,Original
 bufr4/0/20/003/119,020003,Temps présent,119,En réserve,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,"Les chiffres du code 120-126 sont utilisés pour signaler les précipitations, le brouillard (ou brouillard glacé) à la station au cours de l'heure précédente mais pas à l'heure même de l'observation",,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/120,020003,Temps présent,120,Brouillard,,,,,Operational,Original
 bufr4/0/20/003/121,020003,Temps présent,121,PRÉCIPITATIONS,,,,,Operational,Original
 bufr4/0/20/003/122,020003,Temps présent,122,Bruine (ne se congelant pas) ou neige en grains,,,,,Operational,Original
@@ -202,8 +202,8 @@ bufr4/0/20/003/195,020003,Temps présent,195,"Orage, fort, avec averses de pluie
 bufr4/0/20/003/196,020003,Temps présent,196,"Orage, fort, avec grêle",,,,,Operational,Original
 bufr4/0/20/003/197-198,020003,Temps présent,197-198,En réserve,,,,,Operational,Original
 bufr4/0/20/003/199,020003,Temps présent,199,Tornade,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Temps présent (s'ajoute au temps présent transmis par une station météorologique automatique ou non),,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 200-209,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/200-203,020003,Temps présent,200-203,Inutilisés,,,,,Operational,Original
 bufr4/0/20/003/204,020003,Temps présent,204,Cendres volcaniques suspendues dans l'air en altitude,,,,,Operational,Original
 bufr4/0/20/003/205,020003,Temps présent,205,Inutilisé,,,,,Operational,Original
@@ -211,7 +211,7 @@ bufr4/0/20/003/206,020003,Temps présent,206,"Épaisse brume de poussière, visi
 bufr4/0/20/003/207,020003,Temps présent,207,Embruns à la station,,,,,Operational,Original
 bufr4/0/20/003/208,020003,Temps présent,208,Chasse-poussière (ou chasse-sable) basse,,,,,Operational,Original
 bufr4/0/20/003/209,020003,Temps présent,209,Mur de poussière ou de sable au loin (comme le haboob),,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 210-219,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/210,020003,Temps présent,210,Brume de neige,,,,,Operational,Original
 bufr4/0/20/003/211,020003,Temps présent,211,Whiteout,,,,,Operational,Original
 bufr4/0/20/003/212,020003,Temps présent,212,Inutilisé,,,,,Operational,Original
@@ -220,7 +220,7 @@ bufr4/0/20/003/214-216,020003,Temps présent,214-216,Inutilisés,,,,,Operational
 bufr4/0/20/003/217,020003,Temps présent,217,Orage sans précipitations,,,,,Operational,Original
 bufr4/0/20/003/218,020003,Temps présent,218,Inutilisé,,,,,Operational,Original
 bufr4/0/20/003/219,020003,Temps présent,219,Tornade (dévastatrice) à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 220-229,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/220,020003,Temps présent,220,Dépôt de cendres volcaniques,,,,,Operational,Original
 bufr4/0/20/003/221,020003,Temps présent,221,Dépôt de poussière ou de sable,,,,,Operational,Original
 bufr4/0/20/003/222,020003,Temps présent,222,Dépôt de rosée,,,,,Operational,Original
@@ -231,11 +231,11 @@ bufr4/0/20/003/226,020003,Temps présent,226,Dépôt de gelée blanche,,,,,Opera
 bufr4/0/20/003/227,020003,Temps présent,227,Dépôt de verglas,,,,,Operational,Original
 bufr4/0/20/003/228,020003,Temps présent,228,Dépôt de croûte de glace (nappe de glace),,,,,Operational,Original
 bufr4/0/20/003/229,020003,Temps présent,229,Inutilisé,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 230-239,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/230,020003,Temps présent,230,Tempête de poussière ou de sable avec une température inférieure à 0 °C,,,,,Operational,Original
 bufr4/0/20/003/231-238,020003,Temps présent,231-238,Inutilisés,,,,,Operational,Original
 bufr4/0/20/003/239,020003,Temps présent,239,"Chasse-neige, impossible de déterminer si la neige tombe ou non",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 240-249,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/240,020003,Temps présent,240,Inutilisé,,,,,Operational,Original
 bufr4/0/20/003/241,020003,Temps présent,241,Brouillard en mer,,,,,Operational,Original
 bufr4/0/20/003/242,020003,Temps présent,242,Brouillard dans les vallées,,,,,Operational,Original
@@ -246,7 +246,7 @@ bufr4/0/20/003/246,020003,Temps présent,246,Brouillard au-dessus d'une couvertu
 bufr4/0/20/003/247,020003,Temps présent,247,"Brouillard dense, visibilité 60-90 m",,,,,Operational,Original
 bufr4/0/20/003/248,020003,Temps présent,248,"Brouillard dense, visibilité 30-60 m",,,,,Operational,Original
 bufr4/0/20/003/249,020003,Temps présent,249,"Brouillard dense, visibilité inférieure à 30 m",,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 250-259,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/250,020003,Temps présent,250,"Bruine, intensité","moins de 0,10 mm h-1",,,,Operational,Original
 bufr4/0/20/003/251,020003,Temps présent,251,"Bruine, intensité","0,10-0,19 mm h-¹",,,,Operational,Original
 bufr4/0/20/003/252,020003,Temps présent,252,"Bruine, intensité","0,20-0,39 mm h-¹",,,,Operational,Original
@@ -257,7 +257,7 @@ bufr4/0/20/003/256,020003,Temps présent,256,"Bruine, intensité","3,20-6,39 mm 
 bufr4/0/20/003/257,020003,Temps présent,257,"Bruine, intensité","6,4 mm h-¹ ou plus",,,,Operational,Original
 bufr4/0/20/003/258,020003,Temps présent,258,Inutilisé,,,,,Operational,Original
 bufr4/0/20/003/259,020003,Temps présent,259,Bruine et neige,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 260-269,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/260,020003,Temps présent,260,"Pluie, intensité","moins de 1,0 mm h-¹",,,,Operational,Original
 bufr4/0/20/003/261,020003,Temps présent,261,"Pluie, intensité","1,0-1,9 mm h-1",,,,Operational,Original
 bufr4/0/20/003/262,020003,Temps présent,262,"Pluie, intensité","2,0-3,9 mm h-1",,,,Operational,Original
@@ -267,7 +267,7 @@ bufr4/0/20/003/265,020003,Temps présent,265,"Pluie, intensité","16,0-31,9 mm h
 bufr4/0/20/003/266,020003,Temps présent,266,"Pluie, intensité","32,0-63,9 mm h-1",,,,Operational,Original
 bufr4/0/20/003/267,020003,Temps présent,267,"Pluie, intensité","64,0 mm h-¹ ou plus",,,,Operational,Original
 bufr4/0/20/003/268-269,020003,Temps présent,268-269,Inutilisés,,,,,Operational,Original
-bufr4/0/20/003,020003,Temps présent,,Dizaine 270-279,,,,,Operational,Original
+bufr4/0/20/003,020003,Temps présent,,Dizaines 280-299,,,,,Operational,Original
 bufr4/0/20/003/270,020003,Temps présent,270,"Neige, intensité","moins de 1,0 cm h-¹",,,,Operational,Original
 bufr4/0/20/003/271,020003,Temps présent,271,"Neige, intensité","1,0-1,9 cm h-1",,,,Operational,Original
 bufr4/0/20/003/272,020003,Temps présent,272,"Neige, intensité","2,0-3,9 cm h-¹",,,,Operational,Original
@@ -374,7 +374,8 @@ bufr4/0/20/009/1,020009,Indicateur général du temps (TAF/METAR),1,Pas de nuage
 bufr4/0/20/009/2,020009,Indicateur général du temps (TAF/METAR),2,CAVOK,,,,,Operational,Original
 bufr4/0/20/009/3,020009,Indicateur général du temps (TAF/METAR),3,Ciel clair (SKC),,,,,Operational,Original
 bufr4/0/20/009/4,020009,Indicateur général du temps (TAF/METAR),4,Pas de temps significatif (NSW),,,,,Operational,Original
-bufr4/0/20/009/5-14,020009,Indicateur général du temps (TAF/METAR),5-14,En réserve,,,,,Operational,Original
+bufr4/0/20/009/5,020009,Indicateur général du temps (TAF/METAR),5,NCD Pas de nuages détectés,,,,,Operational,AI Translator: MCP
+bufr4/0/20/009/6-14,020009,Indicateur général du temps (TAF/METAR),6-14,En réserve,,,,,Operational,AI Translator: MCP
 bufr4/0/20/009/15,020009,Indicateur général du temps (TAF/METAR),15,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/011/0,020011,Nébulosité,0,0,0,,,,Operational,Original
 bufr4/0/20/011/1,020011,Nébulosité,1,"1 octa ou moins, mais pas nulle","1/10 ou moins, mais pas nulle",,,,Operational,Original
@@ -734,7 +735,7 @@ bufr4/0/20/063/2,020063,Phénomènes spéciaux,2,"Vitesse maximale du vent moyen
 bufr4/0/20/063/3-6,020063,Phénomènes spéciaux,3-6,En réserve,,,,,Operational,Original
 bufr4/0/20/063/7,020063,Phénomènes spéciaux,7,Visibilité supérieure à 100 000 m,,,,,Operational,Original
 bufr4/0/20/063/8-9,020063,Phénomènes spéciaux,8-9,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,10-19 Mirage,,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/10,020063,Phénomènes spéciaux,10,Mirage - Pas de spécification,,,,,Operational,Original
 bufr4/0/20/063/11,020063,Phénomènes spéciaux,11,Mirage - Image des objets lointains soulevée,,,,,Operational,Original
 bufr4/0/20/063/12,020063,Phénomènes spéciaux,12,Mirage - Image des objets lointains soulevée complètement au-dessus de l'horizon,,,,,Operational,Original
@@ -745,12 +746,12 @@ bufr4/0/20/063/16,020063,Phénomènes spéciaux,16,Mirage - Soleil ou lune vus d
 bufr4/0/20/063/17,020063,Phénomènes spéciaux,17,"Mirage - Soleil visible, bien qu'astronomiquement il soit en dessous de l'horizon",,,,,Operational,Original
 bufr4/0/20/063/18,020063,Phénomènes spéciaux,18,"Mirage - Lune visible, bien qu'astronomiquement elle soit en dessous de l'horizon",,,,,Operational,Original
 bufr4/0/20/063/19,020063,Phénomènes spéciaux,19,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,"20-22   Obscurité pendant la journée, ciel plus sombre dans la direction spécifiée",,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/20,020063,Phénomènes spéciaux,20,"Obscurcissement du jour, jour sombre, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/21,020063,Phénomènes spéciaux,21,"Obscurcissement du jour, jour très sombre, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/22,020063,Phénomènes spéciaux,22,"Obscurcissement du jour, obscurité complète, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/23-30,020063,Phénomènes spéciaux,23-30,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,31-39 Coloration et/ou convergence des nuages associée à une perturbation tropicale,,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/31,020063,Phénomènes spéciaux,31,Légère coloration des nuages au lever du soleil associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/32,020063,Phénomènes spéciaux,32,Coloration rouge foncé des nuages au lever du soleil associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/33,020063,Phénomènes spéciaux,33,Légère coloration des nuages au coucher du soleil associée à une perturbation tropicale,,,,,Operational,Original
@@ -760,13 +761,13 @@ bufr4/0/20/063/36,020063,Phénomènes spéciaux,36,Convergence de nuages Cہ en 
 bufr4/0/20/063/37,020063,Phénomènes spéciaux,37,"Convergence de nuages C₁ en un point inférieur à 45°, en voie de dissipation ou en diminution, associée à une perturbation tropicale",,,,,Operational,Original
 bufr4/0/20/063/38,020063,Phénomènes spéciaux,38,Convergence de nuages C₁ en un point supérieur à 45° associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/39,020063,Phénomènes spéciaux,39,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,40-43 Gelée blanche ou précipitations colorées,,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/40,020063,Phénomènes spéciaux,40,Gelée blanche sur les surfaces horizontales,,,,,Operational,Original
 bufr4/0/20/063/41,020063,Phénomènes spéciaux,41,Gelée blanche sur les surfaces horizontales et verticales,,,,,Operational,Original
 bufr4/0/20/063/42,020063,Phénomènes spéciaux,42,Précipitations contenant du sable ou des poussières désertiques,,,,,Operational,Original
 bufr4/0/20/063/43,020063,Phénomènes spéciaux,43,Précipitations contenant des cendres volcaniques,,,,,Operational,Original
 bufr4/0/20/063/44-49,020063,Phénomènes spéciaux,44-49,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,50-59 Nature et/ou type de grain,,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/50,020063,Phénomènes spéciaux,50,Calme ou vent léger suivi d'un grain,,,,,Operational,Original
 bufr4/0/20/063/51,020063,Phénomènes spéciaux,51,Calme ou vent léger suivi d'une série de grains,,,,,Operational,Original
 bufr4/0/20/063/52,020063,Phénomènes spéciaux,52,Rafales suivies d'un grain,,,,,Operational,Original
@@ -777,7 +778,7 @@ bufr4/0/20/063/56,020063,Phénomènes spéciaux,56,Grain s'approchant de la stat
 bufr4/0/20/063/57,020063,Phénomènes spéciaux,57,Grain en ligne,,,,,Operational,Original
 bufr4/0/20/063/58,020063,Phénomènes spéciaux,58,Grain avec chasse-sable ou chasse-poussière basse ou élevée,,,,,Operational,Original
 bufr4/0/20/063/59,020063,Phénomènes spéciaux,59,Grain en ligne avec chasse-sable ou chasse-poussière basse ou élevée,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,"60-69 Variation de la température durant la période spécifiée, lorsqu'il y a du verglas ou du givre",,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/60,020063,Phénomènes spéciaux,60,Température stationnaire,,,,,Operational,Original
 bufr4/0/20/063/61,020063,Phénomènes spéciaux,61,"Température en baisse, sans descendre en dessous de 0 °C",,,,,Operational,Original
 bufr4/0/20/063/62,020063,Phénomènes spéciaux,62,"Température en hausse, sans dépasser 0 °C",,,,,Operational,Original
@@ -788,7 +789,7 @@ bufr4/0/20/063/66,020063,Phénomènes spéciaux,66,"Variations irrégulières de
 bufr4/0/20/063/67,020063,Phénomènes spéciaux,67,Variations de température non observées,,,,,Operational,Original
 bufr4/0/20/063/68,020063,Phénomènes spéciaux,68,Non alloué,,,,,Operational,Original
 bufr4/0/20/063/69,020063,Phénomènes spéciaux,69,Variations de température inconnues en raison de l'absence de thermographe,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,70-79   Variation de la visibilité pendant la période spécifiée,,,,,,Original
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/70,020063,Phénomènes spéciaux,70,La visibilité n'a pas varié (soleil* visible) dans la direction spécifiée,,,,,Operational,Original
 bufr4/0/20/063/71,020063,Phénomènes spéciaux,71,La visibilité n'a pas varié (soleil,70-79 Variation de la visibilité pendant la période spécifiée,,*,,Operational,Original
 bufr4/0/20/063/72,020063,Phénomènes spéciaux,72,La visibilité s'est améliorée (soleil,70-79 Variation de la visibilité pendant la période spécifiée,,*,,Operational,Original
@@ -825,6 +826,10 @@ bufr4/0/20/071/8,020071,Précision du relevé et proportion des atmosphériques,
 bufr4/0/20/071/9,020071,Précision du relevé et proportion des atmosphériques,9,Plus de 200 km,Taux tellement rapide que le nombre ne peut être compté,,,,Operational,Original
 bufr4/0/20/071/10-14,020071,Précision du relevé et proportion des atmosphériques,10-14,En réserve,,,,,Operational,Original
 bufr4/0/20/071/15,020071,Précision du relevé et proportion des atmosphériques,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/20/079/0,020079,Indicateur de cristaux de neige ou de glace,0,Pas de neige ni de glace,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/1,020079,Indicateur de cristaux de neige ou de glace,1,Neige présente,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/2,020079,Indicateur de cristaux de neige ou de glace,2,En réserve,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/3,020079,Indicateur de cristaux de neige ou de glace,3,Valeur manquante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/085/0,020085,État général de la piste,0,Déblayée (CLRD//),,,,,Operational,Original
 bufr4/0/20/085/1,020085,État général de la piste,1,Toutes les pistes sont fermées (SNOCLO),,,,,Operational,Original
 bufr4/0/20/085/2-14,020085,État général de la piste,2-14,En réserve,,,,,Operational,Original
@@ -920,19 +925,19 @@ bufr4/0/20/104/8,020104,Degré d'organisation de l'essaim ou de la bande d'acrid
 bufr4/0/20/104/9,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,9,"Acridiens présents partout, causant de graves dommages à la végétation, opération d'extermination en cours",,,,,Operational,Original
 bufr4/0/20/104/10-14,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,10-14,En réserve,,,,,Operational,Original
 bufr4/0/20/104/15,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,,,Original
-bufr4/0/20/105/0,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,0,En réserve,,,,,Operational,Original
-bufr4/0/20/105/1,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,1,Zone couverte par des bandes isolées < 10 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/2,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,2,Zone couverte par des bandes isolées 10 - 100 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/3,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,3,Zone couverte par des bandes isolées 100 – 1000 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/4,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,4,Zone couverte par des bandes isolées 1000 – 10000 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/5,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,5,Zone couverte par des bandes isolées 1 - 10 ha,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/6,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,6,Zone couverte par des bandes isolées > 10 ha,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/7,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,7,Zone couverte par des bandes dispersées < 100 km²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/8,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,8,Zone couverte par des bandes dispersées 100 - 1000 km²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/9,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,9,Zone couverte par des bandes dispersées > 1000 km²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
+bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 1 à 9:,,,,,,Original
+bufr4/0/20/105/0,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,0,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à moins d'1 heure",,,,,Operational,Original
+bufr4/0/20/105/1,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,1,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à entre 1 et 6 heures",,,,,Operational,Original
+bufr4/0/20/105/2,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,2,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à plus de 6 heures",,,,,Operational,Original
+bufr4/0/20/105/3,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,3,"Essaim moyen ou adultes dispersés, plusieurs visibles simultanément, passage remontant à moins de 1 heure",,,,,Operational,Original
+bufr4/0/20/105/4,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,4,"Essaim moyen ou adultes dispersés, plusieurs visibles simultanément, passage remontant à entre 1 et 6 heures",,,,,Operational,Original
+bufr4/0/20/105/5,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,5,"Essaim moyen ou adultes dispersés, plusieurs visibles simultanément, passage remontant à plus de 6 heures",,,,,Operational,Original
+bufr4/0/20/105/6,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,6,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à moins de 1 heure",,,,,Operational,Original
+bufr4/0/20/105/7,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,7,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à entre 1 et 6 heures",,,,,Operational,Original
+bufr4/0/20/105/8,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,8,"Essaim de grande dimension ou adultes isolés, vus séparément, passage remontant à plus de 6 heures",,,,,Operational,Original
+bufr4/0/20/105/9,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,9,Plus d'un essaim d'acridiens,,,,,Operational,Original
 bufr4/0/20/105/10-14,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,10-14,En réserve,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105/15,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,15,Valeur manquante,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
+bufr4/0/20/105/15,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 1 à 9:,,,,,,Original
 bufr4/0/20/105/0,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,0,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à moins d'1 heure",,,,,Operational,Original
 bufr4/0/20/105/1,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,1,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à entre 1 et 6 heures",,,,,Operational,Original
@@ -985,7 +990,7 @@ bufr4/0/20/124/0,020124,Coup de foudre ou éclair,0,Non défini,,,,,Operational,
 bufr4/0/20/124/1,020124,Coup de foudre ou éclair,1,Coup de foudre,,,,,Operational,Original
 bufr4/0/20/124/2,020124,Coup de foudre ou éclair,2,"Éclair, par observation manuelle, ou si l'équipement est insensible à la résolution de décharge",,,,,Operational,Original
 bufr4/0/20/124/3,020124,Coup de foudre ou éclair,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,0-7 Nature des nuages à développement vertical (Ca – Table de code 0531),,,,,,Original
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,,Original
 bufr4/0/20/136/0,020136,Types de nuages supplémentaires,0,Cumulus humilis et/ou cumulus mediocris isolés à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/1,020136,Types de nuages supplémentaires,1,Cumulus humilis et/ou cumulus mediocris nombreux  à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/2,020136,Types de nuages supplémentaires,2,Cumulus congestus isolés à développement vertical,,,,,Operational,Original
@@ -995,7 +1000,8 @@ bufr4/0/20/136/5,020136,Types de nuages supplémentaires,5,Cumulonimbus nombreux
 bufr4/0/20/136/6,020136,Types de nuages supplémentaires,6,Cumulus et cumulonimbus isolés à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/7,020136,Types de nuages supplémentaires,7,Cumulus et cumulonimbus nombreux à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/8-9,020136,Types de nuages supplémentaires,8-9,En réserve,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,10-19 Nuages orographiques (Co – Table de code 0561),,,,,,Original
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,,Original
+bufr4/0/20/136/10,020136,Types de nuages supplémentaires,10,En réserve,,,,,Operational,AI Translator: MCP
 bufr4/0/20/136/11,020136,Types de nuages supplémentaires,11,"Nuages orographiques isolés, pileus, incus, en formation",,,,,Operational,Original
 bufr4/0/20/136/12,020136,Types de nuages supplémentaires,12,"Nuages orographiques isolés, pileus, incus, sans évolution",,,,,Operational,Original
 bufr4/0/20/136/13,020136,Types de nuages supplémentaires,13,"Nuages orographiques isolés, pileus, incus, se dissipant",,,,,Operational,Original
@@ -1005,7 +1011,7 @@ bufr4/0/20/136/16,020136,Types de nuages supplémentaires,16,"Bancs irréguliers
 bufr4/0/20/136/17,020136,Types de nuages supplémentaires,17,"Couche compacte de nuages orographiques, mur de foehn, etc., en formation",,,,,Operational,Original
 bufr4/0/20/136/18,020136,Types de nuages supplémentaires,18,"Couche compacte de nuages orographiques, mur de foehn, etc., sans évolution",,,,,Operational,Original
 bufr4/0/20/136/19,020136,Types de nuages supplémentaires,19,"Couche compacte de nuages orographiques, mur de foehn, etc., se dissipant",,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,20-29 Conditions nuageuses sur les montagnes et les cols (Nm – Table de code 2745),,,,,,Original
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,,Original
 bufr4/0/20/136/20,020136,Types de nuages supplémentaires,20,"Toutes les montagnes sont dégagées, seuls quelques nuages peuvent être présents",,,,,Operational,Original
 bufr4/0/20/136/21,020136,Types de nuages supplémentaires,21,Les montagnes sont partiellement couvertes par des nuages épars (on ne peut voir plus de la moitié des sommets),,,,,Operational,Original
 bufr4/0/20/136/22,020136,Types de nuages supplémentaires,22,"Tous les versants sont dans les nuages, les sommets et les cols sont dégagés",,,,,Operational,Original
@@ -1017,7 +1023,7 @@ bufr4/0/20/136/27,020136,Types de nuages supplémentaires,27,"Les montagnes sont
 bufr4/0/20/136/28,020136,Types de nuages supplémentaires,28,"Tous les sommets, cols et versants sont dans les nuages",,,,,Operational,Original
 bufr4/0/20/136/29,020136,Types de nuages supplémentaires,29,"On ne peut voir les montagnes à cause de l'obscurité, du brouillard, des chutes de neige, des précipitations, etc.",,,,,Operational,Original
 bufr4/0/20/136/30-34,020136,Types de nuages supplémentaires,30-34,En réserve,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,35-39 Traînées de condensation (N – Table de code 2752),,,,,,Original
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,,Original
 bufr4/0/20/136/35,020136,Types de nuages supplémentaires,35,Traînées de condensation non persistantes,,,,,Operational,Original
 bufr4/0/20/136/36,020136,Types de nuages supplémentaires,36,"Traînées de condensation persistantes, couvrant moins de 1/8 du ciel",,,,,Operational,Original
 bufr4/0/20/136/37,020136,Types de nuages supplémentaires,37,"Traînées de condensation persistantes, couvrant 1/8 du ciel",,,,,Operational,Original
@@ -1058,3 +1064,15 @@ bufr4/0/20/138/6,020138,État du revêtement,6,Verglas,,,,,Operational,Original
 bufr4/0/20/138/7,020138,État du revêtement,7,Route pas sèche,,,,,Operational,Original
 bufr4/0/20/138/8-14,020138,État du revêtement,8-14,En réserve,,,,,Operational,Original
 bufr4/0/20/138/15,020138,État du revêtement,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/20/139/0,020139,Hypothèse finale du modèle de cloud,0,Ciel clair,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/1,020139,Hypothèse finale du modèle de cloud,1,Eau monocouche,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/2,020139,Hypothèse finale du modèle de cloud.,2,Glace monocouche,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/3,020139,Hypothèse finale du modèle de cloud,3,2 couches (eau/glace),,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/4,020139,Hypothèse finale du modèle de cloud,4,Cendre monocouche,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/5,020139,Hypothèse finale du modèle de cloud.,5,cendre à 2 couches,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/6-14,020139,Hypothèse finale du modèle de cloud.,6-14,En réserve,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/15,020139,Hypothèse finale du modèle de cloud.,15,Valeur manquante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/0,020143,Nuage liquide,0,Pas de nuage liquide,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/1,020143,Nuage liquide,1,Nuage liquide présent,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/2,020143,Nuage liquide,2,En réserve,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/3,020143,Nuage liquide,3,Valeur manquante,,,,,Operational,AI Translator: MCP

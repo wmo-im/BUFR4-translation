@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/30/031/0,030031,Type d'image,0,PPI,,,,,Operational,Original
 bufr4/0/30/031/1,030031,Type d'image,1,Composite,,,,,Operational,Original
 bufr4/0/30/031/2,030031,Type d'image,2,CAPPI,,,,,Operational,Original

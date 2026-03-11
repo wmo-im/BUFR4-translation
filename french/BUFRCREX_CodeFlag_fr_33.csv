@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/33/002/0,033002,Informations sur la qualité,0,Données certaines,,,,,Operational,Original
 bufr4/0/33/002/1,033002,Informations sur la qualité,1,Données douteuses,,,,,Operational,Original
 bufr4/0/33/002/2,033002,Informations sur la qualité,2,En réserve,,,,,Operational,Original
@@ -123,7 +123,8 @@ bufr4/0/33/028/1,033028,Qualité globale de l'instantané,1,Nominale,,,,,Operati
 bufr4/0/33/028/2,033028,Qualité globale de l'instantané,2,Dégradée par une erreur due à un vent fort; toute erreur indiquée par les algorithmes,,,,,Operational,Original
 bufr4/0/33/028/3,033028,Qualité globale de l'instantané,3,Dégradée par une erreur due à un instrument,,,,,Operational,Original
 bufr4/0/33/028/4,033028,Qualité globale de l'instantané,4,Dégradée par un ADF corrompu/manquant,,,,,Operational,Original
-bufr4/0/33/028/5-6,033028,Qualité globale de l'instantané,5-6,En réserve,,,,,Operational,Original
+bufr4/0/33/028/5,033028,Qualité globale de l'instantané,5,Dégradation générale,,,,,Operational,AI Translator: MCP
+bufr4/0/33/028/6,033028,Qualité globale de l'instantané,6,En réserve,,,,,Operational,AI Translator: MCP
 bufr4/0/33/028/7,033028,Qualité globale de l'instantané,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/030/1,033030,Indicateurs d'état pour la ligne de balayage du sondeur ATOVS,1,Ne pas utiliser le balayage pour l'élaboration des produits,,,,,Operational,Original
 bufr4/0/33/030/2,033030,Indicateurs d'état pour la ligne de balayage du sondeur ATOVS,2,Erreur dans la séquence temporelle détectée lors de ce balayage,,,,,Operational,Original
@@ -219,7 +220,10 @@ bufr4/0/33/039/4,033039,Indicateurs de qualité pour les données d'occultation 
 bufr4/0/33/039/5,033039,Indicateurs de qualité pour les données d'occultation radio,5,Traitement de l'angle de courbure non nominal,,,,,Operational,Original
 bufr4/0/33/039/6,033039,Indicateurs de qualité pour les données d'occultation radio,6,Traitement de la réfractivité non nominal,,,,,Operational,Original
 bufr4/0/33/039/7,033039,Indicateurs de qualité pour les données d'occultation radio,7,Traitement des phénomènes météorologiques non nominal,,,,,Operational,Original
-bufr4/0/33/039/8-13,033039,Indicateurs de qualité pour les données d'occultation radio,8-13,En réserve,,,,,Operational,Original
+bufr4/0/33/039/8,033039,Indicateurs de qualité pour les données d'occultation radio,8,Données en boucle ouverte incluses,,,,,Operational,AI Translator: MCP
+bufr4/0/33/039/9,033039,Indicateurs de qualité pour les données d'occultation radio,9,Réflexions de surface détectées,,,,,Operational,AI Translator: MCP
+bufr4/0/33/039/10,033039,Indicateurs de qualité pour les données d'occultation radio,10,Signaux GNSS L2C utilisés,,,,,Operational,AI Translator: MCP
+bufr4/0/33/039/11-13,033039,Indicateurs de qualité pour les données d'occultation radio,11-13,En réserve,,,,,Operational,AI Translator: MCP
 bufr4/0/33/039/14,033039,Indicateurs de qualité pour les données d'occultation radio,14,Profil de fond non nominal,,,,,Operational,Original
 bufr4/0/33/039/15,033039,Indicateurs de qualité pour les données d'occultation radio,15,Profil de fond inclus (c'est-à-dire non extrait),,,,,Operational,Original
 bufr4/0/33/039/All-16,033039,Indicateurs de qualité pour les données d'occultation radio,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
@@ -310,7 +314,9 @@ bufr4/0/33/060/0,033060,GqisFlagQual – indicateur de qualité du système IASI
 bufr4/0/33/060/1,033060,GqisFlagQual – indicateur de qualité du système IASI pour chaque mesure,1,Mauvaise,,,,,Operational,Original
 bufr4/0/33/060/2,033060,GqisFlagQual – indicateur de qualité du système IASI pour chaque mesure,2,En réserve,,,,,Operational,Original
 bufr4/0/33/060/3,033060,GqisFlagQual – indicateur de qualité du système IASI pour chaque mesure,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/066/1-21,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,1-21,En réserve,,,,,Operational,Original
+bufr4/0/33/066/1-19,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,1-19,En réserve,,,,,Operational,AI Translator: MCP
+bufr4/0/33/066/20,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,20,"Bon vent, mais un canal utilisé pour le suivi des phénomènes.",,,,,Operational,AI Translator: MCP
+bufr4/0/33/066/21,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,21,"Bon vent, mais un canal alternatif utilisé pour la détermination de la hauteur du sommet des nuages/assignation de hauteur AMV.",,,,,Operational,AI Translator: MCP
 bufr4/0/33/066/22,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,22,La contrainte concernant la surface de corrélation fait défaut,,,,,Operational,Original
 bufr4/0/33/066/23,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,23,En réserve,,,,,Operational,Original
 bufr4/0/33/066/All-24,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
