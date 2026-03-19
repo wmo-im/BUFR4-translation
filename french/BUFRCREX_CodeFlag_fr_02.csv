@@ -184,7 +184,7 @@ bufr4/0/02/025/23,002025,Canal (canaux) de satellite utilisé(s) pour les calcul
 bufr4/0/02/025/24,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,24,En réserve,,,,,Operational,Original
 bufr4/0/02/025/All-25,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d'indicateurs,25 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/030/0,002030,Méthode de mesure du courant,0,En réserve,,,,,Operational,Original
-bufr4/0/02/030/1*,002030,Méthode de mesure du courant,1*,Profileur acoustique de courant Doppler,,,,,Operational,Original
+bufr4/0/02/030/1,002030,Méthode de mesure du courant,1,Profileur acoustique de courant Doppler,,,*,,Operational,Original
 bufr4/0/02/030/2,002030,Méthode de mesure du courant,2,GEK (électrocinétographe géomagnétique),,,,,Operational,Original
 bufr4/0/02/030/3,002030,Méthode de mesure du courant,3,Direction et dérive du navire déterminées par des relevés effectués à intervalles de 3 à 6 heures,,,,,Operational,Original
 bufr4/0/02/030/4,002030,Méthode de mesure du courant,4,"Direction et dérive du navire déterminées par des relevés effectués à intervalles de plus de 6 heures, mais de moins de 12 heures",,,,,Operational,Original

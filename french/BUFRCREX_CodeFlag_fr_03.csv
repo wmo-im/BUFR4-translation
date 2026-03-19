@@ -37,19 +37,19 @@ bufr4/0/03/008/1,003008,Abri ou protection avec ventilation artificielle,1,Aspir
 bufr4/0/03/008/2,003008,Abri ou protection avec ventilation artificielle,2,Aspiration forcée: flux variable au moment de l'observation,,,,,Operational,Original
 bufr4/0/03/008/3-6,003008,Abri ou protection avec ventilation artificielle,3-6,En réserve,,,,,Operational,Original
 bufr4/0/03/008/7,003008,Abri ou protection avec ventilation artificielle,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/03/010/0,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,0,En réserve,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/1*,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,1*,ADCP**,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/2,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,2,GEK (Électrocinétographe géomagnétique),* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/3,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,3,Direction et dérive du navire déterminées par des relevés effectués à intervalles de 3 à 6 heures,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/4,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,4,"Direction et dérive du navire déterminées par des relevés effectués à intervalles de plus de 6 heures, mais de moins de 12 heures",* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/5,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,5,Dérive de la bouée,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/6,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,6,ADCP,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/7,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,7,ADCP en mode de localisation par rapport au fond de l'océan,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/8,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,8,Capteur électromagnétique,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/9,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,9,Rotor et girouette,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/10,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,10,ADCP immergé,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/11-14,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,11-14,En réserve,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
-bufr4/0/03/010/15,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,15,Valeur manquante,* Valeur caduque; le chiffre du code 6 devrait être utilisé.,** Profileur acoustique de courant Doppler,,,Operational,Original
+bufr4/0/03/010/0,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,0,En réserve,,,,,Operational,Original
+bufr4/0/03/010/1,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,1,ADCP,,,* Valeur caduque; le chiffre du code 6 devrait être utilisé. ** Profileur acoustique de courant Doppler,"*,**",Operational,Original
+bufr4/0/03/010/2,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,2,GEK (Électrocinétographe géomagnétique),,,,,Operational,Original
+bufr4/0/03/010/3,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,3,Direction et dérive du navire déterminées par des relevés effectués à intervalles de 3 à 6 heures,,,,,Operational,Original
+bufr4/0/03/010/4,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,4,"Direction et dérive du navire déterminées par des relevés effectués à intervalles de plus de 6 heures, mais de moins de 12 heures",,,,,Operational,Original
+bufr4/0/03/010/5,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,5,Dérive de la bouée,,,,,Operational,Original
+bufr4/0/03/010/6,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,6,ADCP,,,,,Operational,Original
+bufr4/0/03/010/7,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,7,ADCP en mode de localisation par rapport au fond de l'océan,,,,,Operational,Original
+bufr4/0/03/010/8,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,8,Capteur électromagnétique,,,,,Operational,Original
+bufr4/0/03/010/9,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,9,Rotor et girouette,,,,,Operational,Original
+bufr4/0/03/010/10,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,10,ADCP immergé,,,,,Operational,Original
+bufr4/0/03/010/11-14,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,11-14,En réserve,,,,,Operational,Original
+bufr4/0/03/010/15,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/03/011/0,003011,Méthode de calcul de la profondeur,0,Profondeur calculée en utilisant l'équation de la vitesse de chute,,,,,Operational,Original
 bufr4/0/03/011/1,003011,Méthode de calcul de la profondeur,1,Profondeur calculée en utilisant la pression hydrographique/l'équation d'état,,,,,Operational,Original
 bufr4/0/03/011/2,003011,Méthode de calcul de la profondeur,2,En réserve,,,,,Operational,Original
