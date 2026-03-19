@@ -6,7 +6,7 @@ bufr4/0/02/001/3,002001,Type de station,3,Valeur manquante,,,,,Operational,Origi
 bufr4/0/02/002/1,002002,Type d’instrument pour la mesure du vent,1,Instruments homologués,,,,,Operational,Original
 bufr4/0/02/002/2,002002,Type d’instrument pour la mesure du vent,2,Mesuré initialement en nœuds,,,,,Operational,Original
 bufr4/0/02/002/3,002002,Type d’instrument pour la mesure du vent,3,Mesuré initialement en km h–1,,,,,Operational,Original
-bufr4/0/02/002/All-4,002002,Type d’instrument pour la mesure du vent,4 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/002/All-4,002002,Type d’instrument pour la mesure du vent,All 4,Valeur manquante,,,,90,Operational,Original
 bufr4/0/02/003/0,002003,Type d’équipement de mesure utilisé,0,Instruments de mesure de la pression associés à l’équipement de mesure du vent,,,,,Operational,Original
 bufr4/0/02/003/1,002003,Type d’équipement de mesure utilisé,1,Théodolite optique,,,,,Operational,Original
 bufr4/0/02/003/2,002003,Type d’équipement de mesure utilisé,2,Radiothéodolite,,,,,Operational,Original
@@ -80,7 +80,7 @@ bufr4/0/02/016/1,002016,Configuration de la radiosonde,1,Régulateur de traîne,
 bufr4/0/02/016/2,002016,Configuration de la radiosonde,2,Charge légère,,,,,Operational,Original
 bufr4/0/02/016/3,002016,Configuration de la radiosonde,3,Parachute,,,,,Operational,Original
 bufr4/0/02/016/4,002016,Configuration de la radiosonde,4,Lâcher à partir d’un toit,,,,,Operational,Original
-bufr4/0/02/016/All-5,002016,Configuration de la radiosonde,5 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/016/All-5,002016,Configuration de la radiosonde,All 5,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/017/0,002017,Algorithmes de correction pour les mesures d’humidité,0,Pas de correction,,,,,Operational,Original
 bufr4/0/02/017/1,002017,Algorithmes de correction pour les mesures d’humidité,1,Correction du décalage dans le temps fournie par le fabricant,,,,,Operational,Original
 bufr4/0/02/017/2,002017,Algorithmes de correction pour les mesures d’humidité,2,Correction du rayonnement solaire fournie par le fabricant,,,,,Operational,Original
@@ -132,14 +132,14 @@ bufr4/0/02/021/5,002021,Données instrumentales satellitaires utilisées dans le
 bufr4/0/02/021/6,002021,Données instrumentales satellitaires utilisées dans le traitement,6,AMI mode image,,,,,Operational,Original
 bufr4/0/02/021/7,002021,Données instrumentales satellitaires utilisées dans le traitement,7,Altimètre RADAR,,,,,Operational,Original
 bufr4/0/02/021/8,002021,Données instrumentales satellitaires utilisées dans le traitement,8,ATSR (radiomètre à balayage dans le sens de la trace au sol),,,,,Operational,Original
-bufr4/0/02/021/All-9,002021,Données instrumentales satellitaires utilisées dans le traitement,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/021/All-9,002021,Données instrumentales satellitaires utilisées dans le traitement,All 9,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/022/1,002022,Technique utilisée pour le traitement des données satellitaires,1,Technique de traitement non définie,,,,,Operational,Original
 bufr4/0/02/022/2,002022,Technique utilisée pour le traitement des données satellitaires,2,Régression statistique automatique,,,,,Operational,Original
 bufr4/0/02/022/3,002022,Technique utilisée pour le traitement des données satellitaires,3,Mesure ciel clair,,,(voir Note 2),28,Operational,Original
 bufr4/0/02/022/4,002022,Technique utilisée pour le traitement des données satellitaires,4,Mesure ciel partiellement couvert,,,(voir Note 3),62,Operational,Original
 bufr4/0/02/022/5,002022,Technique utilisée pour le traitement des données satellitaires,5,Mesure ciel couvert,,,(voir Note 4),30,Operational,Original
 bufr4/0/02/022/6-7,002022,Technique utilisée pour le traitement des données satellitaires,6-7,En réserve,,,,,Operational,Original
-bufr4/0/02/022/All-8,002022,Technique utilisée pour le traitement des données satellitaires,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/022/All-8,002022,Technique utilisée pour le traitement des données satellitaires,All 8,Valeur manquante,,,,22,Operational,Original
 bufr4/0/02/023/0,002023,Méthode de calcul du vent à partir de données satellitaires,0,En réserve,,,,,Operational,Original
 bufr4/0/02/023/1,002023,Méthode de calcul du vent à partir de données satellitaires,1,Vent dérivé du déplacement des nuages observé dans le canal infra­rouge,,,,,Operational,Original
 bufr4/0/02/023/2,002023,Méthode de calcul du vent à partir de données satellitaires,2,Vent dérivé du déplacement des nuages observé dans le canal visible,,,,,Operational,Original
@@ -168,7 +168,7 @@ bufr4/0/02/025/10,002025,Canal (canaux) de satellite utilisé(s) pour les calcul
 bufr4/0/02/025/11,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,11,"HIRS (1, 2, 3, 9, 17)",,,,,Operational,Original
 bufr4/0/02/025/12,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,12,MSU,,,,,Operational,Original
 bufr4/0/02/025/13-14,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,13-14,"En réserve Groupe 4 —	 Température moyenne pour les couches: surface à 850 hPa, 850 à 700 hPa, 700 à 500 hPa, 500 à 400 hPa, 400 à 300 hPa, 300 à 200 hPa, et 200 à 100 hPa",,,,,Operational,Original
-bufr4/0/02/025/15,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,15,HIRS,,,,,Operational,Original
+bufr4/0/02/025/15,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,15,HIRS,,,,23,Operational,Original
 bufr4/0/02/025/16,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,16,HIRS*,,,(voir Note 2),47,Operational,Original
 bufr4/0/02/025/17,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,17,MSU,,,,,Operational,Original
 bufr4/0/02/025/18,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,18,SKINTK (océan uniquement),,,,,Operational,Original
@@ -177,7 +177,7 @@ bufr4/0/02/025/21,002025,Canal (canaux) de satellite utilisé(s) pour les calcul
 bufr4/0/02/025/22,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,22,SSU,,,,,Operational,Original
 bufr4/0/02/025/23,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,23,"MSU (3, 4)",,,,,Operational,Original
 bufr4/0/02/025/24,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,24,En réserve,,,,,Operational,Original
-bufr4/0/02/025/All-25,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,25 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/025/All-25,002025,Canal (canaux) de satellite utilisé(s) pour les calculs d’indicateurs,All 25,Valeur manquante,,,,23,Operational,Original
 bufr4/0/02/030/0,002030,Méthode de mesure du courant,0,En réserve 1* Profileur acoustique de courant Doppler,,,,,Operational,Original
 bufr4/0/02/030/2,002030,Méthode de mesure du courant,2,GEK (électrocinétographe géomagnétique),,,,,Operational,Original
 bufr4/0/02/030/3,002030,Méthode de mesure du courant,3,Direction et dérive du navire déterminées par des relevés effectués à intervalles de 3 à 6 heures,,,,,Operational,Original
@@ -200,13 +200,13 @@ bufr4/0/02/031/11,002031,Durée et heure de la mesure du courant,11,1 heure ou m
 bufr4/0/02/031/12,002031,Durée et heure de la mesure du courant,12,"Plus de   1 heure, mais pas au-delà de   2 heures",,,,,Operational,Original
 bufr4/0/02/031/13,002031,Durée et heure de la mesure du courant,13,"Plus de   2 heures,	 mais pas au-delà de   4 heures",,,,,Operational,Original
 bufr4/0/02/031/14,002031,Durée et heure de la mesure du courant,14,"Plus de   4 heures,	 mais pas au-delà de   8 heures",,,,,Operational,Original
-bufr4/0/02/031/15,002031,Durée et heure de la mesure du courant,15,"Plus de   8 heures, 	 mais pas au-delà de 12 heures",,,,,Operational,Original
+bufr4/0/02/031/15,002031,Durée et heure de la mesure du courant,15,"Plus de   8 heures, 	 mais pas au-delà de 12 heures",,,,"32,33,45",Operational,Original
 bufr4/0/02/031/16,002031,Durée et heure de la mesure du courant,16,"Plus de 12 heures,	 mais pas au-delà de 18 heures",,,,,Operational,Original
 bufr4/0/02/031/17,002031,Durée et heure de la mesure du courant,17,"Plus de 18 heures,	 mais pas au-delà de 24 heures",,,,,Operational,Original
 bufr4/0/02/031/18,002031,Durée et heure de la mesure du courant,18,En réserve,,,,,Operational,Original
 bufr4/0/02/031/19,002031,Durée et heure de la mesure du courant,19,La méthode de la dérive n’est pas utilisée,,,,,Operational,Original
 bufr4/0/02/031/20-30,002031,Durée et heure de la mesure du courant,20-30,En réserve,,,,,Operational,Original
-bufr4/0/02/031/31,002031,Durée et heure de la mesure du courant,31,Valeur manquante N O T E S : 1) Chiffres du code 1 à 9:  durée et heure de la mesure du courant (méthode vectorielle ou méthode Doppler d’établissement du profil du courant). 2) Chiffres du code 11 à 19:  période de la mesure du courant (méthode de la dérive). 3) H = heure d’observation.,,,,,Operational,Original
+bufr4/0/02/031/31,002031,Durée et heure de la mesure du courant,31,Valeur manquante,,,,"32,33,45",Operational,Original
 bufr4/0/02/032/0,002032,Indicateur de numérisation,0,Valeurs correspondant à des profondeurs sélectionnées (points de données fixés par l'instrument ou choisis par toute autre méthode),,,,,Operational,Original
 bufr4/0/02/032/1,002032,Indicateur de numérisation,1,Valeurs correspondant à des profondeurs sélectionnées (points de données choisis sur les traces à des profondeurs significatives),,,,,Operational,Original
 bufr4/0/02/032/2,002032,Indicateur de numérisation,2,En réserve,,,,,Operational,Original
@@ -328,7 +328,7 @@ bufr4/0/02/049/2,002049,Technique utilisée pour le traitement des données de s
 bufr4/0/02/049/3,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,3,Sondage par atmosphère claire,,,(voir Note 1),29,Operational,Original
 bufr4/0/02/049/4,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,4,Sondage par atmosphère nuageuse,,,(voir Note 2),31,Operational,Original
 bufr4/0/02/049/5-7,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,5-7,En réserve pour utilisation future,,,,,Operational,Original
-bufr4/0/02/049/All-8,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/049/All-8,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,All 8,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/049,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,,,,,,,Operational,Original
 bufr4/0/02/050/1,002050,Canaux utilisés par le sondeur du satellite géostationnaire,1,"1 14,71",,,,,Operational,Original
 bufr4/0/02/050/2,002050,Canaux utilisés par le sondeur du satellite géostationnaire,2,"2 14,37",,,,,Operational,Original
@@ -344,12 +344,12 @@ bufr4/0/02/050/11,002050,Canaux utilisés par le sondeur du satellite géostatio
 bufr4/0/02/050/12,002050,Canaux utilisés par le sondeur du satellite géostationnaire,12,"12 6,51",,,,,Operational,Original
 bufr4/0/02/050/13,002050,Canaux utilisés par le sondeur du satellite géostationnaire,13,"13 4,57",,,,,Operational,Original
 bufr4/0/02/050/14,002050,Canaux utilisés par le sondeur du satellite géostationnaire,14,"14 4,52",,,,,Operational,Original
-bufr4/0/02/050/15,002050,Canaux utilisés par le sondeur du satellite géostationnaire,15,"15 4,45",,,,,Operational,Original
+bufr4/0/02/050/15,002050,Canaux utilisés par le sondeur du satellite géostationnaire,15,"15 4,45",,,,21,Operational,Original
 bufr4/0/02/050/16,002050,Canaux utilisés par le sondeur du satellite géostationnaire,16,"16 4,13",,,,,Operational,Original
 bufr4/0/02/050/17,002050,Canaux utilisés par le sondeur du satellite géostationnaire,17,"17 3,98",,,,,Operational,Original
 bufr4/0/02/050/18,002050,Canaux utilisés par le sondeur du satellite géostationnaire,18,"18 3,74",,,,,Operational,Original
 bufr4/0/02/050/19,002050,Canaux utilisés par le sondeur du satellite géostationnaire,19,"19 0,969",,,,,Operational,Original
-bufr4/0/02/050/All-20,002050,Canaux utilisés par le sondeur du satellite géostationnaire,20 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/050/All-20,002050,Canaux utilisés par le sondeur du satellite géostationnaire,All 20,Valeur manquante,,,,21,Operational,Original
 bufr4/0/02/051/0,002051,Indicateur servant à préciser la méthode d’observation des températures extrêmes,0,En réserve,,,,,Operational,Original
 bufr4/0/02/051/1,002051,Indicateur servant à préciser la méthode d’observation des températures extrêmes,1,Thermomètres à maximum et à minimum,,,,,Operational,Original
 bufr4/0/02/051/2,002051,Indicateur servant à préciser la méthode d’observation des températures extrêmes,2,Instruments automatiques,,,,,Operational,Original
@@ -361,7 +361,7 @@ bufr4/0/02/052/2,002052,Canaux utilisés par l’imageur du satellite géostatio
 bufr4/0/02/052/3,002052,Canaux utilisés par l’imageur du satellite géostationnaire,3,"3 6,7",,,,,Operational,Original
 bufr4/0/02/052/4,002052,Canaux utilisés par l’imageur du satellite géostationnaire,4,"4 10,7",,,,,Operational,Original
 bufr4/0/02/052/5,002052,Canaux utilisés par l’imageur du satellite géostationnaire,5,"5 12,0",,,,,Operational,Original
-bufr4/0/02/052/All-6,002052,Canaux utilisés par l’imageur du satellite géostationnaire,6 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/052/All-6,002052,Canaux utilisés par l’imageur du satellite géostationnaire,All 6,Valeur manquante,,,,21,Operational,Original
 bufr4/0/02/053/0,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,0,Température de luminance observée,,,,,Operational,Original
 bufr4/0/02/053/1,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,1,Température de luminance avec application d’une correction de distorsion,,,,,Operational,Original
 bufr4/0/02/053/2,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,2,Température de luminance calculée à partir d’une première approximation,,,,,Operational,Original
@@ -436,7 +436,7 @@ bufr4/0/02/062/15,002062,Type de système de retransmission des données d’aé
 bufr4/0/02/064/0,002064,Qualité de l’angle de roulis de l’aéronef,0,Bonne,,,,,Operational,Original
 bufr4/0/02/064/1,002064,Qualité de l’angle de roulis de l’aéronef,1,Mauvaise,,,(voir Note),20,Operational,Original
 bufr4/0/02/064/2,002064,Qualité de l’angle de roulis de l’aéronef,2,En réserve,,,,,Operational,Original
-bufr4/0/02/064/3,002064,Qualité de l’angle de roulis de l’aéronef,3,Valeur manquante N O T E : 	Une mauvaise qualité est actuellement définie comme correspondant à un angle de roulis supérieur à 5 degrés par rapport à la verticale.,,,,,Operational,Original
+bufr4/0/02/064/3,002064,Qualité de l’angle de roulis de l’aéronef,3,Valeur manquante,,,Une mauvaise qualité est actuellement définie comme correspondant à un angle de roulis supérieur à 5 degrés par rapport à la verticale.,,Operational,Original
 bufr4/0/02/066/0,002066,Système de réception au sol des données de radiosondage,0,InterMet IMS 2000,,,,,Operational,Original
 bufr4/0/02/066/1,002066,Système de réception au sol des données de radiosondage,1,InterMet IMS 1500C,,,,,Operational,Original
 bufr4/0/02/066/2,002066,Système de réception au sol des données de radiosondage,2,"GTC1, Shanghai",,,,,Operational,Original
@@ -563,7 +563,7 @@ bufr4/0/02/101/8-13,002101,Type d’antenne,8-13,En réserve,,,,,Operational,Ori
 bufr4/0/02/101/14,002101,Type d’antenne,14,Autre,,,,,Operational,Original
 bufr4/0/02/101/15,002101,Type d’antenne,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/103/1,002103,Radôme,1,L’antenne radar est protégée par un radôme,,,,,Operational,Original
-bufr4/0/02/103/All-2,002103,Radôme,2 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/103/All-2,002103,Radôme,All 2,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/104/0,002104,Polarisation de l’antenne,0,Polarisation horizontale,,,,,Operational,Original
 bufr4/0/02/104/1,002104,Polarisation de l’antenne,1,Polarisation verticale,,,,,Operational,Original
 bufr4/0/02/104/2,002104,Polarisation de l’antenne,2,Polarisation circulaire droite,,,,,Operational,Original
@@ -591,7 +591,7 @@ bufr4/0/02/119/5,002119,Fonctionnement de l’instrument RA-2,5,Acquisition,,,,,
 bufr4/0/02/119/6,002119,Fonctionnement de l’instrument RA-2,6,Poursuite,,,,,Operational,Original
 bufr4/0/02/119/7,002119,Fonctionnement de l’instrument RA-2,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/131/1,002131,Commande de gain variable dans le temps,1,Commande de gain variable dans le temps opérationnelle,,,,,Operational,Original
-bufr4/0/02/131/All-2,002131,Commande de gain variable dans le temps,2 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/131/All-2,002131,Commande de gain variable dans le temps,All 2,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/137/1,002137,Rapport de double fréquence de répétition des impulsions du radar,1,3:2,,,,,Operational,Original
 bufr4/0/02/137/2,002137,Rapport de double fréquence de répétition des impulsions du radar,2,4:3,,,,,Operational,Original
 bufr4/0/02/137/3,002137,Rapport de double fréquence de répétition des impulsions du radar,3,5:4,,,,,Operational,Original
@@ -633,7 +633,7 @@ bufr4/0/02/144/4,002144,Type de source lumineuse pour spectrophotomètres Brewer
 bufr4/0/02/144/5,002144,Type de source lumineuse pour spectrophotomètres Brewer,5,Mise au point sur le Soleil avec corrections provenant de mesures du ciel adjacent,,,,,Operational,Original
 bufr4/0/02/144/6,002144,Type de source lumineuse pour spectrophotomètres Brewer,6,Rayonnement du ciel au zénith,,,,,Operational,Original
 bufr4/0/02/144/7-14,002144,Type de source lumineuse pour spectrophotomètres Brewer,7-14,En réserve,,,,,Operational,Original
-bufr4/0/02/144/15,002144,Type de source lumineuse pour spectrophotomètres Brewer,15,Valeur manquante N O T E :  Les entrées 1 et 2 ne doivent pas être utilisées.,,,,,Operational,Original
+bufr4/0/02/144/15,002144,Type de source lumineuse pour spectrophotomètres Brewer,15,Valeur manquante,,,Les entrées 1 et 2 ne doivent pas être utilisées.,,Operational,Original
 bufr4/0/02/145/0,002145,Longueurs d’ondes et réglage pour instruments Dobson,0,"Longueurs d’ondes AD, réglage normal",,,,,Operational,Original
 bufr4/0/02/145/1,002145,Longueurs d’ondes et réglage pour instruments Dobson,1,"Longueurs d’ondes BD, réglage normal",,,,,Operational,Original
 bufr4/0/02/145/2,002145,Longueurs d’ondes et réglage pour instruments Dobson,2,"Longueurs d’ondes CD, réglage normal",,,,,Operational,Original
@@ -802,7 +802,7 @@ bufr4/0/02/152/11,002152,Instrument de satellite utilisé dans le traitement des
 bufr4/0/02/152/12,002152,Instrument de satellite utilisé dans le traitement des données,12,Radiomètre à balayage multibande,,,,,Operational,Original
 bufr4/0/02/152/13,002152,Instrument de satellite utilisé dans le traitement des données,13,Imageur en orbite polaire,,,,,Operational,Original
 bufr4/0/02/152/14-30,002152,Instrument de satellite utilisé dans le traitement des données,14-30,En réserve,,,,,Operational,Original
-bufr4/0/02/152/All-31,002152,Instrument de satellite utilisé dans le traitement des données,31 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/152/All-31,002152,Instrument de satellite utilisé dans le traitement des données,All 31,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/158/1,002158,Instrument RA-2,1,Non-concordance du vecteur redondant – amplificateur de grande puissance,,,,,Operational,Original
 bufr4/0/02/158/2,002158,Instrument RA-2,2,Non-concordance du vecteur redondant – RFSS,,,,,Operational,Original
 bufr4/0/02/158/3,002158,Instrument RA-2,3,Bande d’étalonnage de la PTR: 320 MHz (Ku),,,,,Operational,Original
@@ -811,7 +811,7 @@ bufr4/0/02/158/5,002158,Instrument RA-2,5,Bande d’étalonnage de la PTR: 20 MH
 bufr4/0/02/158/6,002158,Instrument RA-2,6,Bande d’étalonnage de la PTR: 160 MHz (S),,,,,Operational,Original
 bufr4/0/02/158/7,002158,Instrument RA-2,7,Paramètres d’étalonnage en vol disponibles pour la bande Ku,,,,,Operational,Original
 bufr4/0/02/158/8,002158,Instrument RA-2,8,Paramètres d’étalonnage en vol disponibles pour la bande S,,,,,Operational,Original
-bufr4/0/02/158/All-9,002158,Instrument RA-2,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/158/All-9,002158,Instrument RA-2,All 9,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/159/1,002159,Instrument MWR,1,Manque d’uniformité de la température,,,,,Operational,Original
 bufr4/0/02/159/2,002159,Instrument MWR,2,Données manquantes,,,,,Operational,Original
 bufr4/0/02/159/3,002159,Instrument MWR,3,Canal redondant,,,,,Operational,Original
@@ -819,7 +819,7 @@ bufr4/0/02/159/4,002159,Instrument MWR,4,Protection du circuit d’alimentation,
 bufr4/0/02/159/5,002159,Instrument MWR,5,Protection contre surtension ou surcharge,,,,,Operational,Original
 bufr4/0/02/159/6,002159,Instrument MWR,6,En réserve,,,,,Operational,Original
 bufr4/0/02/159/7,002159,Instrument MWR,7,En réserve,,,,,Operational,Original
-bufr4/0/02/159/All-8,002159,Instrument MWR,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/159/All-8,002159,Instrument MWR,All 8,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/160/0,002160,Longueur d’onde sur laquelle fonctionne le radar,0,En réserve,,,,,Operational,Original
 bufr4/0/02/160/1,002160,Longueur d’onde sur laquelle fonctionne le radar,1,De 10 à moins de 20 mm,,,,,Operational,Original
 bufr4/0/02/160/2,002160,Longueur d’onde sur laquelle fonctionne le radar,2,En réserve,,,,,Operational,Original
@@ -838,7 +838,7 @@ bufr4/0/02/161/12,002161,Méthode de traitement des données du vent,12,La cible
 bufr4/0/02/161/13,002161,Méthode de traitement des données du vent,13,Inversion à faible niveau,,,,,Operational,Original
 bufr4/0/02/161/14,002161,Méthode de traitement des données du vent,14,Méthode de contribution de la corrélation croisée (CCC),,,,,Operational,Original
 bufr4/0/02/161/15,002161,Méthode de traitement des données du vent,15,Suivi «imbriqué»,,,,,Operational,Original
-bufr4/0/02/161/All-16,002161,Méthode de traitement des données du vent,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/161/All-16,002161,Méthode de traitement des données du vent,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/162/0,002162,Méthode élargie de détermination de l’altitude,0,Éditeur automatique,,,,,Operational,Original
 bufr4/0/02/162/1,002162,Méthode élargie de détermination de l’altitude,1,Détermination de l’altitude dans le canal infrarouge,,,,,Operational,Original
 bufr4/0/02/162/2,002162,Méthode élargie de détermination de l’altitude,2,Détermination de l’altitude dans le canal de la vapeur d’eau,,,,,Operational,Original
@@ -889,7 +889,7 @@ bufr4/0/02/165/5,002165,Indicateur de type de luminance énergétique,5,Signal n
 bufr4/0/02/165/6,002165,Indicateur de type de luminance énergétique,6,Signal reconstruit,,,,,Operational,Original
 bufr4/0/02/165/7,002165,Indicateur de type de luminance énergétique,7,Signal débarrassé de l’influence des nuages,,,,,Operational,Original
 bufr4/0/02/165/8-14,002165,Indicateur de type de luminance énergétique,8-14,En réserve,,,,,Operational,Original
-bufr4/0/02/165/All-15,002165,Indicateur de type de luminance énergétique,15 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/165/All-15,002165,Indicateur de type de luminance énergétique,All 15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/166/0,002166,Type de luminance énergétique,0,Type non défini,,,,,Operational,Original
 bufr4/0/02/166/1,002166,Type de luminance énergétique,1,Régression statistique automatique,,,,,Operational,Original
 bufr4/0/02/166/2,002166,Type de luminance énergétique,2,Mesure ciel clair,,,,,Operational,Original
@@ -971,7 +971,7 @@ bufr4/0/02/181/3,002181,Capteur supplémentaire du temps présent,3,Détecteur d
 bufr4/0/02/181/4,002181,Capteur supplémentaire du temps présent,4,Capteur de grêle et granules de glace,,,,,Operational,Original
 bufr4/0/02/181/5-19,002181,Capteur supplémentaire du temps présent,5-19,En réserve,,,,,Operational,Original
 bufr4/0/02/181/20,002181,Capteur supplémentaire du temps présent,20,Autre,,,,,Operational,Original
-bufr4/0/02/181/All-21,002181,Capteur supplémentaire du temps présent,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/181/All-21,002181,Capteur supplémentaire du temps présent,All 21,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/182/0,002182,Système de mesure de la visibilité,0,Mesure manuelle,,,,,Operational,Original
 bufr4/0/02/182/1,002182,Système de mesure de la visibilité,1,Système à transmissiomètre (base > 25 m),,,,,Operational,Original
 bufr4/0/02/182/2,002182,Système de mesure de la visibilité,2,Système à transmissiomètre (base < 25 m),,,,,Operational,Original
@@ -1033,7 +1033,7 @@ bufr4/0/02/186/22,002186,Détection des divers types de précipitations,22,Rosé
 bufr4/0/02/186/23,002186,Détection des divers types de précipitations,23,Rosée blanche,,,,,Operational,Original
 bufr4/0/02/186/24,002186,Détection des divers types de précipitations,24,Précipitations convectives,,,,,Operational,Original
 bufr4/0/02/186/25-29,002186,Détection des divers types de précipitations,25-29,En réserve,,,,,Operational,Original
-bufr4/0/02/186/All-30,002186,Détection des divers types de précipitations,30 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/186/All-30,002186,Détection des divers types de précipitations,All 30,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/187/1,002187,Détection d’autres phénomènes météorologiques,1,Tourbillon de poussière/de sable,,,,,Operational,Original
 bufr4/0/02/187/2,002187,Détection d’autres phénomènes météorologiques,2,Grains,,,,,Operational,Original
 bufr4/0/02/187/3,002187,Détection d’autres phénomènes météorologiques,3,Tempête de sable,,,,,Operational,Original
@@ -1046,7 +1046,7 @@ bufr4/0/02/187/9,002187,Détection d’autres phénomènes météorologiques,9,N
 bufr4/0/02/187/10,002187,Détection d’autres phénomènes météorologiques,10,Nuage en entonnoir touchant la surface,,,,,Operational,Original
 bufr4/0/02/187/11,002187,Détection d’autres phénomènes météorologiques,11,Embruns,,,,,Operational,Original
 bufr4/0/02/187/12-17,002187,Détection d’autres phénomènes météorologiques,12-17,En réserve,,,,,Operational,Original
-bufr4/0/02/187/All-18,002187,Détection d’autres phénomènes météorologiques,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/187/All-18,002187,Détection d’autres phénomènes météorologiques,All 18,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/188/1,002188,Détection d’un obscurcissement,1,Brouillard,,,,,Operational,Original
 bufr4/0/02/188/2,002188,Détection d’un obscurcissement,2,Brouillard glacé Brouillard d’évaporation,,,,,Operational,Original
 bufr4/0/02/188/3,002188,Détection d’un obscurcissement,3,Brouillard d’évaporation,,,,,Operational,Original
@@ -1059,13 +1059,13 @@ bufr4/0/02/188/11,002188,Détection d’un obscurcissement,11,Poussière,,,,,Ope
 bufr4/0/02/188/12,002188,Détection d’un obscurcissement,12,Sable,,,,,Operational,Original
 bufr4/0/02/188/13,002188,Détection d’un obscurcissement,13,Neige,,,,,Operational,Original
 bufr4/0/02/188/14-20,002188,Détection d’un obscurcissement,14-20,En réserve,,,,,Operational,Original
-bufr4/0/02/188/All-21,002188,Détection d’un obscurcissement,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/188/All-21,002188,Détection d’un obscurcissement,All 21,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/189/1,002189,Distinction entre les différents types d’éclairs,1,Observation manuelle Tous les éclairs sans différenciation,,,,,Operational,Original
 bufr4/0/02/189/2,002189,Distinction entre les différents types d’éclairs,2,Tous les éclairs sans différenciation,,,,,Operational,Original
 bufr4/0/02/189/3,002189,Distinction entre les différents types d’éclairs,3,Éclairs de nuage à surface seulement,,,,,Operational,Original
 bufr4/0/02/189/4,002189,Distinction entre les différents types d’éclairs,4,Tous les éclairs avec une différenciation entre nuage à surface et nuage à nuage,,,,,Operational,Original
 bufr4/0/02/189/5-11,002189,Distinction entre les différents types d’éclairs,5-11,En réserve,,,,,Operational,Original
-bufr4/0/02/189/All-12,002189,Distinction entre les différents types d’éclairs,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/189/All-12,002189,Distinction entre les différents types d’éclairs,All 12,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/191/0,002191,Calcul de la hauteur géopotentielle,0,"Altitude géopotentielle, basée sur la pression",,,,,Operational,Original
 bufr4/0/02/191/1,002191,Calcul de la hauteur géopotentielle,1,"Altitude géopotentielle, basée sur l’altitude GPS",,,,,Operational,Original
 bufr4/0/02/191/2,002191,Calcul de la hauteur géopotentielle,2,"Altitude géopotentielle, basée sur l’altitude radar",,,,,Operational,Original

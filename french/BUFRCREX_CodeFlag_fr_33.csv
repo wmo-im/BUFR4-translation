@@ -33,7 +33,7 @@ bufr4/0/33/005/21,033005,Informations sur la qualité (données des stations mé
 bufr4/0/33/005/22,033005,Informations sur la qualité (données des stations météorologiques automatiques),22,Données douteuses – évaporation/ évapotranspiration,,,,,Operational,Original
 bufr4/0/33/005/23,033005,Informations sur la qualité (données des stations météorologiques automatiques),23,Données douteuses – Insolation,,,,,Operational,Original
 bufr4/0/33/005/24-29,033005,Informations sur la qualité (données des stations météorologiques automatiques),24-29,En réserve,,,,,Operational,Original
-bufr4/0/33/005/All-30,033005,Informations sur la qualité (données des stations météorologiques automatiques),30 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/005/All-30,033005,Informations sur la qualité (données des stations météorologiques automatiques),All 30,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/006/0,033006,Informations sur la situation interne des mesures (stations météorologiques automatiques),0,Autovérification correcte,,,,,Operational,Original
 bufr4/0/33/006/1,033006,Informations sur la situation interne des mesures (stations météorologiques automatiques),1,"Au moins un avertissement, aucune alarme",,,,,Operational,Original
 bufr4/0/33/006/2,033006,Informations sur la situation interne des mesures (stations météorologiques automatiques),2,Au moins une alarme,,,,,Operational,Original
@@ -133,7 +133,7 @@ bufr4/0/33/030/5,033030,Indicateurs d’état pour la ligne de balayage du sonde
 bufr4/0/33/030/6,033030,Indicateurs d’état pour la ligne de balayage du sondeur ATOVS,6,Première heure correcte après une mise à jour d’horloge,,,,,Operational,Original
 bufr4/0/33/030/7,033030,Indicateurs d’état pour la ligne de balayage du sondeur ATOVS,7,Changement d’état de l’instrument lors de ce balayage,,,,,Operational,Original
 bufr4/0/33/030/8-23,033030,Indicateurs d’état pour la ligne de balayage du sondeur ATOVS,8-23,En réserve,,,,,Operational,Original
-bufr4/0/33/030/All-24,033030,Indicateurs d’état pour la ligne de balayage du sondeur ATOVS,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/030/All-24,033030,Indicateurs d’état pour la ligne de balayage du sondeur ATOVS,All 24,Valeur manquante,,,,49,Operational,Original
 bufr4/0/33/031/1,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,1,Le champ temporel est mauvais mais peut être sans doute déduit de la précédente heure correcte,,,,,Operational,Original
 bufr4/0/33/031/2,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,2,Le champ temporel est mauvais et ne peut pas être déduit de la précédente heure correcte,,,,,Operational,Original
 bufr4/0/33/031/3,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,3,Ce relevé marque le début d’une séquence qui est en contradiction avec les heures précédentes (discontinuité dans le temps). Cela peut être lié à une mise à jour de l’horloge du satellite (voir les indicateurs d’état pour la ligne de balayage du sondeur ATOVS),,,,,Operational,Original
@@ -148,7 +148,7 @@ bufr4/0/33/031/11,033031,Indicateurs de qualité de la ligne de balayage du sond
 bufr4/0/33/031/12,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,12,Étalonnage suspect à cause d’une erreur d’orientation d’antenne sur le corps noir,,,,,Operational,Original
 bufr4/0/33/031/13,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,13,Pas de localisation géographique à cause d’une heure incorrecte,,,,,Operational,Original
 bufr4/0/33/031/14,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,14,Localisation géographique suspecte à cause d’un code horaire douteux (se référer aux bits cor­ respondant à l’indicatif de défaut de l’heure),,,,,Operational,Original
-bufr4/0/33/031/15,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,15,Localisation géographique suspecte – ne satisfait que partiellement au contrôle de vraisemblance,,,,,Operational,Original
+bufr4/0/33/031/15,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,15,Localisation géographique suspecte – ne satisfait que partiellement au contrôle de vraisemblance,,,,"49,24,25,27",Operational,Original
 bufr4/0/33/031/16,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,16,Localisation géographique suspecte – ne satisfait pas au contrôle de vraisemblance,,,,,Operational,Original
 bufr4/0/33/031/17,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,17,Localisation géographique suspecte à cause d’un contrôle de l’orientation de l’antenne,,,,,Operational,Original
 bufr4/0/33/031/18,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,18,Étalonnage de la ligne de balayage sur le corps noir froid,,,,,Operational,Original
@@ -156,7 +156,7 @@ bufr4/0/33/031/19,033031,Indicateurs de qualité de la ligne de balayage du sond
 bufr4/0/33/031/20,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,20,Étalonnage de la ligne de balayage vers l’espace,,,,,Operational,Original
 bufr4/0/33/031/21,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,21,Vers la Terre,,,,,Operational,Original
 bufr4/0/33/031/22-23,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,22-23,En réserve,,,,,Operational,Original
-bufr4/0/33/031/All-24,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/031/All-24,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,All 24,Valeur manquante,,,,"49,24,25,27",Operational,Original
 bufr4/0/33/032/1,033032,Indicateurs de qualité du canal du sondeur ATOVS,1,Aucun relevé correct du corps noir pour la ligne de balayage,,,,,Operational,Original
 bufr4/0/33/032/2,033032,Indicateurs de qualité du canal du sondeur ATOVS,2,Aucun relevé correct de l’espace pour cette ligne,,,,,Operational,Original
 bufr4/0/33/032/3,033032,Indicateurs de qualité du canal du sondeur ATOVS,3,"Aucune donnée correcte du thermomètre à résistance de platine, pour cette ligne",,,,,Operational,Original
@@ -165,12 +165,12 @@ bufr4/0/33/032/5,033032,Indicateurs de qualité du canal du sondeur ATOVS,5,"Cer
 bufr4/0/33/032/6,033032,Indicateurs de qualité du canal du sondeur ATOVS,6,Certaines données du thermomètre à résistance de platine sont incorrectes pour cette ligne,,,,,Operational,Original
 bufr4/0/33/032/7,033032,Indicateurs de qualité du canal du sondeur ATOVS,7,Qualité réduite pour ce balayage,,,,,Operational,Original
 bufr4/0/33/032/8-23,033032,Indicateurs de qualité du canal du sondeur ATOVS,8-23,En réserve (bits mis à 0),,,,,Operational,Original
-bufr4/0/33/032/All-24,033032,Indicateurs de qualité du canal du sondeur ATOVS,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/032/All-24,033032,Indicateurs de qualité du canal du sondeur ATOVS,All 24,Valeur manquante,,,,17,Operational,Original
 bufr4/0/33/033/1,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,1,Bit mis à 1 en cas d’étalonnage secondaire,,,,,Operational,Original
 bufr4/0/33/033/2-21,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,2-21,Bit n mis à 1 si la température de luminance dans le canal n–1 est physiquement invraisemblable ou n’a pas été calculée à cause de problèmes d’étalonnage,,,(voir Note 2),26,Operational,Original
 bufr4/0/33/033/22,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,22,Bit mis à 1 si tous les canaux sont absents,,,,,Operational,Original
 bufr4/0/33/033/23,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,23,Suspect,,,,,Operational,Original
-bufr4/0/33/033/All-24,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/033/All-24,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,All 24,Valeur manquante,,,,17,Operational,Original
 bufr4/0/33/035/0,033035,Contrôle de qualité manuel/automatique,0,"Contrôle de qualité automatique: valeur acceptée, sans vérification manuelle",,,,,Operational,Original
 bufr4/0/33/035/1,033035,Contrôle de qualité manuel/automatique,1,"Contrôle de qualité automatique: valeur acceptée, y compris après vérification manuelle",,,,,Operational,Original
 bufr4/0/33/035/2,033035,Contrôle de qualité manuel/automatique,2,"Contrôle de qualité automatique: valeur acceptée, puis refusée après vérification manuelle",,,,,Operational,Original
@@ -201,7 +201,7 @@ bufr4/0/33/037/16,033037,Erreur de corrélation du vent,16,Cible en dehors de la
 bufr4/0/33/037/17,033037,Erreur de corrélation du vent,17,Cible en dehors de l’intervalle de pression,,,,,Operational,Original
 bufr4/0/33/037/18,033037,Erreur de corrélation du vent,18,Vecteur lent marqué par l’autoéditeur,,,,,Operational,Original
 bufr4/0/33/037/19,033037,Erreur de corrélation du vent,19,Vecteurs marqués par l’autoéditeur,,,,,Operational,Original
-bufr4/0/33/037/All-20,033037,Erreur de corrélation du vent,20 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/037/All-20,033037,Erreur de corrélation du vent,All 20,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/038/1,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,1,Données sur le retard de propagation total pour une visée au zénith considérées de mauvaise qualité,,,,,Operational,Original
 bufr4/0/33/038/2,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,2,Valeurs tirées des données des satellites GALILEO,,,,,Operational,Original
 bufr4/0/33/038/3,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,3,Valeurs tirées des données des satellites GLONASS,,,,,Operational,Original
@@ -211,7 +211,7 @@ bufr4/0/33/038/6,033038,Indicateurs de qualité pour les données d’observatio
 bufr4/0/33/038/7,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,7,Charge des marées océaniques incluse,,,,,Operational,Original
 bufr4/0/33/038/8,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,8,Traitement des données pour des besoins climatologiques,,,,,Operational,Original
 bufr4/0/33/038/9,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,9,Traitement des données en temps quasi réel,,,,,Operational,Original
-bufr4/0/33/038/All-10,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,10 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/038/All-10,033038,Indicateurs de qualité pour les données d’observation au sol du GNSS*,All 10,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/039/1,033039,Indicateurs de qualité pour les données d’occultation radio,1,Qualité non nominale,,,,,Operational,Original
 bufr4/0/33/039/2,033039,Indicateurs de qualité pour les données d’occultation radio,2,Produit en différé,,,,,Operational,Original
 bufr4/0/33/039/3,033039,Indicateurs de qualité pour les données d’occultation radio,3,Descripteur d’occultation ascendante,,,,,Operational,Original
@@ -222,11 +222,11 @@ bufr4/0/33/039/7,033039,Indicateurs de qualité pour les données d’occultatio
 bufr4/0/33/039/8-13,033039,Indicateurs de qualité pour les données d’occultation radio,8-13,En réserve,,,,,Operational,Original
 bufr4/0/33/039/14,033039,Indicateurs de qualité pour les données d’occultation radio,14,Profil de fond non nominal,,,,,Operational,Original
 bufr4/0/33/039/15,033039,Indicateurs de qualité pour les données d’occultation radio,15,Profil de fond inclus (c’est-à-dire non extrait),,,,,Operational,Original
-bufr4/0/33/039/All-16,033039,Indicateurs de qualité pour les données d’occultation radio,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/039/All-16,033039,Indicateurs de qualité pour les données d’occultation radio,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/041/0,033041,Caractéristique de la valeur suivante,0,La valeur suivante est la valeur vraie,,,,,Operational,Original
 bufr4/0/33/041/1,033041,Caractéristique de la valeur suivante,1,La valeur suivante est plus élevée que la valeur vraie (la mesure atteint la limite inférieure de l’instrument,,,,,Operational,Original
 bufr4/0/33/041/2,033041,Caractéristique de la valeur suivante,2,La valeur suivante est inférieure à la valeur vraie (la mesure atteint la limite supérieure de l’instrument),,,,,Operational,Original
-bufr4/0/33/041/3,033041,Caractéristique de la valeur suivante,3,"Valeur manquante N O T E : 	Ce descripteur sera associé à des données relatives à la visibilité ou à la hauteur des nuages pour préciser si la valeur est bornée. Si la donnée transmise est la valeur vraie, le chiffre du code est 0. Toutefois, la mesure peut atteindre la limite de capacité de mesure de l’instrument. Si la valeur transmise est supérieure à la valeur vraie, le chiffre du code est 1; si la valeur transmise est inférieure à la valeur vraie, le chiffre du code est 2.",,,,,Operational,Original
+bufr4/0/33/041/3,033041,Caractéristique de la valeur suivante,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/042/0,033042,Type de limite représentée par la valeur qui suit,0,Limite inférieure exclue (>) ≥,,,,,Operational,Original
 bufr4/0/33/042/1,033042,Type de limite représentée par la valeur qui suit,1,Limite inférieure incluse ( ),,,,,Operational,Original
 bufr4/0/33/042/2,033042,Type de limite représentée par la valeur qui suit,2,Limite supérieure exclue (<) ≤,,,,,Operational,Original
@@ -238,7 +238,7 @@ bufr4/0/33/043/2,033043,Degré de confiance de la température moyenne en surfac
 bufr4/0/33/043/3,033043,Degré de confiance de la température moyenne en surface,3,Données d’observation diurne au nadir incluses,,,,,Operational,Original
 bufr4/0/33/043/4,033043,Degré de confiance de la température moyenne en surface,4,Données d’observation diurne en visée avant incluses,,,,,Operational,Original
 bufr4/0/33/043/5-7,033043,Degré de confiance de la température moyenne en surface,5-7,En réserve,,,,,Operational,Original
-bufr4/0/33/043/All-8,033043,Degré de confiance de la température moyenne en surface,8 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/043/All-8,033043,Degré de confiance de la température moyenne en surface,All 8,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/044/1,033044,Qualité des données de l’ASAR,1,Moyenne des données d’entrée en dehors de l’intervalle nominal indiqué,,,,,Operational,Original
 bufr4/0/33/044/2,033044,Qualité des données de l’ASAR,2,Écart type des données d’entrée en dehors de l’intervalle nominal indiqué,,,,,Operational,Original
 bufr4/0/33/044/3,033044,Qualité des données de l’ASAR,3,Nombre de données manquantes à la réception supérieur à la valeur seuil,,,,,Operational,Original
@@ -253,7 +253,7 @@ bufr4/0/33/044/11,033044,Qualité des données de l’ASAR,11,Paramètres de lia
 bufr4/0/33/044/12,033044,Qualité des données de l’ASAR,12,Nombre d’itérations pour la coupure azimutale. Le réglage de la coupure azimutale ne s’est pas produit en un minimum donné d’itérations,,,,,Operational,Original
 bufr4/0/33/044/13,033044,Qualité des données de l’ASAR,13,Le réglage de la coupure azimutale ne s’est pas produit en un minimum donné d’itérations,,,,,Operational,Original
 bufr4/0/33/044/14,033044,Qualité des données de l’ASAR,14,Degré de confiance concernant les données sur la phase. La crête spectrale imaginaire est inférieure à un seuil minimum ou le décalage du zéro est supérieur à un seuil minimum,,,,,Operational,Original
-bufr4/0/33/044/All-15,033044,Qualité des données de l’ASAR,15 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/044/All-15,033044,Qualité des données de l’ASAR,All 15,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/047/1,033047,Degré de confiance des mesures,1,Détection d’erreur suivie d’essais de récupération,,,,,Operational,Original
 bufr4/0/33/047/2,033047,Degré de confiance des mesures,2,Détection d’une anomalie dans la valeur fournie par le traitement des données à bord,,,,,Operational,Original
 bufr4/0/33/047/3,033047,Degré de confiance des mesures,3,Détection d’une anomalie dans la valeur fournie par le traitement des données de l’oscillateur ultra-stable,,,,,Operational,Original
@@ -282,7 +282,7 @@ bufr4/0/33/047/27,033047,Degré de confiance des mesures,27,État du logiciel de
 bufr4/0/33/047/28,033047,Degré de confiance des mesures,28,État du logiciel de restitution d’orbite en mode restitution: alarme détectée,,,,,Operational,Original
 bufr4/0/33/047/29,033047,Degré de confiance des mesures,29,État du logiciel de restitution d’orbite en mode initialisation: plusieurs erreurs,,,,,Operational,Original
 bufr4/0/33/047/30,033047,Degré de confiance des mesures,30,État du logiciel de restitution d’orbite en mode initialisation: alarme détectée,,,,,Operational,Original
-bufr4/0/33/047/All-31,033047,Degré de confiance des mesures,31 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/047/All-31,033047,Degré de confiance des mesures,All 31,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/048/0,033048,Degré de confiance pour l’inversion SAR*,0,Réussite de l’inversion,,,,,Operational,Original
 bufr4/0/33/048/1,033048,Degré de confiance pour l’inversion SAR*,1,Échec de l’inversion,,,,,Operational,Original
 bufr4/0/33/048/2,033048,Degré de confiance pour l’inversion SAR*,2,En réserve,,,,,Operational,Original
@@ -303,9 +303,9 @@ bufr4/0/33/050/9,033050,Indicateur de qualité global pour le GTSPP,9,"Valeur ut
 bufr4/0/33/050/10-14,033050,Indicateur de qualité global pour le GTSPP,10-14,En réserve,,,,,Operational,Original
 bufr4/0/33/050/15,033050,Indicateur de qualité global pour le GTSPP,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/052/1-20,033052,Qualité du retraitement des données océaniques en bande S,1-20,Les 20 premiers bits les moins significatifs correspondent aux 20 valeurs (une par bloc de données) contenant 0 = mesure correcte ou 1 = mesure incorrecte. Le bit 1 s’applique au vingtième bloc de données,,,,,Operational,Original
-bufr4/0/33/052/All-21,033052,Qualité du retraitement des données océaniques en bande S,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/052/All-21,033052,Qualité du retraitement des données océaniques en bande S,All 21,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/053/1-20,033053,Qualité du retraitement des données océaniques en bande Ku,1-20,Les 20 premiers bits les moins significatifs correspondent aux 20 valeurs (une par bloc de données) contenant 0 = mesure correcte ou 1 = mesure incorrecte. Le bit 1 s’applique au vingtième bloc de données,,,,,Operational,Original
-bufr4/0/33/053/All-21,033053,Qualité du retraitement des données océaniques en bande Ku,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/053/All-21,033053,Qualité du retraitement des données océaniques en bande Ku,All 21,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/060/0,033060,GqisFlagQual — indicateur de qualité du système IASI pour chaque mesure,0,Bonne,,,,,Operational,Original
 bufr4/0/33/060/1,033060,GqisFlagQual — indicateur de qualité du système IASI pour chaque mesure,1,Mauvaise,,,,,Operational,Original
 bufr4/0/33/060/2,033060,GqisFlagQual — indicateur de qualité du système IASI pour chaque mesure,2,En réserve,,,,,Operational,Original
@@ -313,7 +313,7 @@ bufr4/0/33/060/3,033060,GqisFlagQual — indicateur de qualité du système IASI
 bufr4/0/33/066/1-21,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,1-21,En réserve,,,,,Operational,Original
 bufr4/0/33/066/22,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,22,La contrainte concernant la surface de corrélation fait défaut,,,,,Operational,Original
 bufr4/0/33/066/23,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,23,En réserve,,,,,Operational,Original
-bufr4/0/33/066/All-24,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,24 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/066/All-24,033066,Indicateur de qualité du vecteur de mouvement atmosphérique,All 24,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/070/0,033070,Qualité de l’ozone total,0,Bonne récupération,,,,,Operational,Original
 bufr4/0/33/070/1,033070,Qualité de l’ozone total,1,Indicateur d’informations sur les aérosols inapproprié ou anomalie dans la luminance énergétique NOAA-16,,,,,Operational,Original
 bufr4/0/33/070/2,033070,Qualité de l’ozone total,2,Distance zénithale solaire supérieure à 84 degrés,,,,,Operational,Original
@@ -361,29 +361,29 @@ bufr4/0/33/072/17-30,033072,Erreur relative à l’ozone,17-30,En réserve,,,,,O
 bufr4/0/33/072/31,033072,Erreur relative à l’ozone,31,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/075/1,033075,Indicateur de qualité au niveau du balayage,1,Détection de données manquantes dans le relevé des données brutes (c’est-à-dire balayage(s) manquant(s) avant ce balayage),,,,,Operational,Original
 bufr4/0/33/075/2,033075,Indicateur de qualité au niveau du balayage,2,L’heure enregistrée ne respecte pas l’ordre chronologique (c’est-à-dire l’heure de début du balayage n’est pas dans l’ordre chronologique),,,,,Operational,Original
-bufr4/0/33/075/3,033075,Indicateur de qualité au niveau du balayage,3,Le calcul de vérification par lambda ne peut être mis à jour (voir note 1),,,(voir Note 1),72,Operational,Original
-bufr4/0/33/075/4,033075,Indicateur de qualité au niveau du balayage,4,"Quel que soit le composant de l’instrument (exemple: diviseur de faisceau, miroir à balayage, déflecteur de balayage, etc.), les températures mesurées se situent en dehors des limites prévues (voir note 2)",,,(voir Note 2),83,Operational,Original
+bufr4/0/33/075/3,033075,Indicateur de qualité au niveau du balayage,3,Le calcul de vérification par lambda ne peut être mis à jour,,,(voir Note 1),72,Operational,Original
+bufr4/0/33/075/4,033075,Indicateur de qualité au niveau du balayage,4,"Quel que soit le composant de l’instrument (exemple: diviseur de faisceau, miroir à balayage, déflecteur de balayage, etc.), les températures mesurées se situent en dehors des limites prévues",,,(voir Note 2),83,Operational,Original
 bufr4/0/33/075/5,033075,Indicateur de qualité au niveau du balayage,5,Au moins une des températures contrôlées pour cet instrument dépasse la valeur de tolérance prévue,,,,,Operational,Original
 bufr4/0/33/075/6-12,033075,Indicateur de qualité au niveau du balayage,6-12,En réserve,,,,,Operational,Original
-bufr4/0/33/075/All-13,033075,Indicateur de qualité au niveau du balayage,13 bits mis à 1,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/076/1,033076,Indicateur de qualité de l’étalonnage,1,Lune décelée sur la première visée de l’espace lointain (voir note),,,(voir Note),71,Operational,Original
-bufr4/0/33/076/2,033076,Indicateur de qualité de l’étalonnage,2,Lune décelée sur la deuxième visée de l’espace lointain (voir note),,,(voir Note),71,Operational,Original
+bufr4/0/33/075/All-13,033075,Indicateur de qualité au niveau du balayage,All 13,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/076/1,033076,Indicateur de qualité de l’étalonnage,1,Lune décelée sur la première visée de l’espace lointain,,,(voir Note),71,Operational,Original
+bufr4/0/33/076/2,033076,Indicateur de qualité de l’étalonnage,2,Lune décelée sur la deuxième visée de l’espace lointain,,,(voir Note),71,Operational,Original
 bufr4/0/33/076/3-8,033076,Indicateur de qualité de l’étalonnage,3-8,En réserve,,,,,Operational,Original
-bufr4/0/33/076/All-9,033076,Indicateur de qualité de l’étalonnage,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/076/All-9,033076,Indicateur de qualité de l’étalonnage,All 9,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/077/1,033077,Indicateur de qualité du champ de vision,1,Qualité dégradée des enregistrements de données de détecteur,,,,,Operational,Original
-bufr4/0/33/077/2,033077,Indicateur de qualité du champ de vision,2,Qualité insatisfaisante des enregistrements de données de détecteur (voir note 1),,,(voir Note 1),68,Operational,Original
+bufr4/0/33/077/2,033077,Indicateur de qualité du champ de vision,2,Qualité insatisfaisante des enregistrements de données de détecteur,,,(voir Note 1),68,Operational,Original
 bufr4/0/33/077/3,033077,Indicateur de qualité du champ de vision,3,Informations incorrectes de localisation géographique des enregistrements de données de détecteur,,,,,Operational,Original
 bufr4/0/33/077/4,033077,Indicateur de qualité du champ de vision,4,Étalonnage radiométrique dégradé,,,,,Operational,Original
-bufr4/0/33/077/5,033077,Indicateur de qualité du champ de vision,5,Étalonnage radiométrique incorrect (voir note 2),,,(voir Note 2),67,Operational,Original
+bufr4/0/33/077/5,033077,Indicateur de qualité du champ de vision,5,Étalonnage radiométrique incorrect,,,(voir Note 2),67,Operational,Original
 bufr4/0/33/077/6,033077,Indicateur de qualité du champ de vision,6,Étalonnage spectral dégradé,,,,,Operational,Original
-bufr4/0/33/077/7,033077,Indicateur de qualité du champ de vision,7,Étalonnage spectral incorrect (voir note 3),,,(voir Note 3),73,Operational,Original
-bufr4/0/33/077/8,033077,Indicateur de qualité du champ de vision,8,Erreur du nombre de franges décelée et corrigée (voir note 4),,,(voir Note 4),70,Operational,Original
-bufr4/0/33/077/9,033077,Indicateur de qualité du champ de vision,9,Indicateur jour-nuit (voir note 5),,,(voir Note 5),69,Operational,Original
-bufr4/0/33/077/10,033077,Indicateur de qualité du champ de vision,10,Relevés bruts incorrects (voir note 6),,,(voir Note 6),87,Operational,Original
-bufr4/0/33/077/11,033077,Indicateur de qualité du champ de vision,11,Erreur significative du nombre de franges décelée (voir note 7),,,(voir Note 7),86,Operational,Original
+bufr4/0/33/077/7,033077,Indicateur de qualité du champ de vision,7,Étalonnage spectral incorrect,,,(voir Note 3),73,Operational,Original
+bufr4/0/33/077/8,033077,Indicateur de qualité du champ de vision,8,Erreur du nombre de franges décelée et corrigée,,,(voir Note 4),70,Operational,Original
+bufr4/0/33/077/9,033077,Indicateur de qualité du champ de vision,9,Indicateur jour-nuit,,,(voir Note 5),69,Operational,Original
+bufr4/0/33/077/10,033077,Indicateur de qualité du champ de vision,10,Relevés bruts incorrects,,,(voir Note 6),87,Operational,Original
+bufr4/0/33/077/11,033077,Indicateur de qualité du champ de vision,11,Erreur significative du nombre de franges décelée,,,(voir Note 7),86,Operational,Original
 bufr4/0/33/077/12,033077,Indicateur de qualité du champ de vision,12,La compensation des bits a échoué,,,,,Operational,Original
 bufr4/0/33/077/13-18,033077,Indicateur de qualité du champ de vision,13-18,En réserve,,,,,Operational,Original
-bufr4/0/33/077/All-19,033077,Indicateur de qualité du champ de vision,19 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/077/All-19,033077,Indicateur de qualité du champ de vision,All 19,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/078/0,033078,Qualité de la localisation géographique,0,Nominale – altitude et éphémérides disponibles,,,,,Operational,Original
 bufr4/0/33/078/1,033078,Qualité de la localisation géographique,1,Manque inférieur à un petit blanc dans les données d’altitude et d’éphémérides Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données,,,,,Operational,Original
 bufr4/0/33/078/2,033078,Qualité de la localisation géographique,2,Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données d’altitude et d’éphémérides,,,,,Operational,Original
@@ -401,7 +401,7 @@ bufr4/0/33/079/12,033079,Indicateur de qualité au niveau des granules,12,Échec
 bufr4/0/33/079/13,033079,Indicateur de qualité au niveau des granules,13,Échec des vérifications d’intégrité nº 56 à 63,,,,,Operational,Original
 bufr4/0/33/079/14,033079,Indicateur de qualité au niveau des granules,14,Échec des vérifications d’intégrité nº 64 à 70,,,,,Operational,Original
 bufr4/0/33/079/15,033079,Indicateur de qualité au niveau des granules,15,Correction quadratique appliquée à la fonction de transfert radiométrique pour corriger la non-linéarité,,,,,Operational,Original
-bufr4/0/33/079/All-16,033079,Indicateur de qualité au niveau des granules,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/079/All-16,033079,Indicateur de qualité au niveau des granules,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/080/1-6,033080,Indicateur de qualité au niveau du balayage,1-6,En réserve Condition découlant d’une erreur de division par zéro ou non-convergence de la boucle de calcul,,,,,Operational,Original
 bufr4/0/33/080/7,033080,Indicateur de qualité au niveau du balayage,7,Condition découlant d’une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bande K/Ka et V (KAV),,,,,Operational,Original
 bufr4/0/33/080/8,033080,Indicateur de qualité au niveau du balayage,8,Condition découlant d’une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bande WG Condition découlant d’une erreur de division par zéro ou non-convergence de la boucle de calcul,,,,,Operational,Original
@@ -416,19 +416,19 @@ bufr4/0/33/080/16,033080,Indicateur de qualité au niveau du balayage,16,Donnée
 bufr4/0/33/080/17,033080,Indicateur de qualité au niveau du balayage,17,Données insuffisantes fournies par le thermomètre à résistance de platine WG,,,,,Operational,Original
 bufr4/0/33/080/18,033080,Indicateur de qualité au niveau du balayage,18,Erreur d’orientation de l’antenne vers l’espace,,,,,Operational,Original
 bufr4/0/33/080/19,033080,Indicateur de qualité au niveau du balayage,19,Erreur d’orientation de l’antenne vers le corps noir,,,,,Operational,Original
-bufr4/0/33/080/All-20,033080,Indicateur de qualité au niveau du balayage,20 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/080/All-20,033080,Indicateur de qualité au niveau du balayage,All 20,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/081/1-5,033081,Indicateur de qualité des données du canal,1-5,En réserve,,,,,Operational,Original
-bufr4/0/33/081/6,033081,Indicateur de qualité des données du canal,6,Dans l’anomalie de l’Atlantique Sud,,,,,Operational,Original
+bufr4/0/33/081/6//1,033081,Indicateur de qualité des données du canal,6,Dans l’anomalie de l’Atlantique Sud,,,,,Operational,Original
 bufr4/0/33/081/3,033081,Indicateur de qualité des données du canal,3,Lune dans la visée de l’espace,,,,,Operational,Original
 bufr4/0/33/081/4,033081,Indicateur de qualité des données du canal,4,Erreur de gain – le chiffre le plus bas vers le corps noir est inférieur ou égal au chiffre le plus haut vers l’espace pendant un balayage,,,,,Operational,Original
 bufr4/0/33/081/5,033081,Indicateur de qualité des données du canal,5,Étalonnage avec un nombre d’échantillons inférieur au nombre souhaité,,,,,Operational,Original
-bufr4/0/33/081/6,033081,Indicateur de qualité des données du canal,6,Vérification des données de visée vers l’espace – échantillons insuffisants de visées de l’espace,,,,,Operational,Original
+bufr4/0/33/081/6//2,033081,Indicateur de qualité des données du canal,6,Vérification des données de visée vers l’espace – échantillons insuffisants de visées de l’espace,,,,,Operational,Original
 bufr4/0/33/081/7,033081,Indicateur de qualité des données du canal,7,Vérification des données de visée vers le corps noir – échantillons insuffisants de visées du corps noir,,,,,Operational,Original
 bufr4/0/33/081/8,033081,Indicateur de qualité des données du canal,8,État hors limites pour la visée de l’espace,,,,,Operational,Original
 bufr4/0/33/081/9,033081,Indicateur de qualité des données du canal,9,État hors limites pour la visée du corps noir,,,,,Operational,Original
 bufr4/0/33/081/10,033081,Indicateur de qualité des données du canal,10,Manque d’uniformité de la visée de l’espace,,,,,Operational,Original
 bufr4/0/33/081/11,033081,Indicateur de qualité des données du canal,11,Manque d’uniformité de la visée du corps noir,,,,,Operational,Original
-bufr4/0/33/081/All-12,033081,Indicateur de qualité des données du canal,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/081/All-12,033081,Indicateur de qualité des données du canal,All 12,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/082/1-5,033082,Indicateur de qualité de la localisation géographique,1-5,En réserve,,,,,Operational,Original
 bufr4/0/33/082/6,033082,Indicateur de qualité de la localisation géographique,6,Dans l’anomalie de l’Atlantique Sud Donnée initiale invalide (indique que l’une quelconque des données initiales d’altitude ou,,,,,Operational,Original
 bufr4/0/33/082/7,033082,Indicateur de qualité de la localisation géographique,7,Donnée initiale invalide (indique que l’une quelconque des données initiales d’altitude ou d’éphémérides provenant de l’engin spatial est invalide),,,,,Operational,Original
@@ -440,7 +440,7 @@ bufr4/0/33/082/12,033082,Indicateur de qualité de la localisation géographique
 bufr4/0/33/082/13,033082,Indicateur de qualité de la localisation géographique,13,Manque supérieur à une séparation de granules dans les données d’altitude et d’éphémérides,,,,,Operational,Original
 bufr4/0/33/082/14,033082,Indicateur de qualité de la localisation géographique,14,Le nombre de valeurs des impulsions de l’encodeur par temps delta ne correspond pas au chiffre attendu,,,,,Operational,Original
 bufr4/0/33/082/15,033082,Indicateur de qualité de la localisation géographique,15,Éclipse solaire pendant le balayage vers la Terre,,,,,Operational,Original
-bufr4/0/33/082/All-16,033082,Indicateur de qualité de la localisation géographique,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/082/All-16,033082,Indicateur de qualité de la localisation géographique,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/083/1-5,033083,Indicateur de qualité des données sur la luminance énergétique,1-5,En réserve,,,,,Operational,Original
 bufr4/0/33/083/6,033083,Indicateur de qualité des données sur la luminance énergétique,6,Le brouillage radioélectrique a des incidences sur les pixels,,,,,Operational,Original
 bufr4/0/33/083/7,033083,Indicateur de qualité des données sur la luminance énergétique,7,"Étalonnage médiocre dû aux mauvais décalages de visée de l’espace, décalages de visée du système OBC*, etc. ou à l’utilisation d’une visée d’étalonnage antérieure",,,,,Operational,Original
@@ -452,7 +452,7 @@ bufr4/0/33/083/12,033083,Indicateur de qualité des données sur la luminance é
 bufr4/0/33/083/13,033083,Indicateur de qualité des données sur la luminance énergétique,13,Absence de données de balayage (aucune donnée valide),,,,,Operational,Original
 bufr4/0/33/083/14,033083,Indicateur de qualité des données sur la luminance énergétique,14,Qualité réduite pour cette ligne de balayage. La valeur est déterminée par le nombre combiné d’étapes requises pour trouver un remplacement aux données de la source d’étalonnage ou de la thermistance,,,,,Operational,Original
 bufr4/0/33/083/15,033083,Indicateur de qualité des données sur la luminance énergétique,15,Mauvais détecteur,,,,,Operational,Original
-bufr4/0/33/083/All-16,033083,Indicateur de qualité des données sur la luminance énergétique,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/083/All-16,033083,Indicateur de qualité des données sur la luminance énergétique,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/084/1-5,033084,Indicateurs de qualité au niveau du pixel,1-5,En réserve,,,,,Operational,Original
 bufr4/0/33/084/6,033084,Indicateurs de qualité au niveau du pixel,6,Température de surface «profonde» hors intervalle de validation,,,,,Operational,Original
 bufr4/0/33/084/7,033084,Indicateurs de qualité au niveau du pixel,7,Température de la pellicule superficielle hors intervalle de validation,,,,,Operational,Original
@@ -464,7 +464,7 @@ bufr4/0/33/084/12,033084,Indicateurs de qualité au niveau du pixel,12,"Exclusio
 bufr4/0/33/084/13,033084,Indicateurs de qualité au niveau du pixel,13,Reflet solaire dans pixel,,,,,Operational,Original
 bufr4/0/33/084/14,033084,Indicateurs de qualité au niveau du pixel,14,"Dépassement du seuil de concentration de la glace (la température de la surface de la mer n’est pas extraite, car la concentration de glace dépasse le seuil fixé dans les caractéristiques du système)",,,,,Operational,Original
 bufr4/0/33/084/15,033084,Indicateurs de qualité au niveau du pixel,15,Cirrus fin détecté dans le pixel,,,,,Operational,Original
-bufr4/0/33/084/All-16,033084,Indicateurs de qualité au niveau du pixel,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/084/All-16,033084,Indicateurs de qualité au niveau du pixel,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/085/1-3,033085,Indicateur de qualité de l’épaisseur optique des aérosols,1-3,En réserve,,,,,Operational,Original
 bufr4/0/33/085/4,033085,Indicateur de qualité de l’épaisseur optique des aérosols,4,Exposant d’Ångström non compris dans la fourchette de valeurs du système,,,,,Operational,Original
 bufr4/0/33/085/5,033085,Indicateur de qualité de l’épaisseur optique des aérosols,5,"Exclu, exposant d’Ångström pour l’épaisseur optique de l’aérosol à 550 nm < 0,15",,,,,Operational,Original
@@ -480,7 +480,7 @@ bufr4/0/33/085/14,033085,Indicateur de qualité de l’épaisseur optique des a�
 bufr4/0/33/085/15,033085,Indicateur de qualité de l’épaisseur optique des aérosols,15,Nuage adjacent à la cellule,,,,,Operational,Original
 bufr4/0/33/085/16,033085,Indicateur de qualité de l’épaisseur optique des aérosols,16,Contamination des nuages dans la cellule,,,,,Operational,Original
 bufr4/0/33/085/17,033085,Indicateur de qualité de l’épaisseur optique des aérosols,17,Épaisseur optique des aérosols non comprise dans la fourchette de valeurs du système,,,,,Operational,Original
-bufr4/0/33/085/All-18,033085,Indicateur de qualité de l’épaisseur optique des aérosols,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/085/All-18,033085,Indicateur de qualité de l’épaisseur optique des aérosols,All 18,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/086/0,033086,Qualité de l’extraction au niveau du pixel,0,Donnée non extraite,,,,,Operational,Original
 bufr4/0/33/086/1,033086,Qualité de l’extraction au niveau du pixel,1,Donnée exclue,,,,,Operational,Original
 bufr4/0/33/086/2,033086,Qualité de l’extraction au niveau du pixel,2,Donnée dégradée,,,,,Operational,Original
@@ -511,8 +511,8 @@ bufr4/0/33/088/14,033088,Indicateur de qualité de la colonne totale d’ozone,1
 bufr4/0/33/088/15,033088,Indicateur de qualité de la colonne totale d’ozone,15,Les résidus ne sont pas homogènes (indique si les résidus des 22 longueurs d’onde sont homogènes),,,,,Operational,Original
 bufr4/0/33/088/16,033088,Indicateur de qualité de la colonne totale d’ozone,16,La sélection d’O triplet n’est pas homogène dans le produit de l’extraction (homogénéité de 3 l’ozone triplet),,,,,Operational,Original
 bufr4/0/33/088/17,033088,Indicateur de qualité de la colonne totale d’ozone,17,Mauvaise qualité des données d’entrée,,,,,Operational,Original
-bufr4/0/33/088/All-18,033088,Indicateur de qualité de la colonne totale d’ozone,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/088/All-18,033088,Indicateur de qualité de la colonne totale d’ozone,All 18,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/092/1,033092,Indicateur de qualité des données sur l’océan dans une bande précise,1,Altimètre en fonction,,,,,Operational,Original
 bufr4/0/33/092/2,033092,Indicateur de qualité des données sur l’océan dans une bande précise,2,Radiomètre hyperfréquence en fonction,,,,,Operational,Original
 bufr4/0/33/092/3-8,033092,Indicateur de qualité des données sur l’océan dans une bande précise,3-8,En réserve,,,,,Operational,Original
-bufr4/0/33/092/All-9,033092,Indicateur de qualité des données sur l’océan dans une bande précise,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/33/092/All-9,033092,Indicateur de qualité des données sur l’océan dans une bande précise,All 9,Valeur manquante,,,,,Operational,Original

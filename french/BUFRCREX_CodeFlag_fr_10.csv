@@ -9,7 +9,7 @@ bufr4/0/10/063/6,010063,Caractéristique de la tendance barométrique,6,"En bais
 bufr4/0/10/063/7,010063,Caractéristique de la tendance barométrique,7,En baisse (régulière ou irrégulière) auparavant,,,,,Operational,Original
 bufr4/0/10/063/8,010063,Caractéristique de la tendance barométrique,8,"Stationnaire ou en hausse, puis en baisse; ou en baisse, puis en baisse plus rapide",,,,,Operational,Original
 bufr4/0/10/063/9-14,010063,Caractéristique de la tendance barométrique,9-14,En réserve,,,,,Operational,Original
-bufr4/0/10/063/15,010063,Caractéristique de la tendance barométrique,15,"Valeur manquante N O T E S : 1) Dans les messages d'observation en provenance de stations météorologiques automatiques, on utilise le chiffre du code 2 si la tendance est à la hausse, 7 si la tendance est à la baisse, et 4 si la pression atmosphérique est la même que trois heures auparavant. 2) Dans les messages provenant de stations tropicales qui communiquent des données concernant les changements de pression sur 24 heures, le chiffre du code 2 indique que la tendance est positive, le chiffre 7 qu'elle est négative, et le chiffre 4 que la pression est la même que 24 heures auparavant.",,,,,Operational,Original
+bufr4/0/10/063/15,010063,Caractéristique de la tendance barométrique,15,Valeur manquante,,,,"52,53",Operational,Original
 bufr4/0/10/064/0,010064,Niveau de croisière — SIGMET,0,Subsonique,,,,,Operational,Original
 bufr4/0/10/064/1,010064,Niveau de croisière — SIGMET,1,Transsonique,,,,,Operational,Original
 bufr4/0/10/064/2,010064,Niveau de croisière — SIGMET,2,Supersonique,,,,,Operational,Original

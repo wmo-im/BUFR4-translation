@@ -7,7 +7,7 @@ bufr4/0/19/001/4,019001,Type de la caractéristique synoptique,4,Typhon,,,,,Oper
 bufr4/0/19/001/5-9,019001,Type de la caractéristique synoptique,5-9,En réserve,,,,,Operational,Original
 bufr4/0/19/001/10,019001,Type de la caractéristique synoptique,10,Tempête de poussière/sable,,,,,Operational,Original
 bufr4/0/19/001/11-62,019001,Type de la caractéristique synoptique,11-62,En réserve,,,,,Operational,Original
-bufr4/0/19/001/63,019001,Type de la caractéristique synoptique,63,Valeur manquante N O T E : D’autres appellations locales utilisées pour des orages de diverses intensités sont ajoutées selon les besoins.,,,,,Operational,Original
+bufr4/0/19/001/63,019001,Type de la caractéristique synoptique,63,Valeur manquante,,,,59,Operational,Original
 bufr4/0/19/008/0,019008,Extension verticale de la circulation,0,En réserve,,,,,Operational,Original
 bufr4/0/19/008/1,019008,Extension verticale de la circulation,1,Peu profonde (sommet de la circulation au-dessous du niveau de 700 hPa),,,,,Operational,Original
 bufr4/0/19/008/2,019008,Extension verticale de la circulation,2,Moyenne (sommet entre les niveaux de 700 et 400 hPa),,,,,Operational,Original

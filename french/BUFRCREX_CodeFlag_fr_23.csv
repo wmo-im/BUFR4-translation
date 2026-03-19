@@ -49,16 +49,16 @@ bufr4/0/23/006/4,023006,Situation de l’incident,4,Stable,,,,,Operational,Origi
 bufr4/0/23/006/5,023006,Situation de l’incident,5,Situation se détériorant,,,,,Operational,Original
 bufr4/0/23/006/6,023006,Situation de l’incident,6,En réserve,,,,,Operational,Original
 bufr4/0/23/006/7,023006,Situation de l’incident,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/23/007/0,023007,Caractéristiques du rejet,0,Aucun rejet,,,,,Operational,Original
-bufr4/0/23/007/1,023007,Caractéristiques du rejet,1,Le rejet a cessé,,,,,Operational,Original
-bufr4/0/23/007/2,023007,Caractéristiques du rejet,2,Rejet,,,,,Operational,Original
-bufr4/0/23/007/3,023007,Caractéristiques du rejet,3,Le rejet se poursuit,,,,,Operational,Original
+bufr4/0/23/007/0//1,023007,Caractéristiques du rejet,0,Aucun rejet,,,,,Operational,Original
+bufr4/0/23/007/1//1,023007,Caractéristiques du rejet,1,Le rejet a cessé,,,,,Operational,Original
+bufr4/0/23/007/2//1,023007,Caractéristiques du rejet,2,Rejet,,,,,Operational,Original
+bufr4/0/23/007/3//1,023007,Caractéristiques du rejet,3,Le rejet se poursuit,,,,,Operational,Original
 bufr4/0/23/007/4-6,023007,Caractéristiques du rejet,4-6,En réserve,,,,,Operational,Original
 bufr4/0/23/007/7,023007,Caractéristiques du rejet,7,Valeur manquante 0 23 008/0 23 009 Nature du rejet observé ou prévu,,,,,Operational,Original
-bufr4/0/23/007/0,023007,Caractéristiques du rejet,0,Gazeux,,,,,Operational,Original
-bufr4/0/23/007/1,023007,Caractéristiques du rejet,1,Particulaire,,,,,Operational,Original
-bufr4/0/23/007/2,023007,Caractéristiques du rejet,2,Mélange de rejets gazeux et particulaires,,,,,Operational,Original
-bufr4/0/23/007/3,023007,Caractéristiques du rejet,3,Valeur manquante,,,,,Operational,Original
+bufr4/0/23/007/0//2,023007,Caractéristiques du rejet,0,Gazeux,,,,,Operational,Original
+bufr4/0/23/007/1//2,023007,Caractéristiques du rejet,1,Particulaire,,,,,Operational,Original
+bufr4/0/23/007/2//2,023007,Caractéristiques du rejet,2,Mélange de rejets gazeux et particulaires,,,,,Operational,Original
+bufr4/0/23/007/3//2,023007,Caractéristiques du rejet,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/23/016/0,023016,Risque d’effets chimiques toxiques notables sur la santé,0,Aucun effet chimique toxique notable sur la santé,,,,,Operational,Original
 bufr4/0/23/016/1,023016,Risque d’effets chimiques toxiques notables sur la santé,1,Risque d'effets chimiques toxiques notables sur la santé,,,,,Operational,Original
 bufr4/0/23/016/2,023016,Risque d’effets chimiques toxiques notables sur la santé,2,En réserve,,,,,Operational,Original

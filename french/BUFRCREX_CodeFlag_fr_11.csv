@@ -82,8 +82,8 @@ bufr4/0/11/038/6,011038,Heure du taux maximal de dissipation des tourbillons Min
 bufr4/0/11/038/7,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,7,7 ≤ min < 8,,,,,Operational,Original
 bufr4/0/11/038/8,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,8,8 ≤ min < 9,,,,,Operational,Original
 bufr4/0/11/038/9,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,9,9 ≤ min < 10,,,,,Operational,Original
-bufr4/0/11/038/11,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,11,10 ≤ min < 11,,,,,Operational,Original
-bufr4/0/11/038/11,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,11,11 ≤ min < 12,,,,,Operational,Original
+bufr4/0/11/038/11//1,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,11,10 ≤ min < 11,,,,,Operational,Original
+bufr4/0/11/038/11//2,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,11,11 ≤ min < 12,,,,,Operational,Original
 bufr4/0/11/038/12,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,12,12 ≤ min < 13,,,,,Operational,Original
 bufr4/0/11/038/13,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,13,13 ≤ min < 14,,,,,Operational,Original
 bufr4/0/11/038/14,011038,Heure du taux maximal de dissipation des tourbillons Minutes avant l’heure,14,14 ≤ min < 15,,,,,Operational,Original
