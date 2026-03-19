@@ -60,7 +60,7 @@ bufr4/0/25/022/5,025022,Banderín de rechazo GHRSST,5,Lluvia detectada (datos en
 bufr4/0/25/022/6,025022,Banderín de rechazo GHRSST,6,Nubosidad detectada (datos en infrarrojos únicamente),,,,,Operational,Original
 bufr4/0/25/022/7,025022,Banderín de rechazo GHRSST,7,Valor cosmético,,,,,Operational,Original
 bufr4/0/25/022/8,025022,Banderín de rechazo GHRSST,8,Temperatura de la superficie del mar (SST) fuera de dial,,,,,Operational,Original
-bufr4/0/25/022/9,025022,Banderín de rechazo GHRSST,9,Valor faltante,,,,,Operational,Original
+bufr4/0/25/022/All-9,025022,Banderín de rechazo GHRSST,Los 9,Valor faltante,,,,,Operational,Original
 bufr4/0/25/023/1,025023,Banderín de confianza GHRSST,1,Se ha utilizado el valor de confianza por defecto,,,,,Operational,Original
 bufr4/0/25/023/2,025023,Banderín de confianza GHRSST,2,Se han utilizado la desviación típica y el error sistemático por defecto,,,,,Operational,Original
 bufr4/0/25/023/3,025023,Banderín de confianza GHRSST,3,Sospecha de destello solar,,,,,Operational,Original
@@ -201,7 +201,7 @@ bufr4/0/25/093/3-6,025093,Corrección del cálculo RASS (sistema de sondeo radio
 bufr4/0/25/093/7,025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),7,Todas las correcciones,,,,,Operational,Original
 bufr4/0/25/093/All-8,025093,Corrección del cálculo RASS (sistema de sondeo radioacústico),Los 8,Valor faltante,,,,,Operational,Original
 bufr4/0/25/095/1,025095,Banderín de estado del altímetro,1,"Altímetro en funcionamiento (0 si nominal, 1 si reserva)",,,,,Operational,Original
-bufr4/0/25/095/2,025095,Banderín de estado del altímetro,2,Valor faltante,,,,,Operational,Original
+bufr4/0/25/095/All-2,025095,Banderín de estado del altímetro,Los 2,Valor faltante,,,,,Operational,Original
 bufr4/0/25/096/1,025096,Banderín de estado del radiómetro,1,"Indicador de modo (0 si modo 2, 1 si modo 1)",,,,,Operational,Original
 bufr4/0/25/096/2,025096,Banderín de estado del radiómetro,2,"Indicador de secuencia de calibración de modo 1 (0 si los datos normales están en modo 1 ó 2, 1 si secuencia de calibración en modo 1)",,,,,Operational,Original
 bufr4/0/25/096/3,025096,Banderín de estado del radiómetro,3,"Canal 2 (0 si activo, 1 si inactivo)",,,,,Operational,Original
