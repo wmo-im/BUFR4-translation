@@ -1,5 +1,5 @@
 Id,CodeFigure,Meaning_es,Status,translated_by
-bufr4/a/0,0,Datos de superficie — terrestres,Operational,Original
+bufr4/a/0,0,Datos de superficie — terrestres,Operational,LSP
 bufr4/a/1,1,Datos de superficie — marinos,Operational,Original
 bufr4/a/2,2,Sondeos verticales (distintos de los satelitales),Operational,Original
 bufr4/a/3,3,Sondeos verticales (de satélite),Operational,Original
