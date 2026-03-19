@@ -67,8 +67,8 @@ bufr4/3/04/033/6/012075,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/033/7/012076,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,Radiancia en cielo despejado,,012076,Radiancia,,,,Operational,Original
 bufr4/3/04/033/8/012063,04,Secuencias meteorológicas comunes a las observaciones satelitales,304033,Radiancia en cielo despejado,,012063,Temperatura de lumicia,,,,Operational,Original
 bufr4/3/04/034/1/102004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,102004,Repetir 2 descriptores 4 veces,,,,Operational,Original
-bufr4/3/04/034/2/027001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,027001,Latitud (gran precisión,,,,Operational,Original
-bufr4/3/04/034/3/028001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,028001,Longitud (gran precisión,,,,Operational,Original
+bufr4/3/04/034/2/027001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,027001,Latitud (gran precisión),,,,Operational,Original
+bufr4/3/04/034/3/028001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,028001,Longitud (gran precisión),,,,Operational,Original
 bufr4/3/04/034/4/007022,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,007022,Elevación solar,,,,Operational,Original
 bufr4/3/04/034/5/005043,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,005043,Número del campo de visión,,,,Operational,Original
 bufr4/3/04/034/6/020010,04,Secuencias meteorológicas comunes a las observaciones satelitales,304034,"Latitud/longitud, elevación solar, número de capas",,020010,Cubierta de nubes (total,,,,Operational,Original
