@@ -14,7 +14,7 @@ bufr4/a/11,11,Tablas BUFR: reemplazo completo o actualización,Operational,Origi
 bufr4/a/12,12,Datos de superficie (satélite),Operational,Original
 bufr4/a/13,13,Predicciones,Operational,Original
 bufr4/a/14,14,Avisos,Operational,Original
-bufr4/a/15–19,15–19,Reservadas,Operational,Original
+bufr4/a/15-19,15–19,Reservadas,Operational,Original
 bufr4/a/20,20,Información sobre la situación,Operational,Original
 bufr4/a/21,21,Radiancias (medidas por satélite),Operational,Original
 bufr4/a/22,22,"Radar (satélite), pero no altímetro y dispersómetro",Operational,Original
@@ -27,8 +27,8 @@ bufr4/a/28,28,Órbita de precisión (satélite),Operational,Original
 bufr4/a/29,29,Entorno espacial (satélite),Operational,Original
 bufr4/a/30,30,Conjuntos de datos de calibración (satélite),Operational,Original
 bufr4/a/31,31,Datos oceanográficos,Operational,Original
-bufr4/a/32–100,32–100,Reservadas,Operational,Original
+bufr4/a/32-100,32–100,Reservadas,Operational,Original
 bufr4/a/101,101,Datos en imágenes (satélite),Operational,Original
-bufr4/a/102–239,102–239,Reservadas,Operational,Original
-bufr4/a/240–254,240–254,Para uso experimental,Operational,Original
+bufr4/a/102-239,102–239,Reservadas,Operational,Original
+bufr4/a/240-254,240–254,Para uso experimental,Operational,Original
 bufr4/a/255,255,Otra categoría,Operational,Original

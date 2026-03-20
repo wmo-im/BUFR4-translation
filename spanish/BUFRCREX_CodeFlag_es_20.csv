@@ -374,11 +374,10 @@ bufr4/0/20/009/1,020009,Indicador general del tiempo (TAF/METAR),1,Ausencia de n
 bufr4/0/20/009/2,020009,Indicador general del tiempo (TAF/METAR),2,CAVOK,,,,,Operational,Original
 bufr4/0/20/009/3,020009,Indicador general del tiempo (TAF/METAR),3,Cielo despejado (SKC),,,,,Operational,Original
 bufr4/0/20/009/4,020009,Indicador general del tiempo (TAF/METAR),4,Ausencia de tiempo significativo (NSW),,,,,Operational,Original
-,,,,,,,,,,
 bufr4/0/20/009/5-14,020009,Indicador general del tiempo (TAF/METAR),5-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/009/15,020009,Indicador general del tiempo (TAF/METAR),15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/011/0,020011,Nubosidad,0,0,0,,,,Operational,Original
-bufr4/0/20/011/1,020011,Nubosidad,1,1 octa o menos, pero no cero,1/10 o menos, pero no cero,,,,Operational,Original
+bufr4/0/20/011/1,020011,Nubosidad,1,"1 octa o menos, pero no cero","1/10 o menos, pero no cero",,,,Operational,Original
 bufr4/0/20/011/2,020011,Nubosidad,2,2 octas,2/10 - 3/10,,,,Operational,Original
 bufr4/0/20/011/3,020011,Nubosidad,3,3 octas,4/10,,,,Operational,Original
 bufr4/0/20/011/4,020011,Nubosidad,4,4 octas,46300,,,,Operational,Original
@@ -746,7 +745,7 @@ bufr4/0/20/063/16,020063,Fenómenos especiales,16,Espejismo: imagen del sol o la
 bufr4/0/20/063/17,020063,Fenómenos especiales,17,"Espejismo: sol visible, aunque esté situado astronómicamente debajo del horizonte",,,,,Operational,Original
 bufr4/0/20/063/18,020063,Fenómenos especiales,18,"Espejismo: luna visible, aunque esté situada astronómicamente debajo del horizonte",,,,,Operational,Original
 bufr4/0/20/063/19,020063,Fenómenos especiales,19,Reservada,,,,,Operational,Original
-bufr4/0/20/063//2,020063,Fenómenos especiales,,"20–22 Oscuridad diurna, más intensa en la dirección especificada",,,,,,
+bufr4/0/20/063//2,020063,Fenómenos especiales,,"20–22 Oscuridad diurna, más intensa en la dirección especificada",,,,,Operational,Original
 bufr4/0/20/063/20,020063,Fenómenos especiales,20,"Oscuridad diurna, bastante, más intensa en la dirección especificada",,,,,Operational,Original
 bufr4/0/20/063/21,020063,Fenómenos especiales,21,"Oscuridad diurna, mucha, más intensa en la dirección especificada",,,,,Operational,Original
 bufr4/0/20/063/22,020063,Fenómenos especiales,22,"Oscuridad diurna, total, más intensa en la dirección especificada",,,,,Operational,Original
@@ -923,7 +922,7 @@ bufr4/0/20/104/6,020104,Estado de organización del enjambre o banda de langosta
 bufr4/0/20/104/7,020104,Estado de organización del enjambre o banda de langostas,7,"Langostas, en su mayoría en vuelo a más de 10 metros de altura",,,,,Operational,Original
 bufr4/0/20/104/8,020104,Estado de organización del enjambre o banda de langostas,8,"Langostas, dañando todas ellas gravemente la vegetación, ninguna actividad de exterminio",,,,,Operational,Original
 bufr4/0/20/104/9,020104,Estado de organización del enjambre o banda de langostas,9,"Langostas, dañando todas ellas gravemente la vegetación, actividades de exterminio en curso",,,,,Operational,Original
-bufr4/0/20/104/10-14,020104,Estado de organización del enjambre o banda de langostas,10-14,,,,,,Operational,Original
+bufr4/0/20/104/10-14,020104,Estado de organización del enjambre o banda de langostas,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/104/15,020104,Estado de organización del enjambre o banda de langostas,15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/105//1,020105,Tamaño del enjambre o banda de langostas y duración de su paso,,Cuando 0 20 104 (estado organizativo de la bandada de langostas) = 0,,,,,Operational,Original
 bufr4/0/20/105/0,020105,Tamaño del enjambre o banda de langostas y duración de su paso,0,Reservadas,,,,,Operational,Original
