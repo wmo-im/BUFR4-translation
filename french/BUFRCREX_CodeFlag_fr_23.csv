@@ -59,6 +59,10 @@ bufr4/0/23/008/0,023008,Nature du rejet observé ou prévu,0,Gazeux,,,,,Operatio
 bufr4/0/23/008/1,023008,Nature du rejet observé ou prévu,1,Particulaire,,,,,Operational,Original
 bufr4/0/23/008/2,023008,Nature du rejet observé ou prévu,2,Mélange de rejets gazeux et particulaires,,,,,Operational,Original
 bufr4/0/23/008/3,023008,Nature du rejet observé ou prévu,3,Valeur manquante,,,,,Operational,Original
+bufr4/0/23/009/0,023009,Nature du rejet observé ou prévu,0,Gazeux,,,,,Operational,Original
+bufr4/0/23/009/1,023009,Nature du rejet observé ou prévu,1,Particulaire,,,,,Operational,Original
+bufr4/0/23/009/2,023009,Nature du rejet observé ou prévu,2,Mélange de rejets gazeux et particulaires,,,,,Operational,Original
+bufr4/0/23/009/3,023009,Nature du rejet observé ou prévu,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/23/016/0,023016,Risque d'effets chimiques toxiques notables sur la santé,0,Aucun effet chimique toxique notable sur la santé,,,,,Operational,Original
 bufr4/0/23/016/1,023016,Risque d'effets chimiques toxiques notables sur la santé,1,Risque d'effets chimiques toxiques notables sur la santé,,,,,Operational,Original
 bufr4/0/23/016/2,023016,Risque d'effets chimiques toxiques notables sur la santé,2,En réserve,,,,,Operational,Original
