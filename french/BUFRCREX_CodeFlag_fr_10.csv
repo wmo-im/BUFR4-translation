@@ -9,7 +9,7 @@ bufr4/0/10/063/6,010063,Caractéristique de la tendance barométrique,6,"En bais
 bufr4/0/10/063/7,010063,Caractéristique de la tendance barométrique,7,En baisse (régulière ou irrégulière) auparavant,,,,,Operational,Original
 bufr4/0/10/063/8,010063,Caractéristique de la tendance barométrique,8,"Stationnaire ou en hausse, puis en baisse; ou en baisse, puis en baisse plus rapide",,,,,Operational,Original
 bufr4/0/10/063/9-14,010063,Caractéristique de la tendance barométrique,9-14,En réserve,,,,,Operational,Original
-bufr4/0/10/063/15,010063,Caractéristique de la tendance barométrique,15,Valeur manquante,,,,"52,53",Operational,Original
+bufr4/0/10/063/15,010063,Caractéristique de la tendance barométrique,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/10/064/0,010064,Niveau de croisière — SIGMET,0,Subsonique,,,,,Operational,Original
 bufr4/0/10/064/1,010064,Niveau de croisière — SIGMET,1,Transsonique,,,,,Operational,Original
 bufr4/0/10/064/2,010064,Niveau de croisière — SIGMET,2,Supersonique,,,,,Operational,Original

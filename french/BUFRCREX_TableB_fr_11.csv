@@ -12,8 +12,8 @@ bufr4/0/11/011,11,Classe 11 — Vent et turbulence,011011,Direction du vent à 1
 bufr4/0/11/012,11,Classe 11 — Vent et turbulence,011012,Vitesse du vent à 10 m,–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
 bufr4/0/11/013,11,Classe 11 — Vent et turbulence,011013,Direction du vent à 5 m,degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
 bufr4/0/11/014,11,Classe 11 — Vent et turbulence,011014,Vitesse du vent à 5 m,–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
-bufr4/0/11/016,11,Classe 11 — Vent et turbulence,011016,Direction du vent extrême dans le sens contraire des aiguilles d’une montre (vent variable),degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
-bufr4/0/11/017,11,Classe 11 — Vent et turbulence,011017,Direction du vent extrême dans le sens des aiguilles d’une montre (vent variable),degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
+bufr4/0/11/016,11,Classe 11 — Vent et turbulence,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre (vent variable),degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
+bufr4/0/11/017,11,Classe 11 — Vent et turbulence,011017,Direction du vent extrême dans le sens des aiguilles d'une montre (vent variable),degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
 bufr4/0/11/019,11,Classe 11 — Vent et turbulence,011019,Stabilité du vent,%,0,0,7,%,0,3,(voir Note 6),147,Operational,Original
 bufr4/0/11/021,11,Classe 11 — Vent et turbulence,011021,Tourbillon relatif,–1 s,9,-65536,17,–1 s,9,6,,,Operational,Original
 bufr4/0/11/022,11,Classe 11 — Vent et turbulence,011022,Divergence,–1 s,9,-65536,17,–1 s,9,6,,,Operational,Original
@@ -27,7 +27,7 @@ bufr4/0/11/035,11,Classe 11 — Vent et turbulence,011035,Accélération des raf
 bufr4/0/11/036,11,Classe 11 — Vent et turbulence,011036,Équivalent maximal dérivé de la vitesse des rafales verticales,–1 m s,1,0,10,–1 m s,1,4,,,Operational,Original
 bufr4/0/11/037,11,Classe 11 — Vent et turbulence,011037,Indice de turbulence,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/11/038,11,Classe 11 — Vent et turbulence,011038,Heure du taux maximal de dissipation des tourbillons,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
-bufr4/0/11/039,11,Classe 11 — Vent et turbulence,011039,Étalement dans le temps de l’appa-rition du taux maximal de dissipation des tourbillons,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
+bufr4/0/11/039,11,Classe 11 — Vent et turbulence,011039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/11/040,11,Classe 11 — Vent et turbulence,011040,Vitesse maximale du vent (vent moyen),–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
 bufr4/0/11/041,11,Classe 11 — Vent et turbulence,011041,Vitesse de la rafale maximale,–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
 bufr4/0/11/042,11,Classe 11 — Vent et turbulence,011042,Vitesse maximale du vent (vent moyen sur 10 minutes),–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
@@ -52,7 +52,7 @@ bufr4/0/11/073,11,Classe 11 — Vent et turbulence,011073,Énergie cinétique de
 bufr4/0/11/074,11,Classe 11 — Vent et turbulence,011074,Énergie de dissipation,2–2 m s,2,-1024,10,2–2 m s,2,4,,,Operational,Original
 bufr4/0/11/075,11,Classe 11 — Vent et turbulence,011075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),2/3–1 m s,2,0,8,2/3–1 m s,2,3,,,Operational,Original
 bufr4/0/11/076,11,Classe 11 — Vent et turbulence,011076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),2/3–1 m s,2,0,8,2/3–1 m s,2,3,,,Operational,Original
-bufr4/0/11/077,11,Classe 11 — Vent et turbulence,011077,Intervalle d’enregistrement ou temps moyen pour établir le taux de dissi-pation des tourbillons,s,0,0,12,s,0,4,,,Operational,Original
+bufr4/0/11/077,11,Classe 11 — Vent et turbulence,011077,Intervalle d'enregistrement ou temps moyen pour établir le taux de dissipation des tourbillons,s,0,0,12,s,0,4,,,Operational,Original
 bufr4/0/11/081,11,Classe 11 — Vent et turbulence,011081,Direction du vent à 10 m donnée par modèle,degré vrai,2,0,16,degré vrai,2,5,,,Operational,Original
 bufr4/0/11/082,11,Classe 11 — Vent et turbulence,011082,Vitesse du vent à 10 m donnée par modèle,–1 m s,2,0,14,–1 m s,2,4,,,Operational,Original
 bufr4/0/11/083,11,Classe 11 — Vent et turbulence,011083,Vitesse du vent,–1 km h,0,0,9,–1 km h,0,3,,,Operational,Original
@@ -61,16 +61,16 @@ bufr4/0/11/085,11,Classe 11 — Vent et turbulence,011085,Vitesse de la rafale m
 bufr4/0/11/086,11,Classe 11 — Vent et turbulence,011086,Vitesse de la rafale maximale,kt,0,0,8,kt,0,3,,,Operational,Original
 bufr4/0/11/095,11,Classe 11 — Vent et turbulence,011095,Composante u du vecteur vent – modèle,–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
 bufr4/0/11/096,11,Classe 11 — Vent et turbulence,011096,Composante v du vecteur vent – modèle,–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
-bufr4/0/11/097,11,Classe 11 — Vent et turbulence,011097,Vitesse du vent indiquée par l’altimètre,–1 m s,2,0,12,–1 m s,2,4,,,Operational,Original
+bufr4/0/11/097,11,Classe 11 — Vent et turbulence,011097,Vitesse du vent indiquée par l'altimètre,–1 m s,2,0,12,–1 m s,2,4,,,Operational,Original
 bufr4/0/11/098,11,Classe 11 — Vent et turbulence,011098,Vitesse du vent indiquée par le radiomètre,–1 m s,2,0,12,–1 m s,2,4,,,Operational,Original
-bufr4/0/11/100,11,Classe 11 — Vent et turbulence,011100,Vitesse vraie de l’aéronef,–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
-bufr4/0/11/101,11,Classe 11 — Vent et turbulence,011101,Vitesse sol de l’aéronef (composante u),–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
-bufr4/0/11/102,11,Classe 11 — Vent et turbulence,011102,Vitesse sol de l’aéronef (composante v),–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
-bufr4/0/11/103,11,Classe 11 — Vent et turbulence,011103,Vitesse sol de l’aéronef (composante w),–1 m s,1,-512,10,–1 m s,1,3,,,Operational,Original
-bufr4/0/11/104,11,Classe 11 — Vent et turbulence,011104,"Cap vrai de l’aéronef, du navire ou de la plate-forme mobile",degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
-bufr4/0/11/105,11,Classe 11 — Vent et turbulence,011105,Version de l’algorithme du taux de dissipation des tourbillons,Numérique,0,0,6,Numérique,0,2,,,Operational,Original
+bufr4/0/11/100,11,Classe 11 — Vent et turbulence,011100,Vitesse vraie de l'aéronef,–1 m s,1,0,12,–1 m s,1,4,,,Operational,Original
+bufr4/0/11/101,11,Classe 11 — Vent et turbulence,011101,Vitesse sol de l'aéronef (composante u),–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
+bufr4/0/11/102,11,Classe 11 — Vent et turbulence,011102,Vitesse sol de l'aéronef (composante v),–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original
+bufr4/0/11/103,11,Classe 11 — Vent et turbulence,011103,Vitesse sol de l'aéronef (composante w),–1 m s,1,-512,10,–1 m s,1,3,,,Operational,Original
+bufr4/0/11/104,11,Classe 11 — Vent et turbulence,011104,"Cap vrai de l'aéronef, du navire ou de la plate-forme mobile",degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
+bufr4/0/11/105,11,Classe 11 — Vent et turbulence,011105,Version de l'algorithme du taux de dissipation des tourbillons,Numérique,0,0,6,Numérique,0,2,,,Operational,Original
 bufr4/0/11/106,11,Classe 11 — Vent et turbulence,011106,Niveau de confiance minimum associé au fonctionnement,Numérique,1,0,4,Numérique,1,2,,,Operational,Original
-bufr4/0/11/107,11,Classe 11 — Vent et turbulence,011107,Nombre maximum d’entrées fausses,Numérique,0,0,5,Numérique,0,2,,,Operational,Original
+bufr4/0/11/107,11,Classe 11 — Vent et turbulence,011107,Nombre maximum d'entrées fausses,Numérique,0,0,5,Numérique,0,2,,,Operational,Original
 bufr4/0/11/108,11,Classe 11 — Vent et turbulence,011108,Localisation de la valeur de crête,Numérique,1,0,4,Numérique,1,2,,,Operational,Original
 bufr4/0/11/109,11,Classe 11 — Vent et turbulence,011109,Nombre de valeurs justes du taux de dissipation des tourbillons,Numérique,0,0,4,Numérique,0,2,,,Operational,Original
 bufr4/0/11/110,11,Classe 11 — Vent et turbulence,011110,Incertitude relative à la composante u,–1 m s,1,-4096,13,–1 m s,1,4,,,Operational,Original

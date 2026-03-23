@@ -5,7 +5,7 @@ bufr4/0/30/004,30,Classe 30 — Image,030004,Valeur des pixels (16 bits),Numéri
 bufr4/0/30/010,30,Classe 30 — Image,030010,Nombre de points de grille,Numérique,0,0,13,Numérique,0,4,,,Operational,Original
 bufr4/0/30/021,30,Classe 30 — Image,030021,Nombre de pixels par ligne,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
 bufr4/0/30/022,30,Classe 30 — Image,030022,Nombre de pixels par colonne,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
-bufr4/0/30/031,30,Classe 30 — Image,030031,Type d’image,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
-bufr4/0/30/032,30,Classe 30 — Image,030032,Combinaison avec d’autres données,Table d’indicateurs,0,0,16,Table d’indicateurs,0,6,,,Operational,Original
-bufr4/0/30/033,30,Classe 30 — Image,030033,N ombre de cellules le long des lignes 	N radiales,umérique,0,0,12 	N,umérique,0,4,,,Operational,Original
-bufr4/0/30/034,30,Classe 30 — Image,030034,N ombre d’azimuts 	N,umérique,0,0,12 	N,umérique,0,4,,,Operational,Original
+bufr4/0/30/031,30,Classe 30 — Image,030031,Type d'image,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
+bufr4/0/30/032,30,Classe 30 — Image,030032,Combinaison avec d'autres données,Table d'indicateurs,0,0,16,Table d'indicateurs,0,6,,,Operational,Original
+bufr4/0/30/033,30,Classe 30 — Image,030033,N ombre de cellules le long des lignes N radiales,umérique,0,0,12 N,umérique,0,4,,,Operational,Original
+bufr4/0/30/034,30,Classe 30 — Image,030034,N ombre d'azimuts N,umérique,0,0,12 N,umérique,0,4,,,Operational,Original

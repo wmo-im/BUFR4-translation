@@ -9,6 +9,6 @@ bufr4/0/35/024,35,Classe 35 — Informations sur le contrôle des données,03502
 bufr4/0/35/030,35,Classe 35 — Informations sur le contrôle des données,035030,Divergences dans la disponibilité des données attendues,Table de code,0,0,4,Table de code,0,1,,,Operational,Original
 bufr4/0/35/031,35,Classe 35 — Informations sur le contrôle des données,035031,Déterminant des résultats du contrôle,Table de code,0,0,7,Table de code,0,2,,,Operational,Original
 bufr4/0/35/032,35,Classe 35 — Informations sur le contrôle des données,035032,Cause des données manquantes,Table de code,0,0,4,Table de code,0,1,,,Operational,Original
-bufr4/0/35/033,35,Classe 35 — Informations sur le contrôle des données,035033,Défauts d’observation et de collecte,Table de code,0,0,7,Table de code,0,2,,,Operational,Original
-bufr4/0/35/034,35,Classe 35 — Informations sur le contrôle des données,035034,Tendances statistiques de la disponi-bilité des données (pendant la(les) période(s) d’observation),Table de code,0,0,3,Table de code,0,1,,,Operational,Original
-bufr4/0/35/035,35,Classe 35 — Informations sur le contrôle des données,035035,Raison de l’abandon,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
+bufr4/0/35/033,35,Classe 35 — Informations sur le contrôle des données,035033,Défauts d'observation et de collecte,Table de code,0,0,7,Table de code,0,2,,,Operational,Original
+bufr4/0/35/034,35,Classe 35 — Informations sur le contrôle des données,035034,Tendances statistiques de la disponibilité des données (pendant la(les) période(s) d'observation),Table de code,0,0,3,Table de code,0,1,,,Operational,Original
+bufr4/0/35/035,35,Classe 35 — Informations sur le contrôle des données,035035,Raison de l'abandon,Table de code,0,0,5,Table de code,0,2,,,Operational,Original

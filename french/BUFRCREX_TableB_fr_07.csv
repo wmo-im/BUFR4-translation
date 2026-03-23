@@ -17,15 +17,15 @@ bufr4/0/07/025,07,Classe 07 — Position (verticale),007025,Distance zénithale 
 bufr4/0/07/026,07,Classe 07 — Position (verticale),007026,Distance zénithale du satellite,°,4,-900000,21,°,4,7,,,Operational,Original
 bufr4/0/07/030,07,Classe 07 — Position (verticale),007030,Altitude du sol de la sation,m,1,-4000,17,m,1,5,(voir Note 3),87,Operational,Original
 bufr4/0/07/031,07,Classe 07 — Position (verticale),007031,Altitude du baromètre,m,1,-4000,17,m,1,5,(voir Note 4),84,Operational,Original
-bufr4/0/07/032,07,Classe 07 — Position (verticale),007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme  marine),m,2,0,16,m,2,5,(voir Note 5),85,Operational,Original
-bufr4/0/07/033,07,Classe 07 — Position (verticale),007033,Hauteur du capteur au-dessus  de la surface de l’eau,m,1,0,12,m,1,4,(voir Note 6),86,Operational,Original
+bufr4/0/07/032,07,Classe 07 — Position (verticale),007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),m,2,0,16,m,2,5,(voir Note 5),85,Operational,Original
+bufr4/0/07/033,07,Classe 07 — Position (verticale),007033,Hauteur du capteur au-dessus de la surface de l'eau,m,1,0,12,m,1,4,(voir Note 6),86,Operational,Original
 bufr4/0/07/035,07,Classe 07 — Position (verticale),007035,Taille maximale de la dimension z,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
 bufr4/0/07/036,07,Classe 07 — Position (verticale),007036,Indice de niveau de z,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
-bufr4/0/07/040,07,Classe 07 — Position (verticale),007040,Paramètre d’impact,m,1,62000000,22,m,1,8,(voir Note 7),74,Operational,Original
+bufr4/0/07/040,07,Classe 07 — Position (verticale),007040,Paramètre d'impact,m,1,62000000,22,m,1,8,(voir Note 7),74,Operational,Original
 bufr4/0/07/061,07,Classe 07 — Position (verticale),007061,Profondeur sous la surface terrestre,m,2,0,14,m,2,5,,,Operational,Original
-bufr4/0/07/062,07,Classe 07 — Position (verticale),007062,Profondeur sous la surface de la mer/ de l’eau,m,1,0,17,m,1,6,,,Operational,Original
-bufr4/0/07/063,07,Classe 07 — Position (verticale),007063,Profondeur sous la surface de la mer/ de l’eau (cm),m,2,0,20,m,2,7,,,Operational,Original
+bufr4/0/07/062,07,Classe 07 — Position (verticale),007062,Profondeur sous la surface de la mer/ de l'eau,m,1,0,17,m,1,6,,,Operational,Original
+bufr4/0/07/063,07,Classe 07 — Position (verticale),007063,Profondeur sous la surface de la mer/ de l'eau (cm),m,2,0,20,m,2,7,,,Operational,Original
 bufr4/0/07/064,07,Classe 07 — Position (verticale),007064,Hauteur représentative du capteur au-dessus du niveau de la station,m,0,0,4,m,0,2,(voir Note 8),117,Operational,Original
 bufr4/0/07/065,07,Classe 07 — Position (verticale),007065,Pression hydrostatique,Pa,-3,0,17,Pa,-3,6,,,Operational,Original
 bufr4/0/07/070,07,Classe 07 — Position (verticale),007070,Profondeur de lest,m,0,0,10,m,0,4,,,Operational,Original
-bufr4/0/07/071,07,Classe 07 — Position (verticale),007071,Hauteur (haute résolution) Guide des instruments et des méthodes d’observation météorologiques,m,3,"-10000000 (OMM-N° 8), 1996).",26,m Messages météorologiques,"3 (OMM-N° 9),",8,,,Operational,Original
+bufr4/0/07/071,07,Classe 07 — Position (verticale),007071,Hauteur (haute résolution) Guide des instruments et des méthodes d'observation météorologiques,m,3,"-10000000 (OMM-N° 8), 1996).",26,m Messages météorologiques,"3 (OMM-N° 9),",8,,,Operational,Original
