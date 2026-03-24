@@ -221,8 +221,8 @@ bufr4/0/25/097/10-14,025097,Estimación del error tridimensional de la órbita d
 bufr4/0/25/097/15,025097,Estimación del error tridimensional de la órbita del navegador,15,Valor faltante,,,,,Operational,Original
 bufr4/0/25/098/1,025098,Banderín de calidad de los datos altimétricos,1,Alcance en banda Ku,,,,,Operational,Original
 bufr4/0/25/098/2,025098,Banderín de calidad de los datos altimétricos,2,Alcance en banda C,,,,,Operational,Original
-bufr4/0/25/098/3,025098,Banderín de calidad de los datos altimétricos,3,AOS en banda Ku*,,,,,Operational,Original
-bufr4/0/25/098/4,025098,Banderín de calidad de los datos altimétricos,4,AOS en banda C*,,,,,Operational,Original
+bufr4/0/25/098/3,025098,Banderín de calidad de los datos altimétricos,3,AOS en banda Ku,,,,,Operational,Original
+bufr4/0/25/098/4,025098,Banderín de calidad de los datos altimétricos,4,AOS en banda C,,,,,Operational,Original
 bufr4/0/25/098/5,025098,Banderín de calidad de los datos altimétricos,5,Coeficiente de retrodispersión en banda Ku,,,,,Operational,Original
 bufr4/0/25/098/6,025098,Banderín de calidad de los datos altimétricos,6,Coeficiente de retrodispersión en banda C,,,,,Operational,Original
 bufr4/0/25/098/7,025098,Banderín de calidad de los datos altimétricos,7,Ángulo respecto del nadir mediante los parámetros de la forma de onda en banda Ku,,,,,Operational,Original
