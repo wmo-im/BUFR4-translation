@@ -1,0 +1,79 @@
+acronym,meaning,translated_by
+ADC,analog-to-digital converter,na
+ADCP,Acoustic Doppler Current Profiler,na
+AMV,atmospheric motion vector,na
+AOT,aerosol optical thickness,na
+APSP,aerosol particle size parameter,na
+ASCAT,Advanced Scatterometer,na
+BBP700,Particulate backscattering coefficient at 700 nm,na
+BGAN,Broadband Global Area Network,na
+BIPM,Bureau International de Poids et Mesures,na
+DEM,digital elevation model,na
+DORIS,Doppler orbitography and radio-positioning integrated by Satellite,na
+DSR,data set record,na
+DU,Dobson Unit,na
+EDR,eddy dissipation rate,na
+EOP,earth orientation parameters,na
+EPS-SG,EUMETSAT Polar System Second Generation,na
+EUMETSAT,European Organisation for the Exploitation of Meteorological Satellites,na
+FOVs,fields of view,na
+GAN,global area network,na
+GHRSST,GODAE high-resolution sea-surface temperature,na
+GNSS,global navigation satellite system,na
+GRP,Glass-reinforced plastic,na
+GRUAN,GCOS Reference Upper-Air Network,na
+GTSPP,Global Temperature Salinity Profile Programme,na
+HPA,high power amplifier,na
+IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation ,na
+ICI,Ice Cloud Imager,na
+IERS,International Earth Rotation Service,na
+IFOV,instantaneous field of view,na
+IFP,Intermediate Frequency Processor,na
+IW,infrared window,na
+JCGM,Joint Committee for Guides in Metrology,na
+JMR,JASON-1 Microwave Radiometer,na
+L0,level 0 (raw data),na
+L2,level 2 (geophysical data),na
+LOS,line of sight,na
+LRM, low-resolution mode,na
+LSM,landform segmentation model,na
+MMCC,Mission Management Control Centre,na
+MR,main reflector,na
+MWI,Microwave Imager,na
+MWR,microwave radiometer,na
+MWS,Microwave Sounder,na
+NAVATT,navigation and attitude data,na
+NEDT,nose equivalent delta temperature,na
+NEdT,nose equivalent delta temperature,na
+NEΔT,nose equivalent delta temperature,na
+NOF,normalized objective function,na
+OBC,on-board calibration,na
+OBCT,on board calibration target,na
+OCOG,offset centre of gravity,na
+OLCI,Ocean and Land Colour Instrument,na
+PCS,principle component scores,na
+PRF,pulse repetition frequency,na
+PRT,platinum resistance thermometer,na
+PTR,pulse target response,na
+RAD,radiances,na
+RDR,raw data record,na
+RED,redundancy,na
+RF,radio frequency,na
+RFE,receiver front end,na
+RFI,radio frequency interference,na
+RFSS,radio frequency subsystem,na
+RMS,root mean square,na
+SAR,synthetic aperture radar,na
+SCA,Scatterometer,na
+SDR,sensor data record,na
+SSI,surface solar irradiance,na
+SWH,significant wave height,na
+SZF,resampled at full resolution,na
+SZR,resampled at 12.5 km swath grid,na
+THM,thermistor,na
+TM,telemetry,na
+TROPICS,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,na
+TWV,IASI-NG temperature and humidity profiles,na
+WV,water vapour,na
+YPR,"yaw, pitch, and roll",na
+YSM,yaw steering mode,na
