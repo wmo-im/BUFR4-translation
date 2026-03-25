@@ -1,4 +1,4 @@
-acronym,meaning,translated_by
+acronym_en,meaning_en,translated_by
 ADC,analog-to-digital converter,
 ADCP,Acoustic Doppler Current Profiler,
 AMV,atmospheric motion vector,
@@ -27,7 +27,7 @@ HPA,high power amplifier,
 IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation ,
 ICI,Ice Cloud Imager,
 IERS,International Earth Rotation Service,
-IFOV,campo visual instantáneo,Original
+IFOV,instantaneous field of view,
 IFP,Intermediate Frequency Processor,
 IW,infrared window,
 JCGM,Joint Committee for Guides in Metrology,
