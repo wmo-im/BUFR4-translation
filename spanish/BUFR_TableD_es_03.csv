@@ -177,7 +177,7 @@ bufr4/3/03/100/1/013165,03,Secuencias meteorológicas comunes a los datos de los
 bufr4/3/03/100/2/013045,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013045,Índice KO,,,,Operational,AI Translator: MCP
 bufr4/3/03/100/3/013166,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013166,Índice total de totales (TT),,,,Operational,LSP
 bufr4/3/03/100/4/013044,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013044,Índice K,,,,Operational,AI Translator: MCP
-bufr4/3/03/100/5/013042,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013042,Índice de elevación de una partícula (hasta 500 hPa),,,,Operational,LSP
+bufr4/3/03/100/5/013042,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013042,Índice de elevación de una partícula (a 500 hPa),,,,Operational,LSP
 bufr4/3/03/100/6/013167,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013167,Índice S (STT),,,,Operational,AI Translator: MCP
 bufr4/3/03/100/7/013168,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013168,Índice de amenaza de niebla,,,,Operational,AI Translator: MCP
 bufr4/3/03/100/8/013169,03,Secuencias meteorológicas comunes a los datos de los sondeos verticales,303100,(Índices de pronóstico),,013169,Índice de potencial de día con microrreventones (MDPI),,,,Operational,LSP
