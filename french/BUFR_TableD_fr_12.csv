@@ -170,9 +170,9 @@ bufr4/3/12/026/19/321027,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/027/1/301047,12,Séquences correspondant à des messages d'observation,312027,(à l'avant du satellite),,301047,Een-tête de produits de satellite ERS,,,,Operational,Original
 bufr4/3/12/027/2/105009,12,Séquences correspondant à des messages d'observation,312027,(à l'avant du satellite),,105009,Répéter 5 descripteurs 9 fois,,,,Operational,Original
 bufr4/3/12/027/3/301023,12,Séquences correspondant à des messages d'observation,312027,(à l'avant du satellite),,301023,Latitude/longitude (faible précision),Cellule de 10 minutes d'arc,,,Operational,Original
-bufr4/3/12/027/4/007021,12,Séquences correspondant à des messages d'observation,312027,(à l'avant du satellite),,007021,Hauteur,Angle d'incidence pour la visée au nadir mis à zéro  ,,,Operational,Original
+bufr4/3/12/027/4/007021,12,Séquences correspondant à des messages d'observation,312027,(à l'avant du satellite),,007021,Hauteur,Angle d'incidence pour la visée au nadir mis à zéro,,,Operational,Original
 bufr4/3/12/027/5/012061,12,Séquences correspondant à des messages d'observation,312027,,,012061,Température de la pellicule superficielle,SST (visée double),,,Operational,Original
-bufr4/3/12/027/6/007021,12,Séquences correspondant à des messages d'observation,312027,,,007021,Hauteur,Angle d'incidence pour la visée double valeur  manquante,,,Operational,Original
+bufr4/3/12/027/6/007021,12,Séquences correspondant à des messages d'observation,312027,,,007021,Hauteur,Angle d'incidence pour la visée double valeur manquante,,,Operational,Original
 bufr4/3/12/027/7/012061,12,Séquences correspondant à des messages d'observation,312027,,,012061,Température de la pellicule superficielle,SST (visée double),,,Operational,Original
 bufr4/3/12/027/8/021085,12,Séquences correspondant à des messages d'observation,312027,,,021085,Nombre de bandes transversales de mesure 0-9 de la température de la mer en surface par ATSR,,,,Operational,Original
 bufr4/3/12/027/9/021070,12,Séquences correspondant à des messages d'observation,312027,,,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),Indicateur de 23 bits,,,Operational,Original

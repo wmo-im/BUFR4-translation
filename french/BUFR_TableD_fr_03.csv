@@ -9,6 +9,12 @@ bufr4/3/03/003/1/007004,03,Séquences météorologiques communes aux données de
 bufr4/3/03/003/2/010003,03,Séquences météorologiques communes aux données de sondages verticaux,303003,,,010003,Géopotentiel,,,,Operational,Original
 bufr4/3/03/003/3/012001,03,Séquences météorologiques communes aux données de sondages verticaux,303003,,,012001,Température/température de l'air,,,,Operational,Original
 bufr4/3/03/003/4/012003,03,Séquences météorologiques communes aux données de sondages verticaux,303003,,,012003,Température du point de rosée,,,,Operational,Original
+bufr4/3/03/004/1/007004,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,007004,Pression,,,,Operational,Original
+bufr4/3/03/004/2/010003,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,010003,Géopotentiel,,,,Operational,Original
+bufr4/3/03/004/3/012001,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,012001,Température/température de l'air,,,,Operational,Original
+bufr4/3/03/004/4/012003,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,012003,Température du point de rosée,,,,Operational,Original
+bufr4/3/03/004/5/011001,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,011001,Direction du vent,,,,Operational,Original
+bufr4/3/03/004/6/011002,03,Séquences météorologiques communes aux données de sondages verticaux,303004,,,011002,Vitesse du vent,,,,Operational,Original
 bufr4/3/03/011/1/007003,03,Séquences météorologiques communes aux données de sondages verticaux,303011,(Vent à la hauteur (géopotentielle)),,007003,Géopotentiel,,,,Operational,Original
 bufr4/3/03/011/2/008001,03,Séquences météorologiques communes aux données de sondages verticaux,303011,(Vent à la hauteur (géopotentielle)),,008001,Caractéristique correspondant à des données de sondage vertical,,,,Operational,Original
 bufr4/3/03/011/3/011001,03,Séquences météorologiques communes aux données de sondages verticaux,303011,(Vent à la hauteur (géopotentielle)),,011001,Direction du vent,,,,Operational,Original

@@ -162,7 +162,7 @@ bufr4/0/25/053/1,025053,Qualité des observations,1,Bonne,,,,,Operational,Origin
 bufr4/0/25/053/2,025053,Qualité des observations,2,Redondante,,,,,Operational,Original
 bufr4/0/25/053/3,025053,Qualité des observations,3,Contestable,,,,,Operational,Original
 bufr4/0/25/053/4,025053,Qualité des observations,4,Mauvaise,,,,,Operational,Original
-bufr4/0/25/053/5,025053,Qualité des observations,5,à l'essai,,,,,Operational,Original
+bufr4/0/25/053/5,025053,Qualité des observations,5,À l'essai,,,,,Operational,Original
 bufr4/0/25/053/6,025053,Qualité des observations,6,Hâtive,,,,,Operational,Original
 bufr4/0/25/053/7-11,025053,Qualité des observations,7-11,En réserve,,,,,Operational,Original
 bufr4/0/25/053/All-12,025053,Qualité des observations,All 12,Valeur manquante,,,,,Operational,Original

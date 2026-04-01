@@ -182,9 +182,9 @@ bufr4/0/33/035/7,033035,Contrôle de qualité manuel/automatique,7,"Contrôle au
 bufr4/0/33/035/8,033035,Contrôle de qualité manuel/automatique,8,Valeur refusée après vérification manuelle,,,,,Operational,Original
 bufr4/0/33/035/9-14,033035,Contrôle de qualité manuel/automatique,9-14,En réserve,,,,,Operational,Original
 bufr4/0/33/035/15,033035,Contrôle de qualité manuel/automatique,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/037/1,033037,Erreur de corrélation du vent,1,écart de la composante u par rapport à la première approximation écart de la composante v par rapport à la première approximation,,,,,Operational,Original
-bufr4/0/33/037/2,033037,Erreur de corrélation du vent,2,écart de la composante v par rapport à la première approximation,,,,,Operational,Original
-bufr4/0/33/037/3,033037,Erreur de corrélation du vent,3,écart des composantes u et v par rapport à la première approximation Accélération de la composante u,,,,,Operational,Original
+bufr4/0/33/037/1,033037,Erreur de corrélation du vent,1,Écart de la composante u par rapport à la première approximation,,,,,Operational,Original
+bufr4/0/33/037/2,033037,Erreur de corrélation du vent,2,Écart de la composante v par rapport à la première approximation,,,,,Operational,Original
+bufr4/0/33/037/3,033037,Erreur de corrélation du vent,3,Écart des composantes u et v par rapport à la première approximation,,,,,Operational,Original
 bufr4/0/33/037/4,033037,Erreur de corrélation du vent,4,Accélération de la composante u,,,,,Operational,Original
 bufr4/0/33/037/5,033037,Erreur de corrélation du vent,5,Accélération de la composante v,,,,,Operational,Original
 bufr4/0/33/037/6,033037,Erreur de corrélation du vent,6,Accélération des composantes u et v,,,,,Operational,Original

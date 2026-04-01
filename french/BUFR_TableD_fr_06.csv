@@ -11,14 +11,17 @@ bufr4/3/06/003/1/002002,06,Séquences météorologiques ou océanographiques com
 bufr4/3/06/003/2/011011,06,Séquences météorologiques ou océanographiques communes,306003,(Vent et température en surface),,011011,Direction du vent à 10 m,,,,Operational,Original
 bufr4/3/06/003/3/011012,06,Séquences météorologiques ou océanographiques communes,306003,(Vent et température en surface),,011012,Vitesse du vent à 10 m,,,,Operational,Original
 bufr4/3/06/003/4/012004,06,Séquences météorologiques ou océanographiques communes,306003,(Vent et température en surface),,012004,Température de l'air à 2 m,,,,Operational,Original
-bufr4/3/06/004/1/002032,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,002032,Indicateur de numérisation Méthode de mesure de la salinité en fonction de la profondeur,,,,Operational,Original
+bufr4/3/06/004/1/002032,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,002032,Indicateur de numérisation,,,,Operational,Original
+bufr4/3/06/004/2/002033,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,002033,Méthode de mesure de la salinité en fonction de la profondeur,,,,Operational,Original
 bufr4/3/06/004/3/103000,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
-bufr4/3/06/004/4/031001,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,031001,Facteur de répétition différée du descripteur Profondeur sous la surface de la mer/de l'eau,,,,Operational,Original
+bufr4/3/06/004/4/031001,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
+bufr4/3/06/004/5/007062,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,007062,Profondeur sous la surface de la mer/de l'eau,,,,Operational,Original
 bufr4/3/06/004/6/022043,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,022043,Température de la mer/de l'eau,,,,Operational,Original
 bufr4/3/06/004/7/022062,06,Séquences météorologiques ou océanographiques communes,306004,"(Profondeur, température, salinité)",,022062,Salinité,,,,Operational,Original
 bufr4/3/06/005/1/002031,06,Séquences météorologiques ou océanographiques communes,306005,,,002031,Durée et heure de la mesure du courant,,,,Operational,Original
 bufr4/3/06/005/2/103000,06,Séquences météorologiques ou océanographiques communes,306005,,,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
-bufr4/3/06/005/3/031001,06,Séquences météorologiques ou océanographiques communes,306005,,,031001,Facteur de répétition différée du descripteur Profondeur sous la surface de la mer/de l'eau,,,,Operational,Original
+bufr4/3/06/005/3/031001,06,Séquences météorologiques ou océanographiques communes,306005,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
+bufr4/3/06/005/4/007062,06,Séquences météorologiques ou océanographiques communes,306005,,,007062,Profondeur sous la surface de la mer/de l'eau,,,,Operational,Original
 bufr4/3/06/005/5/022004,06,Séquences météorologiques ou océanographiques communes,306005,,,022004,Direction du courant,,,,Operational,Original
 bufr4/3/06/005/6/022031,06,Séquences météorologiques ou océanographiques communes,306005,,,022031,Vitesse du courant,,,,Operational,Original
 bufr4/3/06/006/1/306003,06,Séquences météorologiques ou océanographiques communes,306006,(Paramètres (facultatifs) de mesure par sonde immergée),,306003,Vent et température en surface,,,,Operational,Original

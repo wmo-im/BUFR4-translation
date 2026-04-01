@@ -903,7 +903,7 @@ bufr4/3/10/066/44/207002,10,Séquences correspondant à des données de sondages
 bufr4/3/10/066/45/015001,10,Séquences correspondant à des données de sondages verticaux,310066,,,015001,Ozone total,En-dessous des nuages,,,Operational,Original
 bufr4/3/10/066/46/207000,10,Séquences correspondant à des données de sondages verticaux,310066,,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational,Original
 bufr4/3/10/066/47/008003,10,Séquences correspondant à des données de sondages verticaux,310066,,,008003,Caractéristique verticale (observations par satellite),Mis à valeur manquante (annuler),,,Operational,Original
-bufr4/3/10/066/48/001032,10,Séquences correspondant à des données de sondages verticaux,310066,,,001032,Application de production,= 0 Première approximation  Définie par le centre de production local,,,Operational,Original
+bufr4/3/10/066/48/001032,10,Séquences correspondant à des données de sondages verticaux,310066,,,001032,Application de production,= 0 Première approximation | Définie par le centre de production local,,,Operational,Original
 bufr4/3/10/066/49/207002,10,Séquences correspondant à des données de sondages verticaux,310066,,,207002,"Augmenter l'échelle, la valeur de référence et le champ de données",,,,Operational,Original
 bufr4/3/10/066/50/015001,10,Séquences correspondant à des données de sondages verticaux,310066,,,015001,Ozone total,Première approximation de la colonne totale d'ozone,,,Operational,Original
 bufr4/3/10/066/51/207000,10,Séquences correspondant à des données de sondages verticaux,310066,,,207000,"Augmentation de l'échelle, de la valeur de référence et du champ de données",Annuler,,,Operational,Original

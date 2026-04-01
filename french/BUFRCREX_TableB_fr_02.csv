@@ -125,7 +125,7 @@ bufr4/0/02/142,02,Instruments BUFR/CREX,002142,Numéro de série/identificateur 
 bufr4/0/02/143,02,Instruments BUFR/CREX,002143,Type d'instrument de mesure de l'ozone,Numérique,0,0,7,Table de code,0,3,,,Operational,Original
 bufr4/0/02/144,02,Instruments BUFR/CREX,002144,Type de source lumineuse pour spectrophotomètre Brewer,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/145,02,Instruments BUFR/CREX,002145,Longueurs d'ondes et réglage pour instruments Dobson,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
-bufr4/0/02/146,02,Instruments BUFR/CREX,002146,état de la source pour instruments Dobson,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
+bufr4/0/02/146,02,Instruments BUFR/CREX,002146,État de la source pour instruments Dobson,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/147,02,Instruments BUFR/CREX,002147,Mode de transmission au centre de collecte des données,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/02/148,02,Instruments BUFR/CREX,002148,Système de collecte de données et/ou de positionnement,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/02/149,02,Instruments BUFR/CREX,002149,Type de bouée de collecte de données,Table de code,0,0,6,Table de code,0,2,,,Operational,Original

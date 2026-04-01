@@ -67,7 +67,7 @@ bufr4/3/15/004/30/022063,15,Séquences correspondant à des messages d'observati
 bufr4/3/15/004/31/008080,15,Séquences correspondant à des messages d'observation océanographique,315004,,,008080,Identificateur de l'indicateur de qualité pour le GTSPP,,,,Operational,Original
 bufr4/3/15/004/32/033050,15,Séquences correspondant à des messages d'observation océanographique,315004,,,033050,Indicateur de qualité global pour le GTSPP,,,,Operational,Original
 bufr4/3/15/004/33/022178,15,Séquences correspondant à des messages d'observation océanographique,315004,,,022178,Type de lanceur de XBT/XCTD,,,,Operational,Original
-bufr4/3/15/004/34/022177,15,Séquences correspondant à des messages d'observation océanographique,315004,,,022177,Altitude du lanceur de XBT/XCTD,Hauteur au-dessus du niveau de la mer  entre 0 et 50 m au mètre près,,,Operational,Original
+bufr4/3/15/004/34/022177,15,Séquences correspondant à des messages d'observation océanographique,315004,,,022177,Altitude du lanceur de XBT/XCTD,Hauteur au-dessus du niveau de la mer | entre 0 et 50 m au mètre près,,,Operational,Original
 bufr4/3/15/004/35/022067,15,Séquences correspondant à des messages d'observation océanographique,315004,,,022067,Type d'instrument de mesure du profil de la température/salinité de l'eau,,,,Operational,Original
 bufr4/3/15/004/36/008041,15,Séquences correspondant à des messages d'observation océanographique,315004,,,008041,Caractéristique des données,,,,Operational,Original
 bufr4/3/15/004/37/026021,15,Séquences correspondant à des messages d'observation océanographique,315004,,,026021,Année,,,,Operational,Original
@@ -140,7 +140,8 @@ bufr4/3/15/007/47/002031,15,Séquences correspondant à des messages d'observati
 bufr4/3/15/007/48/002040,15,Séquences correspondant à des messages d'observation océanographique,315007,,,002040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,,,,Operational,Original
 bufr4/3/15/007/49/022056,15,Séquences correspondant à des messages d'observation océanographique,315007,,,022056,Direction du profil,,,,Operational,Original
 bufr4/3/15/007/50/003011,15,Séquences correspondant à des messages d'observation océanographique,315007,,,003011,Méthode de calcul de la profondeur,,,,Operational,Original
-bufr4/3/15/007/51/306036,15,Séquences correspondant à des messages d'observation océanographique,315007,,,306036,Profil du courant Données sur le profil de l'oxygène dissous Répétition différée de 4 descripteurs,,,,Operational,Original
+bufr4/3/15/007/51/306036,15,Séquences correspondant à des messages d'observation océanographique,315007,,,306036,Profil du courant,,,,Operational,Original
+bufr4/3/15/007/52/104000,15,Séquences correspondant à des messages d'observation océanographique,315007,,,104000,Répétition différée de 4 descripteurs,,,,Operational,Original
 bufr4/3/15/007/53/031000,15,Séquences correspondant à des messages d'observation océanographique,315007,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
 bufr4/3/15/007/54/002032,15,Séquences correspondant à des messages d'observation océanographique,315007,,,002032,Indicateur de numérisation,,,,Operational,Original
 bufr4/3/15/007/55/003012,15,Séquences correspondant à des messages d'observation océanographique,315007,,,003012,Type d'instrument/capteur de mesure de l'oxygène dissous,,,,Operational,Original

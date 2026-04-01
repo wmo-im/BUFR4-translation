@@ -50,8 +50,8 @@ bufr4/0/21/085,21,Données de radar,021085,Nombre de bandes transversales de mes
 bufr4/0/21/086,21,Données de radar,021086,Nombre moyen de pixels au nadir uniquement,Numérique,0,0,9,Numérique,0,3,,,Operational,Original
 bufr4/0/21/087,21,Données de radar,021087,Nombre moyen de pixels en double visée,Numérique,0,0,9,Numérique,0,3,,,Operational,Original
 bufr4/0/21/088,21,Données de radar,021088,"Rétrodiffusion, conditions humides",dB,2,-5000,13,dB,2,4,,,Operational,Original
-bufr4/0/21/091,21,Données de radar,021091,ième 0 moment du spectre Doppler du signal radar,dB,0,-100,8,dB,0,3,,,Operational,Original
-bufr4/0/21/092,21,Données de radar,021092,ième 0 moment du spectre Doppler du signal RASS (Système de sondage radio-acoustique),dB,0,-100,8,dB,0,3,,,Operational,Original
+bufr4/0/21/091,21,Données de radar,021091,0ième moment du spectre Doppler du signal radar,dB,0,-100,8,dB,0,3,,,Operational,Original
+bufr4/0/21/092,21,Données de radar,021092,0ième moment du spectre Doppler du signal RASS (Système de sondage radio-acoustique),dB,0,-100,8,dB,0,3,,,Operational,Original
 bufr4/0/21/093,21,Données de radar,021093,Maxima bande Ku,Numérique,3,0,16,Numérique,3,5,,,Operational,Original
 bufr4/0/21/094,21,Données de radar,021094,Maxima bande S,Numérique,3,0,16,Numérique,3,5,,,Operational,Original
 bufr4/0/21/101,21,Données de radar,021101,Nombre d'ambiguïtés vectorielles,Numérique,0,0,3,Numérique,0,1,,,Operational,Original

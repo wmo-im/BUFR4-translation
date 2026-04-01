@@ -30,5 +30,5 @@ bufr4/a/31,31,Données océanographiques,Operational,Original
 bufr4/a/32–100,32-100,En réserve,Operational,Original
 bufr4/a/101,101,Imagerie (satellite),Operational,Original
 bufr4/a/102–239,102-239,En réserve,Operational,Original
-bufr4/a/240–254,240-254,à usage expérimental,Operational,Original
+bufr4/a/240–254,240-254,À usage expérimental,Operational,Original
 bufr4/a/255,255,Autre catégorie,Operational,Original
