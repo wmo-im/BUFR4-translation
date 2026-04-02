@@ -41,7 +41,9 @@ bufr4/0/02/006/4,002006,Tipo de instrumento de teledetección en altitud,4,Perfi
 bufr4/0/02/006/5,002006,Tipo de instrumento de teledetección en altitud,5,Perfilador de viento SODAR,,,,,Operational,Original
 bufr4/0/02/006/6,002006,Tipo de instrumento de teledetección en altitud,6,Perfilador de viento,,,,,Operational,Original
 bufr4/0/02/006/7,002006,Tipo de instrumento de teledetección en altitud,7,Lidar,,,,,Operational,Original
-bufr4/0/02/006/8-62,002006,Tipo de instrumento de teledetección en altitud,8-62,Reservadas,,,,,Operational,Original
+bufr4/0/02/006/8,002006,Tipo de instrumento de teledetección en altitud,8,Radiómetro de microondas basado en tierra,,,,,Operational,AI Translator: MCP
+bufr4/0/02/006/9,002006,Tipo de instrumento de teledetección en altitud,9,Lidar de absorción diferencial,,,,,Operational,AI Translator: MCP
+bufr4/0/02/006/10-62,002006,Tipo de instrumento de teledetección en altitud,10-62,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/006/63,002006,Tipo de instrumento de teledetección en altitud,63,Valor faltante,,,,,Operational,Original
 bufr4/0/02/007/0,002007,Tipo de sensor del instrumento de medición del nivel de agua,0,Reservada,,,,,Operational,Original
 bufr4/0/02/007/1,002007,Tipo de sensor del instrumento de medición del nivel de agua,1,Sistema de flotadores de codificador de eje,,,,,Operational,Original
@@ -63,6 +65,11 @@ bufr4/0/02/008/4,002008,Tipo de plataforma marina,4,FPSO (unidad flotante de pro
 bufr4/0/02/008/5,002008,Tipo de plataforma marina,5,Barco ligero,,,,,Operational,Original
 bufr4/0/02/008/6-14,002008,Tipo de plataforma marina,6-14,Reservadas,,,,,Operational,Original
 bufr4/0/02/008/15,002008,Tipo de plataforma marina,15,Valor faltante,,,,,Operational,Original
+bufr4/0/02/009/0,002009,Algoritmo de aerosol de MODIS,0,Reflectancias corregidas de la tierra,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/1,002009,Algoritmo de aerosol de MODIS,1,La mejor solución de Ocean,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/2,002009,Algoritmo de aerosol de MODIS,2,Solución promedio de océano,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/3-14,002009,Algoritmo de aerosol de MODIS,3-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/02/009/15,002009,Algoritmo de aerosol de MODIS,15,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/02/011,002011,Tipo de radiosonda,,,,,"(Véase la Tabla de cifrado común C−2, Parte C/c.)",,Operational,Original
 bufr4/0/02/012,002012,Método de cálculo de radiosonda,,,,,(Se elaborará.),,Operational,Original
 bufr4/0/02/013/0,002013,Corrección de la radiación solar y de infrarrojo,0,Ninguna corrección,,,,,Operational,Original
@@ -104,15 +111,18 @@ bufr4/0/02/020/0,002020,Clasificación de los satélites,0,Nimbus,,,,,Operationa
 bufr4/0/02/020/1,002020,Clasificación de los satélites,1,VTPR,,,,,Operational,Original
 bufr4/0/02/020/2,002020,Clasificación de los satélites,2,"TIROS 1 (TIROS, NOAA-6 a NOAA-13)",,,,,Operational,Original
 bufr4/0/02/020/3,002020,Clasificación de los satélites,3,TIROS 2 (de NOAA-14 hacia adelante),,,,,Operational,Original
+bufr4/0/02/020/4,002020,Clasificación de los satélites,4,NEON,,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/10,002020,Clasificación de los satélites,10,EOS,,,,,Operational,Original
 bufr4/0/02/020/20,002020,Clasificación de los satélites,20,GPM-core,,,,,Operational,Original
 bufr4/0/02/020/31,002020,Clasificación de los satélites,31,DMSP,,,,,Operational,Original
 bufr4/0/02/020/61,002020,Clasificación de los satélites,61,Sistema polar EUMETSAT (EPS),,,,,Operational,Original
+bufr4/0/02/020/62,002020,Clasificación de los satélites,62,Sistema Polar de EUMETSAT (EPS-SG),,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/91,002020,Clasificación de los satélites,91,ERS,,,,,Operational,Original
 bufr4/0/02/020/92,002020,Clasificación de los satélites,92,Sentinel-3,,,,,Operational,Original
 bufr4/0/02/020/121,002020,Clasificación de los satélites,121,ADEOS,,,,,Operational,Original
 bufr4/0/02/020/122,002020,Clasificación de los satélites,122,GCOM,,,,,Operational,Original
 bufr4/0/02/020/241,002020,Clasificación de los satélites,241,GOES,,,,,Operational,Original
+bufr4/0/02/020/251,002020,Clasificación de los satélites,251,Trópicos,,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/261,002020,Clasificación de los satélites,261,JASON,,,,,Operational,Original
 bufr4/0/02/020/271,002020,Clasificación de los satélites,271,GMS,,,,,Operational,Original
 bufr4/0/02/020/272,002020,Clasificación de los satélites,272,MTSAT,,,,,Operational,Original
@@ -122,7 +132,9 @@ bufr4/0/02/020/301,002020,Clasificación de los satélites,301,INSAT,,,,,Operati
 bufr4/0/02/020/331,002020,Clasificación de los satélites,331,Programa operacional METEOSAT (MOP),,,,,Operational,Original
 bufr4/0/02/020/332,002020,Clasificación de los satélites,332,Programa Transicional METEOSAT (MTP),,,,,Operational,Original
 bufr4/0/02/020/333,002020,Clasificación de los satélites,333,Programa de Segunda Generación METEOSAT (MSG),,,,,Operational,Original
+bufr4/0/02/020/334,002020,Clasificación de los satélites,334,Programa de tercera generación de METEOSAT (MTG),,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/351,002020,Clasificación de los satélites,351,GOMS,,,,,Operational,Original
+bufr4/0/02/020/352,002020,Clasificación de los satélites,352,Meteor-M N2,,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/380,002020,Clasificación de los satélites,380,FY-1,,,,,Operational,Original
 bufr4/0/02/020/381,002020,Clasificación de los satélites,381,FY-2,,,,,Operational,Original
 bufr4/0/02/020/382,002020,Clasificación de los satélites,382,FY-3,,,,,Operational,Original
@@ -132,7 +144,8 @@ bufr4/0/02/020/401,002020,Clasificación de los satélites,401,GPS,,,,,Operation
 bufr4/0/02/020/402,002020,Clasificación de los satélites,402,GLONASS,,,,,Operational,Original
 bufr4/0/02/020/403,002020,Clasificación de los satélites,403,GALILEO,,,,,Operational,Original
 bufr4/0/02/020/404,002020,Clasificación de los satélites,404,BDS (BeiDou sistema satelital de navegación),,,,,Operational,Original
-bufr4/0/02/020/405-510,002020,Clasificación de los satélites,405-510,Reservadas,,,,,Operational,Original
+bufr4/0/02/020/405,002020,Clasificación de los satélites,405,Sistema Satelital Quasi-Zenith (QZSS),,,,,Operational,AI Translator: MCP
+bufr4/0/02/020/406-510,002020,Clasificación de los satélites,406-510,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/020/511,002020,Clasificación de los satélites,511,Valor faltante,,,,,Operational,Original
 bufr4/0/02/021/1,002021,Datos de instrumentos satelitales utilizados en el proceso,1,Sondas de alta precisión en infrarrojo (HIRS),,,,,Operational,Original
 bufr4/0/02/021/2,002021,Datos de instrumentos satelitales utilizados en el proceso,2,Unidad de sondeo por microondas (MSU),,,,,Operational,Original
@@ -483,7 +496,8 @@ bufr4/0/02/080/1,002080,Fabricante del globo,1,Totex,,,,,Operational,Original
 bufr4/0/02/080/2,002080,Fabricante del globo,2,KKS,,,,,Operational,Original
 bufr4/0/02/080/3,002080,Fabricante del globo,3,uangzhou Shuangyi (China),,,,,Operational,Original
 bufr4/0/02/080/4,002080,Fabricante del globo,4,ChemChina Zhuzhou (China),,,,,Operational,Original
-bufr4/0/02/080/5-61,002080,Fabricante del globo,5-61,Reservadas,,,,,Operational,Original
+bufr4/0/02/080/5,002080,Fabricante del globo,5,Transportado por el viento,,,,,Operational,AI Translator: MCP
+bufr4/0/02/080/6-61,002080,Fabricante del globo,6-61,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/080/62,002080,Fabricante del globo,62,Otros,,,,,Operational,Original
 bufr4/0/02/080/63,002080,Fabricante del globo,63,Valor faltante,,,,,Operational,Original
 bufr4/0/02/081/0,002081,Tipo de globo,0,GP26,,,,,Operational,Original
@@ -533,7 +547,10 @@ bufr4/0/02/096/4,002096,Tipo de sensor de temperatura,4,Sensor resistivo,,,,,Ope
 bufr4/0/02/096/5,002096,Tipo de sensor de temperatura,5,Termistor de chip,,,,,Operational,Original
 bufr4/0/02/096/6,002096,Tipo de sensor de temperatura,6,Mercurio,,,,,Operational,Original
 bufr4/0/02/096/7,002096,Tipo de sensor de temperatura,7,Alcohol/glicol,,,,,Operational,Original
-bufr4/0/02/096/8-30,002096,Tipo de sensor de temperatura,8-30,Reservadas para uso futuro,,,,,Operational,Original
+bufr4/0/02/096/8,002096,Tipo de sensor de temperatura,8,Termómetro de resistencia de platino,,,,,Operational,AI Translator: MCP
+bufr4/0/02/096/9,002096,Tipo de sensor de temperatura,9,Termistor,,,,,Operational,AI Translator: MCP
+bufr4/0/02/096/10,002096,Tipo de sensor de temperatura,10,Termopar,,,,,Operational,AI Translator: MCP
+bufr4/0/02/096/11-30,002096,Tipo de sensor de temperatura,11-30,Reservadas para uso futuro,,,,,Operational,AI Translator: MCP
 bufr4/0/02/096/31,002096,Tipo de sensor de temperatura,31,Valor faltante,,,,,Operational,Original
 bufr4/0/02/097/0,002097,Tipo de sensor de humedad,0,Higristor de carbono VIZ Mark II,,,,,Operational,Original
 bufr4/0/02/097/1,002097,Tipo de sensor de humedad,1,Higristor VIZ B2,,,,,Operational,Original
@@ -566,7 +583,9 @@ bufr4/0/02/099/0,002099,Polarización,0,Polarización HH,,,,,Operational,Origina
 bufr4/0/02/099/1,002099,Polarización,1,Polarización VV,,,,,Operational,Original
 bufr4/0/02/099/2,002099,Polarización,2,Componente de valor real de polarización HV,,,,,Operational,Original
 bufr4/0/02/099/3,002099,Polarización,3,Componente de valor imaginario de polarización HV,,,,,Operational,Original
-bufr4/0/02/099/4-6,002099,Polarización,4-6,Reservadas,,,,,Operational,Original
+bufr4/0/02/099/4,002099,Polarización,4,Polarización HV,,,,,Operational,AI Translator: MCP
+bufr4/0/02/099/5,002099,Polarización,5,Polarización VH,,,,,Operational,AI Translator: MCP
+bufr4/0/02/099/6,002099,Polarización,6,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/099/7,002099,Polarización,7,Valor faltante,,,,,Operational,Original
 bufr4/0/02/101/0,002101,Tipo de antenna,0,Paraboloide de alimentación frontal centrada,,,,,Operational,Original
 bufr4/0/02/101/1,002101,Tipo de antenna,1,Paraboloide de alimentación central excéntrica,,,,,Operational,Original
@@ -935,7 +954,8 @@ bufr4/0/02/170/63,002170,Sensores de humedad de la aeronave,63,Valor faltante,,,
 bufr4/0/02/172/0,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,0,Reservada,,,,,Operational,Original
 bufr4/0/02/172/1,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,1,Recuperación de datos de un sondeo ascendente,,,,,Operational,Original
 bufr4/0/02/172/2,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,2,Recuperación de datos de un sondeo descendente,,,,,Operational,Original
-bufr4/0/02/172/3-254,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,3-254,Reservadas,,,,,Operational,Original
+bufr4/0/02/172/3,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,3,Recuperación de un sondeo de ocultación,,,,,Operational,AI Translator: MCP
+bufr4/0/02/172/4-254,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,4-254,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/02/172/255,002172,Tipo de producto para la recuperación de datos sobre gases atmosféricos,255,Valor faltante,,,,,Operational,Original
 bufr4/0/02/175/0,002175,Método de medición de la precipitación,0,Medición manual,,,,,Operational,Original
 bufr4/0/02/175/1,002175,Método de medición de la precipitación,1,Método de cubeta basculante,,,,,Operational,Original

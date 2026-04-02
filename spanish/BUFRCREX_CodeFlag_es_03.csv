@@ -149,3 +149,11 @@ bufr4/0/03/028/5,003028,Método de medición del equivalente en agua de la nieve
 bufr4/0/03/028/6,003028,Método de medición del equivalente en agua de la nieve,6,Reflectometría de dominio temporal,,,,,Operational,Original
 bufr4/0/03/028/7-62,003028,Método de medición del equivalente en agua de la nieve,7-62,Reservadas,,,,,Operational,Original
 bufr4/0/03/028/63,003028,Método de medición del equivalente en agua de la nieve,63,Valor faltante,,,,,Operational,Original
+bufr4/0/03/029/0,003029,Franja,0,Lado izquierdo,,,,,Operational,AI Translator: MCP
+bufr4/0/03/029/1,003029,Franja,1,Lado derecho,,,,,Operational,AI Translator: MCP
+bufr4/0/03/029/2-6,003029,Franja,2-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/03/029/7,003029,Franja,7,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/03/030/0,003030,Estado de antena,0,Transmitiendo,,,,,Operational,AI Translator: MCP
+bufr4/0/03/030/1,003030,Estado de antena,1,Recibiendo,,,,,Operational,AI Translator: MCP
+bufr4/0/03/030/2-6,003030,Estado de antena,2-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/03/030/7,003030,Estado de antena,7,Faltante,,,,,Operational,AI Translator: MCP

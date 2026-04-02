@@ -61,10 +61,11 @@ bufr4/0/20/066,20,Fenómenos observados,020066,Diámetro máximo del granizo,m,3
 bufr4/0/20/067,20,Fenómenos observados,020067,Diámetro del depósito,m,3,0,9,m,3,3,,,Operational,Original
 bufr4/0/20/070,20,Fenómenos observados,020070,Número mínimo de parásitos atmosféricos,Numérica,0,0,7,Numérica,0,3,,,Operational,Original
 bufr4/0/20/071,20,Fenómenos observados,020071,Exactitud de marcación y tasa de parásitos atmosféricos,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/20/079,20,Fenómenos observados,020079,Indicador de cristales de nieve o hielo,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP
 bufr4/0/20/081,20,Fenómenos observados,020081,Nubosidad en el segmento,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/20/082,20,Fenómenos observados,020082,Espacio sin nubes del segmento,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/20/083,20,Fenómenos observados,020083,Parte del segmento cubierta por la escena,%,0,0,7,%,0,3,,,Operational,Original
-bufr4/0/20/085,20,Fenómenos observados,020085,Estado general de la pista,Tabla de cifrado,0,,4,Tabla de cifrado,0,1,,,Operational,Original
+bufr4/0/20/085,20,Fenómenos observados,020085,Estado general de la pista,Tabla de cifrado,0,0,4,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/20/086,20,Fenómenos observados,020086,Depósitos en la pista,Tabla de cifrado,0,0,4,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/20/087,20,Fenómenos observados,020087,Contaminación en la pista,Tabla de cifrado,0,0,4,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/20/088,20,Fenómenos observados,020088,Espesor de los depósitos en la pista,m,3,0,12,m,0,4,,,Operational,Original
@@ -108,3 +109,8 @@ bufr4/0/20/135,20,Fenómenos observados,020135,Masa de hielo (en cilindro),kg m-
 bufr4/0/20/136,20,Fenómenos observados,020136,Tipo de nubes suplementario,Tabla de cifrado,0,0,9,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/20/137,20,Fenómenos observados,020137,Evolución de las nubes,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/20/138,20,Fenómenos observados,020138,Condición de la superficie de la carretera,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/20/139,20,Fenómenos observados,020139,Suposición final del modelo de nube,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
+bufr4/0/20/140,20,Fenómenos observados,020140,Área de relámpagos,m²,0,0,30,m²,0,0,,,Operational,AI Translator: MCP
+bufr4/0/20/141,20,Fenómenos observados,020141,Energía de relámpago,J,19,0,30,J,0,0,,,Operational,AI Translator: MCP
+bufr4/0/20/142,20,Fenómenos observados,020142,Eficiencia de detección de rayos,%,0,0,7,%,0,0,,,Operational,AI Translator: MCP
+bufr4/0/20/143,20,Fenómenos observados,020143,Nube líquida,Tabla de cifrado,0,0,2,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP

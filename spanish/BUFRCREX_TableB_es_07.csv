@@ -17,8 +17,9 @@ bufr4/0/07/025,07,Ubicación (vertical),007025,Ángulo cenital del sol,°,2,-900
 bufr4/0/07/026,07,Ubicación (vertical),007026,Ángulo cenital del satélite,°,4,-900000,21,°,4,7,,,Operational,Original
 bufr4/0/07/030,07,Ubicación (vertical),007030,Altura del suelo de la estación sobre el nivel medio del mar,m,1,-4000,17,m,1,5,(véase la nota 3),,Operational,Original
 bufr4/0/07/031,07,Ubicación (vertical),007031,Altura del barómetro sobre el nivel medio del mar,m,1,-4000,17,m,1,5,(véase la nota 4),,Operational,Original
-bufr4/0/07/032,07,Ubicación (vertical),007032,Altura del sensor sobre el suelo local  (véase la nota 5),m,2,0,16,m,2,5,(o la cubierta de la plataforma marina),,Operational,Original
+bufr4/0/07/032,07,Ubicación (vertical),007032,Altura del sensor sobre el suelo local (véase la nota 5),m,2,0,16,m,2,5,(o la cubierta de la plataforma marina),,Operational,Original
 bufr4/0/07/033,07,Ubicación (vertical),007033,Altura del sensor sobre la superficie del agua,m,1,0,12,m,1,4,(véase la nota 6),,Operational,Original
+bufr4/0/07/034,07,Ubicación (vertical),007034,Distancia vertical de sensor,m,2,-65000,17,,,,((véase la nota 9)),193,Operational,AI Translator: MCP
 bufr4/0/07/035,07,Ubicación (vertical),007035,Tamaño máximo de la dimensión z,Numérica,0,0,12,Numérica,0,4,,,Operational,Original
 bufr4/0/07/036,07,Ubicación (vertical),007036,Índice del nivel de z,Numérica,0,0,12,Numérica,0,4,,,Operational,Original
 bufr4/0/07/040,07,Ubicación (vertical),007040,Parámetro de impacto,m,1,62000000,22,m,1,8,(véase la nota 7),,Operational,Original
@@ -29,4 +30,9 @@ bufr4/0/07/064,07,Ubicación (vertical),007064,Altura representativa del sensor 
 bufr4/0/07/065,07,Ubicación (vertical),007065,Presión del agua,Pa,-3,0,17,Pa,-3,6,,,Operational,Original
 bufr4/0/07/070,07,Ubicación (vertical),007070,Profundidad del ancla flotante,m,0,0,10,m,0,4,,,Operational,Original
 bufr4/0/07/071,07,Ubicación (vertical),007071,Altura,m,3,-10000000,26,m,3,8,(alta resolución),,Operational,Original
-bufr4/0/07/072,07,Ubicación (vertical),007072,Ángulo de exploración,grado,,-9000,15,grados,2,6,,,Operational,Original
+bufr4/0/07/072,07,Ubicación (vertical),007072,Ángulo de exploración,grado,2,-9000,15,grados,2,6,,,Operational,Original
+bufr4/0/07/073,07,Ubicación (vertical),007073,Ángulo entre la luna y la vista del espacio,º,2,0,15,º,2,5,,,Operational,AI Translator: MCP
+bufr4/0/07/074,07,Ubicación (vertical),007074,Ángulo de elevación solar en el marco de referencia del instrumento,º,2,-9000,15,º,2,5,,,Operational,AI Translator: MCP
+bufr4/0/07/075,07,Ubicación (vertical),007075,Ángulo de dispersión,º,0,0,8,º,0,3,,,Operational,AI Translator: MCP
+bufr4/0/07/076,07,Ubicación (vertical),007076,Ángulo de acimut relativo,º,0,0,8,º,0,3,,,Operational,AI Translator: MCP
+bufr4/0/07/077,07,Ubicación (vertical),007077,Altura del sensor con respecto a la estación,m,0,-400,12,,,,,,Operational,AI Translator: MCP
