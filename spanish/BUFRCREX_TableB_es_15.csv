@@ -5,6 +5,7 @@ bufr4/0/15/003,15,Componentes físicos/químicos,015003,Presión parcial del ozo
 bufr4/0/15/004,15,Componentes físicos/químicos,015004,Factor de corrección de sondeo del ozono,Numérica,3,0,11,Numérica,3,4,(CF) (véase la nota 2),2,Operational,Original
 bufr4/0/15/005,15,Componentes físicos/químicos,015005,p del ozono,DU,0,0,10,DU,0,3,(véase la nota 3),3,Operational,Original
 bufr4/0/15/006,15,Componentes físicos/químicos,015006,Log10 de la densidad numérica de la atmósfera,log (m-³),5,1800000,20,log (m-³),5,7,,,Operational,Original
+bufr4/0/15/007,15,Componentes físicos/químicos,015007,Cantidad estimada de constituyente químico,DU,2,0,16,DU,2,6,,,Operational,AI Translator: MCP
 bufr4/0/15/008,15,Componentes físicos/químicos,015008,Significando del cociente de mezclado volumétrico,Numérica,0,0,10,Numérica,0,4,,,Operational,Original
 bufr4/0/15/009,15,Componentes físicos/químicos,015009,Log10 de la densidad numérica de ozono,log (m-3),5,1200000,20,log (m-3),5,7,,,Operational,Original
 bufr4/0/15/011,15,Componentes físicos/químicos,015011,Logaritmo10 de la densidad de electrones integrada,log (m-2),3,14000,13,log (m-2),3,4,,,Operational,Original
@@ -12,6 +13,7 @@ bufr4/0/15/012,15,Componentes físicos/químicos,015012,Recuento total de electr
 bufr4/0/15/015,15,Componentes físicos/químicos,015015,Componente espectral máximo de la imagen antes de la normalización,Numérica,0,0,31,Numérica,0,10,,,Operational,Original
 bufr4/0/15/020,15,Componentes físicos/químicos,015020,Densidad del ozono integrada,kg m-2,8,0,21,kg m-2,8,7,,,Operational,Original
 bufr4/0/15/021,15,Componentes físicos/químicos,015021,Densidad de masa integrada,kg m-2,11,0,31,kg m-2,11,10,,,Operational,Original
+bufr4/0/15/022,15,Componentes físicos/químicos,015022,Densidad de masa integrada extendida,kg m-2,1,-100000000,31,kg m-2,1,10,,,Operational,AI Translator: MCP
 bufr4/0/15/024,15,Componentes físicos/químicos,015024,Espesor óptico,Numérica,4,0,24,Numérica,4,8,,,Operational,Original
 bufr4/0/15/025,15,Componentes físicos/químicos,015025,Tipo de contamite,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/15/026,15,Componentes físicos/químicos,015026,Concentración del contamite (mol mol-1),mol mol-1,9,0,9,mol mol-1,9,3,,,Operational,Original
@@ -30,6 +32,8 @@ bufr4/0/15/038,15,Componentes físicos/químicos,015038,Retraso del trayecto deb
 bufr4/0/15/039,15,Componentes físicos/químicos,015039,Error estimado en el retraso del trayecto atmosférico en una atmósfera neutra,m,4,0,14,m,4,9,,,Operational,Original
 bufr4/0/15/041,15,Componentes físicos/químicos,015041,Índice de dióxido de azufre,Numérica,2,-1200,14,Numérica,2,4,(véase la nota 7),78,Operational,Original
 bufr4/0/15/042,15,Componentes físicos/químicos,015042,Reflectancia,%,2,0,14,%,2,5,,,Operational,Original
+bufr4/0/15/043,15,Componentes físicos/químicos,015043,Número de capas del núcleo de promediación,Numérica,0,0,10,Numérica,0,0,,,Operational,AI Translator: MCP
+bufr4/0/15/044,15,Componentes físicos/químicos,015044,Valor del núcleo de promediación,Numérica,6,-5000000,31,Numérica,0,0,,,Operational,AI Translator: MCP
 bufr4/0/15/045,15,Componentes físicos/químicos,015045,Dióxido de azufre,DU,2,-2000,15,DU,2,5,(véase la nota 8),77,Operational,Original
 bufr4/0/15/046,15,Componentes físicos/químicos,015046,Índice de contaminación por volcanes,Numérica,2,-1000,11,Numérica,2,4,(véase la nota 9),80,Operational,Original
 bufr4/0/15/049,15,Componentes físicos/químicos,015049,Exponente de Angstrom de longitud de onda para aerosoles,Numérica,3,-2000,14,Numérica,3,5,,,Operational,Original

@@ -1,0 +1,262 @@
+Id,FXY,ElementName_es,CodeFigure,EntryName_es,EntryName_sub1_es,EntryName_sub2_es,Note_es,noteIDs,Status,translated_by
+bufr4/0/40/005/1,040005,Banderines de corrección de la humedad del suelo,1,Humedad del suelo entre -20% y 0%,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/2,040005,Banderines de corrección de la humedad del suelo,2,Humedad del suelo entre 100% y 120%,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/3,040005,Banderines de corrección de la humedad del suelo,3,Corrección de la referencia de retrodispersión húmeda,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/4,040005,Banderines de corrección de la humedad del suelo,4,Corrección de la referencia de retrodispersión seca,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/5,040005,Banderines de corrección de la humedad del suelo,5,Corrección de dispersión de volumen en arena,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/6-7,040005,Banderines de corrección de la humedad del suelo,6-7,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/005/All-8,040005,Banderines de corrección de la humedad del suelo,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/1,040006,Banderines de proceso de la humedad el suelo,1,No suelo,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/2,040006,Banderines de proceso de la humedad el suelo,2,Sensibilidad a la humedad del suelo por debajo del límite,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/3,040006,Banderines de proceso de la humedad el suelo,3,Ruido azimutal por encima del límite,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/4,040006,Banderines de proceso de la humedad el suelo,4,Retrodispersión del haz de proa-popa fuera de rango,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/5,040006,Banderines de proceso de la humedad el suelo,5,Haz de pendiente medio-frontal fuera de rango,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/6,040006,Banderines de proceso de la humedad el suelo,6,El haz de pendiente medio-popa fuera de rango,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/7,040006,Banderines de proceso de la humedad el suelo,7,Humedad del suelo por debajo de -20%,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/8,040006,Banderines de proceso de la humedad el suelo,8,Humedad del suelo por encima del 120%,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/9-15,040006,Banderines de proceso de la humedad el suelo,9-15,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/006/All-16,040006,Banderines de proceso de la humedad el suelo,Los 16,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/1,040011,Banderín de interpolación,1,Bandera de interpolación de la superficie media del mar (MSS),,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/2,040011,Banderín de interpolación,2,"Bandera de interpolación de solución de marea del océano 1 (0 = 4 puntos sobre el océano, 1 = menos de 4 puntos)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/3,040011,Banderín de interpolación,3,"Bandera de interpolación de solución de marea de océano 2 (0 = 4 puntos sobre el océano, 1 = menos de 4 puntos)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/4,040011,Banderín de interpolación,4,"Indicador de interpolación de datos meteorológicos (0 = 4 puntos sobre el océano, 1 = menos de 4 puntos)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/5-7,040011,Banderín de interpolación,5-7,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/011/All-8,040011,Banderín de interpolación,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/012/1,040012,Banderín de calidad de datos radiométricos,1,Temperatura de brillo de 18.7 GHz,,,,,Operational,AI Translator: MCP
+bufr4/0/40/012/2,040012,Banderín de calidad de datos radiométricos,2,Temperatura de brillo de 23.8 GHz,,,,,Operational,AI Translator: MCP
+bufr4/0/40/012/3,040012,Banderín de calidad de datos radiométricos,3,Temperatura de brillo de 34 GHz,,,,,Operational,AI Translator: MCP
+bufr4/0/40/012/4-7,040012,Banderín de calidad de datos radiométricos,4-7,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/012/All-8,040012,Banderín de calidad de datos radiométricos,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/0,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,0,Interpolación sin brecha entre los datos de JMR,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/1,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,1,Interpolación con brechas entre datos de JMR,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/2,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,2,Extrapolación de datos de JMR,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/3,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,3,Falla de extrapolación e interpolación,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/4-6,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,4-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/013/7,040013,Banderín de interpretación de la temperatura de luminancia radiométrica,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/1,040020,GqisFlagQualDetailed — banderín de calidad del sistema,1,NZPD y error complejo de calibración,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/2,040020,GqisFlagQualDetailed — banderín de calidad del sistema,2,Banda 3 afectada por pico,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/3,040020,GqisFlagQualDetailed — banderín de calidad del sistema,3,Banda 3 afectada por saturación,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/4,040020,GqisFlagQualDetailed — banderín de calidad del sistema,4,Banda 2 afectada por pico,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/5,040020,GqisFlagQualDetailed — banderín de calidad del sistema,5,Banda 1 afectada por pico,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/6,040020,GqisFlagQualDetailed — banderín de calidad del sistema,6,Desbordamiento/subdesbordamiento,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/7,040020,GqisFlagQualDetailed — banderín de calidad del sistema,7,Error de procesamiento a bordo,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/8,040020,GqisFlagQualDetailed — banderín de calidad del sistema,8,Error de calibración espectral,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/9,040020,GqisFlagQualDetailed — banderín de calidad del sistema,9,Error de calibración radiométrica,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/10,040020,GqisFlagQualDetailed — banderín de calidad del sistema,10,Datos AVHRR faltantes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/11,040020,GqisFlagQualDetailed — banderín de calidad del sistema,11,Datos faltantes de IIS,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/12,040020,GqisFlagQualDetailed — banderín de calidad del sistema,12,Datos de sonda faltantes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/13,040020,GqisFlagQualDetailed — banderín de calidad del sistema,13,GqisFlagQual bandera resumen de todas las bandas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/14,040020,GqisFlagQualDetailed — banderín de calidad del sistema,14,Error de procesamiento en tierra,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/15,040020,GqisFlagQualDetailed — banderín de calidad del sistema,15,Error de intercalibración IASI/AVHRR,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/16,040020,GqisFlagQualDetailed — banderín de calidad del sistema,16,Repuesto,,,,,Operational,AI Translator: MCP
+bufr4/0/40/020/All-17,040020,GqisFlagQualDetailed — banderín de calidad del sistema,Los 17,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/023/1,040023,Banderines de estado del altímetro auxiliar,1,"Secuencia de banda (0 = 3Ku_1C_3Ku, 1 = 2Ku_1C_2Ku)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/023/2,040023,Banderines de estado del altímetro auxiliar,2,"Frecuencia de banda C (0 = 320 MHz, 1 = 100 MHz)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/023/3,040023,Banderines de estado del altímetro auxiliar,3,"Estado de la banda C (0 = Activado, 1 = Desactivado)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/023/4,040023,Banderines de estado del altímetro auxiliar,4,"Estado de la banda Ku (0 = Activado, 1 = Desactivado)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/023/All-5,040023,Banderines de estado del altímetro auxiliar,Los 5,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/0,040024,Disponibilidad de mapa meteorológico,0,2 mapas disponibles (con 6 horas de diferencia),,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/1,040024,Disponibilidad de mapa meteorológico,1,2 mapas disponibles (> 6 horas de diferencia),,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/2,040024,Disponibilidad de mapa meteorológico,2,1 mapa disponible; datos extrapolados,,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/3,040024,Disponibilidad de mapa meteorológico,3,No se usaron mapas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/4-6,040024,Disponibilidad de mapa meteorológico,4-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/024/7,040024,Disponibilidad de mapa meteorológico,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/025/0,040025,Banderín de interpolación para la marea diurna media,0,Buena,,,,,Operational,AI Translator: MCP
+bufr4/0/40/025/1,040025,Banderín de interpolación para la marea diurna media,1,Mala,,,,,Operational,AI Translator: MCP
+bufr4/0/40/025/2,040025,Banderín de interpolación para la marea diurna media,2,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/025/3,040025,Banderín de interpolación para la marea diurna media,3,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/0,040028,Banderín de calidad GMI,0,Datos de buena calidad,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/1,040028,Banderín de calidad GMI,1,Destello solar posible,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/2,040028,Banderín de calidad GMI,2,Interferencia posible de radiofrecuencia,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/3,040028,Banderín de calidad GMI,3,Datos de geolocalización degradados,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/4,040028,Banderín de calidad GMI,4,Datos corregidos por intrusión de carga cálida,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/5,040028,Banderín de calidad GMI,5,Enmascaramiento de escaneo activado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/6,040028,Banderín de calidad GMI,6,Faltan datos del archivo o no se pueden leer.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/7,040028,Banderín de calidad GMI,7,Temperatura de luminancia no física,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/8,040028,Banderín de calidad GMI,8,Error en los datos de geolocalización,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/9,040028,Banderín de calidad GMI,9,Datos faltantes en un canal,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/10,040028,Banderín de calidad GMI,10,Datos faltantes en múltiples canales,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/11,040028,Banderín de calidad GMI,11,Los valores de latitud/longitud están fuera de rango,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/12,040028,Banderín de calidad GMI,12,Modos de estado no normales,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/13,040028,Banderín de calidad GMI,13,Distancia al píxel correspondiente de baja frecuencia > 7 km,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/14,040028,Banderín de calidad GMI,14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/028/15,040028,Banderín de calidad GMI,15,Valor faltante (no hay información de calidad disponible),,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/0,040036,Tipo de clasificación de productos Lidar L2b,0,Despejado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/1,040036,Tipo de clasificación de productos Lidar L2b,1,Nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/2,040036,Tipo de clasificación de productos Lidar L2b,2,Aerosol,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/3,040036,Tipo de clasificación de productos Lidar L2b,3,Atenuado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/4,040036,Tipo de clasificación de productos Lidar L2b,4,Superficie,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/5-14,040036,Tipo de clasificación de productos Lidar L2b,5-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/036/15,040036,Tipo de clasificación de productos Lidar L2b,15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/043/0,040043,Indicador de maniobras del satélite,0,La plataforma no está realizando una maniobra.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/043/1,040043,Indicador de maniobras del satélite,1,"La plataforma está realizando una maniobra, procesamiento nominal",,,,,Operational,AI Translator: MCP
+bufr4/0/40/043/2,040043,Indicador de maniobras del satélite,2,"La plataforma está realizando una maniobra, sin procesamiento.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/043/3-6,040043,Indicador de maniobras del satélite,3-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/043/7,040043,Indicador de maniobras del satélite,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/045/1,040045,Formación de nubes y determinación de la altura,1,Productos de nube recuperados con el método de chi-cuadrado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/045/2,040045,Formación de nubes y determinación de la altura,2,Productos de nubes obtenidos con el corte de CO2,,,,,Operational,AI Translator: MCP
+bufr4/0/40/045/3,040045,Formación de nubes y determinación de la altura,3,Asignación de altura realizada con recuperación estadística de primera estimación.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/045/4,040045,Formación de nubes y determinación de la altura,4,Asignación de altura realizada con pronósticos de NWP,,,,,Operational,AI Translator: MCP
+bufr4/0/40/045/All-5,040045,Formación de nubes y determinación de la altura,Los 5,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/0,040046,Resumen de nubosidad,0,El IFOV de IASI está despejado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/1,040046,Resumen de nubosidad,1,Contaminación pequeña de nubes posible,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/2,040046,Resumen de nubosidad,2,El IFOV de IASI está parcialmente cubierto por nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/3,040046,Resumen de nubosidad,3,Cobertura alta o completa de nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/4-6,040046,Resumen de nubosidad,4-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/046/7,040046,Resumen de nubosidad,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/047/0,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,0,Las mediciones y la información adicional están disponibles y son de buena calidad para el procesamiento de L2.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/047/1,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,1,"Los productos de L1c son de calidad degradada según las banderas de L1c, sin procesamiento de L2.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/047/2,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,2,"El control de calidad indica que los datos de L1c son de calidad degradada (no indicado por las banderas de L1c de IASI), sin procesamiento de L2.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/047/3-6,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,3-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/047/7,040047,Banderín de validación para productos IASI o IASI-NG de nivel 1,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/048/0,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,0,"Las mediciones esperadas de AMSU están disponibles, son de buena calidad y están ubicadas junto con IASI para el procesamiento.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/048/1,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,1,Los datos de AMSU-A están disponibles pero son de calidad degradada (según las banderas de AMSU L1 o las pruebas de QC) y no se utilizan para el procesamiento.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/048/2,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,2,No hay mediciones coincidentes (tiempo y espacio) de AMSU disponibles para el procesamiento,,,,,Operational,AI Translator: MCP
+bufr4/0/40/048/3-6,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,3-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/048/7,040048,Banderín de validación del flujo de datos de nivel 1 de la sonda AM,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/1-3,040049,Pruebas de nubes ejecutadas y resultados,1-3,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/4,040049,Pruebas de nubes ejecutadas y resultados,4,El espesor óptico de la nube de IASI indica una nube.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/5,040049,Pruebas de nubes ejecutadas y resultados,5,Grosor óptico de nube de IASI calculado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/6,040049,Pruebas de nubes ejecutadas y resultados,6,La prueba de heterogeneidad de AVHRR indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/7,040049,Pruebas de nubes ejecutadas y resultados,7,Prueba de heterogeneidad de AVHRR ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/8,040049,Pruebas de nubes ejecutadas y resultados,8,La prueba de nubes de IASI-AVHRR ANN indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/9,040049,Pruebas de nubes ejecutadas y resultados,9,Prueba de nube ANN de IASI-AVHRR ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/10,040049,Pruebas de nubes ejecutadas y resultados,10,La fracción integrada de nubes de AVHRR indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/11,040049,Pruebas de nubes ejecutadas y resultados,11,Fracción de nube integrada de AVHRR evaluada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/12,040049,Pruebas de nubes ejecutadas y resultados,12,La prueba de nubes de AMSU indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/13,040049,Pruebas de nubes ejecutadas y resultados,13,Prueba de nube de AMSU ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/14,040049,Pruebas de nubes ejecutadas y resultados,14,La prueba de nube de la ventana IASI indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/15,040049,Pruebas de nubes ejecutadas y resultados,15,Prueba de nube de ventana de IASI ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/049/All-16,040049,Pruebas de nubes ejecutadas y resultados,Los 16,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/050/1-4,040050,Inicialización de la recuperación,1-4,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/050/5,040050,Inicialización de la recuperación,5,Incluido MHS,,,,,Operational,AI Translator: MCP
+bufr4/0/40/050/6,040050,Inicialización de la recuperación,6,Incluido AMSU,,,,,Operational,AI Translator: MCP
+bufr4/0/40/050/7,040050,Inicialización de la recuperación,7,IASI incluido,,,,,Operational,AI Translator: MCP
+bufr4/0/40/050/All-8,040050,Inicialización de la recuperación,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/0,040051,Convergencia de la recuperación iterativa,0,Métodos óptimos de estimación (OEM) no intentados,,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/1,040051,Convergencia de la recuperación iterativa,1,El OEM se abortó porque los residuos de la primera estimación eran demasiado altos.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/2,040051,Convergencia de la recuperación iterativa,2,"La minimización no convergió, sonido rechazado.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/3,040051,Convergencia de la recuperación iterativa,3,"La minimización no convergió, sonido aceptado.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/4,040051,Convergencia de la recuperación iterativa,4,La minimización convergió pero el sonido fue rechazado.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/5,040051,Convergencia de la recuperación iterativa,5,"La minimización convergió, sonido aceptado.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/6,040051,Convergencia de la recuperación iterativa,6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/051/7,040051,Convergencia de la recuperación iterativa,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/1-3,040052,Indicación de superadiabático y supersaturación en la recuperación,1-3,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/4,040052,Indicación de superadiabático y supersaturación en la recuperación,4,Condiciones de supersaturación en la recuperación de OEM,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/5,040052,Indicación de superadiabático y supersaturación en la recuperación,5,Condiciones superadiabáticas en la recuperación de OEM,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/6,040052,Indicación de superadiabático y supersaturación en la recuperación,6,Condiciones de supersaturación en la primera estimación,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/7,040052,Indicación de superadiabático y supersaturación en la recuperación,7,Condiciones superadiabáticas en la primera estimación,,,,,Operational,AI Translator: MCP
+bufr4/0/40/052/All-8,040052,Indicación de superadiabático y supersaturación en la recuperación,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/1,040054,Errores potenciales de cálculo y en las entradas,1,Se ha detectado un error,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/2,040054,Errores potenciales de cálculo y en las entradas,2,Mensaje de L1,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/3,040054,Errores potenciales de cálculo y en las entradas,3,Mensaje de L2,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/4,040054,Errores potenciales de cálculo y en las entradas,4,Mensaje de datos auxiliares,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/5,040054,Errores potenciales de cálculo y en las entradas,5,Mensaje de procedimiento de ajuste,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/6,040054,Errores potenciales de cálculo y en las entradas,6,Apertura de archivo,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/7,040054,Errores potenciales de cálculo y en las entradas,7,Lectura de archivos,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/8,040054,Errores potenciales de cálculo y en las entradas,8,Banderín de calidad,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/9,040054,Errores potenciales de cálculo y en las entradas,9,"Nivel 2 ""de regresión lineal"" (F_Qual), informe un píxel donde L2 no se confíe completamente.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/10,040054,Errores potenciales de cálculo y en las entradas,10,Campo vacío o datos vacíos,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/11,040054,Errores potenciales de cálculo y en las entradas,11,Valor de presión superficial faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/12,040054,Errores potenciales de cálculo y en las entradas,12,Filtrado de radiancia,,,,,Operational,AI Translator: MCP
+bufr4/0/40/054/All-13,040054,Errores potenciales de cálculo y en las entradas,Los 13,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/1,040055,Diagnóstico sobre la recuperación,1,Filtrado de radiancia,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/2,040055,Diagnóstico sobre la recuperación,2,Regiones polares,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/3,040055,Diagnóstico sobre la recuperación,3,Ubicación en la noche,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/4,040055,Diagnóstico sobre la recuperación,4,Superficie de altitud negativa por debajo del nivel medio del mar,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/5,040055,Diagnóstico sobre la recuperación,5,Escena cubierta de nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/6,040055,Diagnóstico sobre la recuperación,6,Escena sobre el mar,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/7,040055,Diagnóstico sobre la recuperación,7,Escena sobre el desierto,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/8,040055,Diagnóstico sobre la recuperación,8,temperatura de la película superficial,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/9,040055,Diagnóstico sobre la recuperación,9,Diferencial de temperatura de la piel,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/10,040055,Diagnóstico sobre la recuperación,10,El contraste de la línea espectral es demasiado débil,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/11,040055,Diagnóstico sobre la recuperación,11,Número máximo de iteraciones excedido,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/12,040055,Diagnóstico sobre la recuperación,12,Columnas parciales negativas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/13,040055,Diagnóstico sobre la recuperación,13,Matriz mal condicionada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/14,040055,Diagnóstico sobre la recuperación,14,El ajuste divergió,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/15,040055,Diagnóstico sobre la recuperación,15,Error en el uso de la biblioteca científica de GNU (GSL),,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/16,040055,Diagnóstico sobre la recuperación,16,"Residuales ""sesgados""",,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/17,040055,Diagnóstico sobre la recuperación,17,"Residuos ""inclinados""",,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/18,040055,Diagnóstico sobre la recuperación,18,El error cuadrático medio (RMS) de los residuos es grande.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/19,040055,Diagnóstico sobre la recuperación,19,Núcleos promedio extraños,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/20,040055,Diagnóstico sobre la recuperación,20,Presencia de hielo detectada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/055/All-21,040055,Diagnóstico sobre la recuperación,Los 21,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/056/0,040056,Calidad general de la recuperación,0,Uso no recomendado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/056/1,040056,Calidad general de la recuperación,1,Usar con precaución,,,,,Operational,AI Translator: MCP
+bufr4/0/40/056/2,040056,Calidad general de la recuperación,2,Mejor calidad,,,,,Operational,AI Translator: MCP
+bufr4/0/40/056/3-6,040056,Calidad general de la recuperación,3-6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/056/7,040056,Calidad general de la recuperación,7,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/1,040057,Banderines de recuperación de IASI de nivel 2,1,Se ha detectado un error,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/2,040057,Banderines de recuperación de IASI de nivel 2,2,Mensaje de L1,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/3,040057,Banderines de recuperación de IASI de nivel 2,3,Mensaje de L2,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/4,040057,Banderines de recuperación de IASI de nivel 2,4,Mensaje de datos auxiliares,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/5,040057,Banderines de recuperación de IASI de nivel 2,5,Mensaje de procedimiento de ajuste,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/6,040057,Banderines de recuperación de IASI de nivel 2,6,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/7,040057,Banderines de recuperación de IASI de nivel 2,7,Bandera incorrecta de L1 o L2 activada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/8,040057,Banderines de recuperación de IASI de nivel 2,8,Nivel 2 no completamente confiable,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/9,040057,Banderines de recuperación de IASI de nivel 2,9,Faltan niveles de temperatura o humedad en el perfil vertical,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/10,040057,Banderines de recuperación de IASI de nivel 2,10,Valor de presión superficial faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/11,040057,Banderines de recuperación de IASI de nivel 2,11,Filtrado de radiancia,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/12,040057,Banderines de recuperación de IASI de nivel 2,12,Regiones polares,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/13,040057,Banderines de recuperación de IASI de nivel 2,13,Ubicación en la noche,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/14,040057,Banderines de recuperación de IASI de nivel 2,14,Altitud negativa,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/15,040057,Banderines de recuperación de IASI de nivel 2,15,Escena cubierta de nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/16,040057,Banderines de recuperación de IASI de nivel 2,16,Escena sobre el mar,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/17,040057,Banderines de recuperación de IASI de nivel 2,17,Escena sobre el desierto,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/18,040057,Banderines de recuperación de IASI de nivel 2,18,Temperatura de la piel faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/19,040057,Banderines de recuperación de IASI de nivel 2,19,Temperatura de la película superficial recuperada demasiado diferente del modelo,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/20,040057,Banderines de recuperación de IASI de nivel 2,20,El contraste de la línea espectral es demasiado débil,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/21,040057,Banderines de recuperación de IASI de nivel 2,21,El número máximo de iteraciones excede,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/22,040057,Banderines de recuperación de IASI de nivel 2,22,Columnas parciales negativas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/23,040057,Banderines de recuperación de IASI de nivel 2,23,Matriz mal condicionada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/24,040057,Banderines de recuperación de IASI de nivel 2,24,El ajuste divergió,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/25,040057,Banderines de recuperación de IASI de nivel 2,25,Error en el uso de GSL,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/26,040057,Banderines de recuperación de IASI de nivel 2,26,Sesgos residuales,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/27,040057,Banderines de recuperación de IASI de nivel 2,27,Residuos inclinados,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/28,040057,Banderines de recuperación de IASI de nivel 2,28,El error RMS de los residuales es grande,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/29,040057,Banderines de recuperación de IASI de nivel 2,29,Núcleos promedio extraños,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/30,040057,Banderines de recuperación de IASI de nivel 2,30,Presencia de hielo detectada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/057/All-31,040057,Banderines de recuperación de IASI de nivel 2,Los 31,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/068/0,040068,Banderín de calidad de la recuperación general del SO2,0,Valores calculados con IASI L2,,,,,Operational,AI Translator: MCP
+bufr4/0/40/068/1,040068,Banderín de calidad de la recuperación general del SO2,1,Perfiles de presión y temperatura faltantes en los datos de IASI L2; se utilizaron datos de modelo/pronóstico en su lugar.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/068/2,040068,Banderín de calidad de la recuperación general del SO2,2,Mejor calidad,,,,,Operational,AI Translator: MCP
+bufr4/0/40/068/3-14,040068,Banderín de calidad de la recuperación general del SO2,3-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/068/15,040068,Banderín de calidad de la recuperación general del SO2,15,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/1,040074,Banderines de calidad de interferometría general,1,Incompatibilidad de un ángulo de escaneo para electroencefalograma,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/2,040074,Banderines de calidad de interferometría general,2,"Falla de calibración (límite de temperatura del cuerpo negro alcanzado, no hay suficientes fuentes para interferometría, etc.)",,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/3,040074,Banderines de calidad de interferometría general,3,La geolocalización ejecutada teniendo en cuenta la orientación de la nave espacial y utilizando el catálogo de estrellas.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/4,040074,Banderines de calidad de interferometría general,4,"Nivel alto de sedimento criogénico alcanzado, requiriendo desgasificación del enfriador de radiación. Configurado cuando el nivel NESR del umbral de cobertura de hielo se cruza.",,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/5,040074,Banderines de calidad de interferometría general,5,Indicador de paquete de interferometría,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/6,040074,Banderines de calidad de interferometría general,6,Indicador de precisión general,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/7,040074,Banderines de calidad de interferometría general,7,Ruido presente durante la interferometría,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/8,040074,Banderines de calidad de interferometría general,8,Desgasificación del enfriador de radiación,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/9,040074,Banderines de calidad de interferometría general,9,Bandera que precede la primera marca de 24 horas/día (configurada como activada por regla).,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/10,040074,Banderines de calidad de interferometría general,10,Indicador de paquete de telemetría,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/11-15,040074,Banderines de calidad de interferometría general,11-15,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/074/All-16,040074,Banderines de calidad de interferometría general,Los 16,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/1,040077,Bandera de calidad de producto de océano,1,La temperatura de la superficie del mar no está bien,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/2,040077,Bandera de calidad de producto de océano,2,La velocidad del viento de la superficie del mar no está bien,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/3,040077,Bandera de calidad de producto de océano,3,Contenido de vapor de agua atmosférico no está OK,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/4,040077,Bandera de calidad de producto de océano,4,Contenido de agua líquida de nube no está bien.,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/5-7,040077,Bandera de calidad de producto de océano,5-7,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/077/All-8,040077,Bandera de calidad de producto de océano,Los 8,Valor faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/080/1,040080,Resultados de prueba de nubes para el nivel 2 de IASI-NG,1,Detección de cirros finos ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/080/2,040080,Resultados de pruebas de nubes para el nivel 2 de IASI-NG,2,La detección de cirros delgados indica una nube,,,,,Operational,AI Translator: MCP
+bufr4/0/40/080/3,040080,Resultados de pruebas de nubes de nivel 2 de IASI-NG,3,Detección de polvo de aerosol ejecutada,,,,,Operational,AI Translator: MCP
+bufr4/0/40/080/4,040080,Resultados de pruebas de nubes para el nivel 2 de IASI-NG,4,Polvo de aerosol detectado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/080/All-5,040080,Resultados de prueba de nubes para el nivel 2 de IASI-NG,Los 5,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/1-17,040081,Clasificación y calidad de nivel 1 de OLCI,1-17,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/18,040081,Clasificación y calidad de nivel 1 de OLCI,18,Tierra,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/19,040081,Clasificación y calidad de nivel 1 de OLCI,19,Línea de costa,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/20,040081,Clasificación y calidad de nivel 1 de OLCI,20,Agua dulce de interior,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/21,040081,Clasificación y calidad de nivel 1 de OLCI,21,Regiones de mareas,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/22,040081,Clasificación y calidad de nivel 1 de OLCI,22,Nube preliminar,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/23,040081,Clasificación y calidad de nivel 1 de OLCI,23,Riesgo de luz dispersa,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/24,040081,Clasificación y calidad de nivel 1 de OLCI,24,Inválido,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/25,040081,Clasificación y calidad de nivel 1 de OLCI,25,Cosmético,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/26,040081,Clasificación y calidad de nivel 1 de OLCI,26,Duplicado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/27,040081,Clasificación y calidad de nivel 1 de OLCI,27,Riesgo de reflejo solar,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/28,040081,Clasificación y calidad de nivel 1 de OLCI,28,Dudoso,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/29,040081,Clasificación y calidad de nivel 1 de OLCI,29,Saturado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/30,040081,Clasificación y calidad de nivel 1 de OLCI,30,Parcialmente saturado,,,,,Operational,AI Translator: MCP
+bufr4/0/40/081/All-31,040081,Clasificación y calidad de nivel 1 de OLCI,Los 31,Faltante,,,,,Operational,AI Translator: MCP

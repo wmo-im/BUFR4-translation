@@ -3,3 +3,16 @@ bufr4/0/42/004/0,042004,Fiabilidad de la inversión para cada partición del esp
 bufr4/0/42/004/1,042004,Fiabilidad de la inversión para cada partición del espectro de olas de mar de fondo,1,Ambigüedad de 180 grados no resuelta,,,,,Operational,Original
 bufr4/0/42/004/2-14,042004,Fiabilidad de la inversión para cada partición del espectro de olas de mar de fondo,2-14,Reservadas,,,,,Operational,Original
 bufr4/0/42/004/15,042004,Fiabilidad de la inversión para cada partición del espectro de olas de mar de fondo,15,Faltante,,,,,Operational,Original
+bufr4/0/42/017/0,042017,Bandera de calidad de espectros de olas de mar de fondo,0,Buena,,,,,Operational,AI Translator: MCP
+bufr4/0/42/017/1,042017,Bandera de calidad de espectros de olas de mar de fondo,1,Medio,,,,,Operational,AI Translator: MCP
+bufr4/0/42/017/2,042017,Bandera de calidad de espectros de olas de mar de fondo,2,Bajo,,,,,Operational,AI Translator: MCP
+bufr4/0/42/017/3,042017,Bandera de calidad de espectros de olas de mar de fondo,3,Pobre,,,,,Operational,AI Translator: MCP
+bufr4/0/42/017/4-14,042017,Bandera de calidad de espectros de olas de mar de fondo,4-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/42/017/15,042017,Bandera de calidad de espectros de olas de mar de fondo,15,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/0,042018,Bandera de calidad para cada partición de espectros de olas de mar de fondo,0,Muy bueno,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/1,042018,Bandera de calidad para cada partición de espectros de ondas de oleaje,1,Buena,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/2,042018,Bandera de calidad para cada partición de espectros de olas de mar de fondo,2,Medio,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/3,042018,Bandera de calidad para cada partición de espectros de olas de mar de fondo,3,Bajo,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/4,042018,Indicador de calidad para cada partición de espectros de olas de mar de fondo,4,Pobre,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/5-14,042018,Indicador de calidad para cada partición de espectros de olas de mar de fondo,5-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/42/018/15,042018,Indicador de calidad para cada partición de espectros de olas de mar de fondo,15,Faltante,,,,,Operational,AI Translator: MCP

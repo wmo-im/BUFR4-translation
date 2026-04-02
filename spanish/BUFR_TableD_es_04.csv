@@ -16,6 +16,7 @@ bufr4/3/04/004/3/020010,04,Secuencias meteorológicas comunes a las observacione
 bufr4/3/04/004/4/012001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304004,"Presión en la cima de la nube, nubosidad, temperatura",,012001,Temperatura/temperatura del aire,,,,Operational,Original
 bufr4/3/04/005/1/002024,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,Humedad relativa media de la capa,,002024,Método de cálculo de la humedad media integrada,,,,Operational,Original
 bufr4/3/04/005/2/007004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,Humedad relativa media de la capa,,007004,Presión,Definir capa,,,Operational,Original
+bufr4/3/04/005/3/007004,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,(Humedad relativa media de la capa),,007004,Presión,,,,Operational,AI Translator: MCP
 bufr4/3/04/005/4/013003,04,Secuencias meteorológicas comunes a las observaciones satelitales,304005,Humedad relativa media de la capa,,013003,Humedad relativa,,,,Operational,Original
 bufr4/3/04/006/1/014001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,Radiación,,014001,"Radiación de onda larga, integrada durante 24 horas",Radiación saliente de onda larga,,,Operational,Original
 bufr4/3/04/006/2/014001,04,Secuencias meteorológicas comunes a las observaciones satelitales,304006,Radiación,,014001,"Radiación de onda larga, integrada durante 24 horas",Radiación incidente de onda larga,,,Operational,Original

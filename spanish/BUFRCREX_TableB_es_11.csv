@@ -18,6 +18,8 @@ bufr4/0/11/019,11,Viento y turbulencia,011019,Persistencia del viento,%,0,0,7,%,
 bufr4/0/11/021,11,Viento y turbulencia,011021,Vorticidad relativa,m s-1,9,-65536,17,m s-1,9,6,,,Operational,Original
 bufr4/0/11/022,11,Viento y turbulencia,011022,Divergencia,s-1,9,-65536,17,s-1,9,6,,,Operational,Original
 bufr4/0/11/023,11,Viento y turbulencia,011023,Potencial de velocidad,m² s-1,-2,-65536,17,m² s-1,-2,6,,,Operational,Original
+bufr4/0/11/024,11,Viento y turbulencia,011024,Componente promedio u después de la eliminación de vórtices,m s⁻¹,1,-4096,13,m s⁻¹,0,0,,,Operational,AI Translator: MCP
+bufr4/0/11/025,11,Viento y turbulencia,011025,Componente promedio de v después de la eliminación de vórtices,m s⁻¹,1,-4096,13,m s⁻¹,0,0,,,Operational,AI Translator: MCP
 bufr4/0/11/030,11,Viento y turbulencia,011030,Grado de turbulencia ampliado,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/11/031,11,Viento y turbulencia,011031,Grado de turbulencia,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/11/032,11,Viento y turbulencia,011032,Altura de la base de la turbulencia,m,-1,-40,16,m,-1,5,,,Operational,Original
@@ -53,6 +55,7 @@ bufr4/0/11/074,11,Viento y turbulencia,011074,Energía de disipación,m² s-2,2,
 bufr4/0/11/075,11,Viento y turbulencia,011075,Intensidad media de la turbulencia (tasa de disipación de los remolinos),m2/3 s-1,2,0,8,m2/3 s-1,2,3,,,Operational,Original
 bufr4/0/11/076,11,Viento y turbulencia,011076,Intensidad máxima de la turbulencia (tasa de disipación de los remolinos),m2/3 s-1,2,0,8,m2/3 s-1,2,3,,,Operational,Original
 bufr4/0/11/077,11,Viento y turbulencia,011077,Intervalo de información a tiempo medio para la tasa de disipación de los remolinos,s,0,0,12,s,0,4,,,Operational,Original
+bufr4/0/11/080,11,Viento y turbulencia,011080,Número de vistas utilizadas para la recuperación de datos del viento,Numérica,0,0,3,,,,,,Operational,AI Translator: MCP
 bufr4/0/11/081,11,Viento y turbulencia,011081,Dirección modélica del viento a 10 m,grado verdadero,2,0,16,grado verdadero,2,5,,,Operational,Original
 bufr4/0/11/082,11,Viento y turbulencia,011082,Velocidad modélica del viento a 10 m,m s-1,2,0,14,m s-1,2,4,,,Operational,Original
 bufr4/0/11/083,11,Viento y turbulencia,011083,Velocidad del viento,km h-1,0,0,9,km h-1,0,3,,,Operational,Original

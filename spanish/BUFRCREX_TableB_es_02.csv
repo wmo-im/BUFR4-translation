@@ -7,6 +7,7 @@ bufr4/0/02/005,02,Instrumentos,002005,Precisión de las observaciones de la temp
 bufr4/0/02/006,02,Instrumentos,002006,Tipo de instrumento de teledetección en altitud,Tabla de cifrado,0,0,6,Tabla de cifrado,0,0,,,Operational,Original
 bufr4/0/02/007,02,Instrumentos,002007,Tipo de sensor del instrumento de medición del nivel de agua,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/008,02,Instrumentos,002008,Tipo de plataforma marina,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/02/009,02,Instrumentos,002009,Algoritmo de aerosol de MODIS,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,AI Translator: MCP
 bufr4/0/02/011,02,Instrumentos,002011,Tipo de radiosonda,Tabla de cifrado,0,0,8,Tabla de cifrado,0,3,,,Operational,Original
 bufr4/0/02/012,02,Instrumentos,002012,Método de cálculo de la radiosonda,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/02/013,02,Instrumentos,002013,Corrección de la radiación solar y de infrarrojo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
@@ -74,6 +75,7 @@ bufr4/0/02/085,02,Instrumentos,002085,Cantidad de gas utilizada en el globo,kg,3
 bufr4/0/02/086,02,Instrumentos,002086,Longitud de arrastre de vuelo del globo,m,1,0,10,m,1,4,,,Operational,Original
 bufr4/0/02/087,02,Instrumentos,002087,Superficie del paracaídas,m²,4,0,15,m²,4,5,,,Operational,Original
 bufr4/0/02/088,02,Instrumentos,002088,Volumen de gas utilizado en el globo,m³,3,0,13,m³,3,4,,,Operational,Original
+bufr4/0/02/090,02,Instrumentos,002090,Longitud de onda de instrumento,m,9,0,16,m,9,5,,,Operational,AI Translator: MCP
 bufr4/0/02/091,02,Instrumentos,002091,Sensor de entrada 4/20 mA,A,4,0,10,A,4,3,,,Operational,Original
 bufr4/0/02/092,02,Instrumentos,002092,Método de cálculo del perfil de ozono,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,Original
 bufr4/0/02/095,02,Instrumentos,002095,Tipo de sensor de presión,Tabla de cifrado,0,0,5,Tabla de cifrado,0,2,,,Operational,Original
@@ -172,3 +174,5 @@ bufr4/0/02/188,02,Instrumentos,002188,Capacidad para detectar el oscurecimiento,
 bufr4/0/02/189,02,Instrumentos,002189,Capacidad para distinguir entre descargas eléctricas,Tabla de banderines,0,0,12,Tabla de banderines,0,4,,,Operational,Original
 bufr4/0/02/190,02,Instrumentos,002190,Inmersión de una boya lagrangiana a la deriva (% de tiempo en que permanece sumergida),%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/02/191,02,Instrumentos,002191,Cálculo de la altura geopotencial,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/02/192,02,Instrumentos,002192,Precisión de la observación de presión,Pa,2,0,14,,,,,,Operational,AI Translator: MCP
+bufr4/0/02/193,02,Instrumentos,002193,Precisión de la observación de la proporción de mezcla,kg kg-1,6,0,14,,,,,,Operational,AI Translator: MCP

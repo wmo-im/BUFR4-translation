@@ -23,3 +23,9 @@ bufr4/0/03/025,03,Instrumentos,003025,Tamaño del área estimada transversal a l
 bufr4/0/03/026,03,Instrumentos,003026,Tamaño del área estimada en el sentido de la trayectoria,m,0,5000,16,m,0,5,,,Operational,Original
 bufr4/0/03/027,03,Instrumentos,003027,Tipo de mecanismo de vuelo,Tabla de cifrado,0,0,4,Tabla de cifrado,0,2,,,Operational,Original
 bufr4/0/03/028,03,Instrumentos,003028,Método de medición del equivalente en agua de la nieve,Tabla de cifrado,0,0,6,Tabla de cifrado,0,2,,,Operational,Original
+bufr4/0/03/029,03,Instrumentos,003029,Franja,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP
+bufr4/0/03/030,03,Instrumentos,003030,Estado de la antena,Tabla de cifrado,0,0,3,Tabla de cifrado,0,1,,,Operational,AI Translator: MCP
+bufr4/0/03/031,03,Instrumentos,003031,"Ancho de banda de canal, ancho completo a mitad de máximo (FWHM)",m,11,0,16,m,11,13,,,Operational,AI Translator: MCP
+bufr4/0/03/032,03,Instrumentos,003032,Frecuencia central de canal,Hz,-6,0,26,Hz,-6,10,,,Operational,AI Translator: MCP
+bufr4/0/03/033,03,Instrumentos,003033,Ancho de banda de canal,Hz,-6,0,26,Hz,-6,10,,,Operational,AI Translator: MCP
+bufr4/0/03/034,03,Instrumentos,003034,Longitud de onda de canal,m,9,0,16,m,9,5,,,Operational,AI Translator: MCP

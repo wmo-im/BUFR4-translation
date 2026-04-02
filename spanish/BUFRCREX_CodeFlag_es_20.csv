@@ -362,7 +362,7 @@ bufr4/0/20/008/9,020008,Distribución de las nubes para la aviación,9,Nubes ais
 bufr4/0/20/008/10,020008,Distribución de las nubes para la aviación,10,Ocasionales,(Utilizada en mapas de aviación para describir nubes del tipo Cb),,,,Operational,Original
 bufr4/0/20/008/11,020008,Distribución de las nubes para la aviación,11,Ocasionales subsumidas,(Utilizada en mapas de aviación para describir nubes del tipo Cb),,,,Operational,Original
 bufr4/0/20/008/12,020008,Distribución de las nubes para la aviación,12,Frecuentes,(Utilizada en mapas de aviación para describir nubes del tipo Cb),,,,Operational,Original
-bufr4/0/20/008/13,020008,Distribución de las nubes para la aviación,13,Densas,(Utilizada en mapas de aviación para describir nubes que podrían provocar cambios repentinos en la visibilidad (menos de 1 000 m)),,,,Operational,Original
+bufr4/0/20/008/13,020008,Distribución de las nubes para la aviación,13,Densas,(Utilizada en mapas de aviación para describir nubes que podrían provocar cambios repentinos en la visibilidad (menos de 1 000 m),,,,Operational,Original
 bufr4/0/20/008/14,020008,Distribución de las nubes para la aviación,14,Capas,,,,,Operational,Original
 bufr4/0/20/008/15,020008,Distribución de las nubes para la aviación,15,Oscurecido (OSBC),,,,,Operational,Original
 bufr4/0/20/008/16,020008,Distribución de las nubes para la aviación,16,Intercalado (EMBD),,,,,Operational,Original
@@ -374,7 +374,8 @@ bufr4/0/20/009/1,020009,Indicador general del tiempo (TAF/METAR),1,Ausencia de n
 bufr4/0/20/009/2,020009,Indicador general del tiempo (TAF/METAR),2,CAVOK,,,,,Operational,Original
 bufr4/0/20/009/3,020009,Indicador general del tiempo (TAF/METAR),3,Cielo despejado (SKC),,,,,Operational,Original
 bufr4/0/20/009/4,020009,Indicador general del tiempo (TAF/METAR),4,Ausencia de tiempo significativo (NSW),,,,,Operational,Original
-bufr4/0/20/009/5-14,020009,Indicador general del tiempo (TAF/METAR),5-14,Reservadas,,,,,Operational,Original
+bufr4/0/20/009/5,020009,Indicador general del tiempo (TAF/METAR),5,NCD No se detectaron nubes,,,,,Operational,AI Translator: MCP
+bufr4/0/20/009/6-14,020009,Indicador general del tiempo (TAF/METAR),6-14,Reservadas,,,,,Operational,AI Translator: MCP
 bufr4/0/20/009/15,020009,Indicador general del tiempo (TAF/METAR),15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/011/0,020011,Nubosidad,0,0,0,,,,Operational,Original
 bufr4/0/20/011/1,020011,Nubosidad,1,"1 octa o menos, pero no cero","1/10 o menos, pero no cero",,,,Operational,Original
@@ -591,7 +592,7 @@ bufr4/0/20/034/5,020034,Concentración del hielo marino,5,"9/10 o más, pero inf
 bufr4/0/20/034/6,020034,Concentración del hielo marino,6,Cintas y bancos de hielo a la deriva con agua libre entre los hielos,La concentración de hielos marinos es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
 bufr4/0/20/034/7,020034,Concentración del hielo marino,7,"Cintas y bancos de hielo a la deriva cerrado o muy cerrado, separados por zonas donde la concentración es menor",La concentración de hielos marinos es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
 bufr4/0/20/034/8,020034,Concentración del hielo marino,8,"Hielo fijo con aguas libres, hielo muy abierto o abierto a la deriva a lo largo de la frontera del hielo",La concentración de hielos marinos es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
-bufr4/0/20/034/9,020034,Concentración del hielo marino,9,"Hielo fijo con hielo a la deriva cerrado o muy cerrado a lo largo de la línea frontera del hielo",La concentración de hielos marinos es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
+bufr4/0/20/034/9,020034,Concentración del hielo marino,9,Hielo fijo con hielo a la deriva cerrado o muy cerrado a lo largo de la línea frontera del hielo,La concentración de hielos marinos es uniforme en la zona de observación,"Buque en hielos, o a menos de 0,5 milla marina del borde del hielo",,,Operational,Original
 bufr4/0/20/034/10-13,020034,Concentración del hielo marino,10-13,Reservadas,,,,,Operational,Original
 bufr4/0/20/034/14,020034,Concentración del hielo marino,14,"Informe imposible debido a la oscuridad, a la falta de visibilidad o al hecho de que el buque se encuentra a más de 0,5 milla marina del borde del hielo",,,,,Operational,Original
 bufr4/0/20/034/15-30,020034,Concentración del hielo marino,15-30,Reservadas,,,,,Operational,Original
@@ -690,8 +691,8 @@ bufr4/0/20/055/1,020055,Estado del cielo en los trópicos,1,"Cúmulos de dimensi
 bufr4/0/20/055/2,020055,Estado del cielo en los trópicos,2,Cúmulos con protuberancias y torretas que crecen rápidamente y van disminuyendo con la altura y cuyos remates tienden a separarse de la masa inferior de nubes y se disuelven a los pocos minutos,,,,,Operational,Original
 bufr4/0/20/055/3,020055,Estado del cielo en los trópicos,3,Cúmulos con protuberancias y torretas que se inclinan francamente a sotavento; la altura de las nubes es más de una vez y media su ancho medio,,,,,Operational,Original
 bufr4/0/20/055/4,020055,Estado del cielo en los trópicos,4,Cúmulos con protuberancias y torretas que se inclinan francamente a barlovento; la altura de las nubes es más de una vez y media su ancho medio,,,,,Operational,Original
-bufr4/0/20/055/5,020055,Estado del cielo en los trópicos,5,Cúmulos congestus altos con grandes protuberancias de una altura más de dos veces mayor que su ancho medio; no se disponen en racimos ni líneas; una o más capas se destacan de las torretas de nubes aunque no existen capas continuas ,,,(véase la Nota),55,Operational,Original
-bufr4/0/20/055/6,020055,Estado del cielo en los trópicos,6,"Cumulonimbos aislados o amplios racimos de torretas de cúmulos separados por anchos espacios libres de nubes; las bases de las nubes son oscuras por lo general y se observan chubascos en la mayoría de las células; pueden advertirse algunas nubes medias y superiores dispersas; las diferentes células de los cúmulos son una o dos veces más altas que anchas",,,,,Operational,Original
+bufr4/0/20/055/5,020055,Estado del cielo en los trópicos,5,Cúmulos congestus altos con grandes protuberancias de una altura más de dos veces mayor que su ancho medio; no se disponen en racimos ni líneas; una o más capas se destacan de las torretas de nubes aunque no existen capas continuas,,,(véase la Nota),55,Operational,Original
+bufr4/0/20/055/6,020055,Estado del cielo en los trópicos,6,Cumulonimbos aislados o amplios racimos de torretas de cúmulos separados por anchos espacios libres de nubes; las bases de las nubes son oscuras por lo general y se observan chubascos en la mayoría de las células; pueden advertirse algunas nubes medias y superiores dispersas; las diferentes células de los cúmulos son una o dos veces más altas que anchas,,,,,Operational,Original
 bufr4/0/20/055/7,020055,Estado del cielo en los trópicos,7,Numerosos cúmulos que se extienden por la troposfera media con capas continuas o discontinuas de nubes medias y/o cirrostratos; por lo general las torretas de cúmulos no disminuyen con la altura; la base de las nubes es oscura y desigual y se producen algunos chubascos,,,,,Operational,Original
 bufr4/0/20/055/8,020055,Estado del cielo en los trópicos,8,"Nubes medias, densas y continuas y/o capas de cirrostratos con algunos grandes cumulonimbos o cúmulos congestus aislados, que las penetran; ocasionalmente se observan lluvias débiles de las capas de altostratos; las bases de los cumulonimbos son irregulares y oscuras y se ven chubascos",,,(véase la Nota),55,Operational,Original
 bufr4/0/20/055/9,020055,Estado del cielo en los trópicos,9,Capas continuas de nubes medias y/o cirrostratos con cumulonimbos o cúmulos congestus dispuestos en líneas o bandas de nubes; por lo general se observan lluvias de las capas de altostratos y fuertes chubascos de los cumulonimbos; viento con carácter de turbonada,,,,,Operational,Original
@@ -825,10 +826,10 @@ bufr4/0/20/071/8,020071,Exactitud de marcación y tasa de parásitos atmosféric
 bufr4/0/20/071/9,020071,Exactitud de marcación y tasa de parásitos atmosféricos,9,Más de 200 km,Tasa tan elevada que no es posible contar el número,,,,Operational,Original
 bufr4/0/20/071/10-14,020071,Exactitud de marcación y tasa de parásitos atmosféricos,10-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/071/15,020071,Exactitud de marcación y tasa de parásitos atmosféricos,15,Valor faltante,,,,,Operational,Original
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+bufr4/0/20/079/0,020079,Indicador de cristales de nieve o hielo,0,Sin nieve ni hielo,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/1,020079,Indicador de cristales de nieve o hielo,1,Nieve presente,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/2,020079,Indicador de cristales de nieve o hielo,2,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/20/079/3,020079,Indicador de cristales de nieve o hielo,3,Valor faltante,,,,,Operational,AI Translator: MCP
 bufr4/0/20/085/0,020085,Estado general de la pista,0,Despejada (CLRD//),,,,,Operational,Original
 bufr4/0/20/085/1,020085,Estado general de la pista,1,Todas las pistas cerradas (SNOCLO),,,,,Operational,Original
 bufr4/0/20/085/2-14,020085,Estado general de la pista,2-14,Reservadas,,,,,Operational,Original
@@ -970,7 +971,7 @@ bufr4/0/20/107/7,020107,Dirección de los desplazamientos del enjambre de langos
 bufr4/0/20/107/8,020107,Dirección de los desplazamientos del enjambre de langostas,8,"En general, en dirección N",,,,,Operational,Original
 bufr4/0/20/107/9,020107,Dirección de los desplazamientos del enjambre de langostas,9,Dirección específica indeterminable,,,,,Operational,Original
 bufr4/0/20/107/10-14,020107,Dirección de los desplazamientos del enjambre de langostas,10-14,Reservadas,,,,,Operational,Original
-bufr4/0/20/107/15,020107,Dirección de los desplazamientos del enjambre de langostas,15,"Valor faltante",,,,,Operational,Original
+bufr4/0/20/107/15,020107,Dirección de los desplazamientos del enjambre de langostas,15,Valor faltante,,,,,Operational,Original
 bufr4/0/20/108/0,020108,Extensión de la vegetación,0,Suelo pelado,,,,,Operational,Original
 bufr4/0/20/108/1,020108,Extensión de la vegetación,1,"Seco, con presencia de arbustos escasos y aislados",,,,,Operational,Original
 bufr4/0/20/108/2,020108,Extensión de la vegetación,2,Vegetación dispersa (brotando),,,,,Operational,Original
@@ -1063,3 +1064,15 @@ bufr4/0/20/138/6,020138,Condición de la superficie de la carretera,6,Hielo liso
 bufr4/0/20/138/7,020138,Condición de la superficie de la carretera,7,No seca,,,,,Operational,Original
 bufr4/0/20/138/8-14,020138,Condición de la superficie de la carretera,8-14,Reservadas,,,,,Operational,Original
 bufr4/0/20/138/15,020138,Condición de la superficie de la carretera,15,Valor faltante,,,,,Operational,Original
+bufr4/0/20/139/0,020139,Suposición final del modelo de nube,0,Despejado,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/1,020139,Suposición final del modelo de nube,1,Agua de capa única,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/2,020139,Suposición final del modelo de nube,2,Hielo de capa única,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/3,020139,Suposición final del modelo de nube,3,2 capas (agua/hielo),,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/4,020139,Suposición final del modelo de nube,4,Ceniza de capa única,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/5,020139,Suposición final del modelo de nube,5,Ceniza de 2 capas,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/6-14,020139,Suposición final del modelo de nube,6-14,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/20/139/15,020139,Suposición final del modelo de nube,15,Faltante,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/0,020143,Nube líquida,0,Ninguna nube líquida,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/1,020143,Nube líquida,1,Nube líquida presente,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/2,020143,Nube líquida,2,Reservadas,,,,,Operational,AI Translator: MCP
+bufr4/0/20/143/3,020143,Nube líquida,3,Valor faltante,,,,,Operational,AI Translator: MCP

@@ -1,4 +1,41 @@
 Id,Category,CategoryOfSequences_es,FXY1,Title_es,SubTitle_es,FXY2,ElementName_es,ElementDescription_es,Note_es,noteIDs,Status,translated_by
+bufr4/3/22/001/1/310022,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,310022,"Identificador del satélite, instrumento y tipo de producto",,,,Operational,AI Translator: MCP
+bufr4/3/22/001/2/301011,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,301011,"Año, mes, día",,,,Operational,AI Translator: MCP
+bufr4/3/22/001/3/301013,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,301013,"Hora, minuto, segundo",,,,Operational,AI Translator: MCP
+bufr4/3/22/001/4/301021,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,301021,Latitud/longitud (gran exactitud),,,,Operational,AI Translator: MCP
+bufr4/3/22/001/5/005041,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,005041,Número de la línea de exploración,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/6/005043,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,005043,Número del campo de visión,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/7/027080,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,027080,Ángulo de visión azimutal,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/8/005022,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,005022,Azimut solar,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/9/013040,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,013040,Banderín de superficie,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/10/020010,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,020010,Cubierta de nubes (total),,,,Operational,AI Translator: MCP
+bufr4/3/22/001/11/033085,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,033085,Banderines de calidad del espesor óptico de aerosol,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/12/033115,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,033115,Información de calidad de la profundidad óptica de aerosoles,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/13/105002,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,105002,Repetir 5 descriptores 2 veces,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/14/008099,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,008099,Dirección de detección,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/15/007024,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,007024,Ángulo cenital del satélite,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/16/007025,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,007025,Ángulo cenital del sol,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/17/007075,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,007075,Ángulo de dispersión,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/18/007076,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,007076,Ángulo de acimut relativo,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/19/106000,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,106000,Repetición diferida de 6 descriptores,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/20/031001,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,031001,Factor de repetición diferida del descriptor,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/21/002071,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,002071,Longitud de onda espectrográfica,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/22/008043,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,008043,Tipo de componente atmosférico químico o físico,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/23/015024,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,015024,Espesor óptico,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/24/008043,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,008043,Tipo de componente atmosférico químico o físico,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/25/015024,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,015024,Espesor óptico,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/26/015042,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,015042,Reflectancia,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/27/224000,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,224000,Siguen valores estadísticos de primer orden,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/28/236000,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,236000,Definición de mapa de bits de datos,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/29/101000,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,101000,Repetición diferida de 1 descriptor,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/30/031002,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/31/031031,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,031031,Indicador de datos presentes,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/32/001033,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,001033,Identificación del centro de origen/generación,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/33/001032,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,001032,Aplicación de producción,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/34/008023,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,008023,Estadísticas de primer orden,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/35/101000,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,101000,Repetición diferida de 1 descriptor,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/36/031002,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,031002,Factor ampliado de repetición diferida del descriptor,,,,Operational,AI Translator: MCP
+bufr4/3/22/001/37/224255,22,Secuencias de sustancias químicas y aerosoles,322001,(Profundidad óptica de aerosol),,224255,Marcador de valores estadísticos de primer orden,,,,Operational,AI Translator: MCP
 bufr4/3/22/028/1/001007,22,Secuencias de sustancias químicas y aerosoles,322028,(GOME-2 de METOP),,001007,Identificador del satélite,,,,Operational,Original
 bufr4/3/22/028/2/002019,22,Secuencias de sustancias químicas y aerosoles,322028,(GOME-2 de METOP),,002019,Instrumentos de satélite,,,,Operational,Original
 bufr4/3/22/028/3/004001,22,Secuencias de sustancias químicas y aerosoles,322028,(GOME-2 de METOP),,004001,Año,,,,Operational,Original
