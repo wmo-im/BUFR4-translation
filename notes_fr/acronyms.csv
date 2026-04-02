@@ -1,69 +1,69 @@
 acronym,meaning,translated_by
 ADC,analog-to-digital converter,
-ADCP,Acoustic Doppler Current Profiler,
+ADCP,Profileur acoustique de courant Doppler,Original
 AMV,atmospheric motion vector,
-AOT,aerosol optical thickness,
-APSP,aerosol particle size parameter,
-ASCAT,Advanced Scatterometer,
+AOT,épaisseur optique des aérosols,Original
+APSP,paramètre de la taille de l'aérosol,Original
+ASCAT,Diffusiomètre perfectionné,Original
 BBP700,Particulate backscattering coefficient at 700 nm,
-BGAN,Broadband Global Area Network,
+BGAN,Réseau mondial à large bande,Original
 BIPM,Bureau International de Poids et Mesures,
 DEM,digital elevation model,
-DORIS,Doppler orbitography and radio-positioning integrated by Satellite,
-DSR,data set record,
+DORIS,Détermination Doppler d'orbite et radio-localisation intégrées par satellite,Original
+DSR,enregistrement des jeux de données,Original
 DU,Dobson Unit,
 EDR,eddy dissipation rate,
 EOP,earth orientation parameters,
 EPS-SG,EUMETSAT Polar System Second Generation,
 EUMETSAT,European Organisation for the Exploitation of Meteorological Satellites,
 FOVs,fields of view,
-GAN,global area network,
-GHRSST,GODAE high-resolution sea-surface temperature,
-GNSS,global navigation satellite system,
+GAN,Réseau mondial,Original
+GHRSST,Projet pilote concernant l'échange de données haute résolution sur la température de la mer en surface dans le cadre de l'Expérience GODAE (Expérience mondiale d'assimilation des données océaniques),Original
+GNSS,Système mondial de navigation par satellite,Original
 GRP,Glass-reinforced plastic,
 GRUAN,Réseau aérologique de référence du SMOC,Original
-GTSPP,Global Temperature Salinity Profile Programme,
+GTSPP,Programme sur les profils de la température et de la salinité à l'échelle du globe,Original
 HPA,high power amplifier,
 IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation ,
 ICI,Ice Cloud Imager,
-IERS,International Earth Rotation Service,
-IFOV,instantaneous field of view,
+IERS,Service international de la rotation terrestre et des systèmes de référence,Original
+IFOV,champ de vision instantanée,Original
 IFP,Intermediate Frequency Processor,
 IW,infrared window,
 JCGM,Joint Committee for Guides in Metrology,
-JMR,JASON-1 Microwave Radiometer,
+JMR,Radiomètre hyperfréquence JASON-1,Original
 L0,level 0 (raw data),
 L2,level 2 (geophysical data),
 LOS,line of sight,
-LRM, low-resolution mode,
+LRM,Mode basse résolution,Original
 LSM,landform segmentation model,
-MMCC,Mission Management Control Centre,
+MMCC,Centre de gestion et de commande de la mission,Original
 MR,main reflector,
-MWI,Microwave Imager,
-MWR,microwave radiometer,
+MWI,Radiomètre hyperfréquence,Original
+MWR,Radiomètre hyperfréquence,Original
 MWS,Microwave Sounder,
 NAVATT,navigation and attitude data,
 NEDT,nose equivalent delta temperature,
 NEdT,nose equivalent delta temperature,
 NEΔT,nose equivalent delta temperature,
 NOF,normalized objective function,
-OBC,on-board calibration,
+OBC,Système d'étalonnage embarqué,Original
 OBCT,on board calibration target,
 OCOG,offset centre of gravity,
-OLCI,Ocean and Land Colour Instrument,
+OLCI,Imageur de la couleur de l'océan et des terres immergées,Original
 PCS,principle component scores,
-PRF,pulse repetition frequency,
+PRF,fréquence de répétition des impulsions,Original
 PRT,platinum resistance thermometer,
-PTR,pulse target response,
+PTR,réponse impulsionnelle de cible,Original
 RAD,radiances,
 RDR,raw data record,
 RED,redundancy,
-RF,radio frequency,
+RF,radiofréquence,Original
 RFE,receiver front end,
 RFI,radio frequency interference,
-RFSS,radio frequency subsystem,
+RFSS,sous-système radiofréquence,Original
 RMS,root mean square,
-SAR,synthetic aperture radar,
+SAR,Radar à ouverture synthétique,Original
 SCA,Scatterometer,
 SDR,sensor data record,
 SSI,surface solar irradiance,
