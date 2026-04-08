@@ -29,7 +29,7 @@ bufr4/3/05/006/4/012001,05,Séquences météorologiques ou hydrologiques commune
 bufr4/3/05/006/5/013073,05,Séquences météorologiques ou hydrologiques communes aux observations,305006,(Mesure MEDHYCOS),,013073,Niveau d'eau maximal,,,,Operational,Original
 bufr4/3/05/006/6/013060,05,Séquences météorologiques ou hydrologiques communes aux observations,305006,(Mesure MEDHYCOS),,013060,Précipitations totales cumulées,,,,Operational,Original
 bufr4/3/05/007/1/301029,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,(Message d'observation MEDHYCOS),,301029,Identification,,,,Operational,Original
-bufr4/3/05/007/2/301012,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,(Message d'observation MEDHYCOS),,301012,"Heure, minute",Moment de la première mesure ,,,Operational,Original
+bufr4/3/05/007/2/301012,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,(Message d'observation MEDHYCOS),,301012,"Heure, minute",Moment de la première mesure,,,Operational,Original
 bufr4/3/05/007/3/004065,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,,,004065,Incrément de courte durée,Intervalle de temps entre les mesures,,,Operational,Original
 bufr4/3/05/007/4/101000,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,,,101000,Répétition différée de 1 descripteur,,,,Operational,Original
 bufr4/3/05/007/5/031001,05,Séquences météorologiques ou hydrologiques communes aux observations,305007,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original

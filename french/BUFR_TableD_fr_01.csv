@@ -47,9 +47,9 @@ bufr4/3/01/026/4/004004,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/026/5/004004,01,Séquences correspondant à la position et à l'identification,301026,"(Latitude/longitude (précision élevée), période (jour, heure, minute))",,004004,Heure,en heures,,,Operational,Original
 bufr4/3/01/026/6/004005,01,Séquences correspondant à la position et à l'identification,301026,"(Latitude/longitude (précision élevée), période (jour, heure, minute))",,004005,Minute,Période,,,Operational,Original
 bufr4/3/01/026/7/004005,01,Séquences correspondant à la position et à l'identification,301026,"(Latitude/longitude (précision élevée), période (jour, heure, minute))",,004005,Minute,en minutes,,,Operational,Original
-bufr4/3/01/027/1/008007,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une catactéristique météorologique en trois ou en deux dimensions),,008007,Caractéristique dimensionnelle,"= 0 Point, = 1 Ligne, = 2 Surface, = 3 Volume",,,Operational,Original
-bufr4/3/01/027/2/101000,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une catactéristique météorologique en trois ou en deux dimensions),,101000,Répétition différée de 1 descripteur,,,,Operational,Original
-bufr4/3/01/027/3/031001,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une catactéristique météorologique en trois ou en deux dimensions),,031001,Facteur de répétition différée du descripteur,,(voir note 5),65,Operational,Original
+bufr4/3/01/027/1/008007,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une caractéristique météorologique en trois ou en deux dimensions),,008007,Caractéristique dimensionnelle,"= 0 Point, = 1 Ligne, = 2 Surface, = 3 Volume",,,Operational,Original
+bufr4/3/01/027/2/101000,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une caractéristique météorologique en trois ou en deux dimensions),,101000,Répétition différée de 1 descripteur,,,,Operational,Original
+bufr4/3/01/027/3/031001,01,Séquences correspondant à la position et à l'identification,301027,(Description d'une caractéristique météorologique en trois ou en deux dimensions),,031001,Facteur de répétition différée du descripteur,,(voir note 5),65,Operational,Original
 bufr4/3/01/027/4/301028,01,Séquences correspondant à la position et à l'identification,301027,,,301028,"Coupe horizontale d'une caractéristique météorologique décrite sous la forme d'un polygone, d'un cercle, d'une ligne ou d'un point",,,,Operational,Original
 bufr4/3/01/027/5/008007,01,Séquences correspondant à la position et à l'identification,301027,,,008007,Caractéristique dimensionnelle,Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/01/028/1/008040,01,Séquences correspondant à la position et à l'identification,301028,"(Coupe horizontale d'une caractéristique météorologique décrite sous la forme d'un polygone, d'un cercle, d'une ligne ou d'un point)",,008040,Caractéristique du niveau de vol,,,,Operational,Original
@@ -144,7 +144,7 @@ bufr4/3/01/045/1/301011,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/045/2/301012,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,301012,"Heure, minute",,,,Operational,Original
 bufr4/3/01/045/3/201138,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,201138,Changer le champ de données,16 bits de long,,,Operational,Original
 bufr4/3/01/045/4/202131,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,202131,Changer d'échelle,Échelle: 3,,,Operational,Original
-bufr4/3/01/045/5/004006,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,004006,Secondes,,,,Operational,Original
+bufr4/3/01/045/5/004006,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,004006,Seconde,,,,Operational,Original
 bufr4/3/01/045/6/201000,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/01/045/7/202000,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/01/045/8/304030,01,Séquences correspondant à la position et à l'identification,301045,(Position et vitesse du satellite),,304030,Position de la plate-forme,Par rapport au centre de la Terre,,,Operational,Original
@@ -159,18 +159,18 @@ bufr4/3/01/046/7/002026,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/046/8/002027,01,Séquences correspondant à la position et à l'identification,301046,"(Indicateur d'identification du satellite, direction de déplacement, détecteur, modèle, logiciel, résolution)",,002027,Résolution dans le sens de la route du satellite,,,,Operational,Original
 bufr4/3/01/046/9/202000,01,Séquences correspondant à la position et à l'identification,301046,"(Indicateur d'identification du satellite, direction de déplacement, détecteur, modèle, logiciel, résolution)",,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/01/046/10/005040,01,Séquences correspondant à la position et à l'identification,301046,"(Indicateur d'identification du satellite, direction de déplacement, détecteur, modèle, logiciel, résolution)",,005040,Numéro d'orbite,,,,Operational,Original
-bufr4/3/01/047/1/001007,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,001007,Indicateur d'identification du satellite,,,,Operational,Original
-bufr4/3/01/047/2/025060,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,025060,Identification du logiciel,,,,Operational,Original
-bufr4/3/01/047/3/001033,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,001033,Identification du centre d'origine/de production,,,,Operational,Original
-bufr4/3/01/047/4/001034,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,001034,Identification du centre secondaire d'origine/ de production,,,,Operational,Original
-bufr4/3/01/047/5/001012,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,001012,Direction de déplacement de la plate-forme d'observation mobile,,,,Operational,Original
-bufr4/3/01/047/6/301045,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,301045,Position et vitesse du satellite,,,,Operational,Original
-bufr4/3/01/047/7/002021,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,002021,Données instrumentales satellitaires utilisées dans le traitement,,,,Operational,Original
-bufr4/3/01/047/8/301011,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,301011,"Année, mois, jour",,,,Operational,Original
-bufr4/3/01/047/9/301012,01,Séquences correspondant à la position et à l'identification,301047,(Een-tête de produits de satellite ERS),,301012,"Heure, minute",,,,Operational,Original
+bufr4/3/01/047/1/001007,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,001007,Indicateur d'identification du satellite,,,,Operational,Original
+bufr4/3/01/047/2/025060,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,025060,Identification du logiciel,,,,Operational,Original
+bufr4/3/01/047/3/001033,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,001033,Identification du centre d'origine/de production,,,,Operational,Original
+bufr4/3/01/047/4/001034,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,001034,Identification du centre secondaire d'origine/ de production,,,,Operational,Original
+bufr4/3/01/047/5/001012,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,001012,Direction de déplacement de la plate-forme d'observation mobile,,,,Operational,Original
+bufr4/3/01/047/6/301045,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,301045,Position et vitesse du satellite,,,,Operational,Original
+bufr4/3/01/047/7/002021,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,002021,Données instrumentales satellitaires utilisées dans le traitement,,,,Operational,Original
+bufr4/3/01/047/8/301011,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/01/047/9/301012,01,Séquences correspondant à la position et à l'identification,301047,(En-tête de produits de satellite ERS),,301012,"Heure, minute",,,,Operational,Original
 bufr4/3/01/047/10/201138,01,Séquences correspondant à la position et à l'identification,301047,,,201138,Changer le champ de données,16 bits de long,,,Operational,Original
 bufr4/3/01/047/11/202131,01,Séquences correspondant à la position et à l'identification,301047,,,202131,Changer d'échelle,Échelle: 3,,,Operational,Original
-bufr4/3/01/047/12/004006,01,Séquences correspondant à la position et à l'identification,301047,,,004006,Secondes,,,,Operational,Original
+bufr4/3/01/047/12/004006,01,Séquences correspondant à la position et à l'identification,301047,,,004006,Seconde,,,,Operational,Original
 bufr4/3/01/047/13/201000,01,Séquences correspondant à la position et à l'identification,301047,,,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/01/047/14/202000,01,Séquences correspondant à la position et à l'identification,301047,,,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/01/047/15/301023,01,Séquences correspondant à la position et à l'identification,301047,,,301023,Latitude/longitude (faible précision),,,,Operational,Original
@@ -206,7 +206,7 @@ bufr4/3/01/055/4/301012,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/055/5/301021,01,Séquences correspondant à la position et à l'identification,301055,,,301021,Latitude/longitude (précision élevée),,,,Operational,Original
 bufr4/3/01/055/6/001012,01,Séquences correspondant à la position et à l'identification,301055,,,001012,Direction de déplacement de la plate-forme d'observation mobile,,,,Operational,Original
 bufr4/3/01/055/7/001014,01,Séquences correspondant à la position et à l'identification,301055,,,001014,Vitesse de dérive de la plate-forme (précision élevée),,,,Operational,Original
-bufr4/3/01/056/1/001087,01,Séquences correspondant à la position et à l'identification,301056,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,001087,Extension de l'indicatif OMM de la plate-forme Numéro OMM d'observation maritime,(extension à 7 chiffres),,,Operational,Original
+bufr4/3/01/056/1/001087,01,Séquences correspondant à la position et à l'identification,301056,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,001087,Extension de l'indicatif OMM de la plate-forme d'observation maritime,Numéro OMM (extension à 7 chiffres),,,Operational,Original
 bufr4/3/01/056/2/001011,01,Séquences correspondant à la position et à l'identification,301056,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,001011,Indicateur d'identification du navire ou d'une station terrestre mobile,Indicatif d'appel (lorsque attribué),,,Operational,Original
 bufr4/3/01/056/3/001015,01,Séquences correspondant à la position et à l'identification,301056,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,001015,Nom de la station ou du site,Nom de la plate-forme,,,Operational,Original
 bufr4/3/01/056/4/002008,01,Séquences correspondant à la position et à l'identification,301056,"(Séquence pour l'identification de la plate-forme, le type, le moment et le lieu d'établissement du message d'observation)",,002008,Type de plate-forme en mer,,,,Operational,Original
@@ -222,7 +222,7 @@ bufr4/3/01/058/3/201152,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/058/4/202135,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,202135,Changer d'échelle,,,,Operational,Original
 bufr4/3/01/058/5/004006,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,004006,Seconde,,,,Operational,Original
 bufr4/3/01/058/6/202000,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,202000,Changer d'échelle,,,,Operational,Original
-bufr4/3/01/058/7/201000,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,201000,Changer le champ de données Coordonnées horizontales et verticales de l'éclair,,,,Operational,Original
+bufr4/3/01/058/7/201000,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,201000,Changement du champ de données,,,,Operational,Original
 bufr4/3/01/058/8/301021,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,301021,Latitude/longitude (précision élevée),,,,Operational,Original
 bufr4/3/01/058/9/020111,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,020111,"Composante principale de l'ellipse d'erreur, axe x",,,,Operational,Original
 bufr4/3/01/058/10/020112,01,Séquences correspondant à la position et à l'identification,301058,"(Éclair, codage universel)",,020112,"Composante secondaire de l'ellipse d'erreur, axe y",,,,Operational,Original
@@ -239,7 +239,7 @@ bufr4/3/01/058/20/020122,01,Séquences correspondant à la position et à l'iden
 bufr4/3/01/058/21/020123,01,Séquences correspondant à la position et à l'identification,301058,,,020123,Seuil minimum de détection,,,,Operational,Original
 bufr4/3/01/058/22/020124,01,Séquences correspondant à la position et à l'identification,301058,,,020124,Coup de foudre ou éclair,,,,Operational,Original
 bufr4/3/01/058/23/025175,01,Séquences correspondant à la position et à l'identification,301058,,,025175,Valeur résiduelle modifiée,,,,Operational,Original
-bufr4/3/01/058/24/020023,01,Séquences correspondant à la position et à l'identification,301058,,,020023,Autres phénomènes météorologiques Traitement des données,Identification nuage-sol ou nuage-nuage,,,Operational,Original
+bufr4/3/01/058/24/020023,01,Séquences correspondant à la position et à l'identification,301058,,,020023,Autres phénomènes météorologiques,Identification nuage-sol ou nuage-nuage,,,Operational,Original
 bufr4/3/01/058/25/025063,01,Séquences correspondant à la position et à l'identification,301058,,,025063,Indicateur du système ou processeur central,,,,Operational,Original
 bufr4/3/01/058/26/202136,01,Séquences correspondant à la position et à l'identification,301058,,,202136,Changer d'échelle,,,,Operational,Original
 bufr4/3/01/058/27/201136,01,Séquences correspondant à la position et à l'identification,301058,,,201136,Changer le champ de données,,,,Operational,Original
@@ -291,37 +291,37 @@ bufr4/3/01/074/3/002145,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/074/4/002146,01,Séquences correspondant à la position et à l'identification,301074,(Instrument de mesure de l'ozone — spectrophotomètre Dobson),,002146,État de la source pour instruments Dobson,,,,Operational,Original
 bufr4/3/01/075/1/301001,01,Séquences correspondant à la position et à l'identification,301075,(Identification du sondage),,301001,Indicateur régional OMM et chiffre indicatif OMM de la station,,,,Operational,Original
 bufr4/3/01/075/2/001015,01,Séquences correspondant à la position et à l'identification,301075,(Identification du sondage),,001015,Nom de la station ou du site,,,,Operational,Original
-bufr4/3/01/075/3/301024,01,Séquences correspondant à la position et à l'identification,301075,,,301024,,,,,Operational,Original
-bufr4/3/01/075/4/008021,01,Séquences correspondant à la position et à l'identification,301075,,,008021,,= 18 Heure du lâcher,,,Operational,Original
-bufr4/3/01/075/5/301011,01,Séquences correspondant à la position et à l'identification,301075,,,301011,,,,,Operational,Original
-bufr4/3/01/075/6/301012,01,Séquences correspondant à la position et à l'identification,301075,,,301012,,,,,Operational,Original
-bufr4/3/01/076/1/002011,01,Séquences correspondant à la position et à l'identification,301076,,,002011,,,,,Operational,Original
-bufr4/3/01/076/2/002143,01,Séquences correspondant à la position et à l'identification,301076,,,002143,,,,,Operational,Original
-bufr4/3/01/076/3/002142,01,Séquences correspondant à la position et à l'identification,301076,,,002142,,,,,Operational,Original
-bufr4/3/01/089/1/001101,01,Séquences correspondant à la position et à l'identification,301089,,,001101,,,,,Operational,Original
-bufr4/3/01/089/2/001102,01,Séquences correspondant à la position et à l'identification,301089,,,001102,,,,,Operational,Original
-bufr4/3/01/090/1/301004,01,Séquences correspondant à la position et à l'identification,301090,,,301004,,,,,Operational,Original
-bufr4/3/01/090/2/301011,01,Séquences correspondant à la position et à l'identification,301090,,,301011,,,,,Operational,Original
-bufr4/3/01/090/3/301012,01,Séquences correspondant à la position et à l'identification,301090,,,301012,,,,,Operational,Original
-bufr4/3/01/090/4/301021,01,Séquences correspondant à la position et à l'identification,301090,,,301021,,,,,Operational,Original
-bufr4/3/01/090/5/007030,01,Séquences correspondant à la position et à l'identification,301090,,,007030,,,,,Operational,Original
-bufr4/3/01/090/6/007031,01,Séquences correspondant à la position et à l'identification,301090,,,007031,,,,,Operational,Original
-bufr4/3/01/091/1/002180,01,Séquences correspondant à la position et à l'identification,301091,,,002180,,,,,Operational,Original
-bufr4/3/01/091/2/002181,01,Séquences correspondant à la position et à l'identification,301091,,,002181,,,,,Operational,Original
-bufr4/3/01/091/3/002182,01,Séquences correspondant à la position et à l'identification,301091,,,002182,,,,,Operational,Original
-bufr4/3/01/091/4/002183,01,Séquences correspondant à la position et à l'identification,301091,,,002183,,,,,Operational,Original
-bufr4/3/01/091/5/002184,01,Séquences correspondant à la position et à l'identification,301091,,,002184,,,,,Operational,Original
-bufr4/3/01/091/6/002179,01,Séquences correspondant à la position et à l'identification,301091,,,002179,,,,,Operational,Original
-bufr4/3/01/091/7/002186,01,Séquences correspondant à la position et à l'identification,301091,,,002186,,,,,Operational,Original
-bufr4/3/01/091/8/002187,01,Séquences correspondant à la position et à l'identification,301091,,,002187,,,,,Operational,Original
-bufr4/3/01/091/9/002188,01,Séquences correspondant à la position et à l'identification,301091,,,002188,,,,,Operational,Original
-bufr4/3/01/091/10/002189,01,Séquences correspondant à la position et à l'identification,301091,,,002189,,,,,Operational,Original
-bufr4/3/01/092/1/001011,01,Séquences correspondant à la position et à l'identification,301092,,,001011,,,,,Operational,Original
-bufr4/3/01/092/2/001003,01,Séquences correspondant à la position et à l'identification,301092,,,001003,,,,,Operational,Original
-bufr4/3/01/092/3/002001,01,Séquences correspondant à la position et à l'identification,301092,,,002001,,,,,Operational,Original
-bufr4/3/01/092/4/301011,01,Séquences correspondant à la position et à l'identification,301092,,,301011,,,,,Operational,Original
-bufr4/3/01/092/5/301012,01,Séquences correspondant à la position et à l'identification,301092,,,301012,,,,,Operational,Original
-bufr4/3/01/092/6/301021,01,Séquences correspondant à la position et à l'identification,301092,,,301021,,,,,Operational,Original
+bufr4/3/01/075/3/301024,01,Séquences correspondant à la position et à l'identification,301075,,,301024,"Latitude/longitude (faible précision), hauteur de la station",,,,Operational,Original
+bufr4/3/01/075/4/008021,01,Séquences correspondant à la position et à l'identification,301075,,,008021,Caractéristique temporelle,= 18 Heure du lâcher,,,Operational,Original
+bufr4/3/01/075/5/301011,01,Séquences correspondant à la position et à l'identification,301075,,,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/01/075/6/301012,01,Séquences correspondant à la position et à l'identification,301075,,,301012,"Heure, minute",,,,Operational,Original
+bufr4/3/01/076/1/002011,01,Séquences correspondant à la position et à l'identification,301076,,,002011,Type de radiosonde,,,,Operational,Original
+bufr4/3/01/076/2/002143,01,Séquences correspondant à la position et à l'identification,301076,,,002143,Type d'instrument de mesure de l'ozone,,,,Operational,Original
+bufr4/3/01/076/3/002142,01,Séquences correspondant à la position et à l'identification,301076,,,002142,Numéro de série/identificateur du type d'instrument de mesure de l'ozone,,,,Operational,Original
+bufr4/3/01/089/1/001101,01,Séquences correspondant à la position et à l'identification,301089,,,001101,Indicateur d'identification d'État,,,,Operational,Original
+bufr4/3/01/089/2/001102,01,Séquences correspondant à la position et à l'identification,301089,,,001102,Chiffre indicatif national de la station,,,,Operational,Original
+bufr4/3/01/090/1/301004,01,Séquences correspondant à la position et à l'identification,301090,,,301004,Identification de la station d'observation en surface,,,,Operational,Original
+bufr4/3/01/090/2/301011,01,Séquences correspondant à la position et à l'identification,301090,,,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/01/090/3/301012,01,Séquences correspondant à la position et à l'identification,301090,,,301012,"Heure, minute",,,,Operational,Original
+bufr4/3/01/090/4/301021,01,Séquences correspondant à la position et à l'identification,301090,,,301021,Latitude/longitude (précision élevée),,,,Operational,Original
+bufr4/3/01/090/5/007030,01,Séquences correspondant à la position et à l'identification,301090,,,007030,Altitude du sol de la station,,,,Operational,Original
+bufr4/3/01/090/6/007031,01,Séquences correspondant à la position et à l'identification,301090,,,007031,Altitude du baromètre,,,,Operational,Original
+bufr4/3/01/091/1/002180,01,Séquences correspondant à la position et à l'identification,301091,,,002180,Système principal de détection du temps présent,,,,Operational,Original
+bufr4/3/01/091/2/002181,01,Séquences correspondant à la position et à l'identification,301091,,,002181,Capteur supplémentaire du temps présent,,,,Operational,Original
+bufr4/3/01/091/3/002182,01,Séquences correspondant à la position et à l'identification,301091,,,002182,Système de mesure de la visibilité,,,,Operational,Original
+bufr4/3/01/091/4/002183,01,Séquences correspondant à la position et à l'identification,301091,,,002183,Système de détection des nuages,,,,Operational,Original
+bufr4/3/01/091/5/002184,01,Séquences correspondant à la position et à l'identification,301091,,,002184,Type de capteur de détection de la foudre,,,,Operational,Original
+bufr4/3/01/091/6/002179,01,Séquences correspondant à la position et à l'identification,301091,,,002179,Type d'algorithme utilisé pour l'état du ciel,,,,Operational,Original
+bufr4/3/01/091/7/002186,01,Séquences correspondant à la position et à l'identification,301091,,,002186,Détection des divers types de précipitations,,,,Operational,Original
+bufr4/3/01/091/8/002187,01,Séquences correspondant à la position et à l'identification,301091,,,002187,Détection d'autres phénomènes météorologiques,,,,Operational,Original
+bufr4/3/01/091/9/002188,01,Séquences correspondant à la position et à l'identification,301091,,,002188,Détection d'un obscurcissement,,,,Operational,Original
+bufr4/3/01/091/10/002189,01,Séquences correspondant à la position et à l'identification,301091,,,002189,Distinction entre les différents types d'éclairs,,,,Operational,Original
+bufr4/3/01/092/1/001011,01,Séquences correspondant à la position et à l'identification,301092,,,001011,Indicateur d'identification du navire ou d'une station terrestre mobile,,,,Operational,Original
+bufr4/3/01/092/2/001003,01,Séquences correspondant à la position et à l'identification,301092,,,001003,Région OMM/zone géographique,,,,Operational,Original
+bufr4/3/01/092/3/002001,01,Séquences correspondant à la position et à l'identification,301092,,,002001,Type de station,,,,Operational,Original
+bufr4/3/01/092/4/301011,01,Séquences correspondant à la position et à l'identification,301092,,,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/01/092/5/301012,01,Séquences correspondant à la position et à l'identification,301092,,,301012,"Heure, minute",,,,Operational,Original
+bufr4/3/01/092/6/301021,01,Séquences correspondant à la position et à l'identification,301092,,,301021,Latitude/longitude (précision élevée),,,,Operational,Original
 bufr4/3/01/092/7/007030,01,Séquences correspondant à la position et à l'identification,301092,,,007030,Altitude du sol de la station,,,,Operational,Original
 bufr4/3/01/092/8/007031,01,Séquences correspondant à la position et à l'identification,301092,,,007031,Altitude du baromètre,,,,Operational,Original
 bufr4/3/01/092/9/033024,01,Séquences correspondant à la position et à l'identification,301092,,,033024,Repère de qualité de l'altitude de la station,,,,Operational,Original
@@ -346,7 +346,7 @@ bufr4/3/01/112/4/002014,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/112/5/002003,01,Séquences correspondant à la position et à l'identification,301112,(Identification du point de lâcher et instruments de la catasonde),,002003,Type d'équipement de mesure utilisé,,,,Operational,Original
 bufr4/3/01/113/1/008021,01,Séquences correspondant à la position et à l'identification,301113,(Date et heure du lâcher),,008021,Caractéristique temporelle,= 18 Heure du lâcher,(voir note 11),72,Operational,Original
 bufr4/3/01/113/2/301011,01,Séquences correspondant à la position et à l'identification,301113,(Date et heure du lâcher),,301011,"Année, mois, jour",Jour du lâcher,(voir note 11),,Operational,Original
-bufr4/3/01/113/3/301013,01,Séquences correspondant à la position et à l'identification,301113,(Date et heure du lâcher),,301013,"Heure, minute, seconde",Heure du lâcher ,(voir note 11),,Operational,Original
+bufr4/3/01/113/3/301013,01,Séquences correspondant à la position et à l'identification,301113,(Date et heure du lâcher),,301013,"Heure, minute, seconde",Heure du lâcher,(voir note 11),,Operational,Original
 bufr4/3/01/114/1/301021,01,Séquences correspondant à la position et à l'identification,301114,(Coordonnées horizontales et verticales du site du lâcher),,301021,Latitude/longitude (précision élevée),,,,Operational,Original
 bufr4/3/01/114/2/007030,01,Séquences correspondant à la position et à l'identification,301114,(Coordonnées horizontales et verticales du site du lâcher),,007030,Altitude du sol de la station,,,,Operational,Original
 bufr4/3/01/114/3/007031,01,Séquences correspondant à la position et à l'identification,301114,(Coordonnées horizontales et verticales du site du lâcher),,007031,Altitude du baromètre,,,,Operational,Original
@@ -372,41 +372,41 @@ bufr4/3/01/123/1/102002,01,Séquences correspondant à la position et à l'ident
 bufr4/3/01/123/2/008041,01,Séquences correspondant à la position et à l'identification,301123,(Radiosondage — en-tête complet),,008041,Caractéristique des données,"= 0 Site principal, = 1 Site d'observation",,,Operational,Original
 bufr4/3/01/123/3/001062,01,Séquences correspondant à la position et à l'identification,301123,(Radiosondage — en-tête complet),,001062,Indicateur court d'emplacement OACI,,,,Operational,Original
 bufr4/3/01/123/4/301001,01,Séquences correspondant à la position et à l'identification,301123,(Radiosondage — en-tête complet),,301001,Indicateur régional OMM et chiffre indicatif OMM de la station,,,,Operational,Original
-bufr4/3/01/123/5/001094,01,Séquences correspondant à la position et à l'identification,301123,,,001094,,,,,Operational,Original
-bufr4/3/01/123/6/002011,01,Séquences correspondant à la position et à l'identification,301123,,,002011,,,,,Operational,Original
-bufr4/3/01/123/7/001018,01,Séquences correspondant à la position et à l'identification,301123,,,001018,,,,,Operational,Original
-bufr4/3/01/123/8/001095,01,Séquences correspondant à la position et à l'identification,301123,,,001095,,,,,Operational,Original
-bufr4/3/01/123/9/025061,01,Séquences correspondant à la position et à l'identification,301123,,,025061,,,,,Operational,Original
-bufr4/3/01/123/10/025068,01,Séquences correspondant à la position et à l'identification,301123,,,025068,,,,,Operational,Original
-bufr4/3/01/123/11/001082,01,Séquences correspondant à la position et à l'identification,301123,,,001082,,,,,Operational,Original
-bufr4/3/01/123/12/001083,01,Séquences correspondant à la position et à l'identification,301123,,,001083,,,,,Operational,Original
-bufr4/3/01/123/13/001081,01,Séquences correspondant à la position et à l'identification,301123,,,001081,,,,,Operational,Original
-bufr4/3/01/123/14/002067,01,Séquences correspondant à la position et à l'identification,301123,,,002067,,,,,Operational,Original
-bufr4/3/01/123/15/002066,01,Séquences correspondant à la position et à l'identification,301123,,,002066,,,,,Operational,Original
-bufr4/3/01/123/16/002014,01,Séquences correspondant à la position et à l'identification,301123,,,002014,,,,,Operational,Original
-bufr4/3/01/123/17/025067,01,Séquences correspondant à la position et à l'identification,301123,,,025067,,,,,Operational,Original
-bufr4/3/01/123/18/025065,01,Séquences correspondant à la position et à l'identification,301123,,,025065,,,,,Operational,Original
-bufr4/3/01/123/19/025066,01,Séquences correspondant à la position et à l'identification,301123,,,025066,,,,,Operational,Original
-bufr4/3/01/123/20/002095,01,Séquences correspondant à la position et à l'identification,301123,,,002095,,,,,Operational,Original
-bufr4/3/01/123/21/002096,01,Séquences correspondant à la position et à l'identification,301123,,,002096,,,,,Operational,Original
-bufr4/3/01/123/22/002097,01,Séquences correspondant à la position et à l'identification,301123,,,002097,,,,,Operational,Original
-bufr4/3/01/123/23/002016,01,Séquences correspondant à la position et à l'identification,301123,,,002016,,,,,Operational,Original
-bufr4/3/01/123/24/002083,01,Séquences correspondant à la position et à l'identification,301123,,,002083,,,,,Operational,Original
-bufr4/3/01/123/25/002080,01,Séquences correspondant à la position et à l'identification,301123,,,002080,,,,,Operational,Original
-bufr4/3/01/123/26/002081,01,Séquences correspondant à la position et à l'identification,301123,,,002081,,,,,Operational,Original
-bufr4/3/01/123/27/001093,01,Séquences correspondant à la position et à l'identification,301123,,,001093,,,,,Operational,Original
-bufr4/3/01/123/28/002084,01,Séquences correspondant à la position et à l'identification,301123,,,002084,,,,,Operational,Original
-bufr4/3/01/123/29/002085,01,Séquences correspondant à la position et à l'identification,301123,,,002085,,,,,Operational,Original
-bufr4/3/01/123/30/002086,01,Séquences correspondant à la position et à l'identification,301123,,,002086,,,,,Operational,Original
-bufr4/3/01/123/31/002082,01,Séquences correspondant à la position et à l'identification,301123,,,002082,,,,,Operational,Original
-bufr4/3/01/123/32/008041,01,Séquences correspondant à la position et à l'identification,301123,,,008041,,= 2 Date de fabrication du ballon,,,Operational,Original
-bufr4/3/01/123/33/301011,01,Séquences correspondant à la position et à l'identification,301123,,,301011,,,,,Operational,Original
-bufr4/3/01/125/1/001033,01,Séquences correspondant à la position et à l'identification,301125,,,001033,,,,,Operational,Original
-bufr4/3/01/125/2/001034,01,Séquences correspondant à la position et à l'identification,301125,,,001034,,,,,Operational,Original
-bufr4/3/01/125/3/025060,01,Séquences correspondant à la position et à l'identification,301125,,,025060,,,,,Operational,Original
-bufr4/3/01/125/4/001007,01,Séquences correspondant à la position et à l'identification,301125,,,001007,,,,,Operational,Original
-bufr4/3/01/125/5/002019,01,Séquences correspondant à la position et à l'identification,301125,,,002019,,,,,Operational,Original
-bufr4/3/01/125/6/001012,01,Séquences correspondant à la position et à l'identification,301125,,,001012,,,,,Operational,Original
+bufr4/3/01/123/5/001094,01,Séquences correspondant à la position et à l'identification,301123,,,001094,Numéro WBAN,,,,Operational,Original
+bufr4/3/01/123/6/002011,01,Séquences correspondant à la position et à l'identification,301123,,,002011,Type de radiosonde,,,,Operational,Original
+bufr4/3/01/123/7/001018,01,Séquences correspondant à la position et à l'identification,301123,,,001018,Nom abrégé de la station ou du site,,,,Operational,Original
+bufr4/3/01/123/8/001095,01,Séquences correspondant à la position et à l'identification,301123,,,001095,Identification de l'observateur,,,,Operational,Original
+bufr4/3/01/123/9/025061,01,Séquences correspondant à la position et à l'identification,301123,,,025061,Identification du logiciel et numéro de version,,,,Operational,Original
+bufr4/3/01/123/10/025068,01,Séquences correspondant à la position et à l'identification,301123,,,025068,Recalcul des archives – nombre de fois,,,,Operational,Original
+bufr4/3/01/123/11/001082,01,Séquences correspondant à la position et à l'identification,301123,,,001082,Numéro du radiosondage,,,,Operational,Original
+bufr4/3/01/123/12/001083,01,Séquences correspondant à la position et à l'identification,301123,,,001083,Numéro du lâcher de radiosonde,,,,Operational,Original
+bufr4/3/01/123/13/001081,01,Séquences correspondant à la position et à l'identification,301123,,,001081,Numéro de série de la radiosonde,,,,Operational,Original
+bufr4/3/01/123/14/002067,01,Séquences correspondant à la position et à l'identification,301123,,,002067,Fréquence de fonctionnement de la radiosonde,,,,Operational,Original
+bufr4/3/01/123/15/002066,01,Séquences correspondant à la position et à l'identification,301123,,,002066,Système de réception au sol des données de radiosondage,,,,Operational,Original
+bufr4/3/01/123/16/002014,01,Séquences correspondant à la position et à l'identification,301123,,,002014,Technique de poursuite/état du système utilisé,,,,Operational,Original
+bufr4/3/01/123/17/025067,01,Séquences correspondant à la position et à l'identification,301123,,,025067,Correction de pression au point de lâcher de la radiosonde,,,,Operational,Original
+bufr4/3/01/123/18/025065,01,Séquences correspondant à la position et à l'identification,301123,,,025065,Correction de l'orientation (azimut),,,,Operational,Original
+bufr4/3/01/123/19/025066,01,Séquences correspondant à la position et à l'identification,301123,,,025066,Correction de l'orientation (altitude),,,,Operational,Original
+bufr4/3/01/123/20/002095,01,Séquences correspondant à la position et à l'identification,301123,,,002095,Type de capteur de pression,,,,Operational,Original
+bufr4/3/01/123/21/002096,01,Séquences correspondant à la position et à l'identification,301123,,,002096,Type de capteur de température,,,,Operational,Original
+bufr4/3/01/123/22/002097,01,Séquences correspondant à la position et à l'identification,301123,,,002097,Type de capteur d'humidité,,,,Operational,Original
+bufr4/3/01/123/23/002016,01,Séquences correspondant à la position et à l'identification,301123,,,002016,Configuration de la radiosonde,,,,Operational,Original
+bufr4/3/01/123/24/002083,01,Séquences correspondant à la position et à l'identification,301123,,,002083,Type d'abri de gonflement,,,,Operational,Original
+bufr4/3/01/123/25/002080,01,Séquences correspondant à la position et à l'identification,301123,,,002080,Fabricant du ballon,,,,Operational,Original
+bufr4/3/01/123/26/002081,01,Séquences correspondant à la position et à l'identification,301123,,,002081,Type de ballon,,,,Operational,Original
+bufr4/3/01/123/27/001093,01,Séquences correspondant à la position et à l'identification,301123,,,001093,Numéro de lot du ballon,,,,Operational,Original
+bufr4/3/01/123/28/002084,01,Séquences correspondant à la position et à l'identification,301123,,,002084,Type de gaz insufflé,,,,Operational,Original
+bufr4/3/01/123/29/002085,01,Séquences correspondant à la position et à l'identification,301123,,,002085,Quantité de gaz insufflée,,,,Operational,Original
+bufr4/3/01/123/30/002086,01,Séquences correspondant à la position et à l'identification,301123,,,002086,Longueur de la traîne,,,,Operational,Original
+bufr4/3/01/123/31/002082,01,Séquences correspondant à la position et à l'identification,301123,,,002082,Poids du ballon,,,,Operational,Original
+bufr4/3/01/123/32/008041,01,Séquences correspondant à la position et à l'identification,301123,,,008041,Caractéristique des données,= 2 Date de fabrication du ballon,,,Operational,Original
+bufr4/3/01/123/33/301011,01,Séquences correspondant à la position et à l'identification,301123,,,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/01/125/1/001033,01,Séquences correspondant à la position et à l'identification,301125,,,001033,Identification du centre d'origine/de production,,,,Operational,Original
+bufr4/3/01/125/2/001034,01,Séquences correspondant à la position et à l'identification,301125,,,001034,Identification du centre secondaire d'origine/de production,,,,Operational,Original
+bufr4/3/01/125/3/025060,01,Séquences correspondant à la position et à l'identification,301125,,,025060,Identification du logiciel,,,,Operational,Original
+bufr4/3/01/125/4/001007,01,Séquences correspondant à la position et à l'identification,301125,,,001007,Indicateur d'identification du satellite,,,,Operational,Original
+bufr4/3/01/125/5/002019,01,Séquences correspondant à la position et à l'identification,301125,,,002019,Instruments satellitaires,,,,Operational,Original
+bufr4/3/01/125/6/001012,01,Séquences correspondant à la position et à l'identification,301125,,,001012,Direction de déplacement de la plate-forme d'observation mobile,,,,Operational,Original
 bufr4/3/01/126/1/001087,01,Séquences correspondant à la position et à l'identification,301126,(Séquence pour la représentation de l'identification des bouées ancrées),,001087,Extension de l'indicatif OMM de la plate-forme d'observation maritime,,,,Operational,Original
 bufr4/3/01/126/2/001015,01,Séquences correspondant à la position et à l'identification,301126,(Séquence pour la représentation de l'identification des bouées ancrées),,001015,Nom de la station ou du site,,,,Operational,Original
 bufr4/3/01/126/3/002149,01,Séquences correspondant à la position et à l'identification,301126,(Séquence pour la représentation de l'identification des bouées ancrées),,002149,Type de bouée de collecte de données,,,,Operational,Original
