@@ -5,7 +5,7 @@ bufr4/0/11/003,11,Vent et turbulence,11003,Composante u,m/s,1,-4096,13,m/s,1,4,,
 bufr4/0/11/004,11,Vent et turbulence,11004,Composante v,m/s,1,-4096,13,m/s,1,4,,,Operational,Original
 bufr4/0/11/005,11,Vent et turbulence,11005,Composante w,Pa s-1,1,-512,10,Pa s-1,1,4,,,Operational,Original
 bufr4/0/11/006,11,Vent et turbulence,11006,Composante w,m/s,2,-4096,13,m/s,2,4,,,Operational,Original
-bufr4/0/11/007,11,Vent et turbulence,11007,Direction du vent relatif (en degrés par rapport à la position de la proue),°,0,0,9,°,0,3,,,Operational,Original
+bufr4/0/11/007,11,Vent et turbulence,11007,Direction du vent relatif (en degrés par rapport à la position de la proue),deg,0,0,9,°,0,3,,,Operational,Original
 bufr4/0/11/008,11,Vent et turbulence,11008,Vitesse du vent relatif,m/s,1,0,12,m/s,1,4,,,Operational,Original
 bufr4/0/11/010,11,Vent et turbulence,11010,Direction du vent associée à la vitesse du vent qui suit,degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
 bufr4/0/11/011,11,Vent et turbulence,11011,Direction du vent à 10 m,degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
