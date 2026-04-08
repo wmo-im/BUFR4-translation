@@ -45,7 +45,7 @@ bufr4/0/35/031/16,035031,Qualification du contrôle des résultats,16,Erreur de 
 bufr4/0/35/031/17,035031,Qualification du contrôle des résultats,17,Erreur systématique,,,,,Operational,Original
 bufr4/0/35/031/18,035031,Qualification du contrôle des résultats,18,Amélioration du système de contrôle de la qualité,,,,,Operational,Original
 bufr4/0/35/031/19,035031,Qualification du contrôle des résultats,19,Développement des programmes de formation,,,,,Operational,Original
-bufr4/0/35/031/20-98,035031,Qualification du contrôle des résultats,20-98,En réserve 99–126 Inutilisés,,,,,Operational,Original
+bufr4/0/35/031/20-98,035031,Qualification du contrôle des résultats,20-98,En réserve 99-126 Inutilisés,,,,,Operational,Original
 bufr4/0/35/031/127,035031,Qualification du contrôle des résultats,127,Valeur manquante,,,,,Operational,Original
 bufr4/0/35/032/1,035032,Cause des données manquantes,1,Groupes de données manquants en raison de l'évanouissement brusque des signaux radioélectriques,,,,,Operational,Original
 bufr4/0/35/032/2,035032,Cause des données manquantes,2,Groupes de données manquants en raison de l'interruption de service du centre,,,,,Operational,Original
@@ -69,7 +69,7 @@ bufr4/0/35/033/8,035033,Anomalies dans l'observation et les données collectées
 bufr4/0/35/033/9,035033,Anomalies dans l'observation et les données collectées,9,Difficultés dans la propagation HF et le choix de la fréquence correcte,,,,,Operational,Original
 bufr4/0/35/033/10,035033,Anomalies dans l'observation et les données collectées,10,Difficultés d'entretien du matériel de transmission dans les stations éloignées,,,,,Operational,Original
 bufr4/0/35/033/11,035033,Anomalies dans l'observation et les données collectées,11,Aucune disposition de secours pour acheminer les observations météorologiques,,,,,Operational,Original
-bufr4/0/35/033/12-99,035033,Anomalies dans l'observation et les données collectées,12-99,En réserve 100–122 Inutilisés,,,,,Operational,Original
+bufr4/0/35/033/12-99,035033,Anomalies dans l'observation et les données collectées,12-99,En réserve 100-122 Inutilisés,,,,,Operational,Original
 bufr4/0/35/033/123,035033,Anomalies dans l'observation et les données collectées,123,Valeur manquante,,,,,Operational,Original
 bufr4/0/35/034/1,035034,Tendances statistiques de la disponibilité des données (pendant la(les) période(s) d'observation),1,Légère amélioration,,,,,Operational,Original
 bufr4/0/35/034/2,035034,Tendances statistiques de la disponibilité des données (pendant la(les) période(s) d'observation),2,Amélioration importante,,,,,Operational,Original

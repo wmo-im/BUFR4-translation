@@ -28,52 +28,52 @@ bufr4/3/12/011/6/010002,12,Séquences correspondant à des messages d'observatio
 bufr4/3/12/011/7/202000,12,Séquences correspondant à des messages d'observation,312011,,,202000,Changer d'échelle,,,,Operational,Original
 bufr4/3/12/011/8/005043,12,Séquences correspondant à des messages d'observation,312011,,,005043,Numéro du champ de vision,,,,Operational,Original
 bufr4/3/12/011/9/005053,12,Séquences correspondant à des messages d'observation,312011,,,005053,Incrément du numéro du champ de vision,,,,Operational,Original
-bufr4/3/12/012/1/202129,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,202129,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/012/2/201132,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,201132,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/012/3/101019,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,101019,Répéter 1 descripteur 19 fois,,,,Operational,Original
-bufr4/3/12/012/4/012063,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,012063,Température de luminance,,,,Operational,Original
-bufr4/3/12/012/5/201000,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,201000,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/012/6/202000,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS — canaux 1 à 19),,202000,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/013/1/005042,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,005042,Numéro du canal,,,,Operational,Original
-bufr4/3/12/013/2/202129,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,202129,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/013/3/201135,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,201135,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/013/4/012063,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,012063,Température de luminance,,,,Operational,Original
-bufr4/3/12/013/5/201000,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,201000,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/013/6/202000,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS — canal 20),,202000,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/012/1/202129,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,202129,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/012/2/201132,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,201132,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/012/3/101019,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,101019,Répéter 1 descripteur 19 fois,,,,Operational,Original
+bufr4/3/12/012/4/012063,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,012063,Température de luminance,,,,Operational,Original
+bufr4/3/12/012/5/201000,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,201000,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/012/6/202000,12,Séquences correspondant à des messages d'observation,312012,(Températures de luminance mesurées par HIRS - canaux 1 à 19),,202000,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/013/1/005042,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,005042,Numéro du canal,,,,Operational,Original
+bufr4/3/12/013/2/202129,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,202129,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/013/3/201135,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,201135,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/013/4/012063,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,012063,Température de luminance,,,,Operational,Original
+bufr4/3/12/013/5/201000,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,201000,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/013/6/202000,12,Séquences correspondant à des messages d'observation,312013,(Températures de luminance mesurées par HIRS - canal 20),,202000,Changer d'échelle,,,,Operational,Original
 bufr4/3/12/014/1/312010,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312010,"Information sur les orbites, partie I",,,,Operational,Original
 bufr4/3/12/014/2/312011,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312011,"Information sur les orbites, partie II",,,,Operational,Original
 bufr4/3/12/014/3/105056,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,105056,Répéter 5 descripteurs 56 fois,,,,Operational,Original
 bufr4/3/12/014/4/301023,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,301023,Latitude/longitude (faible précision),,,,Operational,Original
 bufr4/3/12/014/5/005042,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,005042,Numéro du canal,,,,Operational,Original
 bufr4/3/12/014/6/005052,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,005052,Incrément du numéro du canal,,,,Operational,Original
-bufr4/3/12/014/7/312012,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312012,Températures de luminance mesurées par HIRS – canaux 1 à 19,,,,Operational,Original
-bufr4/3/12/014/8/312013,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312013,Températures de luminance mesurées par HIRS – canal 20,,,,Operational,Original
-bufr4/3/12/015/1/109011,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,109011,Répéter 9 descripteurs 11 fois,,,,Operational,Original
-bufr4/3/12/015/2/301023,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,301023,Latitude/longitude (faible précision),,,,Operational,Original
-bufr4/3/12/015/3/005042,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,005042,Numéro du canal,,,,Operational,Original
-bufr4/3/12/015/4/005052,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,005052,Incrément du numéro du canal,,,,Operational,Original
-bufr4/3/12/015/5/202129,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,202129,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/015/6/201132,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,201132,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/015/7/101004,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,101004,Répéter 1 descripteur 4 fois,,,,Operational,Original
-bufr4/3/12/015/8/012063,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,012063,Température de luminance,,,,Operational,Original
-bufr4/3/12/015/9/202000,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,202000,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/015/10/201000,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU — canaux 1 à 4),,201000,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/014/7/312012,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312012,Températures de luminance mesurées par HIRS - canaux 1 à 19,,,,Operational,Original
+bufr4/3/12/014/8/312013,12,Séquences correspondant à des messages d'observation,312014,(Données satellitaires transmises par HIRS),,312013,Températures de luminance mesurées par HIRS - canal 20,,,,Operational,Original
+bufr4/3/12/015/1/109011,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,109011,Répéter 9 descripteurs 11 fois,,,,Operational,Original
+bufr4/3/12/015/2/301023,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,301023,Latitude/longitude (faible précision),,,,Operational,Original
+bufr4/3/12/015/3/005042,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,005042,Numéro du canal,,,,Operational,Original
+bufr4/3/12/015/4/005052,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,005052,Incrément du numéro du canal,,,,Operational,Original
+bufr4/3/12/015/5/202129,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,202129,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/015/6/201132,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,201132,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/015/7/101004,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,101004,Répéter 1 descripteur 4 fois,,,,Operational,Original
+bufr4/3/12/015/8/012063,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,012063,Température de luminance,,,,Operational,Original
+bufr4/3/12/015/9/202000,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,202000,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/015/10/201000,12,Séquences correspondant à des messages d'observation,312015,(Températures de luminance mesurées par MSU - canaux 1 à 4),,201000,Changer le champ de données,,,,Operational,Original
 bufr4/3/12/016/1/312010,12,Séquences correspondant à des messages d'observation,312016,(Données satellitaires transmises par MSU),,312010,"Information sur les orbites, partie I",,,,Operational,Original
 bufr4/3/12/016/2/312011,12,Séquences correspondant à des messages d'observation,312016,(Données satellitaires transmises par MSU),,312011,"Information sur les orbites, partie II",,,,Operational,Original
-bufr4/3/12/016/3/312015,12,Séquences correspondant à des messages d'observation,312016,(Données satellitaires transmises par MSU),,312015,Températures de luminance mesurées par MSU – canaux 1 à 4,,,,Operational,Original
-bufr4/3/12/017/1/109008,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,109008,Répéter 9 descripteurs 8 fois,,,,Operational,Original
-bufr4/3/12/017/2/301023,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,301023,Latitude/longitude (faible précision),,,,Operational,Original
-bufr4/3/12/017/3/005042,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,005042,Numéro du canal,,,,Operational,Original
-bufr4/3/12/017/4/005052,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,005052,Incrément du numéro du canal,,,,Operational,Original
-bufr4/3/12/017/5/202129,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,202129,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/017/6/201132,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,201132,Changer le champ de données,,,,Operational,Original
-bufr4/3/12/017/7/101003,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,101003,Répéter 1 descripteur 3 fois,,,,Operational,Original
-bufr4/3/12/017/8/012063,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,012063,Température de luminance,,,,Operational,Original
-bufr4/3/12/017/9/202000,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,202000,Changer d'échelle,,,,Operational,Original
-bufr4/3/12/017/10/201000,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU — canaux 1 à 3),,201000,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/016/3/312015,12,Séquences correspondant à des messages d'observation,312016,(Données satellitaires transmises par MSU),,312015,Températures de luminance mesurées par MSU - canaux 1 à 4,,,,Operational,Original
+bufr4/3/12/017/1/109008,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,109008,Répéter 9 descripteurs 8 fois,,,,Operational,Original
+bufr4/3/12/017/2/301023,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,301023,Latitude/longitude (faible précision),,,,Operational,Original
+bufr4/3/12/017/3/005042,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,005042,Numéro du canal,,,,Operational,Original
+bufr4/3/12/017/4/005052,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,005052,Incrément du numéro du canal,,,,Operational,Original
+bufr4/3/12/017/5/202129,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,202129,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/017/6/201132,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,201132,Changer le champ de données,,,,Operational,Original
+bufr4/3/12/017/7/101003,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,101003,Répéter 1 descripteur 3 fois,,,,Operational,Original
+bufr4/3/12/017/8/012063,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,012063,Température de luminance,,,,Operational,Original
+bufr4/3/12/017/9/202000,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,202000,Changer d'échelle,,,,Operational,Original
+bufr4/3/12/017/10/201000,12,Séquences correspondant à des messages d'observation,312017,(Températures de luminance mesurées par SSU - canaux 1 à 3),,201000,Changer le champ de données,,,,Operational,Original
 bufr4/3/12/018/1/312010,12,Séquences correspondant à des messages d'observation,312018,(Données satellitaires transmises par SSU),,312010,"Information sur les orbites, partie I",,,,Operational,Original
 bufr4/3/12/018/2/312011,12,Séquences correspondant à des messages d'observation,312018,(Données satellitaires transmises par SSU),,312011,"Information sur les orbites, partie II",,,,Operational,Original
-bufr4/3/12/018/3/312017,12,Séquences correspondant à des messages d'observation,312018,(Données satellitaires transmises par SSU),,312017,Températures de luminance mesurées par SSU – canaux 1 à 3,,,,Operational,Original
+bufr4/3/12/018/3/312017,12,Séquences correspondant à des messages d'observation,312018,(Données satellitaires transmises par SSU),,312017,Températures de luminance mesurées par SSU - canaux 1 à 3,,,,Operational,Original
 bufr4/3/12/019/1/301047,12,Séquences correspondant à des messages d'observation,312019,(Produit SAR mode vague avec modification du champ pour déterminer le numéro d'onde (spectrale)),,301047,En-tête de produits de satellite ERS,,,,Operational,Original
 bufr4/3/12/019/2/301048,12,Séquences correspondant à des messages d'observation,312019,(Produit SAR mode vague avec modification du champ pour déterminer le numéro d'onde (spectrale)),,301048,Paramètres de radar,,,,Operational,Original
 bufr4/3/12/019/3/015015,12,Séquences correspondant à des messages d'observation,312019,(Produit SAR mode vague avec modification du champ pour déterminer le numéro d'onde (spectrale)),,015015,Valeur maximale du spectre de l'image avant normalisation,,,,Operational,Original
@@ -126,25 +126,25 @@ bufr4/3/12/023/4/012061,12,Séquences correspondant à des messages d'observatio
 bufr4/3/12/023/5/022050,12,Séquences correspondant à des messages d'observation,312023,(Produit concernant la température de la mer en surface par ATSR),,022050,Écart type de la température de surface de la mer,,,,Operational,Original
 bufr4/3/12/023/6/021069,12,Séquences correspondant à des messages d'observation,312023,(Produit concernant la température de la mer en surface par ATSR),,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,,,,Operational,Original
 bufr4/3/12/023/7/021085,12,Séquences correspondant à des messages d'observation,312023,(Produit concernant la température de la mer en surface par ATSR),,021085,Nombre de bandes transversales de mesure de la température de la mer en surface par ATSR,,,,Operational,Original
-bufr4/3/12/024/1/312020,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,312020,Produit SAR mode vague,,,,Operational,Original
-bufr4/3/12/024/2/008060,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,008060,Signification du mode de balayage de l'échantillon,Distance,,,Operational,Original
-bufr4/3/12/024/3/008022,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
-bufr4/3/12/024/4/008060,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,008060,Signification du mode de balayage de l'échantillon,Horizontal,,,Operational,Original
-bufr4/3/12/024/5/008022,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
-bufr4/3/12/024/6/025014,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,025014,Coupure azimutale due au fouillis,,,,Operational,Original
-bufr4/3/12/024/7/022101,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,022101,Énergie totale aux petits nombres d'ondes,,,,Operational,Original
-bufr4/3/12/024/8/022097,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,022097,Longueur d'onde moyenne du spectre de l'image aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
-bufr4/3/12/024/9/022098,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,022098,Dispersion en longueur d'onde aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
-bufr4/3/12/024/10/022099,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,022099,Direction moyenne aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
-bufr4/3/12/024/11/022100,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague — format étendu),,022100,Dispersion en direction aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
-bufr4/3/12/025/1/312019,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,312019,Produit SAR mode vague avec modification du champ pour déterminer le numéro d'onde (spectrale),,,,Operational,Original
-bufr4/3/12/025/2/008060,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,008060,Signification du mode de balayage de l'échantillon,Distance,,,Operational,Original
-bufr4/3/12/025/3/008022,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
-bufr4/3/12/025/4/008060,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,008060,Signification du mode de balayage de l'échantillon,Horizontal,,,Operational,Original
-bufr4/3/12/025/5/008022,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
-bufr4/3/12/025/6/025014,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,025014,Coupure azimutale due au fouillis,,,,Operational,Original
-bufr4/3/12/025/7/022101,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,022101,Énergie totale aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
-bufr4/3/12/025/8/022097,12,Séquences correspondant à des messages d'observation,312025,"(Produit SAR mode vague — format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale))",,022097,Longueur d'onde moyenne du spectre de l'image aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/024/1/312020,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,312020,Produit SAR mode vague,,,,Operational,Original
+bufr4/3/12/024/2/008060,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,008060,Signification du mode de balayage de l'échantillon,Distance,,,Operational,Original
+bufr4/3/12/024/3/008022,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
+bufr4/3/12/024/4/008060,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,008060,Signification du mode de balayage de l'échantillon,Horizontal,,,Operational,Original
+bufr4/3/12/024/5/008022,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
+bufr4/3/12/024/6/025014,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,025014,Coupure azimutale due au fouillis,,,,Operational,Original
+bufr4/3/12/024/7/022101,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,022101,Énergie totale aux petits nombres d'ondes,,,,Operational,Original
+bufr4/3/12/024/8/022097,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,022097,Longueur d'onde moyenne du spectre de l'image aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/024/9/022098,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,022098,Dispersion en longueur d'onde aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/024/10/022099,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,022099,Direction moyenne aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/024/11/022100,12,Séquences correspondant à des messages d'observation,312024,(Produit SAR mode vague - format étendu),,022100,Dispersion en direction aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/025/1/312019,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,312019,Produit SAR mode vague avec modification du champ pour déterminer le numéro d'onde (spectrale),,,,Operational,Original
+bufr4/3/12/025/2/008060,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,008060,Signification du mode de balayage de l'échantillon,Distance,,,Operational,Original
+bufr4/3/12/025/3/008022,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
+bufr4/3/12/025/4/008060,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,008060,Signification du mode de balayage de l'échantillon,Horizontal,,,Operational,Original
+bufr4/3/12/025/5/008022,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,008022,Nombre total (dans le contexte d'une somme ou d'une moyenne),Nombre de données dans l'échantillon,,,Operational,Original
+bufr4/3/12/025/6/025014,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,025014,Coupure azimutale due au fouillis,,,,Operational,Original
+bufr4/3/12/025/7/022101,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,022101,Énergie totale aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
+bufr4/3/12/025/8/022097,12,Séquences correspondant à des messages d'observation,312025,(Produit SAR mode vague - format étendu avec modification du champ pour déterminer le numéro d'onde (spectrale)),,022097,Longueur d'onde moyenne du spectre de l'image aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
 bufr4/3/12/025/9/022098,12,Séquences correspondant à des messages d'observation,312025,,,022098,Dispersion en longueur d'onde aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
 bufr4/3/12/025/10/022099,12,Séquences correspondant à des messages d'observation,312025,,,022099,Direction moyenne aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
 bufr4/3/12/025/11/022100,12,Séquences correspondant à des messages d'observation,312025,,,022100,Dispersion en direction aux petits nombres d'ondes (longueur d'onde > 731 m),,,,Operational,Original
@@ -167,10 +167,10 @@ bufr4/3/12/026/16/321027,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/026/17/021113,12,Séquences correspondant à des messages d'observation,312026,(Donnée de Quikscat),,021113,Numéro de sigma-0 du faisceau extérieur (à l'arrière du satellite),,,,Operational,Original
 bufr4/3/12/026/18/301023,12,Séquences correspondant à des messages d'observation,312026,(Donnée de Quikscat),,301023,Latitude/longitude (faible précision),,,,Operational,Original
 bufr4/3/12/026/19/321027,12,Séquences correspondant à des messages d'observation,312026,(Donnée de Quikscat),,321027,"Spécification du radar, surface équivalente radar normalisée, coefficient de variance Kp",,,,Operational,Original
-bufr4/3/12/027/1/301047,12,Séquences correspondant à des messages d'observation,312027,"(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2))",,301047,En-tête de produits de satellite ERS,,,,Operational,Original
-bufr4/3/12/027/2/105009,12,Séquences correspondant à des messages d'observation,312027,"(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2))",,105009,Répéter 5 descripteurs 9 fois,,,,Operational,Original
-bufr4/3/12/027/3/301023,12,Séquences correspondant à des messages d'observation,312027,"(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2))",,301023,Latitude/longitude (faible précision),Cellule de 10 minutes d'arc,,,Operational,Original
-bufr4/3/12/027/4/007021,12,Séquences correspondant à des messages d'observation,312027,"(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2))",,007021,Hauteur,Angle d'incidence pour la visée au nadir mis à zéro,,,Operational,Original
+bufr4/3/12/027/1/301047,12,Séquences correspondant à des messages d'observation,312027,(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2)),,301047,En-tête de produits de satellite ERS,,,,Operational,Original
+bufr4/3/12/027/2/105009,12,Séquences correspondant à des messages d'observation,312027,(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2)),,105009,Répéter 5 descripteurs 9 fois,,,,Operational,Original
+bufr4/3/12/027/3/301023,12,Séquences correspondant à des messages d'observation,312027,(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2)),,301023,Latitude/longitude (faible précision),Cellule de 10 minutes d'arc,,,Operational,Original
+bufr4/3/12/027/4/007021,12,Séquences correspondant à des messages d'observation,312027,(Produits concernant la température de surface de la mer (SST) mesurée par ATSR (SADIST-2)),,007021,Hauteur,Angle d'incidence pour la visée au nadir mis à zéro,,,Operational,Original
 bufr4/3/12/027/5/012061,12,Séquences correspondant à des messages d'observation,312027,,,012061,Température de la pellicule superficielle,SST (visée double),,,Operational,Original
 bufr4/3/12/027/6/007021,12,Séquences correspondant à des messages d'observation,312027,,,007021,Hauteur,Angle d'incidence pour la visée double valeur manquante,,,Operational,Original
 bufr4/3/12/027/7/012061,12,Séquences correspondant à des messages d'observation,312027,,,012061,Température de la pellicule superficielle,SST (visée double),,,Operational,Original
@@ -286,11 +286,11 @@ bufr4/3/12/050/20/007004,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/050/21/202000,12,Séquences correspondant à des messages d'observation,312050,(Transmission de données par l'instrument MERIS),,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/12/050/22/201000,12,Séquences correspondant à des messages d'observation,312050,(Transmission de données par l'instrument MERIS),,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/12/050/23/013095,12,Séquences correspondant à des messages d'observation,312050,(Transmission de données par l'instrument MERIS),,013095,Colonne totale de vapeur d'eau,,,,Operational,Original
-bufr4/3/12/051/1/001007,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan – (WVS)),,001007,Indicateur d'identification du satellite,,,,Operational,Original
-bufr4/3/12/051/2/002019,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan – (WVS)),,002019,Instruments satellitaires,,,,Operational,Original
-bufr4/3/12/051/3/001096,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan – (WVS)),,001096,Mise à poste,,,,Operational,Original
-bufr4/3/12/051/4/025061,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan – (WVS)),,025061,Identification du logiciel et numéro de version,,,,Operational,Original
-bufr4/3/12/051/5/005040,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan – (WVS)),,005040,Numéro de l'orbite,,,,Operational,Original
+bufr4/3/12/051/1/001007,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan - (WVS)),,001007,Indicateur d'identification du satellite,,,,Operational,Original
+bufr4/3/12/051/2/002019,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan - (WVS)),,002019,Instruments satellitaires,,,,Operational,Original
+bufr4/3/12/051/3/001096,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan - (WVS)),,001096,Mise à poste,,,,Operational,Original
+bufr4/3/12/051/4/025061,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan - (WVS)),,025061,Identification du logiciel et numéro de version,,,,Operational,Original
+bufr4/3/12/051/5/005040,12,Séquences correspondant à des messages d'observation,312051,(Analyse interspectrale de l'océan - (WVS)),,005040,Numéro de l'orbite,,,,Operational,Original
 bufr4/3/12/051/6/008075,12,Séquences correspondant à des messages d'observation,312051,,,008075,Identificateur d'orbite ascendante ou descendante,,,,Operational,Original
 bufr4/3/12/051/7/301011,12,Séquences correspondant à des messages d'observation,312051,,,301011,"Année, mois, jour",,,,Operational,Original
 bufr4/3/12/051/8/301013,12,Séquences correspondant à des messages d'observation,312051,,,301013,"Heure, minute, seconde",,,,Operational,Original
@@ -339,12 +339,12 @@ bufr4/3/12/052/2/002019,12,Séquences correspondant à des messages d'observatio
 bufr4/3/12/052/3/001096,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,001096,Mise à poste,,,,Operational,Original
 bufr4/3/12/052/4/025061,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025061,Identification du logiciel et numéro de version,,,,Operational,Original
 bufr4/3/12/052/5/005040,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,005040,Numéro de l'orbite,,,,Operational,Original
-bufr4/3/12/052/6/025120,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025120,Indicateur de traitement de niveau 2 – données RA-2,,,,Operational,Original
-bufr4/3/12/052/7/025121,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025121,Qualité du traitement de niveau 2 – données RA-2,,,,Operational,Original
-bufr4/3/12/052/8/025124,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025124,Indicateur de traitement de niveau 2 – données MWR,,,,Operational,Original
-bufr4/3/12/052/9/025125,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025125,Qualité du traitement de niveau 2 – données MWR,,,,Operational,Original
-bufr4/3/12/052/10/025122,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025122,Configuration matérielle – radiofréquence,,,,Operational,Original
-bufr4/3/12/052/11/025123,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025123,Configuration matérielle – amplificateur de grande puissance,,,,Operational,Original
+bufr4/3/12/052/6/025120,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025120,Indicateur de traitement de niveau 2 - données RA-2,,,,Operational,Original
+bufr4/3/12/052/7/025121,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025121,Qualité du traitement de niveau 2 - données RA-2,,,,Operational,Original
+bufr4/3/12/052/8/025124,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025124,Indicateur de traitement de niveau 2 - données MWR,,,,Operational,Original
+bufr4/3/12/052/9/025125,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025125,Qualité du traitement de niveau 2 - données MWR,,,,Operational,Original
+bufr4/3/12/052/10/025122,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025122,Configuration matérielle - radiofréquence,,,,Operational,Original
+bufr4/3/12/052/11/025123,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,025123,Configuration matérielle - amplificateur de grande puissance,,,,Operational,Original
 bufr4/3/12/052/12/301011,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,301011,"Année, mois, jour",,,,Operational,Original
 bufr4/3/12/052/13/301013,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,301013,"Heure, minute, seconde",,,,Operational,Original
 bufr4/3/12/052/14/301021,12,Séquences correspondant à des messages d'observation,312052,(L'altimètre radar RA-2),,301021,Latitude/longitude (précision élevée),,,,Operational,Original
@@ -387,24 +387,24 @@ bufr4/3/12/052/50/010091,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/052/51/010092,12,Séquences correspondant à des messages d'observation,312052,,,010092,Hauteur de marée terrestre,,,,Operational,Original
 bufr4/3/12/052/52/010093,12,Séquences correspondant à des messages d'observation,312052,,,010093,Hauteur géocentrique de marée polaire,,,,Operational,Original
 bufr4/3/12/052/53/011002,12,Séquences correspondant à des messages d'observation,312052,,,011002,Vitesse du vent,,,,Operational,Original
-bufr4/3/12/052/54/025126,12,Séquences correspondant à des messages d'observation,312052,,,025126,Correction de troposphère sèche – modèle,,,,Operational,Original
+bufr4/3/12/052/54/025126,12,Séquences correspondant à des messages d'observation,312052,,,025126,Correction de troposphère sèche - modèle,,,,Operational,Original
 bufr4/3/12/052/55/025127,12,Séquences correspondant à des messages d'observation,312052,,,025127,Correction de baromètre inverse,,,,Operational,Original
-bufr4/3/12/052/56/025128,12,Séquences correspondant à des messages d'observation,312052,,,025128,Correction de troposphère humide – modèle,,,,Operational,Original
-bufr4/3/12/052/57/025129,12,Séquences correspondant à des messages d'observation,312052,,,025129,Correction de troposphère humide – données MWR,,,,Operational,Original
-bufr4/3/12/052/58/025130,12,Séquences correspondant à des messages d'observation,312052,,,025130,Correction ionosphérique – données RA-2 en bande Ku,,,,Operational,Original
-bufr4/3/12/052/59/025131,12,Séquences correspondant à des messages d'observation,312052,,,025131,Correction ionosphérique – données Doris en bande Ku,,,,Operational,Original
-bufr4/3/12/052/60/025132,12,Séquences correspondant à des messages d'observation,312052,,,025132,Correction ionosphérique – modèle en bande Ku,,,,Operational,Original
+bufr4/3/12/052/56/025128,12,Séquences correspondant à des messages d'observation,312052,,,025128,Correction de troposphère humide - modèle,,,,Operational,Original
+bufr4/3/12/052/57/025129,12,Séquences correspondant à des messages d'observation,312052,,,025129,Correction de troposphère humide - données MWR,,,,Operational,Original
+bufr4/3/12/052/58/025130,12,Séquences correspondant à des messages d'observation,312052,,,025130,Correction ionosphérique - données RA-2 en bande Ku,,,,Operational,Original
+bufr4/3/12/052/59/025131,12,Séquences correspondant à des messages d'observation,312052,,,025131,Correction ionosphérique - données Doris en bande Ku,,,,Operational,Original
+bufr4/3/12/052/60/025132,12,Séquences correspondant à des messages d'observation,312052,,,025132,Correction ionosphérique - modèle en bande Ku,,,,Operational,Original
 bufr4/3/12/052/61/025133,12,Séquences correspondant à des messages d'observation,312052,,,025133,Correction du biais d'état de la mer en bande Ku,,,,Operational,Original
-bufr4/3/12/052/62/025134,12,Séquences correspondant à des messages d'observation,312052,,,025134,Correction ionosphérique – données RA-2 en bande S,,,,Operational,Original
-bufr4/3/12/052/63/025135,12,Séquences correspondant à des messages d'observation,312052,,,025135,Correction ionosphérique – données Doris en bande S,,,,Operational,Original
-bufr4/3/12/052/64/025136,12,Séquences correspondant à des messages d'observation,312052,,,025136,Correction ionosphérique – modèle en bande S,,,,Operational,Original
+bufr4/3/12/052/62/025134,12,Séquences correspondant à des messages d'observation,312052,,,025134,Correction ionosphérique - données RA-2 en bande S,,,,Operational,Original
+bufr4/3/12/052/63/025135,12,Séquences correspondant à des messages d'observation,312052,,,025135,Correction ionosphérique - données Doris en bande S,,,,Operational,Original
+bufr4/3/12/052/64/025136,12,Séquences correspondant à des messages d'observation,312052,,,025136,Correction ionosphérique - modèle en bande S,,,,Operational,Original
 bufr4/3/12/052/65/025137,12,Séquences correspondant à des messages d'observation,312052,,,025137,Correction du biais d'état de la mer en bande S,,,,Operational,Original
-bufr4/3/12/052/66/013096,12,Séquences correspondant à des messages d'observation,312052,,,013096,Teneur en vapeur d'eau – données MWR,,,,Operational,Original
-bufr4/3/12/052/67/013097,12,Séquences correspondant à des messages d'observation,312052,,,013097,Teneur en eau liquide – données MWR,,,,Operational,Original
-bufr4/3/12/052/68/011095,12,Séquences correspondant à des messages d'observation,312052,,,011095,Composante u du vecteur vent – modèle,,,,Operational,Original
-bufr4/3/12/052/69/011096,12,Séquences correspondant à des messages d'observation,312052,,,011096,Composante v du vecteur vent – modèle,,,,Operational,Original
-bufr4/3/12/052/70/012188,12,Séquences correspondant à des messages d'observation,312052,,,012188,"Température de luminance par interpolation – données MWR en bande 23,8 GHz",,,,Operational,Original
-bufr4/3/12/052/71/012189,12,Séquences correspondant à des messages d'observation,312052,,,012189,"Température de luminance par interpolation – données MWR en bande 36,5 GHz",,,,Operational,Original
+bufr4/3/12/052/66/013096,12,Séquences correspondant à des messages d'observation,312052,,,013096,Teneur en vapeur d'eau - données MWR,,,,Operational,Original
+bufr4/3/12/052/67/013097,12,Séquences correspondant à des messages d'observation,312052,,,013097,Teneur en eau liquide - données MWR,,,,Operational,Original
+bufr4/3/12/052/68/011095,12,Séquences correspondant à des messages d'observation,312052,,,011095,Composante u du vecteur vent - modèle,,,,Operational,Original
+bufr4/3/12/052/69/011096,12,Séquences correspondant à des messages d'observation,312052,,,011096,Composante v du vecteur vent - modèle,,,,Operational,Original
+bufr4/3/12/052/70/012188,12,Séquences correspondant à des messages d'observation,312052,,,012188,"Température de luminance par interpolation - données MWR en bande 23,8 GHz",,,,Operational,Original
+bufr4/3/12/052/71/012189,12,Séquences correspondant à des messages d'observation,312052,,,012189,"Température de luminance par interpolation - données MWR en bande 36,5 GHz",,,,Operational,Original
 bufr4/3/12/052/72/002158,12,Séquences correspondant à des messages d'observation,312052,,,002158,Instrument RA-2,,,,Operational,Original
 bufr4/3/12/052/73/002159,12,Séquences correspondant à des messages d'observation,312052,,,002159,Instrument MWR,,,,Operational,Original
 bufr4/3/12/052/74/033052,12,Séquences correspondant à des messages d'observation,312052,,,033052,Qualité du retraitement des données océaniques en bande S,,,,Operational,Original
@@ -465,7 +465,7 @@ bufr4/3/12/053/51/006030,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/053/52/201000,12,Séquences correspondant à des messages d'observation,312053,,,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/12/053/53/022161,12,Séquences correspondant à des messages d'observation,312053,,,022161,Spectres des vagues,,,,Operational,Original
 bufr4/3/12/053/54/033044,12,Séquences correspondant à des messages d'observation,312053,,,033044,Qualité des données de l'ASAR,,,,Operational,Original
-bufr4/3/12/055/1/005033,12,Séquences correspondant à des messages d'observation,312055,(Cellule ASCAT niveau 1b),,005033,Taille des pixels sur l'horizontale – 1,,,,Operational,Original
+bufr4/3/12/055/1/005033,12,Séquences correspondant à des messages d'observation,312055,(Cellule ASCAT niveau 1b),,005033,Taille des pixels sur l'horizontale - 1,,,,Operational,Original
 bufr4/3/12/055/2/005040,12,Séquences correspondant à des messages d'observation,312055,(Cellule ASCAT niveau 1b),,005040,Numéro de l'orbite,,,,Operational,Original
 bufr4/3/12/055/3/006034,12,Séquences correspondant à des messages d'observation,312055,(Cellule ASCAT niveau 1b),,006034,Numéro de cellule dans le plan transversal,,,,Operational,Original
 bufr4/3/12/055/4/010095,12,Séquences correspondant à des messages d'observation,312055,(Cellule ASCAT niveau 1b),,010095,Hauteur utilisée pour l'atmosphère,,,,Operational,Original
@@ -528,26 +528,26 @@ bufr4/3/12/060/20/040010,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/061/1/312058,12,Séquences correspondant à des messages d'observation,312061,(Données ASCAT de niveau 1b et 2),,312058,Données ASCAT de niveau 1b,,,,Operational,Original
 bufr4/3/12/061/2/312060,12,Séquences correspondant à des messages d'observation,312061,(Données ASCAT de niveau 1b et 2),,312060,Données du diffusiomètre sur l'humidité du sol,,,,Operational,Original
 bufr4/3/12/061/3/312059,12,Séquences correspondant à des messages d'observation,312061,(Données ASCAT de niveau 1b et 2),,312059,Données du diffusiomètre sur le vent,,,,Operational,Original
-bufr4/3/12/070/1/001007,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,001007,Indicateur d'identification du satellite,,,,Operational,Original
-bufr4/3/12/070/2/002019,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,002019,Instruments satellitaires,,,,Operational,Original
-bufr4/3/12/070/3/001144,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,001144,Indicateur d'identification de l'instantané,,,,Operational,Original
-bufr4/3/12/070/4/001124,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,001124,Indicateur d'identification des points de grille,,,,Operational,Original
-bufr4/3/12/070/5/030010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,030010,Nombre de points de grille,,,,Operational,Original
-bufr4/3/12/070/6/301011,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,301011,"Année, mois, jour",,,,Operational,Original
-bufr4/3/12/070/7/301013,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,301013,"Heure, minute, seconde",,,,Operational,Original
-bufr4/3/12/070/8/301021,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,301021,Latitude/longitude (précision élevée),,,,Operational,Original
-bufr4/3/12/070/9/007012,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,007012,Altitude des points de grille,,,,Operational,Original
-bufr4/3/12/070/10/015012,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,015012,Nombre total d'électrons par mètre carré,,,,Operational,Original
-bufr4/3/12/070/11/012165,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,012165,Température de luminance du rayonnement solaire direct,,,,Operational,Original
-bufr4/3/12/070/12/012166,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,012166,Précision de l'instantané,,,,Operational,Original
-bufr4/3/12/070/13/012167,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,012167,Précision radiométrique (polarisation pure),,,,Operational,Original
-bufr4/3/12/070/14/012168,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,012168,Précision radiométrique (polarisation croisée),,,,Operational,Original
-bufr4/3/12/070/15/027010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,027010,Axe de l'empreinte 1,,,,Operational,Original
-bufr4/3/12/070/16/028010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,028010,Axe de l'empreinte 2,,,,Operational,Original
-bufr4/3/12/070/17/002099,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,002099,Polarisation,,,,Operational,Original
-bufr4/3/12/070/18/013048,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,013048,Fraction d'eau,,,,Operational,Original
-bufr4/3/12/070/19/025081,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,025081,Angle d'incidence,,,,Operational,Original
-bufr4/3/12/070/20/025082,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS*),,025082,Angle d'azimut,,,,Operational,Original
+bufr4/3/12/070/1/001007,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,001007,Indicateur d'identification du satellite,,,,Operational,Original
+bufr4/3/12/070/2/002019,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,002019,Instruments satellitaires,,,,Operational,Original
+bufr4/3/12/070/3/001144,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,001144,Indicateur d'identification de l'instantané,,,,Operational,Original
+bufr4/3/12/070/4/001124,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,001124,Indicateur d'identification des points de grille,,,,Operational,Original
+bufr4/3/12/070/5/030010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,030010,Nombre de points de grille,,,,Operational,Original
+bufr4/3/12/070/6/301011,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,301011,"Année, mois, jour",,,,Operational,Original
+bufr4/3/12/070/7/301013,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,301013,"Heure, minute, seconde",,,,Operational,Original
+bufr4/3/12/070/8/301021,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,301021,Latitude/longitude (précision élevée),,,,Operational,Original
+bufr4/3/12/070/9/007012,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,007012,Altitude des points de grille,,,,Operational,Original
+bufr4/3/12/070/10/015012,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,015012,Nombre total d'électrons par mètre carré,,,,Operational,Original
+bufr4/3/12/070/11/012165,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,012165,Température de luminance du rayonnement solaire direct,,,,Operational,Original
+bufr4/3/12/070/12/012166,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,012166,Précision de l'instantané,,,,Operational,Original
+bufr4/3/12/070/13/012167,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,012167,Précision radiométrique (polarisation pure),,,,Operational,Original
+bufr4/3/12/070/14/012168,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,012168,Précision radiométrique (polarisation croisée),,,,Operational,Original
+bufr4/3/12/070/15/027010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,027010,Axe de l'empreinte 1,,,,Operational,Original
+bufr4/3/12/070/16/028010,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,028010,Axe de l'empreinte 2,,,,Operational,Original
+bufr4/3/12/070/17/002099,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,002099,Polarisation,,,,Operational,Original
+bufr4/3/12/070/18/013048,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,013048,Fraction d'eau,,,,Operational,Original
+bufr4/3/12/070/19/025081,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,025081,Angle d'incidence,,,,Operational,Original
+bufr4/3/12/070/20/025082,12,Séquences correspondant à des messages d'observation,312070,(Données SMOS),,025082,Angle d'azimut,,,,Operational,Original
 bufr4/3/12/070/21/025083,12,Séquences correspondant à des messages d'observation,312070,,,025083,Angle de rotation Faraday,,,,Operational,Original
 bufr4/3/12/070/22/025084,12,Séquences correspondant à des messages d'observation,312070,,,025084,Angle de rotation,,,,Operational,Original
 bufr4/3/12/070/23/012080,12,Séquences correspondant à des messages d'observation,312070,,,012080,Partie réelle de la température de luminance,,,,Operational,Original
@@ -585,9 +585,9 @@ bufr4/3/12/071/27/101020,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/071/28/021181,12,Séquences correspondant à des messages d'observation,312071,(Altimètre SIRAL à bord de CryoSat-2),,021181,Coefficient de rétrodiffusion pour l'océan à 20 Hz,,,,Operational,Original
 bufr4/3/12/071/29/021138,12,Séquences correspondant à des messages d'observation,312071,(Altimètre SIRAL à bord de CryoSat-2),,021138,Coefficient de rétrodiffusion corrigé type pour l'océan en bande Ku,,,,Operational,Original
 bufr4/3/12/071/30/021180,12,Séquences correspondant à des messages d'observation,312071,,,021180,Nombre de points corrects à 20 Hz pour le coefficient de rétrodiffusion pour l'océan,,,,Operational,Original
-bufr4/3/12/071/31/021177,12,Séquences correspondant à des messages d'observation,312071,,,021177,Coefficient de rétrodiffusion corrigé – centre de gravité excentré,,,,Operational,Original
-bufr4/3/12/071/32/021178,12,Séquences correspondant à des messages d'observation,312071,,,021178,Coefficient de rétrodiffusion corrigé type à 20 Hz – centre de gravité excentré,,,,Operational,Original
-bufr4/3/12/071/33/021179,12,Séquences correspondant à des messages d'observation,312071,,,021179,Nombre de points corrects à 20 Hz pour le coefficient de rétrodiffusion – centre de gravité excentré,,,,Operational,Original
+bufr4/3/12/071/31/021177,12,Séquences correspondant à des messages d'observation,312071,,,021177,Coefficient de rétrodiffusion corrigé - centre de gravité excentré,,,,Operational,Original
+bufr4/3/12/071/32/021178,12,Séquences correspondant à des messages d'observation,312071,,,021178,Coefficient de rétrodiffusion corrigé type à 20 Hz - centre de gravité excentré,,,,Operational,Original
+bufr4/3/12/071/33/021179,12,Séquences correspondant à des messages d'observation,312071,,,021179,Nombre de points corrects à 20 Hz pour le coefficient de rétrodiffusion - centre de gravité excentré,,,,Operational,Original
 bufr4/3/12/071/34/010079,12,Séquences correspondant à des messages d'observation,312071,,,010079,"Angle de décalage du satellite par rapport au nadir, calculé à partir de l'assiette de la plate-forme",,,,Operational,Original
 bufr4/3/12/071/35/010085,12,Séquences correspondant à des messages d'observation,312071,,,010085,Hauteur moyenne de la surface de la mer,,,,Operational,Original
 bufr4/3/12/071/36/010086,12,Séquences correspondant à des messages d'observation,312071,,,010086,Hauteur du géoïde,,,,Operational,Original
@@ -607,11 +607,11 @@ bufr4/3/12/071/49/022145,12,Séquences correspondant à des messages d'observati
 bufr4/3/12/071/50/022148,12,Séquences correspondant à des messages d'observation,312071,,,022148,Nombre de points corrects à 20 Hz pour l'intervalle océanique,,,,Operational,Original
 bufr4/3/12/071/51/022146,12,Séquences correspondant à des messages d'observation,312071,,,022146,Intervalle pour centre de gravité excentré,,,,Operational,Original
 bufr4/3/12/071/52/022147,12,Séquences correspondant à des messages d'observation,312071,,,022147,Intervalle type à 20 Hz pour centre de gravité excentré,,,,Operational,Original
-bufr4/3/12/071/53/025126,12,Séquences correspondant à des messages d'observation,312071,,,025126,Correction de troposphère sèche – modèle,,,,Operational,Original
-bufr4/3/12/071/54/025128,12,Séquences correspondant à des messages d'observation,312071,,,025128,Correction de troposphère humide – modèle,,,,Operational,Original
+bufr4/3/12/071/53/025126,12,Séquences correspondant à des messages d'observation,312071,,,025126,Correction de troposphère sèche - modèle,,,,Operational,Original
+bufr4/3/12/071/54/025128,12,Séquences correspondant à des messages d'observation,312071,,,025128,Correction de troposphère humide - modèle,,,,Operational,Original
 bufr4/3/12/071/55/025127,12,Séquences correspondant à des messages d'observation,312071,,,025127,Correction de baromètre inverse,,,,Operational,Original
 bufr4/3/12/071/56/021176,12,Séquences correspondant à des messages d'observation,312071,,,021176,Correction haute fréquence de la variabilité,,,,Operational,Original
-bufr4/3/12/071/57/025132,12,Séquences correspondant à des messages d'observation,312071,,,025132,Correction ionosphérique – modèle en bande Ku,,,,Operational,Original
+bufr4/3/12/071/57/025132,12,Séquences correspondant à des messages d'observation,312071,,,025132,Correction ionosphérique - modèle en bande Ku,,,,Operational,Original
 bufr4/3/12/071/58/025133,12,Séquences correspondant à des messages d'observation,312071,,,025133,Correction du biais d'état de la mer en bande Ku,,,,Operational,Original
 bufr4/3/12/071/59/025182,12,Séquences correspondant à des messages d'observation,312071,,,025182,Indicateur de traitement de niveau 1,,,,Operational,Original
 bufr4/3/12/071/60/025183,12,Séquences correspondant à des messages d'observation,312071,,,025183,Qualité du traitement de niveau 1,,,,Operational,Original

@@ -1,5 +1,5 @@
 Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/40/005/1,040005,Indicateur de correction de l'humidité du sol,1,Humidité du sol entre–20 % et 0 %,,,,,Operational,Original
+bufr4/0/40/005/1,040005,Indicateur de correction de l'humidité du sol,1,Humidité du sol entre-20 % et 0 %,,,,,Operational,Original
 bufr4/0/40/005/2,040005,Indicateur de correction de l'humidité du sol,2,Humidité du sol entre 100 % et 120 %,,,,,Operational,Original
 bufr4/0/40/005/3,040005,Indicateur de correction de l'humidité du sol,3,Correction de la référence de rétrodiffusion par conditions humides,,,,,Operational,Original
 bufr4/0/40/005/4,040005,Indicateur de correction de l'humidité du sol,4,Correction de la référence de rétrodiffusion par conditions sèches,,,,,Operational,Original
@@ -12,7 +12,7 @@ bufr4/0/40/006/3,040006,Indicateur de traitement de l'humidité du sol,3,Bruit e
 bufr4/0/40/006/4,040006,Indicateur de traitement de l'humidité du sol,4,Rétrodiffusion faisceaux avant-arrière hors limites,,,,,Operational,Original
 bufr4/0/40/006/5,040006,Indicateur de traitement de l'humidité du sol,5,Pente faisceaux médian-avant hors limites,,,,,Operational,Original
 bufr4/0/40/006/6,040006,Indicateur de traitement de l'humidité du sol,6,Pente faisceaux médian-arrière hors limites,,,,,Operational,Original
-bufr4/0/40/006/7,040006,Indicateur de traitement de l'humidité du sol,7,Humidité du sol inférieure à–20 %,,,,,Operational,Original
+bufr4/0/40/006/7,040006,Indicateur de traitement de l'humidité du sol,7,Humidité du sol inférieure à-20 %,,,,,Operational,Original
 bufr4/0/40/006/8,040006,Indicateur de traitement de l'humidité du sol,8,Humidité du sol inférieure à 120 %,,,,,Operational,Original
 bufr4/0/40/006/9-15,040006,Indicateur de traitement de l'humidité du sol,9-15,En réserve,,,,,Operational,Original
 bufr4/0/40/006/All-16,040006,Indicateur de traitement de l'humidité du sol,All 16,Valeur manquante,,,,,Operational,Original
@@ -27,29 +27,29 @@ bufr4/0/40/012/2,040012,Indicateur de qualité des données du radiomètre,2,"Te
 bufr4/0/40/012/3,040012,Indicateur de qualité des données du radiomètre,3,Température de luminance en bande 34 GHz,,,,,Operational,Original
 bufr4/0/40/012/4-7,040012,Indicateur de qualité des données du radiomètre,4-7,En réserve,,,,,Operational,Original
 bufr4/0/40/012/All-8,040012,Indicateur de qualité des données du radiomètre,All 8,Valeur manquante,,,,,Operational,Original
-bufr4/0/40/013/0,040013,Indicateur d'interprétation de la température de luminance du radiomètre,0,Interpolation sans interruption dans les données du JMR*,,,,,Operational,Original
-bufr4/0/40/013/1,040013,Indicateur d'interprétation de la température de luminance du radiomètre,1,Interpolation avec interruptions dans les données du JMR*,,,,,Operational,Original
-bufr4/0/40/013/2,040013,Indicateur d'interprétation de la température de luminance du radiomètre,2,Extrapolation des données du JMR*,,,,,Operational,Original
+bufr4/0/40/013/0,040013,Indicateur d'interprétation de la température de luminance du radiomètre,0,Interpolation sans interruption dans les données du JMR,,,,,Operational,Original
+bufr4/0/40/013/1,040013,Indicateur d'interprétation de la température de luminance du radiomètre,1,Interpolation avec interruptions dans les données du JMR,,,,,Operational,Original
+bufr4/0/40/013/2,040013,Indicateur d'interprétation de la température de luminance du radiomètre,2,Extrapolation des données du JMR,,,,,Operational,Original
 bufr4/0/40/013/3,040013,Indicateur d'interprétation de la température de luminance du radiomètre,3,Défaillance de l'extrapolation et de l'interpolation,,,,,Operational,Original
 bufr4/0/40/013/4-6,040013,Indicateur d'interprétation de la température de luminance du radiomètre,4-6,En réserve,,,,,Operational,Original
 bufr4/0/40/013/7,040013,Indicateur d'interprétation de la température de luminance du radiomètre,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/40/020/1,040020,GqisFlagQualDetailed – indicateur de qualité du système,1,Erreur d'étalonnage complexe et NZPD,,,,,Operational,Original
-bufr4/0/40/020/2,040020,GqisFlagQualDetailed – indicateur de qualité du système,2,Bande 3 affectée par une pointe de bruit,,,,,Operational,Original
-bufr4/0/40/020/3,040020,GqisFlagQualDetailed – indicateur de qualité du système,3,Bande 3 affectée par une saturation,,,,,Operational,Original
-bufr4/0/40/020/4,040020,GqisFlagQualDetailed – indicateur de qualité du système,4,Bande 2 affectée par une pointe de bruit,,,,,Operational,Original
-bufr4/0/40/020/5,040020,GqisFlagQualDetailed – indicateur de qualité du système,5,Bande 1 affectée par une pointe de bruit,,,,,Operational,Original
-bufr4/0/40/020/6,040020,GqisFlagQualDetailed – indicateur de qualité du système,6,Écoulement par-dessus ou par-dessous,,,,,Operational,Original
-bufr4/0/40/020/7,040020,GqisFlagQualDetailed – indicateur de qualité du système,7,Erreur de traitement à bord,,,,,Operational,Original
-bufr4/0/40/020/8,040020,GqisFlagQualDetailed – indicateur de qualité du système,8,Erreur d'étalonnage spectral,,,,,Operational,Original
-bufr4/0/40/020/9,040020,GqisFlagQualDetailed – indicateur de qualité du système,9,Erreur d'étalonnage radiométrique,,,,,Operational,Original
-bufr4/0/40/020/10,040020,GqisFlagQualDetailed – indicateur de qualité du système,10,Données manquantes du radiomètre AVHRR,,,,,Operational,Original
-bufr4/0/40/020/11,040020,GqisFlagQualDetailed – indicateur de qualité du système,11,Données manquantes de l'IIS,,,,,Operational,Original
-bufr4/0/40/020/12,040020,GqisFlagQualDetailed – indicateur de qualité du système,12,Données manquantes du sondeur,,,,,Operational,Original
-bufr4/0/40/020/13,040020,GqisFlagQualDetailed – indicateur de qualité du système,13,Indicateur récapitulatif GqisFlagQual pour toutes les bandes,,,,,Operational,Original
-bufr4/0/40/020/14,040020,GqisFlagQualDetailed – indicateur de qualité du système,14,Erreur de traitement au sol,,,,,Operational,Original
-bufr4/0/40/020/15,040020,GqisFlagQualDetailed – indicateur de qualité du système,15,Erreur d'interétalonnage IASI/AVHRR,,,,,Operational,Original
-bufr4/0/40/020/16,040020,GqisFlagQualDetailed – indicateur de qualité du système,16,Disponible,,,,,Operational,Original
-bufr4/0/40/020/All-17,040020,GqisFlagQualDetailed – indicateur de qualité du système,All 17,Valeur manquante,,,,,Operational,Original
+bufr4/0/40/020/1,040020,GqisFlagQualDetailed - indicateur de qualité du système,1,Erreur d'étalonnage complexe et NZPD,,,,,Operational,Original
+bufr4/0/40/020/2,040020,GqisFlagQualDetailed - indicateur de qualité du système,2,Bande 3 affectée par une pointe de bruit,,,,,Operational,Original
+bufr4/0/40/020/3,040020,GqisFlagQualDetailed - indicateur de qualité du système,3,Bande 3 affectée par une saturation,,,,,Operational,Original
+bufr4/0/40/020/4,040020,GqisFlagQualDetailed - indicateur de qualité du système,4,Bande 2 affectée par une pointe de bruit,,,,,Operational,Original
+bufr4/0/40/020/5,040020,GqisFlagQualDetailed - indicateur de qualité du système,5,Bande 1 affectée par une pointe de bruit,,,,,Operational,Original
+bufr4/0/40/020/6,040020,GqisFlagQualDetailed - indicateur de qualité du système,6,Écoulement par-dessus ou par-dessous,,,,,Operational,Original
+bufr4/0/40/020/7,040020,GqisFlagQualDetailed - indicateur de qualité du système,7,Erreur de traitement à bord,,,,,Operational,Original
+bufr4/0/40/020/8,040020,GqisFlagQualDetailed - indicateur de qualité du système,8,Erreur d'étalonnage spectral,,,,,Operational,Original
+bufr4/0/40/020/9,040020,GqisFlagQualDetailed - indicateur de qualité du système,9,Erreur d'étalonnage radiométrique,,,,,Operational,Original
+bufr4/0/40/020/10,040020,GqisFlagQualDetailed - indicateur de qualité du système,10,Données manquantes du radiomètre AVHRR,,,,,Operational,Original
+bufr4/0/40/020/11,040020,GqisFlagQualDetailed - indicateur de qualité du système,11,Données manquantes de l'IIS,,,,,Operational,Original
+bufr4/0/40/020/12,040020,GqisFlagQualDetailed - indicateur de qualité du système,12,Données manquantes du sondeur,,,,,Operational,Original
+bufr4/0/40/020/13,040020,GqisFlagQualDetailed - indicateur de qualité du système,13,Indicateur récapitulatif GqisFlagQual pour toutes les bandes,,,,,Operational,Original
+bufr4/0/40/020/14,040020,GqisFlagQualDetailed - indicateur de qualité du système,14,Erreur de traitement au sol,,,,,Operational,Original
+bufr4/0/40/020/15,040020,GqisFlagQualDetailed - indicateur de qualité du système,15,Erreur d'interétalonnage IASI/AVHRR,,,,,Operational,Original
+bufr4/0/40/020/16,040020,GqisFlagQualDetailed - indicateur de qualité du système,16,Disponible,,,,,Operational,Original
+bufr4/0/40/020/All-17,040020,GqisFlagQualDetailed - indicateur de qualité du système,All 17,Valeur manquante,,,,,Operational,Original
 bufr4/0/40/023/1,040023,Indicateur de l'état de l'altimètre auxiliaire,1,"Séquence dans la bande (0 = 3Ku_1C_3Ku, 1 = 2Ku_1C_2Ku)",,,,,Operational,Original
 bufr4/0/40/023/2,040023,Indicateur de l'état de l'altimètre auxiliaire,2,"Fréquence en bande C (0 = 320 MHz, 1 = 100 MHz)",,,,,Operational,Original
 bufr4/0/40/023/3,040023,Indicateur de l'état de l'altimètre auxiliaire,3,"État de la bande C (0 = Marche, 1 = Arrêt)",,,,,Operational,Original
@@ -130,7 +130,7 @@ bufr4/0/40/050/5,040050,Initialisation de l'extraction,5,MHS inclus,,,,,Operatio
 bufr4/0/40/050/6,040050,Initialisation de l'extraction,6,AMSU inclus,,,,,Operational,Original
 bufr4/0/40/050/7,040050,Initialisation de l'extraction,7,IASI inclus,,,,,Operational,Original
 bufr4/0/40/050/All-8,040050,Initialisation de l'extraction,All 8,Valeur manquante,,,,,Operational,Original
-bufr4/0/40/051/0,040051,Convergence d'extraction itérative,0,OEM* non appliquées,,,,,Operational,Original
+bufr4/0/40/051/0,040051,Convergence d'extraction itérative,0,OEM non appliquées,,,,,Operational,Original
 bufr4/0/40/051/1,040051,Convergence d'extraction itérative,1,OEM interrompues car les résidus de la première approximation sont trop élevés,,,,,Operational,Original
 bufr4/0/40/051/2,040051,Convergence d'extraction itérative,2,"La minimisation n'a pas convergé, le sondage est rejeté",,,,,Operational,Original
 bufr4/0/40/051/3,040051,Convergence d'extraction itérative,3,"La minimisation n'a pas convergé, le sondage est accepté",,,,,Operational,Original

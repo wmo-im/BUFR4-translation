@@ -19,7 +19,7 @@ bufr4/3/05/003/2/004065,05,Séquences météorologiques ou hydrologiques commune
 bufr4/3/05/003/3/101000,05,Séquences météorologiques ou hydrologiques communes aux observations,305003,(Définition de la série de mesures SADC-HYCOS),,101000,Répétition différée de 1 descripteur,,,,Operational,Original
 bufr4/3/05/003/4/031001,05,Séquences météorologiques ou hydrologiques communes aux observations,305003,(Définition de la série de mesures SADC-HYCOS),,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
 bufr4/3/05/003/5/305001,05,Séquences météorologiques ou hydrologiques communes aux observations,305003,(Définition de la série de mesures SADC-HYCOS),,305001,Mesure unique SADC-HYCOS,,,,Operational,Original
-bufr4/3/05/004/1/301030,05,Séquences météorologiques ou hydrologiques communes aux observations,305004,(Message d'observation SADC-HYCOS),,301030,Identification – avec position,,,,Operational,Original
+bufr4/3/05/004/1/301030,05,Séquences météorologiques ou hydrologiques communes aux observations,305004,(Message d'observation SADC-HYCOS),,301030,Identification - avec position,,,,Operational,Original
 bufr4/3/05/004/2/305002,05,Séquences météorologiques ou hydrologiques communes aux observations,305004,(Message d'observation SADC-HYCOS),,305002,Mesure de l'environnement SADC-HYCOS,,,,Operational,Original
 bufr4/3/05/004/3/305003,05,Séquences météorologiques ou hydrologiques communes aux observations,305004,(Message d'observation SADC-HYCOS),,305003,Définition de la série de mesures SADC-HYCOS,,,,Operational,Original
 bufr4/3/05/006/1/013072,05,Séquences météorologiques ou hydrologiques communes aux observations,305006,(Mesure MEDHYCOS),,013072,Niveau d'eau en aval,,,,Operational,Original

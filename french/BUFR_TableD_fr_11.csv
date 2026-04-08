@@ -177,7 +177,7 @@ bufr4/3/11/011/12/031001,11,Séquences correspondant à des messages d'observati
 bufr4/3/11/011/13/008046,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational,Original
 bufr4/3/11/011/14/201139,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201139,Changer le champ de données,20 bits de long,,,Operational,Original
 bufr4/3/11/011/15/202126,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202126,Changer d'échelle,Échelle: 7,,,Operational,Original
-bufr4/3/11/011/16/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol–1),,,,Operational,Original
+bufr4/3/11/011/16/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol-1),,,,Operational,Original
 bufr4/3/11/011/17/202000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/11/011/18/201000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/11/011/19/106000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,106000,Répétition différée de 6 descripteurs,,,,Operational,Original
@@ -185,7 +185,7 @@ bufr4/3/11/011/20/031001,11,Séquences correspondant à des messages d'observati
 bufr4/3/11/011/21/008046,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational,Original
 bufr4/3/11/011/22/201138,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201138,Changer le champ de données,19 bits de long,,,Operational,Original
 bufr4/3/11/011/23/202130,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202130,Changer d'échelle,Échelle: 11,,,Operational,Original
-bufr4/3/11/011/24/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol–1),,,,Operational,Original
+bufr4/3/11/011/24/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol-1),,,,Operational,Original
 bufr4/3/11/011/25/202000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/11/011/26/201000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/11/011/27/015052,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015052,Log10 de la concentration en nombre de particules d'aérosols de diamètre supérieur à 5 nm,,,,Operational,Original

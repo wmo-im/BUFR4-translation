@@ -38,7 +38,7 @@ bufr4/0/03/008/2,003008,Abri ou protection avec ventilation artificielle,2,Aspir
 bufr4/0/03/008/3-6,003008,Abri ou protection avec ventilation artificielle,3-6,En réserve,,,,,Operational,Original
 bufr4/0/03/008/7,003008,Abri ou protection avec ventilation artificielle,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/03/010/0,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,0,En réserve,,,,,Operational,Original
-bufr4/0/03/010/1,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,1,ADCP*,,,(voir Note),91,Operational,Original
+bufr4/0/03/010/1,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,1,ADCP,,,(voir Note),91,Operational,Original
 bufr4/0/03/010/2,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,2,GEK (Électrocinétographe géomagnétique),,,,,Operational,Original
 bufr4/0/03/010/3,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,3,Direction et dérive du navire déterminées par des relevés effectués à intervalles de 3 à 6 heures,,,,,Operational,Original
 bufr4/0/03/010/4,003010,Méthode de mesure du courant en mer et dans d'autres masses d'eau,4,"Direction et dérive du navire déterminées par des relevés effectués à intervalles de plus de 6 heures, mais de moins de 12 heures",,,,,Operational,Original
@@ -109,7 +109,7 @@ bufr4/0/03/019/7-14,003019,Type de construction,7-14,En réserve,,,,,Operational
 bufr4/0/03/019/15,003019,Type de construction,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/03/020/0,003020,Matériau du boîtier du thermomètre/de l'hygromètre,0,Bois,,,,,Operational,Original
 bufr4/0/03/020/1,003020,Matériau du boîtier du thermomètre/de l'hygromètre,1,Alliage métallique,,,,,Operational,Original
-bufr4/0/03/020/2,003020,Matériau du boîtier du thermomètre/de l'hygromètre,2,Plastique/PRV*,,,,,Operational,Original
+bufr4/0/03/020/2,003020,Matériau du boîtier du thermomètre/de l'hygromètre,2,Plastique/PRV,,,,,Operational,Original
 bufr4/0/03/020/3,003020,Matériau du boîtier du thermomètre/de l'hygromètre,3,Canisse/herbes/feuilles,,,,,Operational,Original
 bufr4/0/03/020/4-6,003020,Matériau du boîtier du thermomètre/de l'hygromètre,4-6,En réserve pour un usage futur,,,,,Operational,Original
 bufr4/0/03/020/7,003020,Matériau du boîtier du thermomètre/de l'hygromètre,7,Valeur manquante,,,,,Operational,Original

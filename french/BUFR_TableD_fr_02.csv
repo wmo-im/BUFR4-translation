@@ -105,7 +105,7 @@ bufr4/3/02/041/7/012112,02,Séquences météorologiques communes aux données de
 bufr4/3/02/042/1/007032,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),Mesure du vent,,,Operational,Original
 bufr4/3/02/042/2/002002,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,002002,Type d'instrument pour la mesure du vent,,,,Operational,Original
 bufr4/3/02/042/3/008021,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
-bufr4/3/02/042/4/004025,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,004025,Période ou décalage dans le temps,=–10 minutes ou nombre de minutes après un changement significatif du vent,,,Operational,Original
+bufr4/3/02/042/4/004025,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,004025,Période ou décalage dans le temps,=-10 minutes ou nombre de minutes après un changement significatif du vent,,,Operational,Original
 bufr4/3/02/042/5/011001,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,011001,Direction du vent,,,,Operational,Original
 bufr4/3/02/042/6/011002,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,011002,Vitesse du vent,,,,Operational,Original
 bufr4/3/02/042/7/008021,02,Séquences météorologiques communes aux données de surface,302042,(Données sur le vent),,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational,Original
@@ -148,27 +148,27 @@ bufr4/3/02/049/4/020012,02,Séquences météorologiques communes aux données de
 bufr4/3/02/049/5/020012,02,Séquences météorologiques communes aux données de surface,302049,(Données sur les nuages transmises avec les sondages verticaux),,020012,Type de nuage,Nuages de l'étage moyen C M,,,Operational,Original
 bufr4/3/02/049/6/020012,02,Séquences météorologiques communes aux données de surface,302049,(Données sur les nuages transmises avec les sondages verticaux),,020012,Type de nuage,Nuages de l'étage supérieur C H,,,Operational,Original
 bufr4/3/02/049/7/008002,02,Séquences météorologiques communes aux données de surface,302049,(Données sur les nuages transmises avec les sondages verticaux),,008002,Caractéristique verticale (observations en surface),Mis à valeur manquante,,,Operational,Original
-bufr4/3/02/050/1/008041,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,008041,Caractéristique des données,= 5 Décalage entre l'observation de surface et le point de lâcher,,,Operational,Original
-bufr4/3/02/050/2/005021,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,005021,Direction ou azimut,,,,Operational,Original
-bufr4/3/02/050/3/007005,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,007005,Incrément de hauteur,,,,Operational,Original
-bufr4/3/02/050/4/202130,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,202130,Changer d'échelle,,,,Operational,Original
-bufr4/3/02/050/5/006021,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,006021,Distance,,,,Operational,Original
-bufr4/3/02/050/6/202000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,202000,Changement d'échelle,Annuler,,,Operational,Original
-bufr4/3/02/050/7/008041,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,008041,Caractéristique des données,= 4 Observation de surface,,,Operational,Original
-bufr4/3/02/050/8/201131,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,201131,Changer le champ de données,,,,Operational,Original
-bufr4/3/02/050/9/202129,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,202129,Changer d'échelle,,,,Operational,Original
-bufr4/3/02/050/10/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
-bufr4/3/02/050/11/010004,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,010004,Pression,,,,Operational,Original
-bufr4/3/02/050/12/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
-bufr4/3/02/050/13/013003,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,013003,Humidité relative,,,,Operational,Original
-bufr4/3/02/050/14/202000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,202000,Changement d'échelle,Annuler,,,Operational,Original
-bufr4/3/02/050/15/201000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,201000,Changement du champ de données,Annuler,,,Operational,Original
-bufr4/3/02/050/16/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
-bufr4/3/02/050/17/011001,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,011001,Direction du vent,,,,Operational,Original
-bufr4/3/02/050/18/011002,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,011002,Vitesse du vent,,,,Operational,Original
-bufr4/3/02/050/19/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
-bufr4/3/02/050/20/102002,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,102002,Répéter 2 descripteurs 2 fois,,,,Operational,Original
-bufr4/3/02/050/21/012101,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage — observation en surface),,012101,Température/température de l'air,,,,Operational,Original
+bufr4/3/02/050/1/008041,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,008041,Caractéristique des données,= 5 Décalage entre l'observation de surface et le point de lâcher,,,Operational,Original
+bufr4/3/02/050/2/005021,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,005021,Direction ou azimut,,,,Operational,Original
+bufr4/3/02/050/3/007005,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,007005,Incrément de hauteur,,,,Operational,Original
+bufr4/3/02/050/4/202130,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,202130,Changer d'échelle,,,,Operational,Original
+bufr4/3/02/050/5/006021,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,006021,Distance,,,,Operational,Original
+bufr4/3/02/050/6/202000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,202000,Changement d'échelle,Annuler,,,Operational,Original
+bufr4/3/02/050/7/008041,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,008041,Caractéristique des données,= 4 Observation de surface,,,Operational,Original
+bufr4/3/02/050/8/201131,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,201131,Changer le champ de données,,,,Operational,Original
+bufr4/3/02/050/9/202129,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,202129,Changer d'échelle,,,,Operational,Original
+bufr4/3/02/050/10/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
+bufr4/3/02/050/11/010004,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,010004,Pression,,,,Operational,Original
+bufr4/3/02/050/12/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
+bufr4/3/02/050/13/013003,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,013003,Humidité relative,,,,Operational,Original
+bufr4/3/02/050/14/202000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,202000,Changement d'échelle,Annuler,,,Operational,Original
+bufr4/3/02/050/15/201000,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,201000,Changement du champ de données,Annuler,,,Operational,Original
+bufr4/3/02/050/16/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
+bufr4/3/02/050/17/011001,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,011001,Direction du vent,,,,Operational,Original
+bufr4/3/02/050/18/011002,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,011002,Vitesse du vent,,,,Operational,Original
+bufr4/3/02/050/19/002115,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,002115,Type d'équipement d'observation en surface,,,,Operational,Original
+bufr4/3/02/050/20/102002,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,102002,Répéter 2 descripteurs 2 fois,,,,Operational,Original
+bufr4/3/02/050/21/012101,02,Séquences météorologiques communes aux données de surface,302050,(Radiosondage - observation en surface),,012101,Température/température de l'air,,,,Operational,Original
 bufr4/3/02/050/22/004024,02,Séquences météorologiques communes aux données de surface,302050,,,004024,Période ou décalage dans le temps,Heures,,,Operational,Original
 bufr4/3/02/050/23/002115,02,Séquences météorologiques communes aux données de surface,302050,,,002115,Type d'équipement d'observation en surface,,,,Operational,Original
 bufr4/3/02/050/24/012103,02,Séquences météorologiques communes aux données de surface,302050,,,012103,Point de rosée,,,,Operational,Original
@@ -237,7 +237,7 @@ bufr4/3/02/059/1/007032,02,Séquences météorologiques communes aux données de
 bufr4/3/02/059/2/007033,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,007033,Hauteur du capteur au-dessus de la surface de l'eau,Mesure du vent,,,Operational,Original
 bufr4/3/02/059/3/002002,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,002002,Type d'instrument pour la mesure du vent,,,,Operational,Original
 bufr4/3/02/059/4/008021,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
-bufr4/3/02/059/5/004025,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,004025,Période ou décalage dans le temps,"=–10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
+bufr4/3/02/059/5/004025,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,004025,Période ou décalage dans le temps,"=-10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
 bufr4/3/02/059/6/011001,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,011001,Direction du vent,,,,Operational,Original
 bufr4/3/02/059/7/011002,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,011002,Vitesse du vent,,,,Operational,Original
 bufr4/3/02/059/8/008021,02,Séquences météorologiques communes aux données de surface,302059,(Données sur le vent depuis le navire),,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational,Original
@@ -327,7 +327,7 @@ bufr4/3/02/067/5/031001,02,Séquences météorologiques communes aux données de
 bufr4/3/02/067/6/020003,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,020003,Temps présent,"960ww, 961ww",,,Operational,Original
 bufr4/3/02/067/7/103000,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
 bufr4/3/02/067/8/031001,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
-bufr4/3/02/067/9/005021,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,005021,Direction ou azimut,981VV–988VV,,,Operational,Original
+bufr4/3/02/067/9/005021,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,005021,Direction ou azimut,981VV-988VV,,,Operational,Original
 bufr4/3/02/067/10/020001,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,020001,Visibilité horizontale,VV,,,Operational,Original
 bufr4/3/02/067/11/005021,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,005021,Direction ou azimut,Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/02/067/12/101000,02,Séquences météorologiques communes aux données de surface,302067,(Paramètres synoptiques supplémentaires),,101000,Répétition différée de 1 descripteur,,,,Operational,Original
@@ -357,40 +357,40 @@ bufr4/3/02/067/35/020137,02,Séquences météorologiques communes aux données d
 bufr4/3/02/067/36/020136,02,Séquences météorologiques communes aux données de surface,302067,,,020136,Types de nuages supplémentaires,"948C0Da, 949CaDa, 950Nmn3, 951Nvn4",,,Operational,Original
 bufr4/3/02/067/37/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,Période de référence de la neige fraîche,,,Operational,Original
 bufr4/3/02/067/38/013012,02,Séquences météorologiques communes aux données de surface,302067,,,013012,Épaisseur de neige fraîche,,,,Operational,Original
-bufr4/3/02/067/39/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,=–60 minutes,,,Operational,Original
+bufr4/3/02/067/39/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,=-60 minutes,,,Operational,Original
 bufr4/3/02/067/40/011042,02,Séquences météorologiques communes aux données de surface,302067,,,011042,Vitesse maximale du vent (vent moyen sur 10 minutes),912ff 902tt 912ff .. obligatoire si ff ≥ 18,,,Operational,Original
 bufr4/3/02/067/41/104000,02,Séquences météorologiques communes aux données de surface,302067,,,104000,Répétition différée de 4 descripteurs,,,,Operational,Original
 bufr4/3/02/067/42/031001,02,Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
 bufr4/3/02/067/43/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,"= 30 Heure d'apparition, = 17 Début du phénomène",,,Operational,Original
-bufr4/3/02/067/44/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= –xx | 902tt,,,Operational,Original
+bufr4/3/02/067/44/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= -xx | 902tt,,,Operational,Original
 bufr4/3/02/067/45/011042,02,Séquences météorologiques communes aux données de surface,302067,,,011042,Vitesse maximale du vent (vent moyen sur 10 minutes),912ff,,,Operational,Original
 bufr4/3/02/067/46/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/02/067/47/115000,02,Séquences météorologiques communes aux données de surface,302067,,,115000,Répétition différée de 15 descripteurs,,,,Operational,Original
 bufr4/3/02/067/48/031001,02,Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
 bufr4/3/02/067/49/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,"= 30 Heure d'apparition, = 17 Début du phénomène ",,,Operational,Original
-bufr4/3/02/067/50/004015,02,Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= –xx1,,,Operational,Original
+bufr4/3/02/067/50/004015,02,Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= -xx1,,,Operational,Original
 bufr4/3/02/067/51/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 2 Moyenne sur la période,,,Operational,Original
-bufr4/3/02/067/52/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"=–10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
+bufr4/3/02/067/52/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"=-10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
 bufr4/3/02/067/53/011001,02,Séquences météorologiques communes aux données de surface,302067,,,011001,Direction du vent,915dd,,,Operational,Original
 bufr4/3/02/067/54/011002,02,Séquences météorologiques communes aux données de surface,302067,,,011002,Vitesse du vent,913ff,,,Operational,Original
 bufr4/3/02/067/55/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 22 Heure du changement du vent,,,Operational,Original
 bufr4/3/02/067/56/004015,02,Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= +xx2,,,Operational,Original
 bufr4/3/02/067/57/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,= 2 Moyenne sur la période,,,Operational,Original
-bufr4/3/02/067/58/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"=–10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
+bufr4/3/02/067/58/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"=-10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
 bufr4/3/02/067/59/011001,02,Séquences météorologiques communes aux données de surface,302067,,,011001,Direction du vent,915dd,,,Operational,Original
 bufr4/3/02/067/60/011002,02,Séquences météorologiques communes aux données de surface,302067,,,011002,Vitesse du vent,913ff,,,Operational,Original
 bufr4/3/02/067/61/008021,02,Séquences météorologiques communes aux données de surface,302067,,,008021,Caractéristique temporelle,Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/02/067/62/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,= 0 minute,,,Operational,Original
-bufr4/3/02/067/63/004015,02,Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,"= +(xx1–xx2) | Non négatif pour remettre à l'heure",,,Operational,Original
+bufr4/3/02/067/63/004015,02,Séquences météorologiques communes aux données de surface,302067,,,004015,Incrément temporel,= +(xx1-xx2) | Non négatif pour remettre à l'heure,,,Operational,Original
 bufr4/3/02/067/64/103000,02,Séquences météorologiques communes aux données de surface,302067,,,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
 bufr4/3/02/067/65/031001,02,Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
-bufr4/3/02/067/66/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= –xx, c-a-d à partir de",,,Operational,Original
-bufr4/3/02/067/67/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= –xx, c-a-d jusqu'à",,,Operational,Original
+bufr4/3/02/067/66/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d à partir de",,,Operational,Original
+bufr4/3/02/067/67/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d jusqu'à",,,Operational,Original
 bufr4/3/02/067/68/020003,02,Séquences météorologiques communes aux données de surface,302067,,,020003,Temps présent,"962ww, 963w1w1, 964ww, 965w1w1, 966ww, 967w1w1",,,Operational,Original
 bufr4/3/02/067/69/110000,02,Séquences météorologiques communes aux données de surface,302067,,,110000,Répétition différée de 10 descripteurs,,,,Operational,Original
 bufr4/3/02/067/70/031001,02,Séquences météorologiques communes aux données de surface,302067,,,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
-bufr4/3/02/067/71/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= –xx, c-a-d à partir de",,,Operational,Original
-bufr4/3/02/067/72/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= –xx, c-a-d jusqu'à ",,,Operational,Original
+bufr4/3/02/067/71/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d à partir de",,,Operational,Original
+bufr4/3/02/067/72/004025,02,Séquences météorologiques communes aux données de surface,302067,,,004025,Période ou décalage dans le temps,"= -xx, c-a-d jusqu'à ",,,Operational,Original
 bufr4/3/02/067/73/005021,02,Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,"Da, Dp",,,Operational,Original
 bufr4/3/02/067/74/005021,02,Séquences météorologiques communes aux données de surface,302067,,,005021,Direction ou azimut,"Da, Dp",,,Operational,Original
 bufr4/3/02/067/75/020054,02,Séquences météorologiques communes aux données de surface,302067,,,020054,Direction vraie d'où viennent ou dans laquelle sont observés le phénomène indiqué ou les nuages,"Da, Dp",,,Operational,Original
@@ -414,15 +414,15 @@ bufr4/3/02/070/8/011017,02,Séquences météorologiques communes aux données de
 bufr4/3/02/071/1/007032,02,Séquences météorologiques communes aux données de surface,302071,(Données sur le vent relevées sur une heure),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/071/2/007033,02,Séquences météorologiques communes aux données de surface,302071,(Données sur le vent relevées sur une heure),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/071/3/008021,02,Séquences météorologiques communes aux données de surface,302071,(Données sur le vent relevées sur une heure),,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
-bufr4/3/02/071/4/004025,02,Séquences météorologiques communes aux données de surface,302071,(Données sur le vent relevées sur une heure),,004025,Période ou décalage dans le temps,"=–10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant ",,,Operational,Original
+bufr4/3/02/071/4/004025,02,Séquences météorologiques communes aux données de surface,302071,(Données sur le vent relevées sur une heure),,004025,Période ou décalage dans le temps,"=-10 minutes, ou nombre de minutes après un changement significatif du vent, le cas échéant ",,,Operational,Original
 bufr4/3/02/071/5/011001,02,Séquences météorologiques communes aux données de surface,302071,,,011001,Direction du vent,,,,Operational,Original
 bufr4/3/02/071/6/011002,02,Séquences météorologiques communes aux données de surface,302071,,,011002,Vitesse du vent,,,,Operational,Original
 bufr4/3/02/071/7/008021,02,Séquences météorologiques communes aux données de surface,302071,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational,Original
 bufr4/3/02/071/8/103002,02,Séquences météorologiques communes aux données de surface,302071,,,103002,Répéter 3 descripteurs 2 fois,,,,Operational,Original
-bufr4/3/02/071/9/004025,02,Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,"=–10 minutes pour la première répétition, =–60 minutes pour la deuxième répétition",,,Operational,Original
+bufr4/3/02/071/9/004025,02,Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,"=-10 minutes pour la première répétition, =-60 minutes pour la deuxième répétition",,,Operational,Original
 bufr4/3/02/071/10/011043,02,Séquences météorologiques communes aux données de surface,302071,,,011043,Direction de la rafale maximale,,,,Operational,Original
 bufr4/3/02/071/11/011041,02,Séquences météorologiques communes aux données de surface,302071,,,011041,Vitesse de la rafale maximale,,,,Operational,Original
-bufr4/3/02/071/12/004025,02,Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
+bufr4/3/02/071/12/004025,02,Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,=-10 minutes,,,Operational,Original
 bufr4/3/02/071/13/011016,02,Séquences météorologiques communes aux données de surface,302071,,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre,,,,Operational,Original
 bufr4/3/02/071/14/011017,02,Séquences météorologiques communes aux données de surface,302071,,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre (vent variable),,,,Operational,Original
 bufr4/3/02/072/1/007032,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
@@ -442,7 +442,7 @@ bufr4/3/02/074/2/004025,02,Séquences météorologiques communes aux données de
 bufr4/3/02/074/3/020004,02,Séquences météorologiques communes aux données de surface,302074,(Temps présent et temps passé),,020004,Temps passé (1),,,,Operational,Original
 bufr4/3/02/074/4/020005,02,Séquences météorologiques communes aux données de surface,302074,(Temps présent et temps passé),,020005,Temps passé (2),,,,Operational,Original
 bufr4/3/02/075/1/008021,02,Séquences météorologiques communes aux données de surface,302075,"(Intensité des précipitations, taille de l'élément de précipitations)",,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
-bufr4/3/02/075/2/004025,02,Séquences météorologiques communes aux données de surface,302075,"(Intensité des précipitations, taille de l'élément de précipitations)",,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
+bufr4/3/02/075/2/004025,02,Séquences météorologiques communes aux données de surface,302075,"(Intensité des précipitations, taille de l'élément de précipitations)",,004025,Période ou décalage dans le temps,=-10 minutes,,,Operational,Original
 bufr4/3/02/075/3/013055,02,Séquences météorologiques communes aux données de surface,302075,,,013055,Intensité des précipitations,,,,Operational,Original
 bufr4/3/02/075/4/013058,02,Séquences météorologiques communes aux données de surface,302075,,,013058,Diamètre des particules formant les précipitations,,,,Operational,Original
 bufr4/3/02/075/5/008021,02,Séquences météorologiques communes aux données de surface,302075,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational,Original
@@ -460,7 +460,7 @@ bufr4/3/02/077/4/012111,02,Séquences météorologiques communes aux données de
 bufr4/3/02/077/5/012112,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational,Original
 bufr4/3/02/077/6/007032,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),Température au sol,,,Operational,Original
 bufr4/3/02/077/7/004025,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,004025,Période ou décalage dans le temps,,,,Operational,Original
-bufr4/3/02/077/8/012112,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,012112,"Température minimale, à une hauteur et sur une période déterminées","Échelle: 2 | Température au sol",,,Operational,Original
+bufr4/3/02/077/8/012112,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,012112,"Température minimale, à une hauteur et sur une période déterminées",Échelle: 2 | Température au sol,,,Operational,Original
 bufr4/3/02/078/1/002176,02,Séquences météorologiques communes aux données de surface,302078,(Mesure de l'état du sol et de la hauteur de la couche de neige),,002176,Méthode de mesure de l'état du sol,,,,Operational,Original
 bufr4/3/02/078/2/020062,02,Séquences météorologiques communes aux données de surface,302078,(Mesure de l'état du sol et de la hauteur de la couche de neige),,020062,État du sol (recouvert ou non d'une couche de neige),,,,Operational,Original
 bufr4/3/02/078/3/002177,02,Séquences météorologiques communes aux données de surface,302078,(Mesure de l'état du sol et de la hauteur de la couche de neige),,002177,Méthode de mesure de l'épaisseur de neige,,,,Operational,Original
@@ -543,16 +543,16 @@ bufr4/3/02/085/9/031000,02,Séquences météorologiques communes aux données de
 bufr4/3/02/085/10/302175,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,302175,"Intensité des précipitations, taille de l'élément de précipitations",,,,Operational,Original
 bufr4/3/02/085/11/102000,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,102000,Répétition différée de 2 descripteurs,,,,Operational,Original
 bufr4/3/02/085/12/031000,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
-bufr4/3/02/085/13/004025,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
+bufr4/3/02/085/13/004025,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,004025,Période ou décalage dans le temps,=-10 minutes,,,Operational,Original
 bufr4/3/02/085/14/302076,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,302076,"Précipitations, obscurcissement et autres phénomènes",,,,Operational,Original
 bufr4/3/02/085/15/102000,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,102000,Répétition différée de 2 descripteurs,,,,Operational,Original
 bufr4/3/02/085/16/031000,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
-bufr4/3/02/085/17/004025,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
+bufr4/3/02/085/17/004025,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,004025,Période ou décalage dans le temps,=-10 minutes,,,Operational,Original
 bufr4/3/02/085/18/013059,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,013059,Nombre d'éclairs (orage),,,,Operational,Original
 bufr4/3/02/085/19/007032,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/085/20/007033,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/085/21/008021,02,Séquences météorologiques communes aux données de surface,302085,(Données «pour la période» de la séquence 3 07 096),,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
-bufr4/3/02/085/22/004025,02,Séquences météorologiques communes aux données de surface,302085,,,004025,Période ou décalage dans le temps,"=–10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
+bufr4/3/02/085/22/004025,02,Séquences météorologiques communes aux données de surface,302085,,,004025,Période ou décalage dans le temps,"=-10 minutes, ou nombre de minutes après un changement significatif du vent",,,Operational,Original
 bufr4/3/02/085/23/011001,02,Séquences météorologiques communes aux données de surface,302085,,,011001,Direction du vent,,,,Operational,Original
 bufr4/3/02/085/24/011002,02,Séquences météorologiques communes aux données de surface,302085,,,011002,Vitesse du vent,,,,Operational,Original
 bufr4/3/02/085/25/008021,02,Séquences météorologiques communes aux données de surface,302085,,,008021,Caractéristique temporelle,Mis à valeur manquante,,,Operational,Original
@@ -560,7 +560,7 @@ bufr4/3/02/085/26/103003,02,Séquences météorologiques communes aux données d
 bufr4/3/02/085/27/004025,02,Séquences météorologiques communes aux données de surface,302085,,,004025,Période ou décalage dans le temps,/voir colonne de gauche,,,Operational,Original
 bufr4/3/02/085/28/011043,02,Séquences météorologiques communes aux données de surface,302085,,,011043,Direction de la rafale maximale,,,,Operational,Original
 bufr4/3/02/085/29/011041,02,Séquences météorologiques communes aux données de surface,302085,,,011041,Vitesse de la rafale maximale,,,,Operational,Original
-bufr4/3/02/085/30/004025,02,Séquences météorologiques communes aux données de surface,302085,,,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
+bufr4/3/02/085/30/004025,02,Séquences météorologiques communes aux données de surface,302085,,,004025,Période ou décalage dans le temps,=-10 minutes,,,Operational,Original
 bufr4/3/02/085/31/011016,02,Séquences météorologiques communes aux données de surface,302085,,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre (vent variable),,,,Operational,Original
 bufr4/3/02/085/32/011017,02,Séquences météorologiques communes aux données de surface,302085,,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre (vent variable),,,,Operational,Original
 bufr4/3/02/085/33/302077,02,Séquences météorologiques communes aux données de surface,302085,,,302077,Données sur les extrêmes de température,,,,Operational,Original
@@ -572,7 +572,7 @@ bufr4/3/02/085/38/007032,02,Séquences météorologiques communes aux données d
 bufr4/3/02/085/39/002175,02,Séquences météorologiques communes aux données de surface,302085,,,002175,Méthode de mesure des précipitations,,,,Operational,Original
 bufr4/3/02/085/40/002178,02,Séquences météorologiques communes aux données de surface,302085,,,002178,Méthode de mesure de la teneur en eau à l'état liquide des précipitations,,,,Operational,Original
 bufr4/3/02/085/41/102005,02,Séquences météorologiques communes aux données de surface,302085,,,102005,Répéter 2 descripteurs 5 fois,,,,Operational,Original
-bufr4/3/02/085/42/004024,02,Séquences météorologiques communes aux données de surface,302085,,,004024,Période ou décalage dans le temps,"=–1 heure pour la première répétition, =–3,–6,–12 et–24 heures pour les autres répétitions",,,Operational,Original
+bufr4/3/02/085/42/004024,02,Séquences météorologiques communes aux données de surface,302085,,,004024,Période ou décalage dans le temps,"=-1 heure pour la première répétition, =-3,-6,-12 et-24 heures pour les autres répétitions",,,Operational,Original
 bufr4/3/02/085/43/013011,02,Séquences météorologiques communes aux données de surface,302085,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational,Original
 bufr4/3/02/085/44/007032,02,Séquences météorologiques communes aux données de surface,302085,,,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/02/085/45/103000,02,Séquences météorologiques communes aux données de surface,302085,,,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
@@ -593,7 +593,7 @@ bufr4/3/02/085/59/031000,02,Séquences météorologiques communes aux données d
 bufr4/3/02/085/60/302046,02,Séquences météorologiques communes aux données de surface,302085,,,302046,Variation de température,,,,Operational,Original
 bufr4/3/02/085/61/101000,02,Séquences météorologiques communes aux données de surface,302085,,,101000,Répétition différée de 1 descripteur,,,,Operational,Original
 bufr4/3/02/085/62/031000,02,Séquences météorologiques communes aux données de surface,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
-bufr4/3/02/085/63/302083,02,Séquences météorologiques communes aux données de surface,302085,,,302083,"Statistiques de premier ordre – données sur la pression, le vent, la température et l'humidité",,,,Operational,Original
+bufr4/3/02/085/63/302083,02,Séquences météorologiques communes aux données de surface,302085,,,302083,"Statistiques de premier ordre - données sur la pression, le vent, la température et l'humidité",,,,Operational,Original
 bufr4/3/02/089/1/020101,02,Séquences météorologiques communes aux données de surface,302089,(Informations sur les acridiens),,020101,Nom de l'acridien,Ln,,,Operational,Original
 bufr4/3/02/089/2/020102,02,Séquences météorologiques communes aux données de surface,302089,(Informations sur les acridiens),,020102,Couleur de l'acridien (maturité),Lc,,,Operational,Original
 bufr4/3/02/089/3/020103,02,Séquences météorologiques communes aux données de surface,302089,(Informations sur les acridiens),,020103,Stade de développement des acridiens,Ld,,,Operational,Original

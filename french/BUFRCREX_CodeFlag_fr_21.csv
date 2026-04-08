@@ -4,7 +4,7 @@ bufr4/0/21/066/2,021066,Données sur le degré de confiance du produit SAR mode 
 bufr4/0/21/066/3,021066,Données sur le degré de confiance du produit SAR mode vague,3,Code de fréquence de répétition (PRF) modifié pendant la formation de l'image,,,,,Operational,Original
 bufr4/0/21/066/4,021066,Données sur le degré de confiance du produit SAR mode vague,4,Fenêtre d'échantillonnage modifiée pendant la formation de l'image,,,,,Operational,Original
 bufr4/0/21/066/5,021066,Données sur le degré de confiance du produit SAR mode vague,5,Gain modifié pendant la formation de l'image,,,,,Operational,Original
-bufr4/0/21/066/6,021066,Données sur le degré de confiance du produit SAR mode vague,6,La réplique de "Chirp" dépasse la valeur spécifiée,,,,,Operational,Original
+bufr4/0/21/066/6,021066,Données sur le degré de confiance du produit SAR mode vague,6,"La réplique de ""Chirp"" dépasse la valeur spécifiée",,,,,Operational,Original
 bufr4/0/21/066/7,021066,Données sur le degré de confiance du produit SAR mode vague,7,Écart moyen et écart type de données d'entrée en phase et en quadrature hors de portée,,,,,Operational,Original
 bufr4/0/21/066/8,021066,Données sur le degré de confiance du produit SAR mode vague,8,Degré de confiance du point médian Doppler > à valeur MMCC,,,,,Operational,Original
 bufr4/0/21/066/9,021066,Données sur le degré de confiance du produit SAR mode vague,9,Valeur absolue du point médian Doppler > PRF/2,,,,,Operational,Original
@@ -91,8 +91,8 @@ bufr4/0/21/109/3-7,021109,Qualité du vecteur vent mesuré à l'intérieur de la
 bufr4/0/21/109/8,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,8,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des terres,,,,,Operational,Original
 bufr4/0/21/109/9,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,9,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des glaces,,,,,Operational,Original
 bufr4/0/21/109/10,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,10,Calcul du vent pas effectué pour la cellule dans laquelle le vecteur vent doit être calculé,,,,,Operational,Original
-bufr4/0/21/109/11,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,11,Vitesse du vent communiquée supérieure à 30 m s–1,,,,,Operational,Original
-bufr4/0/21/109/12,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,12,Vitesse du vent communiquée inférieure ou égale à 30 m s–1,,,,,Operational,Original
+bufr4/0/21/109/11,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,11,Vitesse du vent communiquée supérieure à 30 m s-1,,,,,Operational,Original
+bufr4/0/21/109/12,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,12,Vitesse du vent communiquée inférieure ou égale à 30 m s-1,,,,,Operational,Original
 bufr4/0/21/109/13-16,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,13-16,En réserve,,,,,Operational,Original
 bufr4/0/21/109/All-17,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,All 17,Valeur manquante,,,,,Operational,Original
 bufr4/0/21/115/1,021115,Qualité de sigma-0 déterminée par SEAWINDS,1,Mesure de sigma-0 pas utilisable,,,,,Operational,Original
@@ -113,12 +113,12 @@ bufr4/0/21/116/3,021116,Mode de sigma-0 déterminé par SEAWINDS,3,Faisceau d'an
 bufr4/0/21/116/4,021116,Mode de sigma-0 déterminé par SEAWINDS,4,La cellule correspondant à sigma-0 est à l'arrière du satellite,,,,,Operational,Original
 bufr4/0/21/116/5,021116,Mode de sigma-0 déterminé par SEAWINDS,5,Mode courant (1),,,,,Operational,Original
 bufr4/0/21/116/6,021116,Mode de sigma-0 déterminé par SEAWINDS,6,Mode courant (2),,,,,Operational,Original
-bufr4/0/21/116/7,021116,Mode de sigma-0 déterminé par SEAWINDS,7,Fenêtre utilisée – Résolution de la tranche (1),,,,,Operational,Original
-bufr4/0/21/116/8,021116,Mode de sigma-0 déterminé par SEAWINDS,8,Fenêtre utilisée – Résolution de la tranche (2),,,,,Operational,Original
-bufr4/0/21/116/9,021116,Mode de sigma-0 déterminé par SEAWINDS,9,Fenêtre utilisée – Résolution de la tranche (3),,,,,Operational,Original
-bufr4/0/21/116/10,021116,Mode de sigma-0 déterminé par SEAWINDS,10,Mode basse résolution – Données pour la pulsion complète,,,,,Operational,Original
+bufr4/0/21/116/7,021116,Mode de sigma-0 déterminé par SEAWINDS,7,Fenêtre utilisée - Résolution de la tranche (1),,,,,Operational,Original
+bufr4/0/21/116/8,021116,Mode de sigma-0 déterminé par SEAWINDS,8,Fenêtre utilisée - Résolution de la tranche (2),,,,,Operational,Original
+bufr4/0/21/116/9,021116,Mode de sigma-0 déterminé par SEAWINDS,9,Fenêtre utilisée - Résolution de la tranche (3),,,,,Operational,Original
+bufr4/0/21/116/10,021116,Mode de sigma-0 déterminé par SEAWINDS,10,Mode basse résolution - Données pour la pulsion complète,,,,,Operational,Original
 bufr4/0/21/116/11,021116,Mode de sigma-0 déterminé par SEAWINDS,11,Sous-système électronique B du diffusomètre,,,,,Operational,Original
-bufr4/0/21/116/12,021116,Mode de sigma-0 déterminé par SEAWINDS,12,"Autre vitesse de rotation – 19,8 tpm",,,,,Operational,Original
+bufr4/0/21/116/12,021116,Mode de sigma-0 déterminé par SEAWINDS,12,"Autre vitesse de rotation - 19,8 tpm",,,,,Operational,Original
 bufr4/0/21/116/13,021116,Mode de sigma-0 déterminé par SEAWINDS,13,Protection du récepteur enclanchée,,,,,Operational,Original
 bufr4/0/21/116/14,021116,Mode de sigma-0 déterminé par SEAWINDS,14,Indicateur de tranches par ensemble (1),,,,,Operational,Original
 bufr4/0/21/116/15,021116,Mode de sigma-0 déterminé par SEAWINDS,15,Indicateur de tranches par ensemble (2),,,,,Operational,Original
@@ -160,8 +160,8 @@ bufr4/0/21/155/7,021155,Qualité du vecteur vent dans la cellule,7,Échec du con
 bufr4/0/21/155/8,021155,Qualité du vecteur vent dans la cellule,8,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des terres,,,,,Operational,Original
 bufr4/0/21/155/9,021155,Qualité du vecteur vent dans la cellule,9,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des glaces,,,,,Operational,Original
 bufr4/0/21/155/10,021155,Qualité du vecteur vent dans la cellule,10,Vent non calculé pour la cellule dans laquelle le vecteur vent doit être calculé,,,,,Operational,Original
-bufr4/0/21/155/11,021155,Qualité du vecteur vent dans la cellule,11,Vitesse du vent communiquée supérieure à 30 m s–1,,,,,Operational,Original
-bufr4/0/21/155/12,021155,Qualité du vecteur vent dans la cellule,12,Vitesse du vent communiquée inférieure ou égale à 30 m s–1,,,,,Operational,Original
+bufr4/0/21/155/11,021155,Qualité du vecteur vent dans la cellule,11,Vitesse du vent communiquée supérieure à 30 m s-1,,,,,Operational,Original
+bufr4/0/21/155/12,021155,Qualité du vecteur vent dans la cellule,12,Vitesse du vent communiquée inférieure ou égale à 30 m s-1,,,,,Operational,Original
 bufr4/0/21/155/13,021155,Qualité du vecteur vent dans la cellule,13,Indicateur de pluie inutilisable pour la cellule pour laquelle le vecteur de vent est calculé,,,,,Operational,Original
 bufr4/0/21/155/14,021155,Qualité du vecteur vent dans la cellule,14,Pluie détectée par l'algorithme de l'indicateur de pluie,,,,,Operational,Original
 bufr4/0/21/155/15,021155,Qualité du vecteur vent dans la cellule,15,Aucune indication de conditions météorologiques utilisée,,,,,Operational,Original

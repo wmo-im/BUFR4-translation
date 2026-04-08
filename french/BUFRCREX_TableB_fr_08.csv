@@ -40,7 +40,7 @@ bufr4/0/08/040,08,Caractéristiques,008040,Caractéristique du niveau de vol,Tab
 bufr4/0/08/041,08,Caractéristiques,008041,Caractéristique des données,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/08/042,08,Caractéristiques,008042,Caractéristique étendue correspondant à des données de sondage vertical,Table d'indicateurs,0,0,18,Table d'indicateurs,0,6,,,Operational,Original
 bufr4/0/08/043,08,Caractéristiques,008043,Type de constituants chimiques ou physiques de l'atmosphère,Table de code,0,0,8,Table de code,0,3,(voir Note 7),169,Operational,Original
-bufr4/0/08/044,08,Caractéristiques,008044,Numéro d'enregistrement CAS*,CCITT IA5,0,0,88,Caractère,0,11,,,Operational,Original
+bufr4/0/08/044,08,Caractéristiques,008044,Numéro d'enregistrement CAS,CCITT IA5,0,0,88,Caractère,0,11,,,Operational,Original
 bufr4/0/08/046,08,Caractéristiques,008046,Type de constituants chimiques ou physiques de l'atmosphère,Table de code commune C-14,0,0,16,Table de code commune C-14,0,5,,,Operational,Original
 bufr4/0/08/049,08,Caractéristiques,008049,Nombre d'observations,Numérique,0,0,8,Numérique,0,3,,,Operational,Original
 bufr4/0/08/050,08,Caractéristiques,008050,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
