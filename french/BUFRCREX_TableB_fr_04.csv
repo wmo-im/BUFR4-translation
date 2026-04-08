@@ -32,5 +32,5 @@ bufr4/0/04/066,04,Situation (dans le temps),004066,Incrément temporel de courte
 bufr4/0/04/073,04,Situation (dans le temps),004073,Période ou décalage dans le temps de courte durée,d,0,-128,8,d,0,2,,,Operational,Original
 bufr4/0/04/074,04,Situation (dans le temps),004074,Période ou décalage dans le temps de courte durée,h,0,-128,8,h,0,2,,,Operational,Original
 bufr4/0/04/075,04,Situation (dans le temps),004075,Période ou décalage dans le temps de courte durée,min,0,-128,8,min,0,2,,,Operational,Original
-bufr4/0/04/080,04,Situation (dans le temps),004080,Période à laquelle correspond la valeur moyenne qui suit,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
+bufr4/0/04/080,04,Situation (dans le temps),004080,Période à laquelle correspond la valeur moyenne qui suit,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/04/086,04,Situation (dans le temps),004086,Période ou décalage dans le temps de longue durée,s,0,-8192,15,s,0,5,,,Operational,Original

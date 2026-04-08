@@ -6,7 +6,7 @@ bufr4/0/11/030/3,11030,Degré de turbulence détaillé,3,Turbulence forte,dans l
 bufr4/0/11/030/4,11030,Degré de turbulence détaillé,4,Pas de turbulence,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/030/5,11030,Degré de turbulence détaillé,5,Turbulence faible,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/030/6,11030,Degré de turbulence détaillé,6,Turbulence modérée,en atmosphère claire,,,,Operational,Original
-bufr4/0/11/030/7,11030,Degré de turbulence détaillé,7,Turbulence forte ,en atmosphère claire,,,,Operational,Original
+bufr4/0/11/030/7,11030,Degré de turbulence détaillé,7,Turbulence forte,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/030/8,11030,Degré de turbulence détaillé,8,Pas de turbulence,"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
 bufr4/0/11/030/9,11030,Degré de turbulence détaillé,9,Turbulence faible,"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
 bufr4/0/11/030/10,11030,Degré de turbulence détaillé,10,Turbulence modérée (MOD),"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
@@ -27,12 +27,12 @@ bufr4/0/11/030/24-62,11030,Degré de turbulence détaillé,24-62,En réserve,,,,
 bufr4/0/11/030/63,11030,Degré de turbulence détaillé,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/11/031/0,11031,Degré de turbulence,0,Pas de turbulence,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/1,11031,Degré de turbulence,1,Turbulence faible,dans les nuages,,,,Operational,Original
-bufr4/0/11/031/2,11031,Degré de turbulence,2,Turbulence modérée ,dans les nuages,,,,Operational,Original
+bufr4/0/11/031/2,11031,Degré de turbulence,2,Turbulence modérée,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/3,11031,Degré de turbulence,3,Turbulence forte,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/4,11031,Degré de turbulence,4,Pas de turbulence,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/031/5,11031,Degré de turbulence,5,Turbulence faible,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/031/6,11031,Degré de turbulence,6,Turbulence modérée,en atmosphère claire,,,,Operational,Original
-bufr4/0/11/031/7,11031,Degré de turbulence,7,Turbulence forte ,en atmosphère claire,,,,Operational,Original
+bufr4/0/11/031/7,11031,Degré de turbulence,7,Turbulence forte,en atmosphère claire,,,,Operational,Original
 bufr4/0/11/031/8,11031,Degré de turbulence,8,Pas de turbulence,"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
 bufr4/0/11/031/9,11031,Degré de turbulence,9,Turbulence faible,"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
 bufr4/0/11/031/10,11031,Degré de turbulence,10,Turbulence modérée,"dans les nuages ou en atmosphère claire, non précisé",,,,Operational,Original
@@ -62,7 +62,7 @@ bufr4/0/11/037/17,11037,Indice de turbulence,17,"0,2 ≤ moy. < 0,3","0,5 ≤ ma
 bufr4/0/11/037/18,11037,Indice de turbulence,18,"0,3 ≤ moy. < 0,4","0,5 ≤ max. < 0,8",,,,Operational,Original
 bufr4/0/11/037/19,11037,Indice de turbulence,19,"0,4 ≤ moy. < 0,5","0,5 ≤ max. < 0,8",,,,Operational,Original
 bufr4/0/11/037/20,11037,Indice de turbulence,20,"0,5 ≤ moy. < 0,8","0,5 ≤ max. < 0,8",,,,Operational,Original
-bufr4/0/11/037/21,11037,Indice de turbulence,21,"moy. < 0,1"," 0,8 ≤ max.",,,,Operational,Original
+bufr4/0/11/037/21,11037,Indice de turbulence,21,"moy. < 0,1","0,8 ≤ max.",,,,Operational,Original
 bufr4/0/11/037/22,11037,Indice de turbulence,22,"0,1 ≤ moy. < 0,2","0,8 ≤ max.",,,,Operational,Original
 bufr4/0/11/037/23,11037,Indice de turbulence,23,"0,2 ≤ moy. < 0,3","0,8 ≤ max.",,,,Operational,Original
 bufr4/0/11/037/24,11037,Indice de turbulence,24,"0,3 ≤ moy. < 0,4","0,8 ≤ max.",,,,Operational,Original
@@ -98,7 +98,7 @@ bufr4/0/11/039/4,11039,Étalement dans le temps de l'apparition du taux maximal 
 bufr4/0/11/039/5,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,5,5 ≤ min < 6,,,,,Operational,Original
 bufr4/0/11/039/6,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,6,6 ≤ min < 7,,,,,Operational,Original
 bufr4/0/11/039/7,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,7,7 ≤ min < 8,,,,,Operational,Original
-bufr4/0/11/039/8,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons Minutes avant l'heure,8,8 ≤ min < 9,,,,,Operational,Original
+bufr4/0/11/039/8,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,8,8 ≤ min < 9,,,,,Operational,Original
 bufr4/0/11/039/9,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,9,9 ≤ min < 10,,,,,Operational,Original
 bufr4/0/11/039/10,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,10,10 ≤ min < 11,,,,,Operational,Original
 bufr4/0/11/039/11,11039,Étalement dans le temps de l'apparition du taux maximal de dissipation des tourbillons,11,11 ≤ min < 12,,,,,Operational,Original

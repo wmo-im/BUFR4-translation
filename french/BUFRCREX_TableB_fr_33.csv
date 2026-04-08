@@ -21,7 +21,7 @@ bufr4/0/33/033,33,Informations sur la qualité,033033,Indicateurs de qualité du
 bufr4/0/33/035,33,Informations sur la qualité,033035,Contrôle de qualité manuel/automatique,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/33/036,33,Informations sur la qualité,033036,Seuil de confiance nominal,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/33/037,33,Informations sur la qualité,033037,Facteur de corrélation des vents,Table d'indicateurs,0,0,20,Table d'indicateurs,0,7,,,Operational,Original
-bufr4/0/33/038,33,Informations sur la qualité,033038,Indicateurs de qualité pour les données d'observation au sol du GNSS d'indicateurs,Table,0,0,10,Table d'indicateurs,0,4,,,Operational,Original
+bufr4/0/33/038,33,Informations sur la qualité,033038,Indicateurs de qualité pour les données d'observation au sol du GNSS,Table d'indicateurs,0,0,10,Table d'indicateurs,0,4,,,Operational,Original
 bufr4/0/33/039,33,Informations sur la qualité,033039,Indicateurs de qualité pour les données d'occultation radio,Table d'indicateurs,0,0,16,Table d'indicateurs,0,6,,,Operational,Original
 bufr4/0/33/040,33,Informations sur la qualité,033040,Intervalle de confiance,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/33/041,33,Informations sur la qualité,033041,Caractéristique de la valeur suivante,Table de code,0,0,2,Table de code,0,1,,,Operational,Original

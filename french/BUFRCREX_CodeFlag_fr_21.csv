@@ -20,7 +20,7 @@ bufr4/0/21/067/6,021067,Données sur le degré de confiance du produit concernan
 bufr4/0/21/067/7,021067,Données sur le degré de confiance du produit concernant le vent,7,Tout contenu de bruit de faisceau supérieur ou égal au seuil,,,,,Operational,Original
 bufr4/0/21/067/8,021067,Données sur le degré de confiance du produit concernant le vent,8,Terre (toute portion de terre située dans la cellule d'empreinte au sol),,,,,Operational,Original
 bufr4/0/21/067/9,021067,Données sur le degré de confiance du produit concernant le vent,9,Retrait d'ambiguïté autonome non utilisé,,,,,Operational,Original
-bufr4/0/21/067/10,021067,Données sur le degré de confiance du produit concernant le vent,10,Aarrière-plan météorologique non utilisé,,,,,Operational,Original
+bufr4/0/21/067/10,021067,Données sur le degré de confiance du produit concernant le vent,10,Arrière-plan météorologique non utilisé,,,,,Operational,Original
 bufr4/0/21/067/11,021067,Données sur le degré de confiance du produit concernant le vent,11,Minimum résiduel dépasse le seuil,,,,,Operational,Original
 bufr4/0/21/067/12,021067,Données sur le degré de confiance du produit concernant le vent,12,Erreur de contrôle de trame détectée,,,,,Operational,Original
 bufr4/0/21/067/All-13,021067,Données sur le degré de confiance du produit concernant le vent,All 13,Valeur manquante,,,,,Operational,Original
@@ -85,12 +85,12 @@ bufr4/0/21/076/1,021076,Représentation des intensités,1,Logarithmique (base e)
 bufr4/0/21/076/2,021076,Représentation des intensités,2,Logarithmique (base 10),,,,,Operational,Original
 bufr4/0/21/076/3-6,021076,Représentation des intensités,3-6,En réserve,,,,,Operational,Original
 bufr4/0/21/076/7,021076,Représentation des intensités,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/21/109/1,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,1,Pas assez de sigma-0 de qualité suffisante pour calculer le vent Diversité des azimuts parmi les sigma-0 insuffisants pour le calcul du vent,,,,,Operational,Original
+bufr4/0/21/109/1,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,1,Pas assez de sigma-0 de qualité suffisante pour calculer le vent,,,,,Operational,Original
 bufr4/0/21/109/2,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,2,Diversité des azimuts parmi les sigma-0 insuffisants pour le calcul du vent,,,,,Operational,Original
 bufr4/0/21/109/3-7,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,3-7,En réserve,,,,,Operational,Original
 bufr4/0/21/109/8,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,8,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des terres,,,,,Operational,Original
-bufr4/0/21/109/9,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,9,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des glaces Calcul du vent pas effectué pour la cellule dans laquelle le vecteur vent doit être calculé,,,,,Operational,Original
-bufr4/0/21/109/10,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,10,Calcul du vent pas effectué pour la cellule dans laquelle le vecteur vent doit être calculé Vitesse du vent communiquée supérieure à 30 m s,,,,,Operational,Original
+bufr4/0/21/109/9,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,9,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des glaces,,,,,Operational,Original
+bufr4/0/21/109/10,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,10,Calcul du vent pas effectué pour la cellule dans laquelle le vecteur vent doit être calculé,,,,,Operational,Original
 bufr4/0/21/109/11,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,11,Vitesse du vent communiquée supérieure à 30 m s–1,,,,,Operational,Original
 bufr4/0/21/109/12,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,12,Vitesse du vent communiquée inférieure ou égale à 30 m s–1,,,,,Operational,Original
 bufr4/0/21/109/13-16,021109,Qualité du vecteur vent mesuré à l'intérieur de la cellule par SEAWINDS,13-16,En réserve,,,,,Operational,Original
@@ -150,13 +150,13 @@ bufr4/0/21/150/0,021150,Recoupement de faisceaux,0,Données provenant d'une seul
 bufr4/0/21/150/1,021150,Recoupement de faisceaux,1,Données provenant de plusieurs stations au sol (recoupement),,,,,Operational,Original
 bufr4/0/21/150/2,021150,Recoupement de faisceaux,2,En réserve,,,,,Operational,Original
 bufr4/0/21/150/3,021150,Recoupement de faisceaux,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/21/155/1,021155,Qualité du vecteur vent dans la cellule,1,Valeurs de sigma-0 de bonne qualité insuffisantes pour le calcul du vent Diversité des azimuts parmi les sigma-0 insuffisante pour le calcul du vent,,,,,Operational,Original
+bufr4/0/21/155/1,021155,Qualité du vecteur vent dans la cellule,1,Valeurs de sigma-0 de bonne qualité insuffisantes pour le calcul du vent,,,,,Operational,Original
 bufr4/0/21/155/2,021155,Qualité du vecteur vent dans la cellule,2,Diversité des azimuts parmi les sigma-0 insuffisante pour le calcul du vent,,,,,Operational,Original
 bufr4/0/21/155/3,021155,Qualité du vecteur vent dans la cellule,3,Tout contenu de bruit de faisceau supérieur au seuil,,,,,Operational,Original
 bufr4/0/21/155/4,021155,Qualité du vecteur vent dans la cellule,4,Surveillance du produit inutilisée,,,,,Operational,Original
-bufr4/0/21/155/5,021155,Qualité du vecteur vent dans la cellule,5,Indicateur de surveillance du produit Échec du contrôle de qualité du KNMI,,,,,Operational,Original
+bufr4/0/21/155/5,021155,Qualité du vecteur vent dans la cellule,5,Indicateur de surveillance du produit,,,,,Operational,Original
 bufr4/0/21/155/6,021155,Qualité du vecteur vent dans la cellule,6,Échec du contrôle de qualité du KNMI,,,,,Operational,Original
-bufr4/0/21/155/7,021155,Qualité du vecteur vent dans la cellule,7,Échec du contrôle de qualité variationnel Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des terres,,,,,Operational,Original
+bufr4/0/21/155/7,021155,Qualité du vecteur vent dans la cellule,7,Échec du contrôle de qualité variationnel,,,,,Operational,Original
 bufr4/0/21/155/8,021155,Qualité du vecteur vent dans la cellule,8,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des terres,,,,,Operational,Original
 bufr4/0/21/155/9,021155,Qualité du vecteur vent dans la cellule,9,Une partie de la cellule pour laquelle le vecteur vent est calculé se trouve au-dessus des glaces,,,,,Operational,Original
 bufr4/0/21/155/10,021155,Qualité du vecteur vent dans la cellule,10,Vent non calculé pour la cellule dans laquelle le vecteur vent doit être calculé,,,,,Operational,Original

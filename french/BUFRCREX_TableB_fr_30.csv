@@ -7,5 +7,5 @@ bufr4/0/30/021,30,Image,030021,Nombre de pixels par ligne,Numérique,0,0,12,Num�
 bufr4/0/30/022,30,Image,030022,Nombre de pixels par colonne,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
 bufr4/0/30/031,30,Image,030031,Type d'image,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/30/032,30,Image,030032,Combinaison avec d'autres données,Table d'indicateurs,0,0,16,Table d'indicateurs,0,6,,,Operational,Original
-bufr4/0/30/033,30,Image,030033,N ombre de cellules le long des lignes N radiales,umérique,0,0,12 N,umérique,0,4,,,Operational,Original
-bufr4/0/30/034,30,Image,030034,N ombre d'azimuts N,umérique,0,0,12 N,umérique,0,4,,,Operational,Original
+bufr4/0/30/033,30,Image,030033,Nombre de cellules le long des lignes radiales,Numérique,0,0,12,Numérique,0,4,,,Operational,Original
+bufr4/0/30/034,30,Image,030034,Nombre d'azimuts,Numérique,0,0,12,Numérique,0,4,,,Operational,Original

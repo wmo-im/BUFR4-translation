@@ -17,7 +17,7 @@ bufr4/0/11/017,11,Vent et turbulence,11017,Direction du vent extrême dans le se
 bufr4/0/11/019,11,Vent et turbulence,11019,Stabilité du vent,%,0,0,7,%,0,3,(voir Note 6),147,Operational,Original
 bufr4/0/11/021,11,Vent et turbulence,11021,Tourbillon relatif,/s,9,-65536,17,/s,9,6,,,Operational,Original
 bufr4/0/11/022,11,Vent et turbulence,11022,Divergence,/s,9,-65536,17,/s,9,6,,,Operational,Original
-bufr4/0/11/023,11,Vent et turbulence,11023,Vitesse potentielle,2m/s,-2,-65536,17,2m/s,-2,6,,,Operational,Original
+bufr4/0/11/023,11,Vent et turbulence,11023,Vitesse potentielle,m2/s,-2,-65536,17,m2/s,-2,6,,,Operational,Original
 bufr4/0/11/030,11,Vent et turbulence,11030,Degré de turbulence détaillé,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/11/031,11,Vent et turbulence,11031,Degré de turbulence,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/11/032,11,Vent et turbulence,11032,Hauteur de la base de la turbulence,m,-1,-40,16,m,-1,5,,,Operational,Original
@@ -36,7 +36,7 @@ bufr4/0/11/044,11,Vent et turbulence,11044,Direction moyenne du vent entre la su
 bufr4/0/11/045,11,Vent et turbulence,11045,Vitesse moyenne du vent entre la surface et 1500 m (5000 pieds),m/s,1,0,12,m/s,1,4,,,Operational,Original
 bufr4/0/11/046,11,Vent et turbulence,11046,Vitesse maximale du vent instantané,m/s,1,0,12,m/s,1,4,,,Operational,Original
 bufr4/0/11/047,11,Vent et turbulence,11047,Vitesse maximale du vent instantané sur 10 minutes,m/s,1,0,12,m/s,1,4,,,Operational,Original
-bufr4/0/11/049,11,Vent et turbulence,11049,Écart type de la direction du vent,degré vrai,0,0,9,degré vrai,2,5,,,Operational,Original
+bufr4/0/11/049,11,Vent et turbulence,11049,Écart type de la direction du vent,degré vrai,0,0,9,degré vrai,0,3,,,Operational,Original
 bufr4/0/11/050,11,Vent et turbulence,11050,Écart type de la vitesse du vent horizontal,m/s,1,0,12,m/s,1,4,,,Operational,Original
 bufr4/0/11/051,11,Vent et turbulence,11051,Écart type de la vitesse du vent vertical,m/s,1,0,8,m/s,1,3,,,Operational,Original
 bufr4/0/11/052,11,Vent et turbulence,11052,Incertitude formelle concernant la vitesse du vent,m/s,2,0,13,m/s,2,5,,,Operational,Original
@@ -47,11 +47,11 @@ bufr4/0/11/061,11,Vent et turbulence,11061,Cisaillement du vent (valeur absolue)
 bufr4/0/11/062,11,Vent et turbulence,11062,Cisaillement du vent (valeur absolue) sur une couche supérieure de 1 km,m/s,1,0,12,m/s,1,4,,,Operational,Original
 bufr4/0/11/070,11,Vent et turbulence,11070,Indicatif de la piste touchée par le cisaillement du vent (y compris ALL),CCITT IA5,0,0,32,Caractère,0,4,,,Operational,Original
 bufr4/0/11/071,11,Vent et turbulence,11071,Flux de quantités de mouvement vertical de turbulence,m2 s-2,3,-128,14,m2 s-2,3,5,,,Operational,Original
-bufr4/0/11/072,11,Vent et turbulence,11072,Flux de la poussée verticale de turbulence,K-1 m s,3,-128,11,K-1 m s,3,4,,,Operational,Original
+bufr4/0/11/072,11,Vent et turbulence,11072,Flux de la poussée verticale de turbulence,K m s-1,3,-128,11,K m s-1,3,4,,,Operational,Original
 bufr4/0/11/073,11,Vent et turbulence,11073,Énergie cinétique de turbulence,m2 s-2,2,-1024,13,m2 s-2,2,4,,,Operational,Original
 bufr4/0/11/074,11,Vent et turbulence,11074,Énergie de dissipation,m2 s-2,2,-1024,10,m2 s-2,2,4,,,Operational,Original
-bufr4/0/11/075,11,Vent et turbulence,11075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),2/3m/s,2,0,8,2/3m/s,2,3,,,Operational,Original
-bufr4/0/11/076,11,Vent et turbulence,11076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),2/3m/s,2,0,8,2/3m/s,2,3,,,Operational,Original
+bufr4/0/11/075,11,Vent et turbulence,11075,Intensité moyenne de la turbulence (taux de dissipation des tourbillons),m2/3 s-1,2,0,8,m2/3 s-1,2,3,,,Operational,Original
+bufr4/0/11/076,11,Vent et turbulence,11076,Intensité maximale de la turbulence (taux de dissipation des tourbillons),m2/3 s-1,2,0,8,m2/3 s-1,2,3,,,Operational,Original
 bufr4/0/11/077,11,Vent et turbulence,11077,Intervalle d'enregistrement ou temps moyen pour établir le taux de dissipation des tourbillons,s,0,0,12,s,0,4,,,Operational,Original
 bufr4/0/11/081,11,Vent et turbulence,11081,Direction du vent à 10 m donnée par modèle,degré vrai,2,0,16,degré vrai,2,5,,,Operational,Original
 bufr4/0/11/082,11,Vent et turbulence,11082,Vitesse du vent à 10 m donnée par modèle,m/s,2,0,14,m/s,2,4,,,Operational,Original

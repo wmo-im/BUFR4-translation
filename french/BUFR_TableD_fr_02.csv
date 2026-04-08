@@ -290,7 +290,7 @@ bufr4/3/02/063/11/302058,02,Séquences météorologiques communes aux données d
 bufr4/3/02/063/12/101000,02,Séquences météorologiques communes aux données de surface,302063,,,101000,Répétition différée de 1 descripteur,,,,Operational,Original
 bufr4/3/02/063/13/031000,02,Séquences météorologiques communes aux données de surface,302063,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
 bufr4/3/02/063/14/302064,02,Séquences météorologiques communes aux données de surface,302063,,,302064,Données sur le vent depuis le navire ou la plate-forme marine,,,,Operational,Original
-bufr4/3/02/064/1/007032,02,Séquences météorologiques communes aux données de surface,302064,(Données sur le vent depuis le navire ou la plate-forme marine),,007032,Hauteur du capteur au-dessus du sol,,,,Operational,Original
+bufr4/3/02/064/1/007032,02,Séquences météorologiques communes aux données de surface,302064,(Données sur le vent depuis le navire ou la plate-forme marine),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/064/2/007033,02,Séquences météorologiques communes aux données de surface,302064,(Données sur le vent depuis le navire ou la plate-forme marine),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/064/3/002002,02,Séquences météorologiques communes aux données de surface,302064,(Données sur le vent depuis le navire ou la plate-forme marine),,002002,Type d'instrument pour la mesure du vent,,,,Operational,Original
 bufr4/3/02/064/4/008021,02,Séquences météorologiques communes aux données de surface,302064,(Données sur le vent depuis le navire ou la plate-forme marine),,008021,Caractéristique temporelle,= 2 Moyenne sur une certaine période,,,Operational,Original
@@ -399,11 +399,11 @@ bufr4/3/02/067/77/020025,02,Séquences météorologiques communes aux données d
 bufr4/3/02/067/78/020026,02,Séquences météorologiques communes aux données de surface,302067,,,020026,Caractéristique de l'obscurcissement,,,,Operational,Original
 bufr4/3/02/067/79/020027,02,Séquences météorologiques communes aux données de surface,302067,,,020027,Apparition du phénomène,,,,Operational,Original
 bufr4/3/02/067/80/020063,02,Séquences météorologiques communes aux données de surface,302067,,,020063,Phénomènes spéciaux,,,,Operational,Original
-bufr4/3/02/069/1/007032,02,Séquences météorologiques communes aux données de surface,302069,(Données sur la visibilité),,007032,Hauteur du capteur au-dessus du sol,,,,Operational,Original
+bufr4/3/02/069/1/007032,02,Séquences météorologiques communes aux données de surface,302069,(Données sur la visibilité),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/069/2/007033,02,Séquences météorologiques communes aux données de surface,302069,(Données sur la visibilité),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/069/3/033041,02,Séquences météorologiques communes aux données de surface,302069,(Données sur la visibilité),,033041,Caractéristique de la valeur suivante,,,,Operational,Original
 bufr4/3/02/069/4/020001,02,Séquences météorologiques communes aux données de surface,302069,(Données sur la visibilité),,020001,Visibilité horizontale,,,,Operational,Original
-bufr4/3/02/070/1/007032,02,Séquences météorologiques communes aux données de surface,302070,(Données sur le vent),,007032,Hauteur du capteur au-dessus du sol,,,,Operational,Original
+bufr4/3/02/070/1/007032,02,Séquences météorologiques communes aux données de surface,302070,(Données sur le vent),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/070/2/007033,02,Séquences météorologiques communes aux données de surface,302070,(Données sur le vent),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/070/3/011001,02,Séquences météorologiques communes aux données de surface,302070,(Données sur le vent),,011001,Direction du vent,,,,Operational,Original
 bufr4/3/02/070/4/011002,02,Séquences météorologiques communes aux données de surface,302070,(Données sur le vent),,011002,Vitesse du vent,,,,Operational,Original
@@ -425,7 +425,7 @@ bufr4/3/02/071/11/011041,02,Séquences météorologiques communes aux données d
 bufr4/3/02/071/12/004025,02,Séquences météorologiques communes aux données de surface,302071,,,004025,Période ou décalage dans le temps,=–10 minutes,,,Operational,Original
 bufr4/3/02/071/13/011016,02,Séquences météorologiques communes aux données de surface,302071,,,011016,Direction du vent extrême dans le sens contraire des aiguilles d'une montre,,,,Operational,Original
 bufr4/3/02/071/14/011017,02,Séquences météorologiques communes aux données de surface,302071,,,011017,Direction du vent extrême dans le sens des aiguilles d'une montre (vent variable),,,,Operational,Original
-bufr4/3/02/072/1/007032,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,007032,Hauteur du capteur au-dessus du sol,,,,Operational,Original
+bufr4/3/02/072/1/007032,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/072/2/007033,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/072/3/012101,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,012101,Température/température de l'air,Échelle: 2,,,Operational,Original
 bufr4/3/02/072/4/012103,02,Séquences météorologiques communes aux données de surface,302072,(Données sur la température et l'humidité),,012103,Point de rosée,Échelle: 2,,,Operational,Original
@@ -453,7 +453,7 @@ bufr4/3/02/076/4/020023,02,Séquences météorologiques communes aux données de
 bufr4/3/02/076/5/020024,02,Séquences météorologiques communes aux données de surface,302076,"(Précipitations, obscurcissement et autres phénomènes)",,020024,Intensité du phénomène,,,,Operational,Original
 bufr4/3/02/076/6/020025,02,Séquences météorologiques communes aux données de surface,302076,"(Précipitations, obscurcissement et autres phénomènes)",,020025,Obscurcissement,,,,Operational,Original
 bufr4/3/02/076/7/020026,02,Séquences météorologiques communes aux données de surface,302076,"(Précipitations, obscurcissement et autres phénomènes)",,020026,Caractéristique de l'obscurcissement,,,,Operational,Original
-bufr4/3/02/077/1/007032,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,007032,Hauteur du capteur au-dessus du sol,,,,Operational,Original
+bufr4/3/02/077/1/007032,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),,,,Operational,Original
 bufr4/3/02/077/2/007033,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,007033,Hauteur du capteur au-dessus de la surface de l'eau,,,,Operational,Original
 bufr4/3/02/077/3/004025,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,004025,Période ou décalage dans le temps,,,,Operational,Original
 bufr4/3/02/077/4/012111,02,Séquences météorologiques communes aux données de surface,302077,(Données sur les extrêmes de température),,012111,"Température maximale, à une hauteur et sur une période déterminées",Échelle: 2,,,Operational,Original
@@ -574,7 +574,7 @@ bufr4/3/02/085/40/002178,02,Séquences météorologiques communes aux données d
 bufr4/3/02/085/41/102005,02,Séquences météorologiques communes aux données de surface,302085,,,102005,Répéter 2 descripteurs 5 fois,,,,Operational,Original
 bufr4/3/02/085/42/004024,02,Séquences météorologiques communes aux données de surface,302085,,,004024,Période ou décalage dans le temps,"=–1 heure pour la première répétition, =–3,–6,–12 et–24 heures pour les autres répétitions",,,Operational,Original
 bufr4/3/02/085/43/013011,02,Séquences météorologiques communes aux données de surface,302085,,,013011,Précipitations totales/valeur totale de l'équivalent en eau,,,,Operational,Original
-bufr4/3/02/085/44/007032,02,Séquences météorologiques communes aux données de surface,302085,,,007032,Hauteur du capteur au-dessus du sol,Mis à valeur,,,Operational,Original
+bufr4/3/02/085/44/007032,02,Séquences météorologiques communes aux données de surface,302085,,,007032,Hauteur du capteur au-dessus du sol (ou du pont sur une plate-forme marine),Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/02/085/45/103000,02,Séquences météorologiques communes aux données de surface,302085,,,103000,Répétition différée de 3 descripteurs,,,,Operational,Original
 bufr4/3/02/085/46/031000,02,Séquences météorologiques communes aux données de surface,302085,,,031000,Facteur de répétition légèrement différée du descripteur,,,,Operational,Original
 bufr4/3/02/085/47/002185,02,Séquences météorologiques communes aux données de surface,302085,,,002185,Méthode de mesure de l'évaporation,,,,Operational,Original

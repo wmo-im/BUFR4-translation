@@ -9,7 +9,7 @@ bufr4/0/14/013,14,Rayonnement et luminance énergétique,014013,"Bilan du rayonn
 bufr4/0/14/014,14,Rayonnement et luminance énergétique,014014,"Bilan du rayonnement de courte longueur d'onde, intégré sur une période déterminée",J m-2,-3,-65536,17,J m-2,-3,5,,,Operational,Original
 bufr4/0/14/015,14,Rayonnement et luminance énergétique,014015,"Bilan du rayonnement, intégré sur 24 heures",J m-2,-4,-16384,15,J m-2,-4,5,,,Operational,Original
 bufr4/0/14/016,14,Rayonnement et luminance énergétique,014016,"Bilan du rayonnement, intégré sur une période déterminée",J m-2,-4,-16384,15,J m-2,-4,5,,,Operational,Original
-bufr4/0/14/017,14,Rayonnement et luminance énergétique,014017,Rayonnement instantané de grande longueur d'onde,W m,0,-512,10,W m,0,4,,,Operational,Original
+bufr4/0/14/017,14,Rayonnement et luminance énergétique,014017,Rayonnement instantané de grande longueur d'onde,W m-2,0,-512,10,W m-2,0,4,,,Operational,Original
 bufr4/0/14/018,14,Rayonnement et luminance énergétique,014018,Rayonnement instantané de courte longueur d'onde,W m-2,0,-2048,12,W m-2,0,4,,,Operational,Original
 bufr4/0/14/019,14,Rayonnement et luminance énergétique,014019,Albédo de la surface,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/14/020,14,Rayonnement et luminance énergétique,014020,"Rayonnement solaire global, intégré sur 24 heures",J m-2,-4,0,15,J m-2,-4,5,,,Operational,Original
@@ -26,7 +26,7 @@ bufr4/0/14/030,14,Rayonnement et luminance énergétique,014030,"Rayonnement sol
 bufr4/0/14/031,14,Rayonnement et luminance énergétique,014031,Insolation totale,min,0,0,11,min,0,4,,,Operational,Original
 bufr4/0/14/032,14,Rayonnement et luminance énergétique,014032,Insolation totale,h,0,0,10,h,0,4,,,Operational,Original
 bufr4/0/14/033,14,Rayonnement et luminance énergétique,014033,Insolation totale,%,0,0,9,%,0,3,,,Operational,Original
-bufr4/0/14/034,14,Rayonnement et luminance énergétique,014034,Insolation sur une période déterminée,min,0,0,11,min,0,1,,,Operational,Original
+bufr4/0/14/034,14,Rayonnement et luminance énergétique,014034,Insolation sur une période déterminée,min,0,0,11,min,0,4,,,Operational,Original
 bufr4/0/14/035,14,Rayonnement et luminance énergétique,014035,Flux de rayonnement solaire,W m-2,1,0,14,W m-2,1,5,,,Operational,Original
 bufr4/0/14/042,14,Rayonnement et luminance énergétique,014042,Facteur de réflexion bidirectionnelle,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/14/043,14,Rayonnement et luminance énergétique,014043,Luminance énergétique dans le canal,W m-2 sr-1 um-1,4,0,23,W m-2 sr-1 um-1,4,7,(voir Note 7),35,Operational,Original

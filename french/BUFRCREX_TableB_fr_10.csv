@@ -4,7 +4,7 @@ bufr4/0/10/002,10,Position d'éléments autres que des coordonnées (verticale),
 bufr4/0/10/003,10,Position d'éléments autres que des coordonnées (verticale),010003,Géopotentiel,m2 s-2,-1,-400,17,m2 s-2,-1,6,,,Operational,Original
 bufr4/0/10/004,10,Position d'éléments autres que des coordonnées (verticale),010004,Pression,Pa,-1,0,14,Pa,-1,5,,,Operational,Original
 bufr4/0/10/007,10,Position d'éléments autres que des coordonnées (verticale),010007,Hauteur,m,0,-1000,17,m,0,6,,,Operational,Original
-bufr4/0/10/008,10,Position d'éléments autres que des coordonnées (verticale),010008,Géopotentiel,m2 s-2,0,-10000,20,m2 s-2,-1,6,,,Operational,Original
+bufr4/0/10/008,10,Position d'éléments autres que des coordonnées (verticale),010008,Géopotentiel,m2 s-2,0,-10000,20,m2 s-2,0,7,,,Operational,Original
 bufr4/0/10/009,10,Position d'éléments autres que des coordonnées (verticale),010009,Hauteur géopotentielle,gpm,0,-1000,17,gpm,0,5,,,Operational,Original
 bufr4/0/10/010,10,Position d'éléments autres que des coordonnées (verticale),010010,Pression minimale réduite au niveau moyen des mers,Pa,-1,0,14,Pa,-1,5,,,Operational,Original
 bufr4/0/10/011,10,Position d'éléments autres que des coordonnées (verticale),010011,Pression maximale réduite au niveau moyen des mers,Pa,-1,0,14,Pa,-1,5,,,Operational,Original

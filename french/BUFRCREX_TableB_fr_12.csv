@@ -2,20 +2,20 @@ Id,ClassNo,ClassName_fr,FXY,ElementName_fr,BUFR_Unit_fr,BUFR_Scale,BUFR_Referenc
 bufr4/0/12/001,12,Température,012001,Température/température de l'air,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/002,12,Température,012002,Température du thermomètre humide,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/003,12,Température,012003,Température du point de rosée,K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/004,12,Température,012004,Température de l'air à m2,K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/005,12,Température,012005,Température du thermomètre humide à m2,K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/006,12,Température,012006,Température du point de rosée à m2,K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/004,12,Température,012004,Température de l'air à 2 m,K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/005,12,Température,012005,Température du thermomètre humide à 2 m,K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/006,12,Température,012006,Température du point de rosée à 2 m,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/007,12,Température,012007,Température virtuelle,K,1,0,12,°C,1,3,,,Operational,Original
 bufr4/0/12/008,12,Température,012008,Incertitude relative à la température virtuelle,K,1,0,12,°C,1,4,,,Operational,Original
 bufr4/0/12/011,12,Température,012011,"Température maximale, à une hauteur et sur une période déterminées",K,1,0,12,°C,1,3,(voir Note 1),177,Operational,Original
 bufr4/0/12/012,12,Température,012012,"Température minimale, à une hauteur et sur une période déterminées",K,1,0,12,°C,1,3,(voir Note 1),177,Operational,Original
 bufr4/0/12/013,12,Température,012013,"Température minimale au sol, au cours des 12 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/014,12,Température,012014,"Température maximale à m2, au cours des 12 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/015,12,Température,012015,"Température minimale à m2, au cours des 12 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/016,12,Température,012016,"Température maximale à m2, au cours des 24 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/017,12,Température,012017,"Température minimale à m2, au cours des 24 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
-bufr4/0/12/021,12,Température,012021,Température maximale à m2,K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/022,12,Température,012022,Température minimale à m2,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/014,12,Température,012014,"Température maximale à 2 m, au cours des 12 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/015,12,Température,012015,"Température minimale à 2 m, au cours des 12 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/016,12,Température,012016,"Température maximale à 2 m, au cours des 24 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/017,12,Température,012017,"Température minimale à 2 m, au cours des 24 heures précédentes",K,1,0,12,°C,1,3,,,Operational,Original
+bufr4/0/12/021,12,Température,012021,Température maximale à 2 m,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/022,12,Température,012022,Température minimale à 2 m,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/023,12,Température,012023,Température,°C,0,-99,8,°C,0,2,,,Operational,Original
 bufr4/0/12/024,12,Température,012024,Température du point de rosée,°C,0,-99,8,°C,0,2,,,Operational,Original
 bufr4/0/12/030,12,Température,012030,Température du sol,K,1,0,12,°C,1,3,,,Operational,Original
@@ -33,7 +33,7 @@ bufr4/0/12/066,12,Température,012066,Température d'antenne,K,2,0,16,°C,2,5,,,
 bufr4/0/12/070,12,Température,012070,Température de la charge chaude,K,2,0,16,K,2,5,,,Operational,Original
 bufr4/0/12/071,12,Température,012071,Température la plus basse de l'amas,K,1,0,12,K,1,4,,,Operational,Original
 bufr4/0/12/072,12,Température,012072,Luminance énergétique,W m-2 sr-1,6,0,31,W m-2 sr-1,6,9,,,Operational,Original
-bufr4/0/12/075,12,Température,012075,Luminance énergétique spectrale,W m-3 sr-1-3,,0,16,W m-3 sr-1,-3,5,,,Operational,Original
+bufr4/0/12/075,12,Température,012075,Luminance énergétique spectrale,W m-3 sr-1,-3,0,16,W m-3 sr-1,-3,5,,,Operational,Original
 bufr4/0/12/076,12,Température,012076,Luminance énergétique,W m-2 sr-1,3,0,16,W m-2 sr-1,3,5,(voir Note 2),52,Operational,Original
 bufr4/0/12/080,12,Température,012080,Partie réelle de la température de luminance,K,2,-10000,16,K,2,5,,,Operational,Original
 bufr4/0/12/081,12,Température,012081,Partie imaginaire de la température de luminance,K,2,-10000,16,K,2,5,,,Operational,Original
@@ -41,27 +41,27 @@ bufr4/0/12/082,12,Température,012082,Précision radiométrique des pixels,K,2,0
 bufr4/0/12/101,12,Température,012101,Température/température de l'air,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/102,12,Température,012102,Température du thermomètre mouillé,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/103,12,Température,012103,Point de rosée,K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/104,12,Température,012104,Température de l'air à m2,K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/105,12,Température,012105,Température du thermomètre mouillé à m2,K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/106,12,Température,012106,Température du point de rosée à m2,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/104,12,Température,012104,Température de l'air à 2 m,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/105,12,Température,012105,Température du thermomètre mouillé à 2 m,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/106,12,Température,012106,Température du point de rosée à 2 m,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/107,12,Température,012107,Température virtuelle,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/111,12,Température,012111,"Température maximale, à une hauteur et sur une période déterminées",K,2,0,16,°C,2,4,(voir Note 1),177,Operational,Original
 bufr4/0/12/112,12,Température,012112,"Température minimale, à une hauteur et sur une période déterminées",K,2,0,16,°C,2,4,(voir Note 1),177,Operational,Original
 bufr4/0/12/113,12,Température,012113,"Température minimale au sol, au cours des 12 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/114,12,Température,012114,"Température maximale à m2, au cours des 12 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/115,12,Température,012115,"Température minimale à m2, au cours des 12 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/116,12,Température,012116,"Température maximale à m2, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/117,12,Température,012117,"Température minimale à m2, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/114,12,Température,012114,"Température maximale à 2 m, au cours des 12 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/115,12,Température,012115,"Température minimale à 2 m, au cours des 12 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/116,12,Température,012116,"Température maximale à 2 m, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/117,12,Température,012117,"Température minimale à 2 m, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/118,12,Température,012118,"Température maximale à une hauteur déterminée, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/119,12,Température,012119,"Température minimale à une hauteur déterminée, au cours des 24 heures précédentes",K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/120,12,Température,012120,Température au sol,K,2,0,16,˚C,2,4,,,Operational,Original
+bufr4/0/12/120,12,Température,012120,Température au sol,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/121,12,Température,012121,Température minimale au sol,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/122,12,Température,012122,Température minimale au sol la nuit précédente,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/128,12,Température,012128,Température à la surface de la route,K,2,0,16,°C,2,5,,,Operational,Original
 bufr4/0/12/129,12,Température,012129,Température sous la surface de la route,K,2,0,16,°C,2,5,,,Operational,Original
 bufr4/0/12/130,12,Température,012130,Température du sol,K,2,0,16,°C,2,4,,,Operational,Original
-bufr4/0/12/131,12,Température,012131,Température de la neige,K,2,0,16,˚C,2,4,,,Operational,Original
-bufr4/0/12/132,12,Température,012132,Température à la surface de la glace,K,2,0,16,˚C,2,4,,,Operational,Original
+bufr4/0/12/131,12,Température,012131,Température de la neige,K,2,0,16,°C,2,4,,,Operational,Original
+bufr4/0/12/132,12,Température,012132,Température à la surface de la glace,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/151,12,Température,012151,Écart-type de la température moyenne journalière,K,2,0,12,°C,2,4,,,Operational,Original
 bufr4/0/12/152,12,Température,012152,Température moyenne journalière la plus élevée,K,2,0,16,°C,2,4,,,Operational,Original
 bufr4/0/12/153,12,Température,012153,Température moyenne journalière la plus basse,K,2,0,16,°C,2,4,,,Operational,Original

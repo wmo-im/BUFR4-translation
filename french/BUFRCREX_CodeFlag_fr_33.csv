@@ -88,8 +88,8 @@ bufr4/0/33/024/7,033024,Repère de qualité de l'altitude de la station (pour le
 bufr4/0/33/024/8,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),8,Médiocre – supérieure à 60 pieds,,,,,Operational,Original
 bufr4/0/33/024/9-14,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),9-14,En réserve,,,,,Operational,Original
 bufr4/0/33/024/15,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),15,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/025/0,033025,Indicateur de valeurs ACARS interpolées,0,"Temps interpolé, latitude et longitude transmises Temps transmis, latitude et longitude interpolées",,,,,Operational,Original
-bufr4/0/33/025/1,033025,Indicateur de valeurs ACARS interpolées,1,"Temps transmis, latitude et longitude interpolées Temps, latitude et longitude interpolés",,,,,Operational,Original
+bufr4/0/33/025/0,033025,Indicateur de valeurs ACARS interpolées,0,"Temps interpolé, latitude et longitude transmises",,,,,Operational,Original
+bufr4/0/33/025/1,033025,Indicateur de valeurs ACARS interpolées,1,"Temps transmis, latitude et longitude interpolées",,,,,Operational,Original
 bufr4/0/33/025/2,033025,Indicateur de valeurs ACARS interpolées,2,"Temps, latitude et longitude interpolés",,,,,Operational,Original
 bufr4/0/33/025/3,033025,Indicateur de valeurs ACARS interpolées,3,"Temps, latitude et longitude transmis",,,,,Operational,Original
 bufr4/0/33/025/4-6,033025,Indicateur de valeurs ACARS interpolées,4-6,En réserve,,,,,Operational,Original
@@ -139,7 +139,7 @@ bufr4/0/33/031/2,033031,Indicateurs de qualité de la ligne de balayage du sonde
 bufr4/0/33/031/3,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,3,Ce relevé marque le début d'une séquence qui est en contradiction avec les heures précédentes (discontinuité dans le temps). Cela peut être lié à une mise à jour de l'horloge du satellite (voir les indicateurs d'état pour la ligne de balayage du sondeur ATOVS),,,,,Operational,Original
 bufr4/0/33/031/4,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,4,Début d'une séquence qui réitère apparemment des heures de balayage précédemment acceptées,,,,,Operational,Original
 bufr4/0/33/031/5,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,5,La ligne de balayage n'a pas été étalonnée à cause d'une heure incorrecte,,,,,Operational,Original
-bufr4/0/33/031/6,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,6,L'étalonnage de la ligne de balayage repose sur un nombre de lignes inférieur au nombre souhaité à cause de la proximité du début ou de la fin d'une séquence de données ou de données man quantes,,,,,Operational,Original
+bufr4/0/33/031/6,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,6,L'étalonnage de la ligne de balayage repose sur un nombre de lignes inférieur au nombre souhaité à cause de la proximité du début ou de la fin d'une séquence de données ou de données manquantes,,,,,Operational,Original
 bufr4/0/33/031/7,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,7,La ligne de balayage n'a pas été étalonnée car les données du thermomètre à résistance de platine étaient mauvaises ou insuffisantes,,,,,Operational,Original
 bufr4/0/33/031/8,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,8,La ligne de balayage a été étalonnée avec des données marginales du thermomètre à résistance de platine,,,,,Operational,Original
 bufr4/0/33/031/9,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,9,Certains canaux n'ont pas été étalonnés pour ce balayage,,,,,Operational,Original
@@ -147,7 +147,7 @@ bufr4/0/33/031/10,033031,Indicateurs de qualité de la ligne de balayage du sond
 bufr4/0/33/031/11,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,11,Étalonnage suspect à cause d'une erreur d'orientation d'antenne vers l'espace,,,,,Operational,Original
 bufr4/0/33/031/12,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,12,Étalonnage suspect à cause d'une erreur d'orientation d'antenne sur le corps noir,,,,,Operational,Original
 bufr4/0/33/031/13,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,13,Pas de localisation géographique à cause d'une heure incorrecte,,,,,Operational,Original
-bufr4/0/33/031/14,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,14,Localisation géographique suspecte à cause d'un code horaire douteux (se référer aux bits cor respondant à l'indicatif de défaut de l'heure),,,,,Operational,Original
+bufr4/0/33/031/14,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,14,Localisation géographique suspecte à cause d'un code horaire douteux (se référer aux bits correspondant à l'indicatif de défaut de l'heure),,,,,Operational,Original
 bufr4/0/33/031/15,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,15,Localisation géographique suspecte – ne satisfait que partiellement au contrôle de vraisemblance,,,,,Operational,Original
 bufr4/0/33/031/16,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,16,Localisation géographique suspecte – ne satisfait pas au contrôle de vraisemblance,,,,,Operational,Original
 bufr4/0/33/031/17,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,17,Localisation géographique suspecte à cause d'un contrôle de l'orientation de l'antenne,,,,,Operational,Original
@@ -217,14 +217,14 @@ bufr4/0/33/039/2,033039,Indicateurs de qualité pour les données d'occultation 
 bufr4/0/33/039/3,033039,Indicateurs de qualité pour les données d'occultation radio,3,Descripteur d'occultation ascendante,,,,,Operational,Original
 bufr4/0/33/039/4,033039,Indicateurs de qualité pour les données d'occultation radio,4,Traitement de phase trop importante non nominal,,,,,Operational,Original
 bufr4/0/33/039/5,033039,Indicateurs de qualité pour les données d'occultation radio,5,Traitement de l'angle de courbure non nominal,,,,,Operational,Original
-bufr4/0/33/039/6,033039,Indicateurs de qualité pour les données d'occultation radio,6,Traitement de la réfractivité non nominal Traitement des phénomènes météorologiques non nominal,,,,,Operational,Original
+bufr4/0/33/039/6,033039,Indicateurs de qualité pour les données d'occultation radio,6,Traitement de la réfractivité non nominal,,,,,Operational,Original
 bufr4/0/33/039/7,033039,Indicateurs de qualité pour les données d'occultation radio,7,Traitement des phénomènes météorologiques non nominal,,,,,Operational,Original
 bufr4/0/33/039/8-13,033039,Indicateurs de qualité pour les données d'occultation radio,8-13,En réserve,,,,,Operational,Original
 bufr4/0/33/039/14,033039,Indicateurs de qualité pour les données d'occultation radio,14,Profil de fond non nominal,,,,,Operational,Original
 bufr4/0/33/039/15,033039,Indicateurs de qualité pour les données d'occultation radio,15,Profil de fond inclus (c'est-à-dire non extrait),,,,,Operational,Original
 bufr4/0/33/039/All-16,033039,Indicateurs de qualité pour les données d'occultation radio,All 16,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/041/0,033041,Caractéristique de la valeur suivante,0,La valeur suivante est la valeur vraie,,,,,Operational,Original
-bufr4/0/33/041/1,033041,Caractéristique de la valeur suivante,1,La valeur suivante est plus élevée que la valeur vraie (la mesure atteint la limite inférieure de l'instrument,,,,,Operational,Original
+bufr4/0/33/041/1,033041,Caractéristique de la valeur suivante,1,La valeur suivante est plus élevée que la valeur vraie (la mesure atteint la limite inférieure de l'instrument),,,,,Operational,Original
 bufr4/0/33/041/2,033041,Caractéristique de la valeur suivante,2,La valeur suivante est inférieure à la valeur vraie (la mesure atteint la limite supérieure de l'instrument),,,,,Operational,Original
 bufr4/0/33/041/3,033041,Caractéristique de la valeur suivante,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/042/0,033042,Type de limite représentée par la valeur qui suit,0,Limite inférieure exclue (>) ≥,,,,,Operational,Original
@@ -385,7 +385,7 @@ bufr4/0/33/077/12,033077,Indicateur de qualité du champ de vision,12,La compens
 bufr4/0/33/077/13-18,033077,Indicateur de qualité du champ de vision,13-18,En réserve,,,,,Operational,Original
 bufr4/0/33/077/All-19,033077,Indicateur de qualité du champ de vision,All 19,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/078/0,033078,Qualité de la localisation géographique,0,Nominale – altitude et éphémérides disponibles,,,,,Operational,Original
-bufr4/0/33/078/1,033078,Qualité de la localisation géographique,1,Manque inférieur à un petit blanc dans les données d'altitude et d'éphémérides Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données,,,,,Operational,Original
+bufr4/0/33/078/1,033078,Qualité de la localisation géographique,1,Manque inférieur à un petit blanc dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/078/2,033078,Qualité de la localisation géographique,2,Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/078/3,033078,Qualité de la localisation géographique,3,Manque supérieur à une séparation de granules dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/078/4-14,033078,Qualité de la localisation géographique,4-14,En réserve,,,,,Operational,Original
@@ -402,9 +402,9 @@ bufr4/0/33/079/13,033079,Indicateur de qualité au niveau des granules,13,Échec
 bufr4/0/33/079/14,033079,Indicateur de qualité au niveau des granules,14,Échec des vérifications d'intégrité nº 64 à 70,,,,,Operational,Original
 bufr4/0/33/079/15,033079,Indicateur de qualité au niveau des granules,15,Correction quadratique appliquée à la fonction de transfert radiométrique pour corriger la non-linéarité,,,,,Operational,Original
 bufr4/0/33/079/All-16,033079,Indicateur de qualité au niveau des granules,All 16,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/080/1-6,033080,Indicateur de qualité au niveau du balayage,1-6,En réserve Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul,,,,,Operational,Original
+bufr4/0/33/080/1-6,033080,Indicateur de qualité au niveau du balayage,1-6,En réserve,,,,,Operational,Original
 bufr4/0/33/080/7,033080,Indicateur de qualité au niveau du balayage,7,Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bande K/Ka et V (KAV),,,,,Operational,Original
-bufr4/0/33/080/8,033080,Indicateur de qualité au niveau du balayage,8,Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bande WG Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul,,,,,Operational,Original
+bufr4/0/33/080/8,033080,Indicateur de qualité au niveau du balayage,8,Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bande WG,,,,,Operational,Original
 bufr4/0/33/080/9,033080,Indicateur de qualité au niveau du balayage,9,"Condition découlant d'une erreur de division par zéro ou non-convergence de la boucle de calcul pour le thermomètre à résistance de platine – bloc des récepteurs en bande K/Ka, V, W, G, calcul de la température K",,,,,Operational,Original
 bufr4/0/33/080/10,033080,Indicateur de qualité au niveau du balayage,10,État hors limites pour le thermomètre à résistance de platine – bande K/Ka et V,,,,,Operational,Original
 bufr4/0/33/080/11,033080,Indicateur de qualité au niveau du balayage,11,État hors limites pour le thermomètre à résistance de platine – bande WG,,,,,Operational,Original
@@ -429,12 +429,12 @@ bufr4/0/33/081/10,033081,Indicateur de qualité des données du canal,10,Manque 
 bufr4/0/33/081/11,033081,Indicateur de qualité des données du canal,11,Manque d'uniformité de la visée du corps noir,,,,,Operational,Original
 bufr4/0/33/081/All-12,033081,Indicateur de qualité des données du canal,All 12,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/082/1-5,033082,Indicateur de qualité de la localisation géographique,1-5,En réserve,,,,,Operational,Original
-bufr4/0/33/082/6,033082,Indicateur de qualité de la localisation géographique,6,Dans l'anomalie de l'Atlantique Sud Donnée initiale invalide (indique que l'une quelconque des données initiales d'altitude ou,,,,,Operational,Original
+bufr4/0/33/082/6,033082,Indicateur de qualité de la localisation géographique,6,Dans l'anomalie de l'Atlantique Sud,,,,,Operational,Original
 bufr4/0/33/082/7,033082,Indicateur de qualité de la localisation géographique,7,Donnée initiale invalide (indique que l'une quelconque des données initiales d'altitude ou d'éphémérides provenant de l'engin spatial est invalide),,,,,Operational,Original
 bufr4/0/33/082/8,033082,Indicateur de qualité de la localisation géographique,8,"Mauvais pointage (indique que la ligne de visée du capteur ne coupe pas le géoïde, est proche du limbe, présente des angles invalides ou autre condition similaire)",,,,,Operational,Original
 bufr4/0/33/082/9,033082,Indicateur de qualité de la localisation géographique,9,Mauvais terrain (indique que l'algorithme n'a pu obtenir une valeur de terrain valide),,,,,Operational,Original
 bufr4/0/33/082/10,033082,Indicateur de qualité de la localisation géographique,10,Angles solaires invalides,,,,,Operational,Original
-bufr4/0/33/082/11,033082,Indicateur de qualité de la localisation géographique,11,Manque inférieur à un petit blanc dans les données d'altitude et d'éphémérides Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données,,,,,Operational,Original
+bufr4/0/33/082/11,033082,Indicateur de qualité de la localisation géographique,11,Manque inférieur à un petit blanc dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/082/12,033082,Indicateur de qualité de la localisation géographique,12,Manque supérieur à un petit blanc mais inférieur à une séparation de granules dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/082/13,033082,Indicateur de qualité de la localisation géographique,13,Manque supérieur à une séparation de granules dans les données d'altitude et d'éphémérides,,,,,Operational,Original
 bufr4/0/33/082/14,033082,Indicateur de qualité de la localisation géographique,14,Le nombre de valeurs des impulsions de l'encodeur par temps delta ne correspond pas au chiffre attendu,,,,,Operational,Original
@@ -503,12 +503,12 @@ bufr4/0/33/088/7,033088,Indicateur de qualité de la colonne totale d'ozone,7,R�
 bufr4/0/33/088/8,033088,Indicateur de qualité de la colonne totale d'ozone,8,Limite de l'indice d'aérosol dépassée,,,,,Operational,Original
 bufr4/0/33/088/9,033088,Indicateur de qualité de la colonne totale d'ozone,9,"Éclipse solaire (la totalité ou une partie du champ de vision instantanée (IFOV) est affectée par une éclipse solaire, l'ombre ou la pénombre)",,,,,Operational,Original
 bufr4/0/33/088/10,033088,Indicateur de qualité de la colonne totale d'ozone,10,Reflets du soleil dans le champ de vision instantanée,,,,,Operational,Original
-bufr4/0/33/088/11,033088,Indicateur de qualité de la colonne totale d'ozone,11,Surface de neige ou de glace dans le champ de vision instantanée,≥,,,,Operational,Original
-bufr4/0/33/088/12,033088,Indicateur de qualité de la colonne totale d'ozone,12,Distance zénithale du soleil en condition d'exclusion (nuit) (distance zénithale du soleil,88 degrés) ≤,,,,Operational,Original
-bufr4/0/33/088/13,033088,Indicateur de qualité de la colonne totale d'ozone,13,Distance zénithale du soleil en condition dégradée (80 degrés < 88 degrés),distance zénithale du soleil,,,,Operational,Original
-bufr4/0/33/088/14,033088,Indicateur de qualité de la colonne totale d'ozone,14,Indice de SO > 6 unités Dobson (condition dégradée) 2,,,,,Operational,Original
+bufr4/0/33/088/11,033088,Indicateur de qualité de la colonne totale d'ozone,11,Surface de neige ou de glace dans le champ de vision instantanée,,,,,Operational,Original
+bufr4/0/33/088/12,033088,Indicateur de qualité de la colonne totale d'ozone,12,Distance zénithale du soleil en condition d'exclusion (nuit) (distance zénithale du soleil ≥ 88 degrés),,,,,Operational,Original
+bufr4/0/33/088/13,033088,Indicateur de qualité de la colonne totale d'ozone,13,Distance zénithale du soleil en condition dégradée (80 degrés ≤ distance zénithale du soleil < 88 degrés),,,,,Operational,Original
+bufr4/0/33/088/14,033088,Indicateur de qualité de la colonne totale d'ozone,14,Indice de SO2 > 6 unités Dobson (condition dégradée),,,,,Operational,Original
 bufr4/0/33/088/15,033088,Indicateur de qualité de la colonne totale d'ozone,15,Les résidus ne sont pas homogènes (indique si les résidus des 22 longueurs d'onde sont homogènes),,,,,Operational,Original
-bufr4/0/33/088/16,033088,Indicateur de qualité de la colonne totale d'ozone,16,La sélection d'O triplet n'est pas homogène dans le produit de l'extraction (homogénéité de 3 l'ozone triplet),,,,,Operational,Original
+bufr4/0/33/088/16,033088,Indicateur de qualité de la colonne totale d'ozone,16,La sélection d'O3 triplet n'est pas homogène dans le produit de l'extraction (homogénéité de l'ozone triplet),,,,,Operational,Original
 bufr4/0/33/088/17,033088,Indicateur de qualité de la colonne totale d'ozone,17,Mauvaise qualité des données d'entrée,,,,,Operational,Original
 bufr4/0/33/088/All-18,033088,Indicateur de qualité de la colonne totale d'ozone,All 18,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/092/1,033092,Indicateur de qualité des données sur l'océan dans une bande précise,1,Altimètre en fonction,,,,,Operational,Original

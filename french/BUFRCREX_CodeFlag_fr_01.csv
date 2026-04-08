@@ -92,7 +92,7 @@ bufr4/0/01/036/840005,1036,Organisme chargé de la mise en œuvre de la plate-fo
 bufr4/0/01/036/840006,1036,Organisme chargé de la mise en œuvre de la plate-forme d'observation (Les trois premiers chiffres représentent le code ISO du pays),840006,"États-Unis, Naval Oceanographic Office",,,,,Operational,Original
 bufr4/0/01/036/840007-1048574,1036,Organisme chargé de la mise en œuvre de la plate-forme d'observation (Les trois premiers chiffres représentent le code ISO du pays),840007-1048574,En réserve,,,,,Operational,Original
 bufr4/0/01/036/1048575,1036,Organisme chargé de la mise en œuvre de la plate-forme d'observation (Les trois premiers chiffres représentent le code ISO du pays),1048575,Valeur manquante,,,,,Operational,Original
-bufr4/0/01/038/0,1038,Source des données sur la fraction de glace de mer,0,Aucun jeu de données sur les glaces de mer 1992),,,,,Operational,Original
+bufr4/0/01/038/0,1038,Source des données sur la fraction de glace de mer,0,Aucun jeu de données sur les glaces de mer,,,,,Operational,Original
 bufr4/0/01/038/1,1038,Source des données sur la fraction de glace de mer,1,Produits SSM/I du NSIDC (Cavalieri et al. 1992),,,,,Operational,Original
 bufr4/0/01/038/2,1038,Source des données sur la fraction de glace de mer,2,AMSR-E,,,,,Operational,Original
 bufr4/0/01/038/3,1038,Source des données sur la fraction de glace de mer,3,CEPMMT,,,,,Operational,Original
@@ -324,7 +324,7 @@ bufr4/0/01/101/635,1101,Indicateur d'identification d'État,635,Portugal (CR VI)
 bufr4/0/01/101/636,1101,Indicateur d'identification d'État,636,République de Moldova,,,,,Operational,Original
 bufr4/0/01/101/637,1101,Indicateur d'identification d'État,637,Roumanie,,,,,Operational,Original
 bufr4/0/01/101/638,1101,Indicateur d'identification d'État,638,Fédération de Russie (CR VI),,,,,Operational,Original
-bufr4/0/01/101/639,1101,Indicateur d'identification d'État,639,Serbie Slovaquie,,,,,Operational,Original
+bufr4/0/01/101/639,1101,Indicateur d'identification d'État,639,Serbie,,,,,Operational,Original
 bufr4/0/01/101/640,1101,Indicateur d'identification d'État,640,Slovaquie,,,,,Operational,Original
 bufr4/0/01/101/641,1101,Indicateur d'identification d'État,641,Slovénie,,,,,Operational,Original
 bufr4/0/01/101/642,1101,Indicateur d'identification d'État,642,Espagne (CR VI),,,,,Operational,Original
@@ -345,7 +345,7 @@ bufr4/0/01/150/2,1150,Système de coordonnées de référence,2,"NAD83, défini 
 bufr4/0/01/150/3,1150,Système de coordonnées de référence,3,"DHDN, défini par l'EPSG:4314",,,,,Operational,Original
 bufr4/0/01/150/4,1150,Système de coordonnées de référence,4,"Donnée ellipsoïdale prenant pour méridien d'origine le méridien international de référence et pour pôle d'origine le pôle international de référence et reposant sur le Système international de référence terrestre (ITRS). Le Service international de la rotation terrestre et des systèmes de référence (IERS) conserve les données relatives au méridien international de référence, au pôle international de référence et à l'ITRS",,,(voir Note 2),92,Operational,Original
 bufr4/0/01/150/5-65534,1150,Système de coordonnées de référence,5-65534,En réserve,,,,,Operational,Original
-bufr4/0/01/150/65535,1150,Système de coordonnées de référence,65535,Valeur manquante,(EPSG). C'est aujourd'hui,,,,Operational,Original
+bufr4/0/01/150/65535,1150,Système de coordonnées de référence,65535,Valeur manquante,,,,,Operational,Original
 bufr4/0/01/151/0,1151,Données de référence sur le niveau moyen de la mer,0,Modèle gravitationnel de la Terre 1996,,,,,Operational,Original
 bufr4/0/01/151/1,1151,Données de référence sur le niveau moyen de la mer,1,Baltic Height System 1977,,,,,Operational,Original
 bufr4/0/01/151/2-4094,1151,Données de référence sur le niveau moyen de la mer,2-4094,En réserve,,,,,Operational,Original

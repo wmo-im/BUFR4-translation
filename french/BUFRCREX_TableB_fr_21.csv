@@ -31,7 +31,7 @@ bufr4/0/21/065,21,Données de radar,021065,Totalisateur de paquets manquants,Num
 bufr4/0/21/066,21,Données de radar,021066,Données sur le degré de confiance du produit SAR mode vague,Table d'indicateurs,0,0,12,Table d'indicateurs,0,4,,,Operational,Original
 bufr4/0/21/067,21,Données de radar,021067,Données sur le degré de confiance du produit concernant le vent,Table d'indicateurs,0,0,13,Table d'indicateurs,0,5,,,Operational,Original
 bufr4/0/21/068,21,Données de radar,021068,Données sur le degré de confiance du produit du radioaltimètre,Table d'indicateurs,0,0,8,Table d'indicateurs,0,3,,,Operational,Original
-bufr4/0/21/069,21,Données de radar,021069,Données sur le degré de confiance du produit concernant la température d'indicateurs de la mer en surface,Table,0,0,10,Table d'indicateurs,0,4,,,Operational,Original
+bufr4/0/21/069,21,Données de radar,021069,Données sur le degré de confiance du produit concernant la température de la mer en surface,Table d'indicateurs,0,0,10,Table d'indicateurs,0,4,,,Operational,Original
 bufr4/0/21/070,21,Données de radar,021070,Données sur le degré de confiance du produit concernant la température de surface de la mer (SADIST-2),Table d'indicateurs,0,0,23,Table d'indicateurs,0,6,,,Operational,Original
 bufr4/0/21/071,21,Données de radar,021071,Maxima,Numérique,0,0,16,Numérique,0,5,,,Operational,Original
 bufr4/0/21/072,21,Données de radar,021072,État d'étalonnage de l'altimètre sur satellite,Table d'indicateurs,0,0,4,Table d'indicateurs,0,2,,,Operational,Original
@@ -57,7 +57,7 @@ bufr4/0/21/094,21,Données de radar,021094,Maxima bande S,Numérique,3,0,16,Num�
 bufr4/0/21/101,21,Données de radar,021101,Nombre d'ambiguïtés vectorielles,Numérique,0,0,3,Numérique,0,1,,,Operational,Original
 bufr4/0/21/102,21,Données de radar,021102,Indice du vecteur vent retenu,Numérique,0,0,3,Numérique,0,1,,,Operational,Original
 bufr4/0/21/103,21,Données de radar,021103,Nombre total de mesures de sigma-0,Numérique,0,0,5,Numérique,0,2,,,Operational,Original
-bufr4/0/21/104,21,Données de radar,021104,Vraisemblance calculée pour la solution obtenue,Numérique,3,-30000,15,Numérique,0,2,,,Operational,Original
+bufr4/0/21/104,21,Données de radar,021104,Vraisemblance calculée pour la solution obtenue,Numérique,3,-30000,15,Numérique,3,5,,,Operational,Original
 bufr4/0/21/105,21,Données de radar,021105,Surface équivalente radar normalisée,dB,2,-10000,14,dB,2,5,,,Operational,Original
 bufr4/0/21/106,21,Données de radar,021106,Coefficient de variance Kp (alpha),Numérique,3,0,14,Numérique,3,5,,,Operational,Original
 bufr4/0/21/107,21,Données de radar,021107,Coefficient de variance Kp (bêta),Numérique,8,0,16,Numérique,8,5,,,Operational,Original

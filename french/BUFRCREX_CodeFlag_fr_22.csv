@@ -3,26 +3,26 @@ bufr4/0/22/056/0,022056,Direction du profil,0,Profil ascendant,,,,,Operational,O
 bufr4/0/22/056/1,022056,Direction du profil,1,Profil descendant,,,,,Operational,Original
 bufr4/0/22/056/2,022056,Direction du profil,2,Horizontal,,,,,Operational,Original
 bufr4/0/22/056/3,022056,Direction du profil,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/22/060/0,022060,état de l'ancre flottante — flotteur lagrangien,0,Le flotteur n'a plus d'ancre flottante,,,,,Operational,Original
-bufr4/0/22/060/1,022060,état de l'ancre flottante — flotteur lagrangien,1,L'ancre flottante est en place,,,,,Operational,Original
-bufr4/0/22/060/2,022060,état de l'ancre flottante — flotteur lagrangien,2,L'état de l'ancre flottante est inconnu,,,,,Operational,Original
-bufr4/0/22/060/3-6,022060,état de l'ancre flottante — flotteur lagrangien,3-6,En réserve,,,,,Operational,Original
-bufr4/0/22/060/7,022060,état de l'ancre flottante — flotteur lagrangien,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/22/061/0,022061,État de la mer,0,Calme (sans rides) 0,,,,,Operational,Original
-bufr4/0/22/061/1,022061,État de la mer,1,"Calme (ridée) 0 – 0,1",,,,,Operational,Original
-bufr4/0/22/061/2,022061,État de la mer,2,"Belle (vaguelettes) 0,1 – 0,5",,,,,Operational,Original
-bufr4/0/22/061/3,022061,État de la mer,3,"Peu agitée 0,5 – 1,25",,,,,Operational,Original
-bufr4/0/22/061/4,022061,État de la mer,4,"Agitée 1,25 – 2,5",,,,,Operational,Original
-bufr4/0/22/061/5,022061,État de la mer,5,"Forte 2,5 – 4",,,,,Operational,Original
-bufr4/0/22/061/6,022061,État de la mer,6,Très forte 4 – 6,,,,,Operational,Original
-bufr4/0/22/061/7,022061,État de la mer,7,Grosse 6 – 9,,,,,Operational,Original
-bufr4/0/22/061/8,022061,État de la mer,8,Très grosse 9 – 14,,,,,Operational,Original
-bufr4/0/22/061/9,022061,État de la mer,9,Énorme,,,,,Operational,Original
+bufr4/0/22/060/0,022060,État de l'ancre flottante — flotteur lagrangien,0,Le flotteur n'a plus d'ancre flottante,,,,,Operational,Original
+bufr4/0/22/060/1,022060,État de l'ancre flottante — flotteur lagrangien,1,L'ancre flottante est en place,,,,,Operational,Original
+bufr4/0/22/060/2,022060,État de l'ancre flottante — flotteur lagrangien,2,L'État de l'ancre flottante est inconnu,,,,,Operational,Original
+bufr4/0/22/060/3-6,022060,État de l'ancre flottante — flotteur lagrangien,3-6,En réserve,,,,,Operational,Original
+bufr4/0/22/060/7,022060,État de l'ancre flottante — flotteur lagrangien,7,Valeur manquante,,,,,Operational,Original
+bufr4/0/22/061/0,022061,État de la mer,0,Calme (sans rides),0,,,,Operational,Original
+bufr4/0/22/061/1,022061,État de la mer,1,Calme (ridée),"0 – 0,1",,,,Operational,Original
+bufr4/0/22/061/2,022061,État de la mer,2,Belle (vaguelettes),"0,1 – 0,5",,,,Operational,Original
+bufr4/0/22/061/3,022061,État de la mer,3,Peu agitée,"0,5 – 1,25",,,,Operational,Original
+bufr4/0/22/061/4,022061,État de la mer,4,Agitée,"1,25 – 2,5",,,,Operational,Original
+bufr4/0/22/061/5,022061,État de la mer,5,Forte,"2,5 – 4",,,,Operational,Original
+bufr4/0/22/061/6,022061,État de la mer,6,Très forte,4 – 6,,,,Operational,Original
+bufr4/0/22/061/7,022061,État de la mer,7,Grosse,6 – 9,,,,Operational,Original
+bufr4/0/22/061/8,022061,État de la mer,8,Très grosse,9 – 14,,,,Operational,Original
+bufr4/0/22/061/9,022061,État de la mer,9,Énorme,Plus de 14,,,,Operational,Original
 bufr4/0/22/061/10-14,022061,État de la mer,10-14,En réserve,,,,,Operational,Original
-bufr4/0/22/061/15,022061,État de la mer,15,Valeur manquante,Alors qu'une priorité est accor-,,,,Operational,Original
+bufr4/0/22/061/15,022061,État de la mer,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/22/067,022067,Type d'instrument pour la mesure du profil de la température/salinité de l'eau (Voir la table de code commune C–3),,,,,,,Operational,Original
 bufr4/0/22/068,022068,Types d'enregistreurs du profil de la température de l'eau (Voir la table de code commune C–4),,,,,,,Operational,Original
-bufr4/0/22/120/0,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,0,Données de bonne qualité Limite du niveau maximal de l'eau (supérieur) dépassée,,,,,Operational,Original
+bufr4/0/22/120/0,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,0,Données de bonne qualité,,,,,Operational,Original
 bufr4/0/22/120/1,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,1,Limite du niveau maximal de l'eau (supérieur) dépassée,,,,,Operational,Original
 bufr4/0/22/120/2,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,2,Limite du niveau minimal de l'eau (inférieur) dépassée,,,,,Operational,Original
 bufr4/0/22/120/3,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,3,Limite de la vitesse de variation du niveau d'eau dépassée,,,,,Operational,Original
@@ -31,7 +31,7 @@ bufr4/0/22/120/5,022120,Vérification automatique du niveau d'eau à la station 
 bufr4/0/22/120/6,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,6,Valeur observée par capteur de niveau d'eau primaire moins valeur du capteur de niveau d'eau de réserve,,,,,Operational,Original
 bufr4/0/22/120/7,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,7,Tolérance spécifiée de la valeur dépassée par rapport à la valeur prévue,,,,,Operational,Original
 bufr4/0/22/120/8,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,8,Limites dépassées (EMQ et/ou valeurs aberrantes) du paramètre d'assurance de la qualité du niveau d'eau,,,,,Operational,Original
-bufr4/0/22/120/9,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,9,Température de la mer en dehors d'une gamme prévue Echec des multiples contrôles de la qualité (ci-dessus),,,,,Operational,Original
+bufr4/0/22/120/9,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,9,Température de la mer en dehors d'une gamme prévue,,,,,Operational,Original
 bufr4/0/22/120/10,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,10,Echec des multiples contrôles de la qualité (ci-dessus),,,,,Operational,Original
 bufr4/0/22/120/11,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,11,Aucune vérification automatique du niveau d'eau n'a été effectuée,,,,,Operational,Original
 bufr4/0/22/120/12-30,022120,Vérification automatique du niveau d'eau à la station d'observation des marées,12-30,En réserve,,,,,Operational,Original

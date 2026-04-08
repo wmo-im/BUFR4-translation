@@ -177,7 +177,7 @@ bufr4/3/11/011/12/031001,11,Séquences correspondant à des messages d'observati
 bufr4/3/11/011/13/008046,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational,Original
 bufr4/3/11/011/14/201139,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201139,Changer le champ de données,20 bits de long,,,Operational,Original
 bufr4/3/11/011/15/202126,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202126,Changer d'échelle,Échelle: 7,,,Operational,Original
-bufr4/3/11/011/16/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,–1 ) Concentration du polluant (mol mol,,,,Operational,Original
+bufr4/3/11/011/16/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol–1),,,,Operational,Original
 bufr4/3/11/011/17/202000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/11/011/18/201000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201000,Changement du champ de données,Annuler,,,Operational,Original
 bufr4/3/11/011/19/106000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,106000,Répétition différée de 6 descripteurs,,,,Operational,Original
@@ -185,18 +185,18 @@ bufr4/3/11/011/20/031001,11,Séquences correspondant à des messages d'observati
 bufr4/3/11/011/21/008046,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,008046,Type de constituants chimiques ou physiques de l'atmosphère,,,,Operational,Original
 bufr4/3/11/011/22/201138,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201138,Changer le champ de données,19 bits de long,,,Operational,Original
 bufr4/3/11/011/23/202130,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202130,Changer d'échelle,Échelle: 11,,,Operational,Original
-bufr4/3/11/011/24/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,–1 ) Concentration du polluant (mol mol,,,,Operational,Original
+bufr4/3/11/011/24/015026,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015026,Concentration du polluant (mol mol–1),,,,Operational,Original
 bufr4/3/11/011/25/202000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,202000,Changement d'échelle,Annuler,,,Operational,Original
 bufr4/3/11/011/26/201000,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,201000,Changement du champ de données,Annuler,,,Operational,Original
-bufr4/3/11/011/27/015052,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015052,de la concentration en nombre de Log 10 particules d'aérosols de diamètre supérieur à 5 nm,,,,Operational,Original
-bufr4/3/11/011/28/015053,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015053,de la concentration en nombre de Log 10 particules d'aérosols de diamètre supérieur à 14 nm,,,,Operational,Original
-bufr4/3/11/011/29/015054,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015054,"de la concentration en nombre de Log 10 particules d'aérosols de diamètre compris entre 0,25 et 2,5 µm",,,,Operational,Original
+bufr4/3/11/011/27/015052,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015052,Log10 de la concentration en nombre de particules d'aérosols de diamètre supérieur à 5 nm,,,,Operational,Original
+bufr4/3/11/011/28/015053,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015053,Log10 de la concentration en nombre de particules d'aérosols de diamètre supérieur à 14 nm,,,,Operational,Original
+bufr4/3/11/011/29/015054,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015054,"Log10 de la concentration en nombre de particules d'aérosols de diamètre compris entre 0,25 et 2,5 µm",,,,Operational,Original
 bufr4/3/11/011/30/015055,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,015055,Proportion d'aérosols non volatils,,,,Operational,Original
 bufr4/3/11/011/31/007004,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,007004,Pression,,,,Operational,Original
 bufr4/3/11/011/32/007004,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,007004,Pression,,,,Operational,Original
-bufr4/3/11/011/33/013099,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013099,de la concentration intégrée de Log 10 particules dans les nuages,,,,Operational,Original
-bufr4/3/11/011/34/013100,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013100,de la surface intégrée des particules Log 10 dans les nuages,,,,Operational,Original
-bufr4/3/11/011/35/013101,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013101,du volume intégré des particules Log 10 dans les nuages,,,,Operational,Original
+bufr4/3/11/011/33/013099,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013099,Log10 de la concentration intégrée de particules dans les nuages,,,,Operational,Original
+bufr4/3/11/011/34/013100,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013100,Log10 de la surface intégrée des particules dans les nuages,,,,Operational,Original
+bufr4/3/11/011/35/013101,11,Séquences correspondant à des messages d'observation à un seul niveau,311011,,,013101,Log10 du volume intégré des particules dans les nuages,,,,Operational,Original
 bufr4/3/11/012/1/301150,11,Séquences correspondant à des messages d'observation à un seul niveau,311012,(Modèle BUFR pour le profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau),,301150,Identifiant du WIGOS,,,,Operational,Original
 bufr4/3/11/012/2/001008,11,Séquences correspondant à des messages d'observation à un seul niveau,311012,(Modèle BUFR pour le profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau),,001008,Numéro d'immatriculation de l'aéronef ou autre identification,,,,Operational,Original
 bufr4/3/11/012/3/001111,11,Séquences correspondant à des messages d'observation à un seul niveau,311012,(Modèle BUFR pour le profil des phases ascendante et descendante d'un vol d'aéronef avec la latitude et la longitude à chaque niveau),,001111,Aéroport de départ,À indiquer en cas de profil de phase ascendante,,,Operational,Original

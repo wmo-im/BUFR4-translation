@@ -21,18 +21,18 @@ bufr4/0/02/003/10,2003,Type d'équipement de mesure utilisé,10,Lidar,,,,,Operat
 bufr4/0/02/003/11-13,2003,Type d'équipement de mesure utilisé,11-13,En réserve,,,,,Operational,Original
 bufr4/0/02/003/14,2003,Type d'équipement de mesure utilisé,14,"Instruments de mesure de la pression associés à l'équipement de mesure du vent, mais les instruments de mesure de la pression sont tombés en panne pendant la montée",,,,,Operational,Original
 bufr4/0/02/003/15,2003,Type d'équipement de mesure utilisé,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/004/0,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,0,Bac ouvert américain (non couvert),Évaporation,,,,Operational,Original
-bufr4/0/02/004/1,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,1,Bac ouvert américain (couvert d'un treillis),Évaporation,,,,Operational,Original
-bufr4/0/02/004/2,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,2,Evaporomètre GGI-3000 (bac enterré),Évaporation,,,,Operational,Original
-bufr4/0/02/004/3,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,3,Bassin de 20 m2,Évaporation,,,,Operational,Original
-bufr4/0/02/004/4,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,4,Autres instruments,Évaporation,,,,Operational,Original
-bufr4/0/02/004/5,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,5,Riz,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/6,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,6,Blé,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/7,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,7,Maïs,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/8,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,8,Sorgho,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/9,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,9,Autres cultures,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/10-14,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,10-14,En réserve,Évapotranspiration,,,,Operational,Original
-bufr4/0/02/004/15,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration Instrument ou type de culture Type de données,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/004/0,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,0,Bac ouvert américain (non couvert),Évaporation,,,,Operational,Original
+bufr4/0/02/004/1,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,1,Bac ouvert américain (couvert d'un treillis),Évaporation,,,,Operational,Original
+bufr4/0/02/004/2,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,2,Evaporomètre GGI-3000 (bac enterré),Évaporation,,,,Operational,Original
+bufr4/0/02/004/3,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,3,Bassin de 20 m2,Évaporation,,,,Operational,Original
+bufr4/0/02/004/4,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,4,Autres instruments,Évaporation,,,,Operational,Original
+bufr4/0/02/004/5,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,5,Riz,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/6,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,6,Blé,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/7,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,7,Maïs,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/8,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,8,Sorgho,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/9,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,9,Autres cultures,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/10-14,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,10-14,En réserve,Évapotranspiration,,,,Operational,Original
+bufr4/0/02/004/15,2004,Type d'instrument utilisé pour la mesure de l'évaporation ou type de culture pour lequel est indiquée l'évapotranspiration,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/007/0,2007,Type de capteur pour les instruments de mesure de la hauteur d'eau,0,En réserve,,,,,Operational,Original
 bufr4/0/02/007/1,2007,Type de capteur pour les instruments de mesure de la hauteur d'eau,1,Codeur rotatif et flotteur,,,,,Operational,Original
 bufr4/0/02/007/2,2007,Type de capteur pour les instruments de mesure de la hauteur d'eau,2,Ultrasons,,,,,Operational,Original
@@ -218,8 +218,8 @@ bufr4/0/02/032/1,2032,Indicateur de numérisation,1,Valeurs correspondant à des
 bufr4/0/02/032/2,2032,Indicateur de numérisation,2,En réserve,,,,,Operational,Original
 bufr4/0/02/032/3,2032,Indicateur de numérisation,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/033/0,2033,Méthode de mesure de la salinité en fonction de la profondeur,0,Pas de mesure de la salinité,,,,,Operational,Original
-bufr4/0/02/033/1,2033,Méthode de mesure de la salinité en fonction de la profondeur,1,"Salinomètre in situ , exactitude meilleure que 0,02 0 / 00",,,,,Operational,Original
-bufr4/0/02/033/2,2033,Méthode de mesure de la salinité en fonction de la profondeur,2,"Salinomètre in situ , exactitude inférieure à 0,02 0 / 00",,,,,Operational,Original
+bufr4/0/02/033/1,2033,Méthode de mesure de la salinité en fonction de la profondeur,1,"Salinomètre in situ, exactitude meilleure que 0,02 0/00",,,,,Operational,Original
+bufr4/0/02/033/2,2033,Méthode de mesure de la salinité en fonction de la profondeur,2,"Salinomètre in situ, exactitude inférieure à 0,02 0/00",,,,,Operational,Original
 bufr4/0/02/033/3,2033,Méthode de mesure de la salinité en fonction de la profondeur,3,Analyse d'échantillons,,,,,Operational,Original
 bufr4/0/02/033/4-6,2033,Méthode de mesure de la salinité en fonction de la profondeur,4-6,En réserve,,,,,Operational,Original
 bufr4/0/02/033/7,2033,Méthode de mesure de la salinité en fonction de la profondeur,7,Valeur manquante,,,,,Operational,Original
@@ -265,15 +265,15 @@ bufr4/0/02/039/2,2039,Méthode de mesure de la température du thermomètre moui
 bufr4/0/02/039/3,2039,Méthode de mesure de la température du thermomètre mouillé,3,Température du thermomètre mouillé calculée à partir d'un thermomètre à réservoir recouvert de glace,,,,,Operational,Original
 bufr4/0/02/039/4-6,2039,Méthode de mesure de la température du thermomètre mouillé,4-6,En réserve,,,,,Operational,Original
 bufr4/0/02/039/7,2039,Méthode de mesure de la température du thermomètre mouillé,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/040/0,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,0,Mouvement du navire éliminé par l'établissement de la moyenne,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
-bufr4/0/02/040/1,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,1,Mouvement du navire éliminé par compensation,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
-bufr4/0/02/040/2,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,2,Mouvement du navire non éliminé,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
-bufr4/0/02/040/3,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,3,Mouvement du navire éliminé par l'établissement de la moyenne,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
-bufr4/0/02/040/4,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,4,Mouvement du navire éliminé par compensation,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
-bufr4/0/02/040/5,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,5,Mouvement du navire non éliminé,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
-bufr4/0/02/040/6,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,6,Méthode Doppler d'établissement du profil du courant non utilisée,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
-bufr4/0/02/040/7-14,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,7-14,En réserve,,,,,Operational,Original
-bufr4/0/02/040/15,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant ,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/040/0,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,0,Mouvement du navire éliminé par l'établissement de la moyenne,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
+bufr4/0/02/040/1,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,1,Mouvement du navire éliminé par compensation,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
+bufr4/0/02/040/2,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,2,Mouvement du navire non éliminé,Vitesse du navire éliminée par un système de localisation du fond de l'océan,,,,Operational,Original
+bufr4/0/02/040/3,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,3,Mouvement du navire éliminé par l'établissement de la moyenne,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
+bufr4/0/02/040/4,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,4,Mouvement du navire éliminé par compensation,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
+bufr4/0/02/040/5,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,5,Mouvement du navire non éliminé,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
+bufr4/0/02/040/6,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,6,Méthode Doppler d'établissement du profil du courant non utilisée,Vitesse du navire éliminée par d'autres systèmes de navigation,,,,Operational,Original
+bufr4/0/02/040/7-14,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,7-14,En réserve,,,,,Operational,Original
+bufr4/0/02/040/15,2040,Méthode d'élimination des effets de la vitesse et du mouvement de la plate-forme dans les mesures de courant,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/041/0,2041,Méthode d'estimation utilisée pour les comptes rendus relatifs aux caractéristiques synoptiques,0,Informations fondées sur l'analyse manuelle,,,,,Operational,Original
 bufr4/0/02/041/1,2041,Méthode d'estimation utilisée pour les comptes rendus relatifs aux caractéristiques synoptiques,1,Informations fondées sur l'analyse informatique,,,,,Operational,Original
 bufr4/0/02/041/2,2041,Méthode d'estimation utilisée pour les comptes rendus relatifs aux caractéristiques synoptiques,2,Informations fondées sur l'assimilation des données,,,,,Operational,Original
@@ -529,21 +529,21 @@ bufr4/0/02/097/2,2097,Type de capteur de l'humidité,2,A-Humicap Vaisala,,,,,Ope
 bufr4/0/02/097/3,2097,Type de capteur de l'humidité,3,H-Humicap Vaisala,,,,,Operational,Original
 bufr4/0/02/097/4,2097,Type de capteur de l'humidité,4,Capteur capacitif,,,,,Operational,Original
 bufr4/0/02/097/5,2097,Type de capteur de l'humidité,5,Vaisala RS90,,,,,Operational,Original
-bufr4/0/02/097/6,2097,Type de capteur de l'humidité,6,Hygristor carbone Sippican Mark IIA Deux capteurs capacitifs Humicap chauffés alternativement,,,,,Operational,Original
+bufr4/0/02/097/6,2097,Type de capteur de l'humidité,6,Hygristor carbone Sippican Mark IIA,,,,,Operational,Original
 bufr4/0/02/097/7,2097,Type de capteur de l'humidité,7,Deux capteurs capacitifs Humicap chauffés alternativement,,,,,Operational,Original
 bufr4/0/02/097/8,2097,Type de capteur de l'humidité,8,Capteur capacitif Humicap avec dégivrage actif,,,,,Operational,Original
 bufr4/0/02/097/9,2097,Type de capteur de l'humidité,9,Hygristor au carbone,,,,,Operational,Original
 bufr4/0/02/097/10,2097,Type de capteur de l'humidité,10,Psychromètre,,,,,Operational,Original
 bufr4/0/02/097/11,2097,Type de capteur de l'humidité,11,Capteur capacitif (polymère),,,,,Operational,Original
 bufr4/0/02/097/12,2097,Type de capteur de l'humidité,12,"Capteur capacitif (céramique, dont oxyde métallique)",,,,,Operational,Original
-bufr4/0/02/097/13,2097,Type de capteur de l'humidité,13,Capteur résistif (générique) Capteur résistif (polymère salin),,,,,Operational,Original
+bufr4/0/02/097/13,2097,Type de capteur de l'humidité,13,Capteur résistif (générique),,,,,Operational,Original
 bufr4/0/02/097/14,2097,Type de capteur de l'humidité,14,Capteur résistif (polymère salin),,,,,Operational,Original
 bufr4/0/02/097/15,2097,Type de capteur de l'humidité,15,Capteur résistif (polymère conducteur),,,,,Operational,Original
 bufr4/0/02/097/16,2097,Type de capteur de l'humidité,16,Capteur à conductivité thermique,,,,,Operational,Original
 bufr4/0/02/097/17,2097,Type de capteur de l'humidité,17,Capteur gravimétrique,,,,,Operational,Original
 bufr4/0/02/097/18,2097,Type de capteur de l'humidité,18,Capteur à ressort métallique,,,,,Operational,Original
 bufr4/0/02/097/19,2097,Type de capteur de l'humidité,19,Hygromètre à cheveu ordinaire,,,,,Operational,Original
-bufr4/0/02/097/20,2097,Type de capteur de l'humidité,20,Hygromètre à cheveu laminé (torsion) Hygromètre à peau de batteur d'or,,,,,Operational,Original
+bufr4/0/02/097/20,2097,Type de capteur de l'humidité,20,Hygromètre à cheveu laminé (torsion),,,,,Operational,Original
 bufr4/0/02/097/21,2097,Type de capteur de l'humidité,21,Hygromètre à peau de batteur d'or,,,,,Operational,Original
 bufr4/0/02/097/22,2097,Type de capteur de l'humidité,22,Hygromètre à miroir refroidi,,,,,Operational,Original
 bufr4/0/02/097/23,2097,Type de capteur de l'humidité,23,Cellule à point de rosée,,,,,Operational,Original
@@ -630,7 +630,7 @@ bufr4/0/02/143/18,2143,Type d'instrument de mesure de l'ozone,18,Ozonomètre à 
 bufr4/0/02/143/19,2143,Type d'instrument de mesure de l'ozone,19,Sonde à cellule électrochimique,,,,,Operational,Original
 bufr4/0/02/143/20-126,2143,Type d'instrument de mesure de l'ozone,20-126,En réserve,,,,,Operational,Original
 bufr4/0/02/143/127,2143,Type d'instrument de mesure de l'ozone,127,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/144/0,2144,Type de source lumineuse pour spectrophotomètres Brewer,0,"Rayonnement solaire direct Rayonnement solaire direct, atténuateur #1",,,,,Operational,Original
+bufr4/0/02/144/0,2144,Type de source lumineuse pour spectrophotomètres Brewer,0,Rayonnement solaire direct,,,,,Operational,Original
 bufr4/0/02/144/1,2144,Type de source lumineuse pour spectrophotomètres Brewer,1,"Rayonnement solaire direct, atténuateur #1",,,(voir Note),38,Operational,Original
 bufr4/0/02/144/2,2144,Type de source lumineuse pour spectrophotomètres Brewer,2,"Rayonnement solaire direct, atténuateur #2",,,(voir Note),38,Operational,Original
 bufr4/0/02/144/3,2144,Type de source lumineuse pour spectrophotomètres Brewer,3,Mise au point sur la Lune,,,,,Operational,Original
@@ -654,11 +654,11 @@ bufr4/0/02/146/1,2146,État de la source lumineuse pour instruments Dobson,1,Ray
 bufr4/0/02/146/2,2146,État de la source lumineuse pour instruments Dobson,2,Rayonnement du ciel clair,,,,,Operational,Original
 bufr4/0/02/146/3,2146,État de la source lumineuse pour instruments Dobson,3,"Nuage au zénith (couche uniforme stratifiée, de faible opacité)",,,,,Operational,Original
 bufr4/0/02/146/4,2146,État de la source lumineuse pour instruments Dobson,4,"Nuage au zénith (couche uniforme ou modérément variable, d'opacité moyenne)",,,,,Operational,Original
-bufr4/0/02/146/5,2146,État de la source lumineuse pour instruments Dobson,5,"Nuage au zénith (couche uniforme ou modérément variable, de forte opacité) Nuage au zénith (opacité très variable, avec ou sans précipitation)",,,,,Operational,Original
+bufr4/0/02/146/5,2146,État de la source lumineuse pour instruments Dobson,5,"Nuage au zénith (couche uniforme ou modérément variable, de forte opacité)",,,,,Operational,Original
 bufr4/0/02/146/6,2146,État de la source lumineuse pour instruments Dobson,6,"Nuage au zénith (opacité très variable, avec ou sans précipitation)",,,,,Operational,Original
 bufr4/0/02/146/7,2146,État de la source lumineuse pour instruments Dobson,7,Nuage au zénith (brouillard),,,,,Operational,Original
 bufr4/0/02/146/8,2146,État de la source lumineuse pour instruments Dobson,8,Brume au zénith,,,,,Operational,Original
-bufr4/0/02/146/9,2146,État de la source lumineuse pour instruments Dobson,9,"Rayonnement solaire à travers un nuage, du brouillard ou de la brume légère En réserve",,,,,Operational,Original
+bufr4/0/02/146/9,2146,État de la source lumineuse pour instruments Dobson,9,"Rayonnement solaire à travers un nuage, du brouillard ou de la brume légère",,,,,Operational,Original
 bufr4/0/02/146/10-14,2146,État de la source lumineuse pour instruments Dobson,10-14,En réserve,,,,,Operational,Original
 bufr4/0/02/146/15,2146,État de la source lumineuse pour instruments Dobson,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/147/0,2147,Mode de transmission au centre de collecte des données,0,En réserve,,,,,Operational,Original
@@ -670,9 +670,9 @@ bufr4/0/02/147/5,2147,Mode de transmission au centre de collecte des données,5,
 bufr4/0/02/147/6,2147,Mode de transmission au centre de collecte des données,6,"GAN*, BGAN**",,,,,Operational,Original
 bufr4/0/02/147/7,2147,Mode de transmission au centre de collecte des données,7,Terminal THISS,,,,,Operational,Original
 bufr4/0/02/147/8,2147,Mode de transmission au centre de collecte des données,8,Satellites Iridium,,,,,Operational,Original
-bufr4/0/02/147/9,2147,Mode de transmission au centre de collecte des données,9,Téléphonie mobile En réserve,,,,,Operational,Original
+bufr4/0/02/147/9,2147,Mode de transmission au centre de collecte des données,9,Téléphonie mobile,,,,,Operational,Original
 bufr4/0/02/147/10-62,2147,Mode de transmission au centre de collecte des données,10-62,En réserve,,,,,Operational,Original
-bufr4/0/02/147/63,2147,Mode de transmission au centre de collecte des données,63,Valeur manquante ___ * Réseau mondial ** Réseau mondial à large bande,,,,,Operational,Original
+bufr4/0/02/147/63,2147,Mode de transmission au centre de collecte des données,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/148/0,2148,Système de collecte des données et/ou de positionnement,0,En réserve,,,,,Operational,Original
 bufr4/0/02/148/1,2148,Système de collecte des données et/ou de positionnement,1,Argos,,,,,Operational,Original
 bufr4/0/02/148/2,2148,Système de collecte des données et/ou de positionnement,2,GPS,,,,,Operational,Original
@@ -791,7 +791,7 @@ bufr4/0/02/151/5,2151,Indicateur d'identification du radiomètre,5,AMSU-A2,,,,,O
 bufr4/0/02/151/6,2151,Indicateur d'identification du radiomètre,6,AMSU-B,,,,,Operational,Original
 bufr4/0/02/151/7,2151,Indicateur d'identification du radiomètre,7,AVHRR,,,,,Operational,Original
 bufr4/0/02/151/8,2151,Indicateur d'identification du radiomètre,8,En réserve,,,,,Operational,Original
-bufr4/0/02/151/9,2151,Indicateur d'identification du radiomètre,9,MHS 10–2046 En réserve,,,,,Operational,Original
+bufr4/0/02/151/9,2151,Indicateur d'identification du radiomètre,9,MHS,,,,,Operational,Original
 bufr4/0/02/151/2047,2151,Indicateur d'identification du radiomètre,2047,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/152/1,2152,Instrument de satellite utilisé dans le traitement des données,1,Sondeur en infrarouge à grand pouvoir séparateur (HIRS),,,,,Operational,Original
 bufr4/0/02/152/2,2152,Instrument de satellite utilisé dans le traitement des données,2,Sondeur à hyperfréquence (MSU),,,,,Operational,Original
@@ -913,15 +913,15 @@ bufr4/0/02/169/2,2169,Type d'anémomètre,2,Vent déduit du bruit ambiant (WOTAN
 bufr4/0/02/169/3,2169,Type d'anémomètre,3,Anémomètre sonique,,,,,Operational,Original
 bufr4/0/02/169/4-14,2169,Type d'anémomètre,4-14,En réserve,,,,,Operational,Original
 bufr4/0/02/169/15,2169,Type d'anémomètre,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/170/0,2170,Capteur d'humidité de l'aéronef Type de capteur,0,"WVSS-II, Version 1, SpectraSensors",,,,,Operational,Original
-bufr4/0/02/170/1,2170,Capteur d'humidité de l'aéronef Type de capteur,1,"WVSS-II, Version 2, SpectraSensors",,,,,Operational,Original
-bufr4/0/02/170/2,2170,Capteur d'humidité de l'aéronef Type de capteur,2,"WVSS-II, Version 3, SpectraSensors",,,,,Operational,Original
-bufr4/0/02/170/3-61,2170,Capteur d'humidité de l'aéronef Type de capteur,3-61,En réserve,,,,,Operational,Original
-bufr4/0/02/170/62,2170,Capteur d'humidité de l'aéronef Type de capteur,62,Autre,,,,,Operational,Original
-bufr4/0/02/170/63,2170,Capteur d'humidité de l'aéronef Type de capteur,63,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/170/0,2170,Capteur d'humidité de l'aéronef,0,"WVSS-II, Version 1, SpectraSensors",,,,,Operational,Original
+bufr4/0/02/170/1,2170,Capteur d'humidité de l'aéronef,1,"WVSS-II, Version 2, SpectraSensors",,,,,Operational,Original
+bufr4/0/02/170/2,2170,Capteur d'humidité de l'aéronef,2,"WVSS-II, Version 3, SpectraSensors",,,,,Operational,Original
+bufr4/0/02/170/3-61,2170,Capteur d'humidité de l'aéronef,3-61,En réserve,,,,,Operational,Original
+bufr4/0/02/170/62,2170,Capteur d'humidité de l'aéronef,62,Autre,,,,,Operational,Original
+bufr4/0/02/170/63,2170,Capteur d'humidité de l'aéronef,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/172/0,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,0,En réserve,,,,,Operational,Original
 bufr4/0/02/172/1,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,1,Donnée extraite d'un sondage au nadir,,,,,Operational,Original
-bufr4/0/02/172/2,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,2,Donnée extraite d'un sondage au limbe En réserve,,,,,Operational,Original
+bufr4/0/02/172/2,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,2,Donnée extraite d'un sondage au limbe,,,,,Operational,Original
 bufr4/0/02/172/3-254,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,3-254,En réserve,,,,,Operational,Original
 bufr4/0/02/172/255,2172,Type de produit pour les données extraites concernant les gaz atmosphériques,255,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/175/0,2175,Méthode de mesure des précipitations,0,Mesure manuelle,,,,,Operational,Original
@@ -1030,7 +1030,7 @@ bufr4/0/02/186/14,2186,Détection des divers types de précipitations,14,Grêle,
 bufr4/0/02/186/15,2186,Détection des divers types de précipitations,15,Verglas,,,,,Operational,Original
 bufr4/0/02/186/16,2186,Détection des divers types de précipitations,16,Givre,,,,,Operational,Original
 bufr4/0/02/186/17,2186,Détection des divers types de précipitations,17,Givre mou,,,,,Operational,Original
-bufr4/0/02/186/18,2186,Détection des divers types de précipitations,18,Givre dur Givre transparent,,,,,Operational,Original
+bufr4/0/02/186/18,2186,Détection des divers types de précipitations,18,Givre dur,,,,,Operational,Original
 bufr4/0/02/186/19,2186,Détection des divers types de précipitations,19,Givre transparent,,,,,Operational,Original
 bufr4/0/02/186/20,2186,Détection des divers types de précipitations,20,Neige mouillée,,,,,Operational,Original
 bufr4/0/02/186/21,2186,Détection des divers types de précipitations,21,Gelée blanche,,,,,Operational,Original
@@ -1053,7 +1053,7 @@ bufr4/0/02/187/11,2187,Détection d'autres phénomènes météorologiques,11,Emb
 bufr4/0/02/187/12-17,2187,Détection d'autres phénomènes météorologiques,12-17,En réserve,,,,,Operational,Original
 bufr4/0/02/187/All-18,2187,Détection d'autres phénomènes météorologiques,All 18,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/188/1,2188,Détection d'un obscurcissement,1,Brouillard,,,,,Operational,Original
-bufr4/0/02/188/2,2188,Détection d'un obscurcissement,2,Brouillard glacé Brouillard d'évaporation,,,,,Operational,Original
+bufr4/0/02/188/2,2188,Détection d'un obscurcissement,2,Brouillard glacé,,,,,Operational,Original
 bufr4/0/02/188/3,2188,Détection d'un obscurcissement,3,Brouillard d'évaporation,,,,,Operational,Original
 bufr4/0/02/188/4-6,2188,Détection d'un obscurcissement,4-6,En réserve,,,,,Operational,Original
 bufr4/0/02/188/7,2188,Détection d'un obscurcissement,7,Brume,,,,,Operational,Original
@@ -1065,7 +1065,7 @@ bufr4/0/02/188/12,2188,Détection d'un obscurcissement,12,Sable,,,,,Operational,
 bufr4/0/02/188/13,2188,Détection d'un obscurcissement,13,Neige,,,,,Operational,Original
 bufr4/0/02/188/14-20,2188,Détection d'un obscurcissement,14-20,En réserve,,,,,Operational,Original
 bufr4/0/02/188/All-21,2188,Détection d'un obscurcissement,All 21,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/189/1,2189,Distinction entre les différents types d'éclairs,1,Observation manuelle Tous les éclairs sans différenciation,,,,,Operational,Original
+bufr4/0/02/189/1,2189,Distinction entre les différents types d'éclairs,1,Observation manuelle,,,,,Operational,Original
 bufr4/0/02/189/2,2189,Distinction entre les différents types d'éclairs,2,Tous les éclairs sans différenciation,,,,,Operational,Original
 bufr4/0/02/189/3,2189,Distinction entre les différents types d'éclairs,3,Éclairs de nuage à surface seulement,,,,,Operational,Original
 bufr4/0/02/189/4,2189,Distinction entre les différents types d'éclairs,4,Tous les éclairs avec une différenciation entre nuage à surface et nuage à nuage,,,,,Operational,Original

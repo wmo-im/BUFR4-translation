@@ -15,7 +15,7 @@ bufr4/0/02/016,02,Instruments BUFR/CREX,002016,Configuration de la radiosonde,Ta
 bufr4/0/02/017,02,Instruments BUFR/CREX,002017,Algorithmes de correction pour les mesures d'humidité,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/02/019,02,Instruments BUFR/CREX,002019,Instruments satellitaires,Table de code,0,0,11,Table de code,0,4,,,Operational,Original
 bufr4/0/02/020,02,Instruments BUFR/CREX,002020,Classification des satellites,Table de code,0,0,9,Table de code,0,3,,,Operational,Original
-bufr4/0/02/021,02,Instruments BUFR/CREX,002021,Données instrumentales satellitaires utilisées dans le traitement*,Table d'indicateurs,0,0,9,Table d'indicateurs,0,3,(voir Note 8),47,Operational,Original
+bufr4/0/02/021,02,Instruments BUFR/CREX,002021,Données instrumentales satellitaires utilisées dans le traitement,Table d'indicateurs,0,0,9,Table d'indicateurs,0,3,(voir Note 8),47,Operational,Original
 bufr4/0/02/022,02,Instruments BUFR/CREX,002022,Technique utilisée pour le traitement des données satellitaires,Table d'indicateurs,0,0,8,Table d'indicateurs,0,3,,,Operational,Original
 bufr4/0/02/023,02,Instruments BUFR/CREX,002023,Méthode de calcul du vent à partir de données satellitaires,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/024,02,Instruments BUFR/CREX,002024,Méthode de calcul de l'humidité moyenne intégrée,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
@@ -43,7 +43,7 @@ bufr4/0/02/046,02,Instruments BUFR/CREX,002046,Instruments de mesure des vagues,
 bufr4/0/02/047,02,Instruments BUFR/CREX,002047,Type du tsunamimètre installé à grande profondeur,Table de code,0,0,7,Table de code,0,2,,,Operational,Original
 bufr4/0/02/048,02,Instruments BUFR/CREX,002048,Indicateur de détecteur de satellite,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/049,02,Instruments BUFR/CREX,002049,Technique utilisée pour le traitement des données de satellite géostationnaire,Table d'indicateurs,0,0,8,Table d'indicateurs,0,3,,,Operational,Original
-bufr4/0/02/050,02,Instruments BUFR/CREX,002050,Canaux utilisés par le sondeur du satellite géostationnaire,Table d'in-dicateurs,0,0,20,Table d'indicateurs,0,7,,,Operational,Original
+bufr4/0/02/050,02,Instruments BUFR/CREX,002050,Canaux utilisés par le sondeur du satellite géostationnaire,Table d'indicateurs,0,0,20,Table d'indicateurs,0,7,,,Operational,Original
 bufr4/0/02/051,02,Instruments BUFR/CREX,002051,Indicateur servant à préciser la méthode d'observation des températures extrêmes,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/052,02,Instruments BUFR/CREX,002052,Canaux utilisés par l'imageur du satellite géostationnaire,Table d'indicateurs,0,0,6,Table d'indicateurs,0,2,,,Operational,Original
 bufr4/0/02/053,02,Instruments BUFR/CREX,002053,Caractéristiques de la température de luminance observée par satellite GOES-I/M,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
@@ -62,8 +62,8 @@ bufr4/0/02/065,02,Instruments BUFR/CREX,002065,Station ACARS de réception au so
 bufr4/0/02/066,02,Instruments BUFR/CREX,002066,Système de réception au sol des données de radiosondage,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/02/067,02,Instruments BUFR/CREX,002067,Fréquence de fonctionnement de la radiosonde,Hz,-5,0,15,Hz,-5,5,,,Operational,Original
 bufr4/0/02/070,02,Instruments BUFR/CREX,002070,Spécification originale de la latitude/longitude,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
-bufr4/0/02/071,02,Instruments BUFR/CREX,002071,Longueur d'onde spectrographique,m,13,0,30,m,13 10,,,,Operational,Original
-bufr4/0/02/072,02,Instruments BUFR/CREX,002072,Largeur spectrographique,m,13,0,30,m,13 10,,,,Operational,Original
+bufr4/0/02/071,02,Instruments BUFR/CREX,002071,Longueur d'onde spectrographique,m,13,0,30,m,13,10,,,Operational,Original
+bufr4/0/02/072,02,Instruments BUFR/CREX,002072,Largeur spectrographique,m,13,0,30,m,13,10,,,Operational,Original
 bufr4/0/02/080,02,Instruments BUFR/CREX,002080,Fabricant du ballon,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/02/081,02,Instruments BUFR/CREX,002081,Type de ballon,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/02/082,02,Instruments BUFR/CREX,002082,Poids du ballon,kg,3,0,12,kg,3,4,,,Operational,Original
@@ -79,7 +79,7 @@ bufr4/0/02/095,02,Instruments BUFR/CREX,002095,Type de capteur de pression,Table
 bufr4/0/02/096,02,Instruments BUFR/CREX,002096,Type de capteur de température,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/02/097,02,Instruments BUFR/CREX,002097,Type de capteur d'humidité,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
 bufr4/0/02/099,02,Instruments BUFR/CREX,002099,Polarisation,Table de code,0,0,3,Table de code,0,1,,,Operational,Original
-bufr4/0/02/100,02,Instruments BUFR/CREX,002100,Constante radar*,dB,1,0,12,dB,1,4,(voir Note 9),157,Operational,Original
+bufr4/0/02/100,02,Instruments BUFR/CREX,002100,Constante radar,dB,1,0,12,dB,1,4,(voir Note 9),157,Operational,Original
 bufr4/0/02/101,02,Instruments BUFR/CREX,002101,Type d'antenne,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/102,02,Instruments BUFR/CREX,002102,Hauteur de l'antenne au-dessus de la base de la tour,m,0,0,8,m,0,3,,,Operational,Original
 bufr4/0/02/103,02,Instruments BUFR/CREX,002103,Radôme,Table d'indicateurs,0,0,2,Table d'indicateurs,0,1,,,Operational,Original
@@ -107,14 +107,14 @@ bufr4/0/02/124,02,Instruments BUFR/CREX,002124,Puissance moyenne,W,-1,0,7,W,-1,3
 bufr4/0/02/125,02,Instruments BUFR/CREX,002125,Fréquence de répétition des impulsions,Hz,-1,0,8,Hz,-1,3,,,Operational,Original
 bufr4/0/02/126,02,Instruments BUFR/CREX,002126,Largeur d'impulsion,s,7,0,6,s,7,2,,,Operational,Original
 bufr4/0/02/127,02,Instruments BUFR/CREX,002127,Fréquence intermédiaire du récepteur,Hz,-6,0,7,Hz,-6,3,,,Operational,Original
-bufr4/0/02/128,02,Instruments BUFR/CREX,002128,Bande passante aux fréquences intermédiaires,H z-5,,0,6,Hz,-5,2,,,Operational,Original
+bufr4/0/02/128,02,Instruments BUFR/CREX,002128,Bande passante aux fréquences intermédiaires,Hz,-5,0,6,Hz,-5,2,,,Operational,Original
 bufr4/0/02/129,02,Instruments BUFR/CREX,002129,Signal minimal détectable,dB,0,-150,5,dB,0,3,,,Operational,Original
 bufr4/0/02/130,02,Instruments BUFR/CREX,002130,Portée dynamique,dB,0,0,7,dB,0,3,,,Operational,Original
 bufr4/0/02/131,02,Instruments BUFR/CREX,002131,Commande de gain variable dans le temps,Table d'indicateurs,0,0,2,Table d'indicateurs,0,1,,,Operational,Original
 bufr4/0/02/132,02,Instruments BUFR/CREX,002132,Exactitude du pointage en azimut,°,2,0,6,°,2,2,,,Operational,Original
 bufr4/0/02/133,02,Instruments BUFR/CREX,002133,Exactitude de l'angle de site,°,2,0,6,°,2,2,,,Operational,Original
-bufr4/0/02/134,02,Instruments BUFR/CREX,002134,Azimut du faisceau d'antenne,°,2,0,16,°,2,2,,,Operational,Original
-bufr4/0/02/135,02,Instruments BUFR/CREX,002135,Angle de site de l'antenne,°,2,-9000,15,°,2,2,,,Operational,Original
+bufr4/0/02/134,02,Instruments BUFR/CREX,002134,Azimut du faisceau d'antenne,°,2,0,16,°,2,5,,,Operational,Original
+bufr4/0/02/135,02,Instruments BUFR/CREX,002135,Angle de site de l'antenne,°,2,-9000,15,°,2,5,,,Operational,Original
 bufr4/0/02/136,02,Instruments BUFR/CREX,002136,Portée atteinte par correction de l'affaiblissement de portée,m,-3,0,16,m,-3,5,,,Operational,Original
 bufr4/0/02/137,02,Instruments BUFR/CREX,002137,Rapport de double fréquence de répétition des impulsions du radar,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/138,02,Instruments BUFR/CREX,002138,Direction de rotation de l'antenne,Table de code,0,0,2,Table de code,0,1,,,Operational,Original
@@ -122,7 +122,7 @@ bufr4/0/02/139,02,Instruments BUFR/CREX,002139,Configuration de l'instrument SIR
 bufr4/0/02/140,02,Instruments BUFR/CREX,002140,Angle d'azimut du faisceau de radar de satellite,°,0,0,9,°,0,3,(voir Note 4),111,Operational,Original
 bufr4/0/02/141,02,Instruments BUFR/CREX,002141,Type de mesure,CCITT IA5,0,0,24,Caractère,0,3,,,Operational,Original
 bufr4/0/02/142,02,Instruments BUFR/CREX,002142,Numéro de série/identificateur du type d'instrument de mesure de l'ozone,CCITT IA5,0,0,32,Caractère,0,4,(voir Note 5),91,Operational,Original
-bufr4/0/02/143,02,Instruments BUFR/CREX,002143,Type d'instrument de mesure de l'ozone,Numérique,0,0,7,Table de code,0,3,,,Operational,Original
+bufr4/0/02/143,02,Instruments BUFR/CREX,002143,Type d'instrument de mesure de l'ozone,Table de code,0,0,7,Table de code,0,3,,,Operational,Original
 bufr4/0/02/144,02,Instruments BUFR/CREX,002144,Type de source lumineuse pour spectrophotomètre Brewer,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/145,02,Instruments BUFR/CREX,002145,Longueurs d'ondes et réglage pour instruments Dobson,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/02/146,02,Instruments BUFR/CREX,002146,État de la source pour instruments Dobson,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
@@ -131,7 +131,7 @@ bufr4/0/02/148,02,Instruments BUFR/CREX,002148,Système de collecte de données 
 bufr4/0/02/149,02,Instruments BUFR/CREX,002149,Type de bouée de collecte de données,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/02/150,02,Instruments BUFR/CREX,002150,Numéro du canal de l'instrument TOVS/ATOVS/AVHRR,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/02/151,02,Instruments BUFR/CREX,002151,Indicateur d'identification du radiomètre,Table de code,0,0,11,Table de code,0,4,,,Operational,Original
-bufr4/0/02/152,02,Instruments BUFR/CREX,002152,Instrument de satellite utilisé dans le traitement des données d'indicateurs,Table,0,0,31,Table d'indicateurs,0,10,(voir Note 6),46,Operational,Original
+bufr4/0/02/152,02,Instruments BUFR/CREX,002152,Instrument de satellite utilisé dans le traitement des données,Table d'indicateurs,0,0,31,Table d'indicateurs,0,10,(voir Note 6),46,Operational,Original
 bufr4/0/02/153,02,Instruments BUFR/CREX,002153,Fréquence centrale du canal du satellite,Hz,-8,0,26,Hz,-8,8,,,Operational,Original
 bufr4/0/02/154,02,Instruments BUFR/CREX,002154,Largeur de bande du canal du satellite,Hz,-8,0,26,Hz,-8,8,,,Operational,Original
 bufr4/0/02/155,02,Instruments BUFR/CREX,002155,Longueur d'onde du canal du satellite,m,9,0,16,m,9,5,,,Operational,Original
