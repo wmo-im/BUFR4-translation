@@ -100,7 +100,7 @@ bufr4/0/21/115/2,021115,Qualité de sigma-0 déterminée par SEAWINDS,2,Rapport 
 bufr4/0/21/115/3,021115,Qualité de sigma-0 déterminée par SEAWINDS,3,Sigma-0 négatif,,,,,Operational,Original
 bufr4/0/21/115/4,021115,Qualité de sigma-0 déterminée par SEAWINDS,4,Sigma-0 est hors des limites acceptables,,,,,Operational,Original
 bufr4/0/21/115/5,021115,Qualité de sigma-0 déterminée par SEAWINDS,5,Qualité de pulsion du diffusomètre,,,,,Operational,Original
-bufr4/0/21/115/6,021115,Qualité de sigma-0 déterminée par SEAWINDS,6,L'algorythme de position de la cellule correspondant à sigma-0 ne converge pas,,,,,Operational,Original
+bufr4/0/21/115/6,021115,Qualité de sigma-0 déterminée par SEAWINDS,6,L'algorithme de position de la cellule correspondant à sigma-0 ne converge pas,,,,,Operational,Original
 bufr4/0/21/115/7,021115,Qualité de sigma-0 déterminée par SEAWINDS,7,L'écart de fréquence est hors des limites de la Table du facteur X,,,,,Operational,Original
 bufr4/0/21/115/8,021115,Qualité de sigma-0 déterminée par SEAWINDS,8,La température du satellite se situe hors des limites du coefficient d'étalonnage,,,,,Operational,Original
 bufr4/0/21/115/9,021115,Qualité de sigma-0 déterminée par SEAWINDS,9,Pas trouvé de relevés d'altitude utilisables pour sigma-0,,,,,Operational,Original
@@ -119,7 +119,7 @@ bufr4/0/21/116/9,021116,Mode de sigma-0 déterminé par SEAWINDS,9,Fenêtre util
 bufr4/0/21/116/10,021116,Mode de sigma-0 déterminé par SEAWINDS,10,Mode basse résolution - Données pour la pulsion complète,,,,,Operational,Original
 bufr4/0/21/116/11,021116,Mode de sigma-0 déterminé par SEAWINDS,11,Sous-système électronique B du diffusomètre,,,,,Operational,Original
 bufr4/0/21/116/12,021116,Mode de sigma-0 déterminé par SEAWINDS,12,"Autre vitesse de rotation - 19,8 tpm",,,,,Operational,Original
-bufr4/0/21/116/13,021116,Mode de sigma-0 déterminé par SEAWINDS,13,Protection du récepteur enclanchée,,,,,Operational,Original
+bufr4/0/21/116/13,021116,Mode de sigma-0 déterminé par SEAWINDS,13,Protection du récepteur enclenchée,,,,,Operational,Original
 bufr4/0/21/116/14,021116,Mode de sigma-0 déterminé par SEAWINDS,14,Indicateur de tranches par ensemble (1),,,,,Operational,Original
 bufr4/0/21/116/15,021116,Mode de sigma-0 déterminé par SEAWINDS,15,Indicateur de tranches par ensemble (2),,,,,Operational,Original
 bufr4/0/21/116/16,021116,Mode de sigma-0 déterminé par SEAWINDS,16,Indicateur de tranches par ensemble (3),,,,,Operational,Original

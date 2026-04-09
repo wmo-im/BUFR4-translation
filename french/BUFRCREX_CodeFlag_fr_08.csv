@@ -246,8 +246,8 @@ bufr4/0/08/024/6,008024,Statistiques sur les différences,6,Valeur observée moi
 bufr4/0/08/024/7-10,008024,Statistiques sur les différences,7-10,En réserve,,,,,Operational,Original
 bufr4/0/08/024/11,008024,Statistiques sur les différences,11,Valeur observée moins la valeur climatologique (anomalie),,,,,Operational,Original
 bufr4/0/08/024/12,008024,Statistiques sur les différences,12,Valeur observée moins la valeur analysée,,,,,Operational,Original
-bufr4/0/08/024/13,008024,Statistiques sur les différences,13,Valeur observée moins la valeur analysée initialisée ,,,,,Operational,Original
-bufr4/0/08/024/14,008024,Statistiques sur les différences,14,Valeur observée moins la valeur prévue ,,,(voir Note 2),93,Operational,Original
+bufr4/0/08/024/13,008024,Statistiques sur les différences,13,Valeur observée moins la valeur analysée initialisée,,,,,Operational,Original
+bufr4/0/08/024/14,008024,Statistiques sur les différences,14,Valeur observée moins la valeur prévue,,,(voir Note 2),93,Operational,Original
 bufr4/0/08/024/15-20,008024,Statistiques sur les différences,15-20,En réserve,,,,,Operational,Original
 bufr4/0/08/024/21,008024,Statistiques sur les différences,21,Valeur observée moins la valeur interpolée,,,,,Operational,Original
 bufr4/0/08/024/22,008024,Statistiques sur les différences,22,Valeur observée moins la valeur calculée de façon hydrostatique,,,,,Operational,Original

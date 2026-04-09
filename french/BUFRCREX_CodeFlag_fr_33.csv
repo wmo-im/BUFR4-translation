@@ -75,7 +75,7 @@ bufr4/0/33/022/2,033022,Qualité de la transmission par satellite des données p
 bufr4/0/33/022/3,033022,Qualité de la transmission par satellite des données provenant de bouées,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/023/0,033023,Qualité de l'emplacement de la bouée,0,Fiable (l'emplacement est situé au-dessus de deux passages de satellite),,,,,Operational,Original
 bufr4/0/33/023/1,033023,Qualité de l'emplacement de la bouée,1,Dernier emplacement connu (pas d'emplacement sur le passage correspondant),,,,,Operational,Original
-bufr4/0/33/023/2,033023,Qualité de l'emplacement de la bouée,2,Douteuse (emplacement déterminé sur un passage seulement); une deuxième solution est possible dans 5 % des cas),,,,,Operational,Original
+bufr4/0/33/023/2,033023,Qualité de l'emplacement de la bouée,2,Douteuse (emplacement déterminé sur un passage seulement; une deuxième solution est possible dans 5 % des cas),,,,,Operational,Original
 bufr4/0/33/023/3,033023,Qualité de l'emplacement de la bouée,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/024/0,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),0,En réserve,,,,,Operational,Original
 bufr4/0/33/024/1,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),1,Excellent - de l'ordre de 3 mètres,,,,,Operational,Original
@@ -112,11 +112,11 @@ bufr4/0/33/026/14,033026,Qualité de la mesure de l'humidité,14,Décalage spect
 bufr4/0/33/026/15,033026,Qualité de la mesure de l'humidité,15,Pas de sortie laser,,,,,Operational,Original
 bufr4/0/33/026/16-62,033026,Qualité de la mesure de l'humidité,16-62,En réserve,,,,,Operational,Original
 bufr4/0/33/026/63,033026,Qualité de la mesure de l'humidité,63,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/027/0,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),0,Rayon ≥ 1500 m ≤,,,,,Operational,Original
-bufr4/0/33/027/1,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),1,500 m rayon < 1500 m ≤,,,,,Operational,Original
-bufr4/0/33/027/2,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),2,250 m rayon < 500 m,,,,,Operational,Original
-bufr4/0/33/027/3,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),3,Rayon < 250 m ≤,,,,,Operational,Original
-bufr4/0/33/027/4,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),4,100 m,,,,,Operational,Original
+bufr4/0/33/027/0,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),0,Rayon ≥ 1500 m,,,,,Operational,Original
+bufr4/0/33/027/1,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),1,500 m ≤ rayon < 1500 m,,,,,Operational,Original
+bufr4/0/33/027/2,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),2,250 m ≤ rayon < 500 m,,,,,Operational,Original
+bufr4/0/33/027/3,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),3,Rayon < 250 m,,,,,Operational,Original
+bufr4/0/33/027/4,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),4,≤ 100 m,,,,,Operational,Original
 bufr4/0/33/027/5-6,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),5-6,En réserve,,,,,Operational,Original
 bufr4/0/33/027/7,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),7,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/028/1,033028,Qualité globale de l'instantané,1,Nominale,,,,,Operational,Original
@@ -227,10 +227,10 @@ bufr4/0/33/041/0,033041,Caractéristique de la valeur suivante,0,La valeur suiva
 bufr4/0/33/041/1,033041,Caractéristique de la valeur suivante,1,La valeur suivante est plus élevée que la valeur vraie (la mesure atteint la limite inférieure de l'instrument),,,,,Operational,Original
 bufr4/0/33/041/2,033041,Caractéristique de la valeur suivante,2,La valeur suivante est inférieure à la valeur vraie (la mesure atteint la limite supérieure de l'instrument),,,,,Operational,Original
 bufr4/0/33/041/3,033041,Caractéristique de la valeur suivante,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/33/042/0,033042,Type de limite représentée par la valeur qui suit,0,Limite inférieure exclue (>) ≥,,,,,Operational,Original
-bufr4/0/33/042/1,033042,Type de limite représentée par la valeur qui suit,1,Limite inférieure incluse ( ),,,,,Operational,Original
-bufr4/0/33/042/2,033042,Type de limite représentée par la valeur qui suit,2,Limite supérieure exclue (<) ≤,,,,,Operational,Original
-bufr4/0/33/042/3,033042,Type de limite représentée par la valeur qui suit,3,Limite supérieure incluse ( ),,,,,Operational,Original
+bufr4/0/33/042/0,033042,Type de limite représentée par la valeur qui suit,0,Limite inférieure exclue (>),,,,,Operational,Original
+bufr4/0/33/042/1,033042,Type de limite représentée par la valeur qui suit,1,Limite inférieure incluse (≥),,,,,Operational,Original
+bufr4/0/33/042/2,033042,Type de limite représentée par la valeur qui suit,2,Limite supérieure exclue (<),,,,,Operational,Original
+bufr4/0/33/042/3,033042,Type de limite représentée par la valeur qui suit,3,Limite supérieure incluse (≤),,,,,Operational,Original
 bufr4/0/33/042/4-6,033042,Type de limite représentée par la valeur qui suit,4-6,En réserve,,,,,Operational,Original
 bufr4/0/33/042/7,033042,Type de limite représentée par la valeur qui suit,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/043/1,033043,Degré de confiance de la température moyenne en surface,1,"Série de mesures pour la mer. Température de la surface de la mer extraite uniquement d'une visée au nadir dans le canal de 3,7 µm. Série de mesures pour les terres. En réserve.",,,,,Operational,Original
@@ -468,8 +468,8 @@ bufr4/0/33/085/1-3,033085,Indicateur de qualité de l'épaisseur optique des aé
 bufr4/0/33/085/4,033085,Indicateur de qualité de l'épaisseur optique des aérosols,4,Exposant d'Ångström non compris dans la fourchette de valeurs du système,,,,,Operational,Original
 bufr4/0/33/085/5,033085,Indicateur de qualité de l'épaisseur optique des aérosols,5,"Exclu, exposant d'Ångström pour l'épaisseur optique de l'aérosol à 550 nm < 0,15",,,,,Operational,Original
 bufr4/0/33/085/6,033085,Indicateur de qualité de l'épaisseur optique des aérosols,6,"Surface réfléchissante dans la cellule (si au-dessus de la terre), ou eau peu profonde ou turbide dans la cellule (si au-dessus de l'océan)",,,,,Operational,Original
-bufr4/0/33/085/7,033085,Indicateur de qualité de l'épaisseur optique des aérosols,7,"Soleil bas, exclu, distance zénithale du soleil > 80 degrés ≤",,,,,Operational,Original
-bufr4/0/33/085/8,033085,Indicateur de qualité de l'épaisseur optique des aérosols,8,"Soleil bas, dégradé, 65 degrés < distance zénithale du soleil 80 degrés",,,,,Operational,Original
+bufr4/0/33/085/7,033085,Indicateur de qualité de l'épaisseur optique des aérosols,7,"Soleil bas, exclu, distance zénithale du soleil > 80 degrés",,,,,Operational,Original
+bufr4/0/33/085/8,033085,Indicateur de qualité de l'épaisseur optique des aérosols,8,"Soleil bas, dégradé, 65 degrés < distance zénithale du soleil ≤ 80 degrés",,,,,Operational,Original
 bufr4/0/33/085/9,033085,Indicateur de qualité de l'épaisseur optique des aérosols,9,Incendie détecté dans la cellule,,,,,Operational,Original
 bufr4/0/33/085/10,033085,Indicateur de qualité de l'épaisseur optique des aérosols,10,Neige/glace dans la cellule,,,,,Operational,Original
 bufr4/0/33/085/11,033085,Indicateur de qualité de l'épaisseur optique des aérosols,11,Ombres de nuages dans la cellule,,,,,Operational,Original

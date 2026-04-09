@@ -88,8 +88,8 @@ bufr4/0/02/105,02,Instruments BUFR/CREX,002105,Gain maximal de l'antenne,dB,0,0,
 bufr4/0/02/106,02,Instruments BUFR/CREX,002106,Ouverture de faisceau à 3 dB,°,1,0,6,°,1,2,,,Operational,Original
 bufr4/0/02/107,02,Instruments BUFR/CREX,002107,Suppression des lobes latéraux,dB,0,0,6,dB,0,2,,,Operational,Original
 bufr4/0/02/108,02,Instruments BUFR/CREX,002108,Rapport de découplage de polarisation croisée dans l'axe,dB,0,0,6,dB,0,2,,,Operational,Original
-bufr4/0/02/109,02,Instruments BUFR/CREX,002109,Vitesse angulaire de l'antenne (en azimut),degré/s,2,0,12,degré/s,2,4,,,Operational,Original
-bufr4/0/02/110,02,Instruments BUFR/CREX,002110,Vitesse angulaire de l'antenne (en élévation),degré/s,2,0,12,degré/s,2,4,,,Operational,Original
+bufr4/0/02/109,02,Instruments BUFR/CREX,002109,Vitesse angulaire de l'antenne (en azimut),deg/s,2,0,12,deg/s,2,4,,,Operational,Original
+bufr4/0/02/110,02,Instruments BUFR/CREX,002110,Vitesse angulaire de l'antenne (en élévation),deg/s,2,0,12,deg/s,2,4,,,Operational,Original
 bufr4/0/02/111,02,Instruments BUFR/CREX,002111,Angle d'incidence du radar,°,1,0,10,°,1,4,,,Operational,Original
 bufr4/0/02/112,02,Instruments BUFR/CREX,002112,Angle d'ouverture du faisceau radar,°,1,0,12,°,1,4,,,Operational,Original
 bufr4/0/02/113,02,Instruments BUFR/CREX,002113,Nombre de visées en azimut,Numérique,0,0,4,Numérique,0,2,,,Operational,Original

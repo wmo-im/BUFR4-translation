@@ -80,5 +80,6 @@ bufr4/0/22/178/32,022178,Type de lanceur de XBT/XCTD,32,Lanceur automatique AOML
 bufr4/0/22/178/33-89,022178,Type de lanceur de XBT/XCTD,33-89,En réserve,,,,,Operational,Original
 bufr4/0/22/178/90,022178,Type de lanceur de XBT/XCTD,90,Lanceur automatique CSIRO Devil,,,,,Operational,Original
 bufr4/0/22/178/91-99,022178,Type de lanceur de XBT/XCTD,91-99,En réserve,,,,,Operational,Original
-bufr4/0/22/178/100,022178,Type de lanceur de XBT/XCTD,100,Lanceur automatique MFSTEP (Méditerranée) 101-254 En réserve,,,,,Operational,Original
+bufr4/0/22/178/100,022178,Type de lanceur de XBT/XCTD,100,Lanceur automatique MFSTEP (Méditerranée),,,,,Operational,Original
+bufr4/0/22/178/101-254,022178,Type de lanceur de XBT/XCTD,101-254,En réserve,,,,,Operational,Original
 bufr4/0/22/178/255,022178,Type de lanceur de XBT/XCTD,255,Valeur manquante,,,,,Operational,Original
