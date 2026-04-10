@@ -19,7 +19,7 @@ bufr4/0/40/017,40,Données satellitaires,040017,Score des composantes principale
 bufr4/0/40/018,40,Données satellitaires,040018,GIacAvgImagIIS - moyenne des mesures de l'imageur,W m-2 sr-1 m,6,0,24,W m-2 sr-1 m,6,8,,,Operational,Original
 bufr4/0/40/019,40,Données satellitaires,040019,GIacVarImagIIS - variance des mesures de l'imageur,W m-2 sr-1 m,6,0,24,W m-2 sr-1 m,6,8,,,Operational,Original
 bufr4/0/40/020,40,Données satellitaires,040020,GqisFlagQualDetailed - indicateur de qualité du système,Table d'indicateurs,0,0,17,Table d'indicateurs,0,6,,,Operational,Original
-bufr4/0/40/021,40,Données satellitaires,040021,Fraction de pixels AVHRR pondérés dans le champ de vision de l'IASI recouvert d'une couche de neige/ glace,%,0,0,7,%,0,3,,,Operational,Original
+bufr4/0/40/021,40,Données satellitaires,040021,Fraction de pixels AVHRR pondérés dans le champ de vision de l'IASI recouvert d'une couche de neige/glace,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/40/022,40,Données satellitaires,040022,"Nombre de pixels AVHRR manquants, erronés ou défaillants",Numérique,0,0,7,Numérique,0,3,,,Operational,Original
 bufr4/0/40/023,40,Données satellitaires,040023,Indicateur de l'état de l'altimètre auxiliaire,Table d'indicateurs,0,0,5,Table d'indicateurs,0,2,,,Operational,Original
 bufr4/0/40/024,40,Données satellitaires,040024,Existence de cartes météorologiques,Table de code,0,0,3,Table de code,0,1,,,Operational,Original

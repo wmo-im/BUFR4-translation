@@ -69,4 +69,4 @@ bufr4/0/08/088,08,Caractéristiques,008088,Caractéristiques cartographiques,Tab
 bufr4/0/08/090,08,Caractéristiques,008090,Échelle décimale des mantisses suivantes,Numérique,0,-127,8,Numérique,0,3,(voir Note 8),51,Operational,Original
 bufr4/0/08/091,08,Caractéristiques,008091,Caractéristique des coordonnées,Table de code,0,0,8,Table de code,0,3,,,Operational,Original
 bufr4/0/08/092,08,Caractéristiques,008092,Expression de l'incertitude de mesure,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
-bufr4/0/08/093,08,Caractéristiques,008093,Caractéristique de l'incertitude de mesure/échelle décimale,Table de code,0,0,5,Table de code,0,2,,,Operational,Original
+bufr4/0/08/093,08,Caractéristiques,008093,Caractéristique de l'incertitude de mesure,Table de code,0,0,5,Table de code,0,2,,,Operational,Original

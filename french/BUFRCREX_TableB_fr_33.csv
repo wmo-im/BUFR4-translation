@@ -14,10 +14,10 @@ bufr4/0/33/025,33,Informations sur la qualité,033025,Indicateur de valeurs A CA
 bufr4/0/33/026,33,Informations sur la qualité,033026,Qualité de la mesure de l'humidité,Table de code,0,0,6,Table de code,0,2,,,Operational,Original
 bufr4/0/33/027,33,Informations sur la qualité,033027,Classe de qualité concernant la position (rayon de certitude à 66 %),Table de code,0,0,3,Table de code,0,1,,,Operational,Original
 bufr4/0/33/028,33,Informations sur la qualité,033028,Qualité globale de l'instantané,Table de code,0,0,3,Table de code,0,1,,,Operational,Original
-bufr4/0/33/030,33,Informations sur la qualité,033030,Indicateurs d'état pour la ligne de balayage du sondeur A TOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
-bufr4/0/33/031,33,Informations sur la qualité,033031,Indicateurs de qualité de la ligne de balayage du sondeur A TOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
-bufr4/0/33/032,33,Informations sur la qualité,033032,Indicateurs de qualité du canal du sondeur A TOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
-bufr4/0/33/033,33,Informations sur la qualité,033033,Indicateurs de qualité du champ de vision du sondeur A TOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
+bufr4/0/33/030,33,Informations sur la qualité,033030,Indicateurs d'état pour la ligne de balayage du sondeur ATOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
+bufr4/0/33/031,33,Informations sur la qualité,033031,Indicateurs de qualité de la ligne de balayage du sondeur ATOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
+bufr4/0/33/032,33,Informations sur la qualité,033032,Indicateurs de qualité du canal du sondeur ATOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
+bufr4/0/33/033,33,Informations sur la qualité,033033,Indicateurs de qualité du champ de vision du sondeur ATOVS,Table d'indicateurs,0,0,24,Table d'indicateurs,0,8,,,Operational,Original
 bufr4/0/33/035,33,Informations sur la qualité,033035,Contrôle de qualité manuel/automatique,Table de code,0,0,4,Table de code,0,2,,,Operational,Original
 bufr4/0/33/036,33,Informations sur la qualité,033036,Seuil de confiance nominal,%,0,0,7,%,0,3,,,Operational,Original
 bufr4/0/33/037,33,Informations sur la qualité,033037,Facteur de corrélation des vents,Table d'indicateurs,0,0,20,Table d'indicateurs,0,7,,,Operational,Original
