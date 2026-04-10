@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/35/000/000-099,035000,FM et numéro de code régional,000-099,Codes FM internationaux,,,,,Operational,Original
 bufr4/0/35/000/100-199,035000,FM et numéro de code régional,100-199,Codes pour la Région I,,,,,Operational,Original
 bufr4/0/35/000/200-299,035000,FM et numéro de code régional,200-299,Codes pour la Région II,,,,,Operational,Original

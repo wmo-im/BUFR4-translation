@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/01/003/0,001003,Région OMM/zone géographique,0,Antarctique,,,,,Operational,Original
 bufr4/0/01/003/1,001003,Région OMM/zone géographique,1,Région I,,,,,Operational,Original
 bufr4/0/01/003/2,001003,Région OMM/zone géographique,2,Région II,,,,,Operational,Original
@@ -7,7 +7,7 @@ bufr4/0/01/003/4,001003,Région OMM/zone géographique,4,Région IV,,,,,Operatio
 bufr4/0/01/003/5,001003,Région OMM/zone géographique,5,Région V,,,,,Operational,Original
 bufr4/0/01/003/6,001003,Région OMM/zone géographique,6,Région VI,,,,,Operational,Original
 bufr4/0/01/003/7,001003,Région OMM/zone géographique,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/01/007,001007,Indicateur d'identification du satellite,,,,,(Voir la table de code commune C-5 dans la Partie C/c.),,Operational,Original
+bufr4/0/01/007,001007,Indicateur d'identification du satellite (Voir la table de code commune C-5 dans la Partie C/c.),,,,,,,Operational,Original
 bufr4/0/01/024/0,001024,Source des données sur la vitesse du vent,0,Aucune donnée disponible sur la vitesse du vent,,,,,Operational,Original
 bufr4/0/01/024/1,001024,Source des données sur la vitesse du vent,1,Données AMSR-E,,,,,Operational,Original
 bufr4/0/01/024/2,001024,Source des données sur la vitesse du vent,2,Données TMI,,,,,Operational,Original
@@ -35,9 +35,9 @@ bufr4/0/01/029/5,001029,Source des données sur le flux radiatif solaire en surf
 bufr4/0/01/029/6,001029,Source des données sur le flux radiatif solaire en surface,6,Met Office du Royaume-Uni,,,,,Operational,Original
 bufr4/0/01/029/7-30,001029,Source des données sur le flux radiatif solaire en surface,7-30,En réserve pour un usage futur,,,,,Operational,Original
 bufr4/0/01/029/31,001029,Source des données sur le flux radiatif solaire en surface,31,Valeur manquante,,,,,Operational,Original
-bufr4/0/01/031,001031,Identification du centre d'origine/de production,,,,,(Voir la table de code commune C-1 dans la Partie C/c.),,Operational,Original
-bufr4/0/01/033,001033,Identification du centre d'origine/de production,,,,,(Voir la table de code commune C-1 dans la Partie C/c.),,Operational,Original
-bufr4/0/01/034,001034,Identification du centre secondaire d'origine/de production,,(à définir par les centres proprement dits),,,(Voir la table de code commune C-12 dans la Partie C/c.),,Operational,Original
+bufr4/0/01/031,001031,Identification du centre d'origine/de production (Voir la table de code commune C-1 dans la Partie C/c.),,,,,,,Operational,Original
+bufr4/0/01/033,001033,Identification du centre d'origine/de production (Voir la table de code commune C-1 dans la Partie C/c.),,,,,,,Operational,Original
+bufr4/0/01/034,001034,Identification du centre secondaire d'origine/de production (à définir par les centres proprement dits) (Voir la table de code commune C-12 dans la Partie C/c.),,,,,,,Operational,Original
 bufr4/0/01/036/0-36000,001036,Organisme chargé de la mise en œuvre de la plate-forme d'observation,0-36000,En réserve,,,,,Operational,Original
 bufr4/0/01/036/36001,001036,Organisme chargé de la mise en œuvre de la plate-forme d'observation,36001,"Australie, Bureau of Meteorology (BOM)",,,,,Operational,Original
 bufr4/0/01/036/36002,001036,Organisme chargé de la mise en œuvre de la plate-forme d'observation,36002,"Australie, Joint Australian Facility for Ocean Observing Systems (JAFOOS)",,,,,Operational,Original
@@ -93,11 +93,11 @@ bufr4/0/01/036/840006,001036,Organisme chargé de la mise en œuvre de la plate-
 bufr4/0/01/036/840007-1048574,001036,Organisme chargé de la mise en œuvre de la plate-forme d'observation,840007-1048574,En réserve,,,,,Operational,Original
 bufr4/0/01/036/1048575,001036,Organisme chargé de la mise en œuvre de la plate-forme d'observation,1048575,Valeur manquante,,,,,Operational,Original
 bufr4/0/01/038/0,001038,Source des données sur la fraction de glace de mer,0,Aucun jeu de données sur les glaces de mer,,,,,Operational,Original
-bufr4/0/01/038/1,001038,Source des données sur la fraction de glace de mer,1,Produits SSM/I du NSIDC* (Cavalieri et al. 1992),,,,,Operational,Original
+bufr4/0/01/038/1,001038,Source des données sur la fraction de glace de mer,1,Produits SSM/I du NSIDC (Cavalieri et al. 1992),,,,,Operational,Original
 bufr4/0/01/038/2,001038,Source des données sur la fraction de glace de mer,2,AMSR-E,,,,,Operational,Original
 bufr4/0/01/038/3,001038,Source des données sur la fraction de glace de mer,3,CEPMMT,,,,,Operational,Original
-bufr4/0/01/038/4,001038,Source des données sur la fraction de glace de mer,4,Masque de nuages du CMS** (France) utilisé dans le cadre du projet Medspiration,,,,,Operational,Original
-bufr4/0/01/038/5,001038,Source des données sur la fraction de glace de mer,5,SAF OSI*** d'EUMETSAT,,,,,Operational,Original
+bufr4/0/01/038/4,001038,Source des données sur la fraction de glace de mer,4,Masque de nuages du CMS (France) utilisé dans le cadre du projet Medspiration,,,,,Operational,Original
+bufr4/0/01/038/5,001038,Source des données sur la fraction de glace de mer,5,SAF OSI d'EUMETSAT,,,,,Operational,Original
 bufr4/0/01/038/6-30,001038,Source des données sur la fraction de glace de mer,6-30,En réserve pour un usage futur,,,,,Operational,Original
 bufr4/0/01/038/31,001038,Source des données sur la fraction de glace de mer,31,Valeur manquante,,,,,Operational,Original
 bufr4/0/01/044/0,001044,Application de production standard,0,En réserve,,,,,Operational,Original
@@ -343,7 +343,7 @@ bufr4/0/01/150/0,001150,Système de coordonnées de référence,0,"WGS84, utilis
 bufr4/0/01/150/1,001150,Système de coordonnées de référence,1,"ETRS89, défini par l'EPSG:4258",,,,,Operational,Original
 bufr4/0/01/150/2,001150,Système de coordonnées de référence,2,"NAD83, défini par l'EPSG:4269",,,,,Operational,Original
 bufr4/0/01/150/3,001150,Système de coordonnées de référence,3,"DHDN, défini par l'EPSG:4314",,,,,Operational,Original
-bufr4/0/01/150/4,001150,Système de coordonnées de référence,4,"Donnée ellipsoïdale prenant pour méridien d'origine le méridien international de référence et pour pôle d'origine le pôle international de référence et reposant sur le Système international de référence terrestre (ITRS) . Le Service international de la rotation terrestre et des systèmes de référence (IERS) conserve les données relatives au méridien international de référence, au pôle international de référence et à l'ITRS",,,(voir la note 2),,Operational,Original
+bufr4/0/01/150/4,001150,Système de coordonnées de référence,4,"Donnée ellipsoïdale prenant pour méridien d'origine le méridien international de référence et pour pôle d'origine le pôle international de référence et reposant sur le Système international de référence terrestre (ITRS). Le Service international de la rotation terrestre et des systèmes de référence (IERS) conserve les données relatives au méridien international de référence, au pôle international de référence et à l'ITRS",,,(voir Note 2),92,Operational,Original
 bufr4/0/01/150/5-65534,001150,Système de coordonnées de référence,5-65534,En réserve,,,,,Operational,Original
 bufr4/0/01/150/65535,001150,Système de coordonnées de référence,65535,Valeur manquante,,,,,Operational,Original
 bufr4/0/01/151/0,001151,Données de référence sur le niveau moyen de la mer,0,Modèle gravitationnel de la Terre 1996,,,,,Operational,Original

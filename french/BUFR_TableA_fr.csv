@@ -1,6 +1,6 @@
 Id,CodeFigure,Meaning_fr,Status,translated_by
-bufr4/a/0,0,Données de surface – terre,Operational,Original
-bufr4/a/1,1,Données de surface – mer,Operational,Original
+bufr4/a/0,0,Données de surface - terre,Operational,Original
+bufr4/a/1,1,Données de surface - mer,Operational,Original
 bufr4/a/2,2,Sondages verticaux (autres que par satellite),Operational,Original
 bufr4/a/3,3,Sondages verticaux (par satellite),Operational,Original
 bufr4/a/4,4,Données d'observation en altitude à un seul niveau (autres que données satellitaires),Operational,Original

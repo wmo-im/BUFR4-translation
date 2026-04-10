@@ -1,5 +1,5 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/11/030/0,011030,Degré de turbulence détaillé,0,Pas de turbulence,,,,,Operational,Original
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+bufr4/0/11/030/0,011030,Degré de turbulence détaillé,0,Pas de turbulence,dans les nuages,,,,Operational,Original
 bufr4/0/11/030/1,011030,Degré de turbulence détaillé,1,Turbulence faible,dans les nuages,,,,Operational,Original
 bufr4/0/11/030/2,011030,Degré de turbulence détaillé,2,Turbulence modérée,dans les nuages,,,,Operational,Original
 bufr4/0/11/030/3,011030,Degré de turbulence détaillé,3,Turbulence forte,dans les nuages,,,,Operational,Original
@@ -25,7 +25,7 @@ bufr4/0/11/030/22,011030,Degré de turbulence détaillé,22,"Turbulence forte, o
 bufr4/0/11/030/23,011030,Degré de turbulence détaillé,23,"Turbulence forte, fréquemment extrême (SEV FRQ EXTREME)",,,,,Operational,Original
 bufr4/0/11/030/24-62,011030,Degré de turbulence détaillé,24-62,En réserve,,,,,Operational,Original
 bufr4/0/11/030/63,011030,Degré de turbulence détaillé,63,Valeur manquante,,,,,Operational,Original
-bufr4/0/11/031/0,011031,Degré de turbulence,0,Pas de turbulence,,,,,Operational,Original
+bufr4/0/11/031/0,011031,Degré de turbulence,0,Pas de turbulence,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/1,011031,Degré de turbulence,1,Turbulence faible,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/2,011031,Degré de turbulence,2,Turbulence modérée,dans les nuages,,,,Operational,Original
 bufr4/0/11/031/3,011031,Degré de turbulence,3,Turbulence forte,dans les nuages,,,,Operational,Original

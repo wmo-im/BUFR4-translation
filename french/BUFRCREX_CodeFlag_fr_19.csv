@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/19/001/0,019001,Type de la caractéristique synoptique,0,Dépression ou minimum barométrique (extratropical),,,,,Operational,Original
 bufr4/0/19/001/1,019001,Type de la caractéristique synoptique,1,Dépression tropicale,,,,,Operational,Original
 bufr4/0/19/001/2,019001,Type de la caractéristique synoptique,2,Orage tropical,,,,,Operational,Original
@@ -41,11 +41,11 @@ bufr4/0/19/101/8-9,019101,Précision de la position du centre du cyclone tropica
 bufr4/0/19/101/10,019101,Précision de la position du centre du cyclone tropical,10,Précision indéterminée,,,,,Operational,Original
 bufr4/0/19/101/11-14,019101,Précision de la position du centre du cyclone tropical,11-14,Non utilisé,,,,,Operational,Original
 bufr4/0/19/101/15,019101,Précision de la position du centre du cyclone tropical,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/19/102/0,019102,Configuration et définition de l'œil du cyclone tropical,0,Circulaire,bien définie,,,,Operational,Original
+bufr4/0/19/102/0,019102,Configuration et définition de l'œil du cyclone tropical,0,Circulaire,,,,,Operational,Original
 bufr4/0/19/102/1,019102,Configuration et définition de l'œil du cyclone tropical,1,Elliptique - le petit axe atteint au moins les 3/4 de la longueur du grand axe,bien définie,,,,Operational,Original
 bufr4/0/19/102/2,019102,Configuration et définition de l'œil du cyclone tropical,2,Elliptique - le petit axe est inférieur aux 3/4 de la longueur du grand axe,bien définie,,,,Operational,Original
 bufr4/0/19/102/3,019102,Configuration et définition de l'œil du cyclone tropical,3,Œil apparemment double,bien définie,,,,Operational,Original
-bufr4/0/19/102/4,019102,Configuration et définition de l'œil du cyclone tropical,4,Autre forme,,,,,Operational,Original
+bufr4/0/19/102/4,019102,Configuration et définition de l'œil du cyclone tropical,4,Autre forme,bien définie,,,,Operational,Original
 bufr4/0/19/102/5,019102,Configuration et définition de l'œil du cyclone tropical,5,Mal définie,,,,,Operational,Original
 bufr4/0/19/102/6,019102,Configuration et définition de l'œil du cyclone tropical,6,Indéterminée,,,,,Operational,Original
 bufr4/0/19/102/7,019102,Configuration et définition de l'œil du cyclone tropical,7,Valeur manquante,,,,,Operational,Original
@@ -107,13 +107,13 @@ bufr4/0/19/108/4,019108,Précision de la position géographique du cyclone tropi
 bufr4/0/19/108/5,019108,Précision de la position géographique du cyclone tropical,5,Le centre du cyclone est à moins de 300 km de la position signalée,,,,,Operational,Original
 bufr4/0/19/108/6,019108,Précision de la position géographique du cyclone tropical,6,La position du centre du cyclone n'est pas déterminée,,,,,Operational,Original
 bufr4/0/19/108/7,019108,Précision de la position géographique du cyclone tropical,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/19/109/0,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,0,Inférieur à 1º de latitude,,,,,Operational,Original
-bufr4/0/19/109/1,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,1,De 1º à moins de 2º de latitude,,,,,Operational,Original
-bufr4/0/19/109/2,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,2,De 2º à moins de 3º de latitude,,,,,Operational,Original
-bufr4/0/19/109/3,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,3,De 3º à moins de 4º de latitude,,,,,Operational,Original
-bufr4/0/19/109/4,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,4,De 4º à moins de 5º de latitude,,,,,Operational,Original
-bufr4/0/19/109/5,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,5,De 5º à moins de 6º de latitude,,,,,Operational,Original
-bufr4/0/19/109/6,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,6,De 6º à moins de 7° de latitude,,,,,Operational,Original
+bufr4/0/19/109/0,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,0,Inférieur à 1° de latitude,,,,,Operational,Original
+bufr4/0/19/109/1,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,1,De 1° à moins de 2° de latitude,,,,,Operational,Original
+bufr4/0/19/109/2,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,2,De 2° à moins de 3° de latitude,,,,,Operational,Original
+bufr4/0/19/109/3,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,3,De 3° à moins de 4° de latitude,,,,,Operational,Original
+bufr4/0/19/109/4,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,4,De 4° à moins de 5° de latitude,,,,,Operational,Original
+bufr4/0/19/109/5,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,5,De 5° à moins de 6° de latitude,,,,,Operational,Original
+bufr4/0/19/109/6,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,6,De 6° à moins de 7° de latitude,,,,,Operational,Original
 bufr4/0/19/109/7,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,7,De 7° à moins de 8° de latitude,,,,,Operational,Original
 bufr4/0/19/109/8,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,8,De 8° à moins de 9° de latitude,,,,,Operational,Original
 bufr4/0/19/109/9,019109,Diamètre moyen de la couverture nuageuse du cyclone tropical,9,9° de latitude ou plus,,,,,Operational,Original

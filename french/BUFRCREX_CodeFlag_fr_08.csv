@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/08/001/1,008001,Caractéristique correspondant à des données de sondage vertical,1,Surface,,,,,Operational,Original
 bufr4/0/08/001/2,008001,Caractéristique correspondant à des données de sondage vertical,2,Niveau standard,,,,,Operational,Original
 bufr4/0/08/001/3,008001,Caractéristique correspondant à des données de sondage vertical,3,Niveau de la tropopause,,,,,Operational,Original
@@ -146,15 +146,15 @@ bufr4/0/08/013/0,008013,Identificateur jour/nuit,0,Nuit,,,,,Operational,Original
 bufr4/0/08/013/1,008013,Identificateur jour/nuit,1,Jour,,,,,Operational,Original
 bufr4/0/08/013/2,008013,Identificateur jour/nuit,2,Crépuscule,,,,,Operational,Original
 bufr4/0/08/013/3,008013,Identificateur jour/nuit,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/08/014/0,008014,Identificateur pour la portée visuelle de piste,0,Valeur moyenne de 10 mn,valeur normale,,,,Operational,Original
-bufr4/0/08/014/1,008014,Identificateur pour la portée visuelle de piste,1,Valeur moyenne de 10 mn,au-dessus de la limite supérieure pour évaluations de PVP (P),,,,Operational,Original
-bufr4/0/08/014/2,008014,Identificateur pour la portée visuelle de piste,2,Valeur moyenne de 10 mn,au-dessous de la limite inférieure pour évaluations de PVP (M),,,,Operational,Original
-bufr4/0/08/014/3,008014,Identificateur pour la portée visuelle de piste,3,Valeur minimale de 1 mn,valeur normale,,,,Operational,Original
-bufr4/0/08/014/4,008014,Identificateur pour la portée visuelle de piste,4,Valeur minimale de 1 mn,au-dessus de la limite supérieure pour évaluations de PVP (P),,,,Operational,Original
-bufr4/0/08/014/5,008014,Identificateur pour la portée visuelle de piste,5,Valeur minimale de 1 mn,au-dessous de la limite inférieure pour évaluations de PVP (M),,,,Operational,Original
-bufr4/0/08/014/6,008014,Identificateur pour la portée visuelle de piste,6,Valeur maximale de 1 mn,valeur normale,,,,Operational,Original
-bufr4/0/08/014/7,008014,Identificateur pour la portée visuelle de piste,7,Valeur maximale de 1 mn,au-dessus de la limite supérieure pour évaluations de PVP (P),,,,Operational,Original
-bufr4/0/08/014/8,008014,Identificateur pour la portée visuelle de piste,8,Valeur maximale de 1 mn,au-dessous de la limite inférieure pour évaluations de PVP (M),,,,Operational,Original
+bufr4/0/08/014/0,008014,Identificateur pour la portée visuelle de piste,0,Valeur moyenne de 10 mn - valeur normale,,,,,Operational,Original
+bufr4/0/08/014/1,008014,Identificateur pour la portée visuelle de piste,1,Valeur moyenne de 10 mn - au-dessus de la limite supérieure pour évaluations de PVP (P),,,,,Operational,Original
+bufr4/0/08/014/2,008014,Identificateur pour la portée visuelle de piste,2,Valeur moyenne de 10 mn - au-dessous de la limite inférieure pour évaluations de PVP (M),,,,,Operational,Original
+bufr4/0/08/014/3,008014,Identificateur pour la portée visuelle de piste,3,Valeur minimale de 1 mn - valeur normale,,,,,Operational,Original
+bufr4/0/08/014/4,008014,Identificateur pour la portée visuelle de piste,4,Valeur minimale de 1 mn - au-dessus de la limite supérieure pour évaluations de PVP (P),,,,,Operational,Original
+bufr4/0/08/014/5,008014,Identificateur pour la portée visuelle de piste,5,Valeur minimale de 1 mn - au-dessous de la limite inférieure pour évaluations de PVP (M),,,,,Operational,Original
+bufr4/0/08/014/6,008014,Identificateur pour la portée visuelle de piste,6,Valeur maximale de 1 mn - valeur normale,,,,,Operational,Original
+bufr4/0/08/014/7,008014,Identificateur pour la portée visuelle de piste,7,Valeur maximale de 1 mn - au-dessus de la limite supérieure pour évaluations de PVP (P),,,,,Operational,Original
+bufr4/0/08/014/8,008014,Identificateur pour la portée visuelle de piste,8,Valeur maximale de 1 mn - au-dessous de la limite inférieure pour évaluations de PVP (M),,,,,Operational,Original
 bufr4/0/08/014/9-14,008014,Identificateur pour la portée visuelle de piste,9-14,En réserve,,,,,Operational,Original
 bufr4/0/08/014/15,008014,Identificateur pour la portée visuelle de piste,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/015/0,008015,Caractéristique du capteur,0,Capteur unique,,,,,Operational,Original
@@ -190,13 +190,13 @@ bufr4/0/08/019/7-14,008019,Indicateur d'identification du centre suivant,7-14,En
 bufr4/0/08/019/15,008019,Indicateur d'identification du centre suivant,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/021/0,008021,Caractéristique temporelle,0,En réserve,,,,,Operational,Original
 bufr4/0/08/021/1,008021,Caractéristique temporelle,1,Série pour une certaine période,,,,,Operational,Original
-bufr4/0/08/021/2,008021,Caractéristique temporelle,2,Moyenne sur une certaine période,,,(voir note 1),,Operational,Original
+bufr4/0/08/021/2,008021,Caractéristique temporelle,2,Moyenne sur une certaine période,,,(voir Note 1),4,Operational,Original
 bufr4/0/08/021/3,008021,Caractéristique temporelle,3,Accumulé,,,,,Operational,Original
 bufr4/0/08/021/4,008021,Caractéristique temporelle,4,Prévision,,,,,Operational,Original
 bufr4/0/08/021/5,008021,Caractéristique temporelle,5,Série de prévisions pour une certaine période,,,,,Operational,Original
 bufr4/0/08/021/6,008021,Caractéristique temporelle,6,Moyenne de prévisions sur une certaine période,,,,,Operational,Original
 bufr4/0/08/021/7,008021,Caractéristique temporelle,7,Prévision accumulée,,,,,Operational,Original
-bufr4/0/08/021/8,008021,Caractéristique temporelle,8,Moyenne d'ensemble,,,(voir note 2),,Operational,Original
+bufr4/0/08/021/8,008021,Caractéristique temporelle,8,Moyenne d'ensemble,,,(voir Note 2),3,Operational,Original
 bufr4/0/08/021/9,008021,Caractéristique temporelle,9,Série de moyennes d'ensemble pour une certaine période,,,,,Operational,Original
 bufr4/0/08/021/10,008021,Caractéristique temporelle,10,Moyenne de moyennes d'ensemble sur une certaine période,,,,,Operational,Original
 bufr4/0/08/021/11,008021,Caractéristique temporelle,11,Moyenne d'ensemble accumulée,,,,,Operational,Original
@@ -220,40 +220,40 @@ bufr4/0/08/021/28,008021,Caractéristique temporelle,28,Début du balayage,,,,,O
 bufr4/0/08/021/29,008021,Caractéristique temporelle,29,Fin du balayage ou heure de fin,,,,,Operational,Original
 bufr4/0/08/021/30,008021,Caractéristique temporelle,30,Heure d'apparition,,,,,Operational,Original
 bufr4/0/08/021/31,008021,Caractéristique temporelle,31,Valeur manquante,,,,,Operational,Original
-bufr4/0/08/023/0-1,008023,Statistiques de premier ordre*,0-1,En réserve,,,,,Operational,Original
-bufr4/0/08/023/2,008023,Statistiques de premier ordre*,2,Valeur maximale,,,,,Operational,Original
-bufr4/0/08/023/3,008023,Statistiques de premier ordre*,3,Valeur minimale,,,,,Operational,Original
-bufr4/0/08/023/4,008023,Statistiques de premier ordre*,4,Valeur moyenne,,,,,Operational,Original
-bufr4/0/08/023/5,008023,Statistiques de premier ordre*,5,Valeur médiane,,,,,Operational,Original
-bufr4/0/08/023/6,008023,Statistiques de premier ordre*,6,Valeur la plus probable,,,,,Operational,Original
-bufr4/0/08/023/7,008023,Statistiques de premier ordre*,7,Erreur absolue moyenne,,,,,Operational,Original
-bufr4/0/08/023/8,008023,Statistiques de premier ordre*,8,En réserve,,,,,Operational,Original
-bufr4/0/08/023/9,008023,Statistiques de premier ordre*,9,Meilleure estimation de l'écart type (N-1),,,,,Operational,Original
-bufr4/0/08/023/10,008023,Statistiques de premier ordre*,10,Écart type (N),,,,,Operational,Original
-bufr4/0/08/023/11,008023,Statistiques de premier ordre*,11,Moyenne harmonique,,,,,Operational,Original
-bufr4/0/08/023/12,008023,Statistiques de premier ordre*,12,Erreur de vecteur de la valeur quadratique moyenne,,,,,Operational,Original
-bufr4/0/08/023/13,008023,Statistiques de premier ordre*,13,Moyenne quadratique,,,,,Operational,Original
-bufr4/0/08/023/14-31,008023,Statistiques de premier ordre*,14-31,En réserve,,,,,Operational,Original
-bufr4/0/08/023/32,008023,Statistiques de premier ordre*,32,Moyenne vectorielle,,,,,Operational,Original
-bufr4/0/08/023/33-62,008023,Statistiques de premier ordre*,33-62,Réservés pour les besoins locaux,,,,,Operational,Original
-bufr4/0/08/023/63,008023,Statistiques de premier ordre*,63,Valeur manquante,,,,,Operational,Original
-bufr4/0/08/024/0-1,008024,Statistiques sur les différences*,0-1,En réserve,,,,,Operational,Original
-bufr4/0/08/024/2,008024,Statistiques sur les différences*,2,Valeur observée moins la valeur maximale,,,,,Operational,Original
-bufr4/0/08/024/3,008024,Statistiques sur les différences*,3,Valeur observée moins la valeur minimale,,,,,Operational,Original
-bufr4/0/08/024/4,008024,Statistiques sur les différences*,4,Valeur observée moins la valeur moyenne,,,,,Operational,Original
-bufr4/0/08/024/5,008024,Statistiques sur les différences*,5,Valeur observée moins la valeur médiane,,,,,Operational,Original
-bufr4/0/08/024/6,008024,Statistiques sur les différences*,6,Valeur observée moins la valeur la plus probable,,,,,Operational,Original
-bufr4/0/08/024/7-10,008024,Statistiques sur les différences*,7-10,En réserve,,,,,Operational,Original
-bufr4/0/08/024/11,008024,Statistiques sur les différences*,11,Valeur observée moins la valeur climatologique (anomalie),,,,,Operational,Original
-bufr4/0/08/024/12,008024,Statistiques sur les différences*,12,Valeur observée moins la valeur analysée,,,,,Operational,Original
-bufr4/0/08/024/13,008024,Statistiques sur les différences*,13,Valeur observée moins la valeur analysée initialisée,,,,,Operational,Original
-bufr4/0/08/024/14,008024,Statistiques sur les différences*,14,Valeur observée moins la valeur prévue**,,,,,Operational,Original
-bufr4/0/08/024/15-20,008024,Statistiques sur les différences*,15-20,En réserve,,,,,Operational,Original
-bufr4/0/08/024/21,008024,Statistiques sur les différences*,21,Valeur observée moins la valeur interpolée,,,,,Operational,Original
-bufr4/0/08/024/22,008024,Statistiques sur les différences*,22,Valeur observée moins la valeur calculée de façon hydrostatique,,,,,Operational,Original
-bufr4/0/08/024/23-31,008024,Statistiques sur les différences*,23-31,En réserve,,,,,Operational,Original
-bufr4/0/08/024/32-62,008024,Statistiques sur les différences*,32-62,Réservés pour les besoins locaux,,,,,Operational,Original
-bufr4/0/08/024/63,008024,Statistiques sur les différences*,63,Valeur manquante,,,,,Operational,Original
+bufr4/0/08/023/0-1,008023,Statistiques de premier ordre,0-1,En réserve,,,,,Operational,Original
+bufr4/0/08/023/2,008023,Statistiques de premier ordre,2,Valeur maximale,,,,,Operational,Original
+bufr4/0/08/023/3,008023,Statistiques de premier ordre,3,Valeur minimale,,,,,Operational,Original
+bufr4/0/08/023/4,008023,Statistiques de premier ordre,4,Valeur moyenne,,,,,Operational,Original
+bufr4/0/08/023/5,008023,Statistiques de premier ordre,5,Valeur médiane,,,,,Operational,Original
+bufr4/0/08/023/6,008023,Statistiques de premier ordre,6,Valeur la plus probable,,,,,Operational,Original
+bufr4/0/08/023/7,008023,Statistiques de premier ordre,7,Erreur absolue moyenne,,,,,Operational,Original
+bufr4/0/08/023/8,008023,Statistiques de premier ordre,8,En réserve,,,,,Operational,Original
+bufr4/0/08/023/9,008023,Statistiques de premier ordre,9,Meilleure estimation de l'écart type (N-1),,,,,Operational,Original
+bufr4/0/08/023/10,008023,Statistiques de premier ordre,10,Écart type (N),,,,,Operational,Original
+bufr4/0/08/023/11,008023,Statistiques de premier ordre,11,Moyenne harmonique,,,,,Operational,Original
+bufr4/0/08/023/12,008023,Statistiques de premier ordre,12,Erreur de vecteur de la valeur quadratique moyenne,,,,,Operational,Original
+bufr4/0/08/023/13,008023,Statistiques de premier ordre,13,Moyenne quadratique,,,,,Operational,Original
+bufr4/0/08/023/14-31,008023,Statistiques de premier ordre,14-31,En réserve,,,,,Operational,Original
+bufr4/0/08/023/32,008023,Statistiques de premier ordre,32,Moyenne vectorielle,,,,,Operational,Original
+bufr4/0/08/023/33-62,008023,Statistiques de premier ordre,33-62,Réservés pour les besoins locaux,,,,,Operational,Original
+bufr4/0/08/023/63,008023,Statistiques de premier ordre,63,Valeur manquante,,,,,Operational,Original
+bufr4/0/08/024/0-1,008024,Statistiques sur les différences,0-1,En réserve,,,,,Operational,Original
+bufr4/0/08/024/2,008024,Statistiques sur les différences,2,Valeur observée moins la valeur maximale,,,,,Operational,Original
+bufr4/0/08/024/3,008024,Statistiques sur les différences,3,Valeur observée moins la valeur minimale,,,,,Operational,Original
+bufr4/0/08/024/4,008024,Statistiques sur les différences,4,Valeur observée moins la valeur moyenne,,,,,Operational,Original
+bufr4/0/08/024/5,008024,Statistiques sur les différences,5,Valeur observée moins la valeur médiane,,,,,Operational,Original
+bufr4/0/08/024/6,008024,Statistiques sur les différences,6,Valeur observée moins la valeur la plus probable,,,,,Operational,Original
+bufr4/0/08/024/7-10,008024,Statistiques sur les différences,7-10,En réserve,,,,,Operational,Original
+bufr4/0/08/024/11,008024,Statistiques sur les différences,11,Valeur observée moins la valeur climatologique (anomalie),,,,,Operational,Original
+bufr4/0/08/024/12,008024,Statistiques sur les différences,12,Valeur observée moins la valeur analysée,,,,,Operational,Original
+bufr4/0/08/024/13,008024,Statistiques sur les différences,13,Valeur observée moins la valeur analysée initialisée,,,,,Operational,Original
+bufr4/0/08/024/14,008024,Statistiques sur les différences,14,Valeur observée moins la valeur prévue,,,(voir Note 2),93,Operational,Original
+bufr4/0/08/024/15-20,008024,Statistiques sur les différences,15-20,En réserve,,,,,Operational,Original
+bufr4/0/08/024/21,008024,Statistiques sur les différences,21,Valeur observée moins la valeur interpolée,,,,,Operational,Original
+bufr4/0/08/024/22,008024,Statistiques sur les différences,22,Valeur observée moins la valeur calculée de façon hydrostatique,,,,,Operational,Original
+bufr4/0/08/024/23-31,008024,Statistiques sur les différences,23-31,En réserve,,,,,Operational,Original
+bufr4/0/08/024/32-62,008024,Statistiques sur les différences,32-62,Réservés pour les besoins locaux,,,,,Operational,Original
+bufr4/0/08/024/63,008024,Statistiques sur les différences,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/025/0,008025,Décalage dans le temps,0,Temps universel coordonné (UTC) moins heure standard locale,,,,,Operational,Original
 bufr4/0/08/025/1,008025,Décalage dans le temps,1,Heure standard locale,,,,,Operational,Original
 bufr4/0/08/025/2,008025,Décalage dans le temps,2,Temps universel coordonné (UTC) moins horloge de satellite,,,,,Operational,Original
@@ -373,8 +373,8 @@ bufr4/0/08/040/23,008040,Caractéristique du niveau de vol,23,Niveau de fin de v
 bufr4/0/08/040/24,008040,Caractéristique du niveau de vol,24,Tropopause(s),,,,,Operational,Original
 bufr4/0/08/040/25,008040,Caractéristique du niveau de vol,25,Message d'aéronef,,,,,Operational,Original
 bufr4/0/08/040/26,008040,Caractéristique du niveau de vol,26,Niveau interpolé (établi),,,,,Operational,Original
-bufr4/0/08/040/27,008040,Caractéristique du niveau de vol,27,Niveau obligatoire – vent,,,,,Operational,Original
-bufr4/0/08/040/28,008040,Caractéristique du niveau de vol,28,Niveau significatif – vent,,,,,Operational,Original
+bufr4/0/08/040/27,008040,Caractéristique du niveau de vol,27,Niveau obligatoire - vent,,,,,Operational,Original
+bufr4/0/08/040/28,008040,Caractéristique du niveau de vol,28,Niveau significatif - vent,,,,,Operational,Original
 bufr4/0/08/040/29,008040,Caractéristique du niveau de vol,29,Niveau du vent maximal,,,,,Operational,Original
 bufr4/0/08/040/30,008040,Caractéristique du niveau de vol,30,Niveau vent à valeur ascendante (fixé au plan régional),,,,,Operational,Original
 bufr4/0/08/040/31,008040,Caractéristique du niveau de vol,31,Niveau altitude à valeur ascendante (établi),,,,,Operational,Original
@@ -387,7 +387,7 @@ bufr4/0/08/040/37,008040,Caractéristique du niveau de vol,37,Limite supérieure
 bufr4/0/08/040/38,008040,Caractéristique du niveau de vol,38,Sommet du sondage du vent,,,,,Operational,Original
 bufr4/0/08/040/39,008040,Caractéristique du niveau de vol,39,Base du sondage du vent,,,,,Operational,Original
 bufr4/0/08/040/40,008040,Caractéristique du niveau de vol,40,Niveau thermodynamique significatif (inversion),,,,,Operational,Original
-bufr4/0/08/040/41,008040,Caractéristique du niveau de vol,41,Niveau significatif – humidité relative (selon les critères du NCDC),,,,,Operational,Original
+bufr4/0/08/040/41,008040,Caractéristique du niveau de vol,41,Niveau significatif - humidité relative (selon les critères du NCDC),,,,,Operational,Original
 bufr4/0/08/040/42,008040,Caractéristique du niveau de vol,42,Niveau significatif - température (selon les critères du NCDC),,,,,Operational,Original
 bufr4/0/08/040/43,008040,Caractéristique du niveau de vol,43,Début des données manquantes sur le vent,,,,,Operational,Original
 bufr4/0/08/040/44,008040,Caractéristique du niveau de vol,44,Fin des données manquantes sur le vent,,,,,Operational,Original
@@ -427,16 +427,16 @@ bufr4/0/08/042/12,008042,Caractéristique étendue correspondant à des données
 bufr4/0/08/042/13,008042,Caractéristique étendue correspondant à des données de sondage vertical,13,Fin des valeurs manquantes pour le vent,,,,,Operational,Original
 bufr4/0/08/042/14,008042,Caractéristique étendue correspondant à des données de sondage vertical,14,Sommet du sondage du vent,,,,,Operational,Original
 bufr4/0/08/042/15,008042,Caractéristique étendue correspondant à des données de sondage vertical,15,Niveau déterminé par décision régionale,,,,,Operational,Original
-bufr4/0/08/042/16,008042,Caractéristique étendue correspondant à des données de sondage vertical,16,Isotherme 0 °C,,,,,Operational,Original
+bufr4/0/08/042/16,008042,Caractéristique étendue correspondant à des données de sondage vertical,16,Isotherme 0 °C,,,(voir Note),41,Operational,Original
 bufr4/0/08/042/17,008042,Caractéristique étendue correspondant à des données de sondage vertical,17,Niveau de pression indiqué à l'origine par l'altitude en tant que coordonnée verticale,,,,,Operational,Original
 bufr4/0/08/042/All-18,008042,Caractéristique étendue correspondant à des données de sondage vertical,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/043/0,008043,Type de constituants chimiques ou physiques de l'atmosphère,0,Ozone,O3,10028-15-6,,,Operational,Original
-bufr4/0/08/043/1,008043,Type de constituants chimiques ou physiques de l'atmosphère,1,Vapeur d'eau,H₂O,7732-18-5,,,Operational,Original
+bufr4/0/08/043/1,008043,Type de constituants chimiques ou physiques de l'atmosphère,1,Vapeur d'eau,H2O,7732-18-5,,,Operational,Original
 bufr4/0/08/043/2,008043,Type de constituants chimiques ou physiques de l'atmosphère,2,Méthane,CH4,74-82-8,,,Operational,Original
 bufr4/0/08/043/3,008043,Type de constituants chimiques ou physiques de l'atmosphère,3,Dioxyde de carbone,CO2,124-38-9,,,Operational,Original
 bufr4/0/08/043/4,008043,Type de constituants chimiques ou physiques de l'atmosphère,4,Monoxyde de carbone,CO,630-08-0,,,Operational,Original
 bufr4/0/08/043/5,008043,Type de constituants chimiques ou physiques de l'atmosphère,5,Dioxyde d'azote,NO2,10102-44-0,,,Operational,Original
-bufr4/0/08/043/6,008043,Type de constituants chimiques ou physiques de l'atmosphère,6,Protoxyde d'azote,N₂O,10024-97-2,,,Operational,Original
+bufr4/0/08/043/6,008043,Type de constituants chimiques ou physiques de l'atmosphère,6,Protoxyde d'azote,N2O,10024-97-2,,,Operational,Original
 bufr4/0/08/043/7,008043,Type de constituants chimiques ou physiques de l'atmosphère,7,Formaldéhyde,HCHO,50-00-0,,,Operational,Original
 bufr4/0/08/043/8,008043,Type de constituants chimiques ou physiques de l'atmosphère,8,Dioxyde de soufre,SO2,7446-09-5,,,Operational,Original
 bufr4/0/08/043/9-24,008043,Type de constituants chimiques ou physiques de l'atmosphère,9-24,En réserve,,,,,Operational,Original
@@ -469,16 +469,16 @@ bufr4/0/08/051/4,008051,Identificateur pour le nombre de valeurs manquantes dans
 bufr4/0/08/051/5,008051,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,5,Précipitation,,,,,Operational,Original
 bufr4/0/08/051/6,008051,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,6,Durée d'insolation,,,,,Operational,Original
 bufr4/0/08/051/7,008051,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/08/052/0,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,0,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 10 m s-¹ ou 20 nœuds,,,,,Operational,Original
-bufr4/0/08/052/1,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,1,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 20 m s-¹ ou 40 nœuds,,,,,Operational,Original
-bufr4/0/08/052/2,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,2,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 30 m s-¹ ou 60 nœuds,,,,,Operational,Original
+bufr4/0/08/052/0,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,0,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 10 m s-1 ou 20 nœuds,,,,,Operational,Original
+bufr4/0/08/052/1,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,1,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 20 m s-1 ou 40 nœuds,,,,,Operational,Original
+bufr4/0/08/052/2,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,2,Vitesse moyenne du vent observée ou enregistrée pour une période de 10 minutes égale ou supérieure à 30 m s-1 ou 60 nœuds,,,,,Operational,Original
 bufr4/0/08/052/3,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,3,"Température maximale inférieure à 273,15 K",,,,,Operational,Original
 bufr4/0/08/052/4,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,4,"Température maximale égale ou supérieure à 298,15 K",,,,,Operational,Original
 bufr4/0/08/052/5,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,5,"Température maximale égale ou supérieure à 303,15 K",,,,,Operational,Original
 bufr4/0/08/052/6,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,6,"Température maximale égale ou supérieure à 308,15 K",,,,,Operational,Original
 bufr4/0/08/052/7,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,7,"Température maximale égale ou supérieure à 313,15 K",,,,,Operational,Original
 bufr4/0/08/052/8,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,8,"Température minimale inférieure à 273,15 K",,,,,Operational,Original
-bufr4/0/08/052/9,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,9,"Température maximale égale ou supérieure à 273,15 K",,,,,Operational,Original
+bufr4/0/08/052/9,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,9,"Température maximale égale ou supérieure à 273,15 K",,,,,Operational,Original
 bufr4/0/08/052/10,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,10,"Précipitations égales ou supérieures à 1,0 kg m-2",,,,,Operational,Original
 bufr4/0/08/052/11,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,11,"Précipitations égales ou supérieures à 5,0 kg m-2",,,,,Operational,Original
 bufr4/0/08/052/12,008052,Condition pour laquelle le nombre de jours d'occurrence est indiqué,12,"Précipitations égales ou supérieures à 10,0 kg m-2",,,,,Operational,Original
@@ -571,23 +571,23 @@ bufr4/0/08/079/6,008079,Catégorie de produit,6,Message spécial (SPECI),,,,,Ope
 bufr4/0/08/079/7,008079,Catégorie de produit,7,Message spécial corrigé (SPECI COR),,,,,Operational,Original
 bufr4/0/08/079/8-14,008079,Catégorie de produit,8-14,En réserve,,,,,Operational,Original
 bufr4/0/08/079/15,008079,Catégorie de produit,15,Valeur manquante ou non applicable,,,,,Operational,Original
-bufr4/0/08/080/0,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,0,Profil total de la pression hydrostatique,,,,,Operational,Original
-bufr4/0/08/080/1,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,1,Profil total de la température de l'eau,,,,,Operational,Original
-bufr4/0/08/080/2,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,2,Profil total de la salinité de l'eau,,,,,Operational,Original
-bufr4/0/08/080/3,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,3,Profil total de la conductivité de l'eau,,,,,Operational,Original
-bufr4/0/08/080/4,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,4,Profil total de la profondeur de l'eau,,,,,Operational,Original
-bufr4/0/08/080/5-9,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,5-9,En réserve,,,,,Operational,Original
-bufr4/0/08/080/10,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,10,Pression hydrostatique à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/11,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,11,Température de l'eau à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/12,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,12,Salinité à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/13,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,13,Profondeur de l'eau à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/14,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,14,Vitesse du courant à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/15,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,15,Direction du courant à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/16,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,16,Teneur en oxygène dissous à un niveau donné,,,,,Operational,Original
-bufr4/0/08/080/17-19,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,17-19,En réserve,,,,,Operational,Original
-bufr4/0/08/080/20,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,20,Position,,,,,Operational,Original
-bufr4/0/08/080/21-62,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,21-62,En réserve,,,,,Operational,Original
-bufr4/0/08/080/63,008080,Identificateur de l'indicateur de qualité pour le GTSPP*,63,Valeur manquante,,,,,Operational,Original
+bufr4/0/08/080/0,008080,Identificateur de l'indicateur de qualité pour le GTSPP,0,Profil total de la pression hydrostatique,,,,,Operational,Original
+bufr4/0/08/080/1,008080,Identificateur de l'indicateur de qualité pour le GTSPP,1,Profil total de la température de l'eau,,,,,Operational,Original
+bufr4/0/08/080/2,008080,Identificateur de l'indicateur de qualité pour le GTSPP,2,Profil total de la salinité de l'eau,,,,,Operational,Original
+bufr4/0/08/080/3,008080,Identificateur de l'indicateur de qualité pour le GTSPP,3,Profil total de la conductivité de l'eau,,,,,Operational,Original
+bufr4/0/08/080/4,008080,Identificateur de l'indicateur de qualité pour le GTSPP,4,Profil total de la profondeur de l'eau,,,,,Operational,Original
+bufr4/0/08/080/5-9,008080,Identificateur de l'indicateur de qualité pour le GTSPP,5-9,En réserve,,,,,Operational,Original
+bufr4/0/08/080/10,008080,Identificateur de l'indicateur de qualité pour le GTSPP,10,Pression hydrostatique à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/11,008080,Identificateur de l'indicateur de qualité pour le GTSPP,11,Température de l'eau à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/12,008080,Identificateur de l'indicateur de qualité pour le GTSPP,12,Salinité à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/13,008080,Identificateur de l'indicateur de qualité pour le GTSPP,13,Profondeur de l'eau à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/14,008080,Identificateur de l'indicateur de qualité pour le GTSPP,14,Vitesse du courant à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/15,008080,Identificateur de l'indicateur de qualité pour le GTSPP,15,Direction du courant à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/16,008080,Identificateur de l'indicateur de qualité pour le GTSPP,16,Teneur en oxygène dissous à un niveau donné,,,,,Operational,Original
+bufr4/0/08/080/17-19,008080,Identificateur de l'indicateur de qualité pour le GTSPP,17-19,En réserve,,,,,Operational,Original
+bufr4/0/08/080/20,008080,Identificateur de l'indicateur de qualité pour le GTSPP,20,Position,,,,,Operational,Original
+bufr4/0/08/080/21-62,008080,Identificateur de l'indicateur de qualité pour le GTSPP,21-62,En réserve,,,,,Operational,Original
+bufr4/0/08/080/63,008080,Identificateur de l'indicateur de qualité pour le GTSPP,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/081/0,008081,Type d'équipement,0,Capteur,,,,,Operational,Original
 bufr4/0/08/081/1,008081,Type d'équipement,1,Émetteur,,,,,Operational,Original
 bufr4/0/08/081/2,008081,Type d'équipement,2,Récepteur,,,,,Operational,Original
@@ -595,7 +595,7 @@ bufr4/0/08/081/3,008081,Type d'équipement,3,Plate-forme d'observation,,,,,Opera
 bufr4/0/08/081/4-62,008081,Type d'équipement,4-62,En réserve,,,,,Operational,Original
 bufr4/0/08/081/63,008081,Type d'équipement,63,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/082/0,008082,Correction de la hauteur du capteur,0,La hauteur du capteur n'est pas corrigée,,,,,Operational,Original
-bufr4/0/08/082/1,008082,Correction de la hauteur du capteur,1,La hauteur du capteur est remplacée par la hauteur standard*,,,,,Operational,Original
+bufr4/0/08/082/1,008082,Correction de la hauteur du capteur,1,La hauteur du capteur est remplacée par la hauteur standard,,,(voir Note),48,Operational,Original
 bufr4/0/08/082/2-6,008082,Correction de la hauteur du capteur,2-6,En réserve,,,,,Operational,Original
 bufr4/0/08/082/7,008082,Correction de la hauteur du capteur,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/083/1,008083,Indicateur de valeur nominale,1,Ajustée à la hauteur représentative du capteur au-dessus du sol (ou du pont à une plate-forme marine) ou en fonction de celle-ci,,,,,Operational,Original
@@ -611,7 +611,7 @@ bufr4/0/08/083/10-14,008083,Indicateur de valeur nominale,10-14,En réserve,,,,,
 bufr4/0/08/083/All-15,008083,Indicateur de valeur nominale,15 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/085/0,008085,Identification du faisceau,0,Faisceau avant,,,,,Operational,Original
 bufr4/0/08/085/1,008085,Identification du faisceau,1,Faisceau médian,,,,,Operational,Original
-bufr4/0/08/085/2,008085,Identification du faisceau,2,Faisceau arrière,,,,,Operational,Original
+bufr4/0/08/085/2,008085,Identification du faisceau,2,Faisceau amère,,,,,Operational,Original
 bufr4/0/08/085/3-6,008085,Identification du faisceau,3-6,En réserve,,,,,Operational,Original
 bufr4/0/08/085/7,008085,Identification du faisceau,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/086/1,008086,Caractéristique verticale pour la prévision numérique du temps,1,Surface «sol» du modèle,,,,,Operational,Original

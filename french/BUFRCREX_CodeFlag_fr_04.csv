@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
 bufr4/0/04/059/1,004059,Heures des observations servant à calculer les valeurs moyennes transmises,1,0000 UTC,,,,,Operational,Original
 bufr4/0/04/059/2,004059,Heures des observations servant à calculer les valeurs moyennes transmises,2,0600 UTC,,,,,Operational,Original
 bufr4/0/04/059/3,004059,Heures des observations servant à calculer les valeurs moyennes transmises,3,1200 UTC,,,,,Operational,Original

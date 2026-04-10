@@ -1,42 +1,42 @@
 Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/20/003//1,020003,Temps présent,,00-49   Pas de précipitations à la station au moment de l'observation,,,,,Operational,Original
-bufr4/0/20/003//2,020003,Temps présent,,"00-19   Pas de précipitations, de brouillard, de brouillard glacé (exception faite pour 11 et 12), de tempête de poussière, de tempête de sable, de chasse-neige basse ou élevée à la station* au moment de l'observation ou, exception faite pour 09 et 17, durant l'heure précédente",,,,,Operational,Original
-bufr4/0/20/003//3,020003,Temps présent,,00-03   Pas de météores excepté des photométéores,,,,,Operational,Original
-bufr4/0/20/003/00,020003,Temps présent,00,On n'a pas observé d'évolution des nuages ou l'on n'a pas pu suivre cette évolution,,,,,Operational,Original
+bufr4/0/20/003//1,020003,Temps présent,,00-49 Pas de précipitations à la station au moment de l'observation,,,,,Operational,Original
+bufr4/0/20/003//2,020003,Temps présent,,"00-19 Pas de précipitations, de brouillard, de brouillard glacé (exception faite pour 11 et 12), de tempête de poussière, de tempête de sable, de chasse-neige basse ou élevée à la station au moment de l'observation ou, exception faite pour 09 et 17, durant l'heure précédente",,,,,Operational,Original
+bufr4/0/20/003//3,020003,Temps présent,,00-03 Pas de météores excepté des photométéores,,,,,Operational,Original
+bufr4/0/20/003/00,020003,Temps présent,00,On n'a pas observé d'évolution des nuages ou l'on n'a pas pu suivre cette évolution,Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
 bufr4/0/20/003/01,020003,Temps présent,01,"Dans l'ensemble, nuages se dissipant ou devenant moins épais",Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
 bufr4/0/20/003/02,020003,Temps présent,02,État du ciel inchangé dans l'ensemble,Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
 bufr4/0/20/003/03,020003,Temps présent,03,Nuages en formation ou en train de se développer,Changement caractéristique de l'état du ciel durant l'heure qui vient de s'écouler,,,,Operational,Original
-bufr4/0/20/003//4,020003,Temps présent,,"04-09   Brume sèche, poussière, sable ou fumée",,,,,Operational,Original
+bufr4/0/20/003//4,020003,Temps présent,,"04-09 Brume sèche, poussière, sable ou fumée",,,,,Operational,Original
 bufr4/0/20/003/04,020003,Temps présent,04,"Visibilité réduite par de la fumée, par exemple: feu de brousse ou incendie de forêt, des fumées industrielles ou des cendres volcaniques",,,,,Operational,Original
 bufr4/0/20/003/05,020003,Temps présent,05,Brume sèche,,,,,Operational,Original
 bufr4/0/20/003/06,020003,Temps présent,06,"Poussières en suspension dans l'air d'une manière généralisée, non brassées par le vent à la station ou à proximité de celle-ci au moment de l'observation",,,,,Operational,Original
 bufr4/0/20/003/07,020003,Temps présent,07,"Poussières ou sable brassés par le vent à la station ou à proximité de celle-ci au moment de l'observation, mais absence de tourbillon(s) de poussière ou de sable caractérisé(s), et pas de tempête de poussière ou de sable observée; ou embruns observés à la station, lorsqu'il s'agit d'une station en mer ou d'une station côtière",,,,,Operational,Original
 bufr4/0/20/003/08,020003,Temps présent,08,"Tourbillon(s) de poussière ou de sable caractérisé(s), observé(s) à la station ou à proximité de celle-ci durant l'heure précédente ou au moment de l'observation, mais pas de tempête de poussière ou de sable",,,,,Operational,Original
 bufr4/0/20/003/09,020003,Temps présent,09,"Tempête de poussière ou de sable en vue de la station au moment de l'observation, ou à la station même pendant l'heure précédente",,,,,Operational,Original
-bufr4/0/20/003/10,020003,Temps présent,10,Brume,,,,,Operational,Original
-bufr4/0/20/003/11,020003,Temps présent,11,En bancs,"mince couche de brouillard ou de brouillard glacé à la station, qu'il s'agisse d'une station terrestre ou d'une station en mer, d'une épaisseur n'excédant pas 2 mètres sur terre ou 10 mètres en mer",,,,Operational,Original
-bufr4/0/20/003/12,020003,Temps présent,12,Plus ou moins continue,"mince couche de brouillard ou de brouillard glacé à la station, qu'il s'agisse d'une station terrestre ou d'une station en mer, d'une épaisseur n'excédant pas 2 mètres sur terre ou 10 mètres en mer",,,,Operational,Original
+bufr4/0/20/003/10,020003,Temps présent,10,Brume,"Mince couche de brouillard ou de brouillard glacé à la station, qu'il s'agisse d'une station terrestre ou d'une station en mer, d'une épaisseur n'excédant pas 2 mètres sur terre ou 10 mètres en mer",,,,Operational,Original
+bufr4/0/20/003/11,020003,Temps présent,11,En bancs,"Mince couche de brouillard ou de brouillard glacé à la station, qu'il s'agisse d'une station terrestre ou d'une station en mer, d'une épaisseur n'excédant pas 2 mètres sur terre ou 10 mètres en mer",,,,Operational,Original
+bufr4/0/20/003/12,020003,Temps présent,12,Plus ou moins continue,"Mince couche de brouillard ou de brouillard glacé à la station, qu'il s'agisse d'une station terrestre ou d'une station en mer, d'une épaisseur n'excédant pas 2 mètres sur terre ou 10 mètres en mer",,,,Operational,Original
 bufr4/0/20/003/13,020003,Temps présent,13,"Éclairs visibles, tonnerre non perceptible",,,,,Operational,Original
 bufr4/0/20/003/14,020003,Temps présent,14,"Précipitations en vue, n'atteignant pas le sol ou la surface de la mer",,,,,Operational,Original
 bufr4/0/20/003/15,020003,Temps présent,15,"Précipitations en vue, atteignant le sol ou la surface de la mer, mais distantes (c'est-à-dire à plus de 5 km à l'estime) de la station",,,,,Operational,Original
 bufr4/0/20/003/16,020003,Temps présent,16,"Précipitations en vue, atteignant le sol ou la surface de la mer, près de la station mais pas à la station même",,,,,Operational,Original
 bufr4/0/20/003/17,020003,Temps présent,17,"Orage, mais pas de précipitations au moment de l'observation",,,,,Operational,Original
 bufr4/0/20/003/18,020003,Temps présent,18,Grains,à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/19,020003,Temps présent,19,Trombe(s)**,à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003//5,020003,Temps présent,,"20-29   Précipitations, brouillard, brouillard glacé ou orage à la station au cours de l'heure précédente, mais non au moment de l'observation",,,,,Operational,Original
+bufr4/0/20/003/19,020003,Temps présent,19,Trombe(s),à la station ou en vue de celle-ci pendant l'heure précédente ou au moment de l'observation,,(voir Note 5),89,Operational,Original
+bufr4/0/20/003//5,020003,Temps présent,,"20-29 Précipitations, brouillard, brouillard glacé ou orage à la station au cours de l'heure précédente, mais non au moment de l'observation",,,,,Operational,Original
 bufr4/0/20/003/20,020003,Temps présent,20,Bruine (ne se congelant pas) ou neige en grains,pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/21,020003,Temps présent,21,Pluie (ne se congelant pas),pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/22,020003,Temps présent,22,Neige,pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/23,020003,Temps présent,23,Pluie et neige mêlées ou granules de glace,pas sous forme d'averse(s),,,,Operational,Original
-bufr4/0/20/003/24,020003,Temps présent,24,Bruine ou pluie se congelant,,,,,Operational,Original
-bufr4/0/20/003/25,020003,Temps présent,25,Averse(s) de pluie,,,,,Operational,Original
+bufr4/0/20/003/24,020003,Temps présent,24,Bruine ou pluie se congelant,pas sous forme d'averse(s),,,,Operational,Original
+bufr4/0/20/003/25,020003,Temps présent,25,Averse(s) de pluie,pas sous forme d'averse(s),,,,Operational,Original
 bufr4/0/20/003/26,020003,Temps présent,26,"Averse(s) de neige, ou de pluie et de neige",,,,,Operational,Original
-bufr4/0/20/003/27,020003,Temps présent,27,"Averse(s) de grêle*, ou de pluie et de grêle*",,,,,Operational,Original
+bufr4/0/20/003/27,020003,Temps présent,27,"Averse(s) de grêle, ou de pluie et de grêle",,,(voir Note 6),46,Operational,Original
 bufr4/0/20/003/28,020003,Temps présent,28,Brouillard ou brouillard glacé,,,,,Operational,Original
 bufr4/0/20/003/29,020003,Temps présent,29,Orage (avec ou sans précipitations),,,,,Operational,Original
-bufr4/0/20/003//6,020003,Temps présent,,"30-39   Tempête de poussière, tempête de sable, chasse-neige basse ou élevée",,,,,Operational,Original
+bufr4/0/20/003//6,020003,Temps présent,,"30-39 Tempête de poussière, tempête de sable, chasse-neige basse ou élevée",,,,,Operational,Original
 bufr4/0/20/003/30,020003,Temps présent,30,Tempête de poussière ou de sable faible ou modérée,a diminué au cours de l'heure précédente,,,,Operational,Original
-bufr4/0/20/003/31,020003,Temps présent,31,Tempête de poussière ou de sable faible ou modérée,sans changement appréciable au cours de l'heure précédente,,,,Operational,Original
+bufr4/0/20/003/31,020003,Temps présent,31,Tempête de poussière ou de sable faible ou modérée,sans changement appréciable au cours de l'heure précédente,,,,,Operational
 bufr4/0/20/003/32,020003,Temps présent,32,Tempête de poussière ou de sable faible ou modérée,a débuté ou a augmenté au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/33,020003,Temps présent,33,Violente tempête de poussière ou de sable,a diminué au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/34,020003,Temps présent,34,Violente tempête de poussière ou de sable,sans changement appréciable au cours de l'heure précédente,,,,Operational,Original
@@ -45,7 +45,7 @@ bufr4/0/20/003/36,020003,Temps présent,36,Chasse-neige faible ou modérée,gén
 bufr4/0/20/003/37,020003,Temps présent,37,Forte chasse-neige,généralement basse (au-dessous du niveau de l'œil),,,,Operational,Original
 bufr4/0/20/003/38,020003,Temps présent,38,Chasse-neige faible ou modérée,généralement élevée (au-dessus du niveau de l'œil),,,,Operational,Original
 bufr4/0/20/003/39,020003,Temps présent,39,Forte chasse-neige,généralement élevée (au-dessus du niveau de l'œil),,,,Operational,Original
-bufr4/0/20/003//7,020003,Temps présent,,40-49   Brouillard ou brouillard glacé au moment de l'observation,,,,,Operational,Original
+bufr4/0/20/003//7,020003,Temps présent,,40-49 Brouillard ou brouillard glacé au moment de l'observation,,,,,Operational,Original
 bufr4/0/20/003/40,020003,Temps présent,40,"Brouillard ou brouillard glacé à distance au moment de l'observation, mais non à la station même au cours de l'heure précédente, le brouillard ou le brouillard glacé s'étendant jusqu'à un niveau supérieur à celui de l'observateur",,,,,Operational,Original
 bufr4/0/20/003/41,020003,Temps présent,41,Brouillard ou brouillard glacé en bancs,,,,,Operational,Original
 bufr4/0/20/003/42,020003,Temps présent,42,"Brouillard ou brouillard glacé, ciel visible",s'est aminci au cours de l'heure précédente,,,,Operational,Original
@@ -56,8 +56,8 @@ bufr4/0/20/003/46,020003,Temps présent,46,"Brouillard ou brouillard glacé, cie
 bufr4/0/20/003/47,020003,Temps présent,47,"Brouillard ou brouillard glacé, ciel invisible",a commencé ou est devenu plus épais au cours de l'heure précédente,,,,Operational,Original
 bufr4/0/20/003/48,020003,Temps présent,48,"Brouillard, déposant du givre, ciel visible",,,,,Operational,Original
 bufr4/0/20/003/49,020003,Temps présent,49,"Brouillard, déposant du givre, ciel invisible",,,,,Operational,Original
-bufr4/0/20/003//8,020003,Temps présent,,50-99    Précipitations à la station au moment de l'observation,,,,,Operational,Original
-bufr4/0/20/003//9,020003,Temps présent,,50-59   Bruine,,,,,Operational,Original
+bufr4/0/20/003//8,020003,Temps présent,,50-99 Précipitations à la station au moment de l'observation,,,,,Operational,Original
+bufr4/0/20/003//9,020003,Temps présent,,50-59 Bruine,,,,,Operational,Original
 bufr4/0/20/003/50,020003,Temps présent,50,"Bruine, sans congélation, intermittente",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/51,020003,Temps présent,51,"Bruine, sans congélation, continue",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/52,020003,Temps présent,52,"Bruine, sans congélation, intermittente",modérée au moment de l'observation,,,,Operational,Original
@@ -68,18 +68,18 @@ bufr4/0/20/003/56,020003,Temps présent,56,"Bruine, se congelant, faible",,,,,Op
 bufr4/0/20/003/57,020003,Temps présent,57,"Bruine, se congelant, modérée ou forte (dense)",,,,,Operational,Original
 bufr4/0/20/003/58,020003,Temps présent,58,"Bruine et pluie, faibles",,,,,Operational,Original
 bufr4/0/20/003/59,020003,Temps présent,59,"Bruine et pluie, modérées ou fortes",,,,,Operational,Original
-bufr4/0/20/003//10,020003,Temps présent,,60-69   Pluie,,,,,Operational,Original
+bufr4/0/20/003//10,020003,Temps présent,,60-69 Pluie,,,,,Operational,Original
 bufr4/0/20/003/60,020003,Temps présent,60,"Pluie, sans congélation, intermittente",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/61,020003,Temps présent,61,"Pluie, sans congélation, continue",faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/62,020003,Temps présent,62,"Pluie, sans congélation, intermittente",modérée au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/63,020003,Temps présent,63,"Pluie, sans congélation, continue",modérée au moment de l'observation,,,,Operational,Original
+bufr4/0/20/003/63,020003,Temps présent,63,"Pluie, sans congélation, continue",modérée au moment de l'observation,,,,,Operational
 bufr4/0/20/003/64,020003,Temps présent,64,"Pluie, sans congélation, intermittente",forte au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/65,020003,Temps présent,65,"Pluie, sans congélation, continue",forte au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/66,020003,Temps présent,66,"Pluie, se congelant, faible",,,,,Operational,Original
 bufr4/0/20/003/67,020003,Temps présent,67,"Pluie, se congelant, modérée ou forte",,,,,Operational,Original
 bufr4/0/20/003/68,020003,Temps présent,68,"Pluie ou bruine et neige, faibles",,,,,Operational,Original
 bufr4/0/20/003/69,020003,Temps présent,69,"Pluie ou bruine et neige, modérées ou fortes",,,,,Operational,Original
-bufr4/0/20/003//11,020003,Temps présent,,70-79   Précipitations solides non sous forme d'averses,,,,,Operational,Original
+bufr4/0/20/003//11,020003,Temps présent,,70-79 Précipitations solides non sous forme d'averses,,,,,Operational,Original
 bufr4/0/20/003/70,020003,Temps présent,70,Chute intermittente de flocons de neige,faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/71,020003,Temps présent,71,Chute continue de flocons de neige,faible au moment de l'observation,,,,Operational,Original
 bufr4/0/20/003/72,020003,Temps présent,72,Chute intermittente de flocons de neige,modérée au moment de l'observation,,,,Operational,Original
@@ -90,7 +90,7 @@ bufr4/0/20/003/76,020003,Temps présent,76,Poudrin de glace (avec ou sans brouil
 bufr4/0/20/003/77,020003,Temps présent,77,Neige en grains (avec ou sans brouillard),,,,,Operational,Original
 bufr4/0/20/003/78,020003,Temps présent,78,Etoiles de neige isolées (avec ou sans brouillard),,,,,Operational,Original
 bufr4/0/20/003/79,020003,Temps présent,79,Granules de glace,,,,,Operational,Original
-bufr4/0/20/003//12,020003,Temps présent,,"80-99   Précipitations sous forme d'averses, ou précipitations avec orage ou après un orage",,,,,Operational,Original
+bufr4/0/20/003//12,020003,Temps présent,,"80-99 Précipitations sous forme d'averses, ou précipitations avec orage ou après un orage",,,,,Operational,Original
 bufr4/0/20/003/80,020003,Temps présent,80,"Averse(s) de pluie, faible(s)",,,,,Operational,Original
 bufr4/0/20/003/81,020003,Temps présent,81,"Averse(s) de pluie, modérée(s) ou forte(s)",,,,,Operational,Original
 bufr4/0/20/003/82,020003,Temps présent,82,"Averse(s) de pluie, violente(s)",,,,,Operational,Original
@@ -102,16 +102,15 @@ bufr4/0/20/003/87,020003,Temps présent,87,"Averse(s) de grésil ou neige roulé
 bufr4/0/20/003/88,020003,Temps présent,88,"Averse(s) de grésil ou neige roulée, avec ou sans pluie ou pluie et neige mêlées",modérée(s) ou forte(s),,,,Operational,Original
 bufr4/0/20/003/89,020003,Temps présent,89,"Averse(s) de grêle, avec ou sans pluie ou pluie et neige mêlées, sans tonnerre",faible(s),,,,Operational,Original
 bufr4/0/20/003/90,020003,Temps présent,90,"Averse(s) de grêle, avec ou sans pluie ou pluie et neige mêlées, sans tonnerre",modérée(s) ou forte(s),,,,Operational,Original
-bufr4/0/20/003/91,020003,Temps présent,91,Pluie faible au moment de l'observation,Orage durant l'heure précédente mais non au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/92,020003,Temps présent,92,Pluie modérée ou forte au moment de l'observation,Orage durant l'heure précédente mais non au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/93,020003,Temps présent,93,"Faible chute de neige, ou pluie et neige mêlées ou grêle* au moment de l'observation",Orage durant l'heure précédente mais non au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/94,020003,Temps présent,94,"Chute modérée ou forte de neige, ou pluie et neige mêlées ou grêle* au moment de l'observation",Orage durant l'heure précédente mais non au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/95,020003,Temps présent,95,"Orage faible ou modéré, sans grêle*, mais avec pluie ou neige ou pluie et neige mêlées au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/96,020003,Temps présent,96,"Orage faible ou modéré, avec grêle* au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/97,020003,Temps présent,97,"Orage fort, sans grêle*, mais avec pluie ou neige ou pluie et neige mêlées au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
+bufr4/0/20/003/91,020003,Temps présent,91,Pluie faible au moment de l'observation,"Orage durant l'heure précédente, mais non au moment de l'observation",,,,Operational,Original
+bufr4/0/20/003/92,020003,Temps présent,92,Pluie modérée ou forte au moment de l'observation,"Orage durant l'heure précédente, mais non au moment de l'observation",,,,Operational,Original
+bufr4/0/20/003/93,020003,Temps présent,93,"Faible chute de neige, ou pluie et neige mêlées ou grêle au moment de l'observation","Orage durant l'heure précédente, mais non au moment de l'observation",,(voir Note 6),46,Operational,Original
+bufr4/0/20/003/94,020003,Temps présent,94,"Chute modérée ou forte de neige, ou pluie et neige mêlées ou grêle au moment de l'observation","Orage durant l'heure précédente, mais non au moment de l'observation",,(voir Note 6),46,Operational,Original
+bufr4/0/20/003/95,020003,Temps présent,95,"Orage faible ou modéré, sans grêle, mais avec pluie ou neige ou pluie et neige mêlées au moment de l'observation",Orage au moment de l'observation,,(voir Note 6),46,Operational,Original
+bufr4/0/20/003/96,020003,Temps présent,96,"Orage faible ou modéré, avec grêle au moment de l'observation",Orage au moment de l'observation,,(voir Note 6),46,Operational,Original
+bufr4/0/20/003/97,020003,Temps présent,97,"Orage fort, sans grêle, mais avec pluie ou neige ou pluie et neige mêlées au moment de l'observation",Orage au moment de l'observation,,(voir Note 6),46,Operational,Original
 bufr4/0/20/003/98,020003,Temps présent,98,Orage avec tempête de poussière ou de sable au moment de l'observation,Orage au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003/99,020003,Temps présent,99,"Orage fort, avec grêle* au moment de l'observation",Orage au moment de l'observation,,,,Operational,Original
-bufr4/0/20/003//13,020003,Temps présent,,Temps présent transmis par une station météorologique automatique,,,,,Operational,Original
+bufr4/0/20/003/99,020003,Temps présent,99,"Orage fort, avec grêle au moment de l'observation",Orage au moment de l'observation,,(voir Note 6),46,Operational,Original
 bufr4/0/20/003/100,020003,Temps présent,100,On n'a pas observé de temps significatif,,,,,Operational,Original
 bufr4/0/20/003/101,020003,Temps présent,101,"Dans l'ensemble, nuages se dissipant ou devenant moins épais durant l'heure qui vient de s'écouler",,,,,Operational,Original
 bufr4/0/20/003/102,020003,Temps présent,102,État du ciel inchangé dans l'ensemble durant l'heure qui vient de s'écouler,,,,,Operational,Original

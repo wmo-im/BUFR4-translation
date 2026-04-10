@@ -1,10 +1,10 @@
-﻿Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/23/001/0,023001,Notification rapide d'un accident — article applicable,0,En réserve,,,,,Operational,Original
-bufr4/0/23/001/1,023001,Notification rapide d'un accident — article applicable,1,Articles 1 et 2,,,,,Operational,Original
-bufr4/0/23/001/2,023001,Notification rapide d'un accident — article applicable,2,Article 3,,,,,Operational,Original
-bufr4/0/23/001/3,023001,Notification rapide d'un accident — article applicable,3,Article 5.2,,,,,Operational,Original
-bufr4/0/23/001/4-6,023001,Notification rapide d'un accident — article applicable,4-6,En réserve,,,,,Operational,Original
-bufr4/0/23/001/7,023001,Notification rapide d'un accident — article applicable,7,Valeur manquante,,,,,Operational,Original
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+bufr4/0/23/001/0,023001,Notification rapide d'un accident - article applicable,0,En réserve,,,,,Operational,Original
+bufr4/0/23/001/1,023001,Notification rapide d'un accident - article applicable,1,Articles 1 et 2,,,,,Operational,Original
+bufr4/0/23/001/2,023001,Notification rapide d'un accident - article applicable,2,Article 3,,,,,Operational,Original
+bufr4/0/23/001/3,023001,Notification rapide d'un accident - article applicable,3,Article 5.2,,,,,Operational,Original
+bufr4/0/23/001/4-6,023001,Notification rapide d'un accident - article applicable,4-6,En réserve,,,,,Operational,Original
+bufr4/0/23/001/7,023001,Notification rapide d'un accident - article applicable,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/23/002/0,023002,Activité ou installation en cause dans l'incident,0,En réserve,,,,,Operational,Original
 bufr4/0/23/002/1,023002,Activité ou installation en cause dans l'incident,1,Réacteur nucléaire au sol,,,,,Operational,Original
 bufr4/0/23/002/2,023002,Activité ou installation en cause dans l'incident,2,Réacteur nucléaire en mer,,,,,Operational,Original
