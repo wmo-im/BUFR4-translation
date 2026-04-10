@@ -42,10 +42,10 @@ bufr4/0/19/101/10,019101,Précision de la position du centre du cyclone tropical
 bufr4/0/19/101/11-14,019101,Précision de la position du centre du cyclone tropical,11-14,Non utilisé,,,,,Operational,Original
 bufr4/0/19/101/15,019101,Précision de la position du centre du cyclone tropical,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/19/102/0,019102,Configuration et définition de l'œil du cyclone tropical,0,Circulaire,,,,,Operational,Original
-bufr4/0/19/102/1,019102,Configuration et définition de l'œil du cyclone tropical,1,Elliptique - le petit axe atteint au moins les 3/4 de la longueur du grand axe,,,,,Operational,Original
-bufr4/0/19/102/2,019102,Configuration et définition de l'œil du cyclone tropical,2,Elliptique - le petit axe est inférieur aux 3/4 de la longueur du grand axe bien définie,,,,,Operational,Original
-bufr4/0/19/102/3,019102,Configuration et définition de l'œil du cyclone tropical,3,Œil apparemment double,,,,,Operational,Original
-bufr4/0/19/102/4,019102,Configuration et définition de l'œil du cyclone tropical,4,Autre forme,,,,,Operational,Original
+bufr4/0/19/102/1,019102,Configuration et définition de l'œil du cyclone tropical,1,Elliptique - le petit axe atteint au moins les 3/4 de la longueur du grand axe,bien définie,,,,Operational,Original
+bufr4/0/19/102/2,019102,Configuration et définition de l'œil du cyclone tropical,2,Elliptique - le petit axe est inférieur aux 3/4 de la longueur du grand axe,bien définie,,,,Operational,Original
+bufr4/0/19/102/3,019102,Configuration et définition de l'œil du cyclone tropical,3,Œil apparemment double,bien définie,,,,Operational,Original
+bufr4/0/19/102/4,019102,Configuration et définition de l'œil du cyclone tropical,4,Autre forme,bien définie,,,,Operational,Original
 bufr4/0/19/102/5,019102,Configuration et définition de l'œil du cyclone tropical,5,Mal définie,,,,,Operational,Original
 bufr4/0/19/102/6,019102,Configuration et définition de l'œil du cyclone tropical,6,Indéterminée,,,,,Operational,Original
 bufr4/0/19/102/7,019102,Configuration et définition de l'œil du cyclone tropical,7,Valeur manquante,,,,,Operational,Original
@@ -130,22 +130,22 @@ bufr4/0/19/110/9,019110,"Variation apparente de l'intensité du cyclone tropical
 bufr4/0/19/110/10,019110,"Variation apparente de l'intensité du cyclone tropical, à 24 heures d'intervalle",10,Indéterminée,,,,,Operational,Original
 bufr4/0/19/110/11-14,019110,"Variation apparente de l'intensité du cyclone tropical, à 24 heures d'intervalle",11-14,Non utilisé,,,,,Operational,Original
 bufr4/0/19/110/15,019110,"Variation apparente de l'intensité du cyclone tropical, à 24 heures d'intervalle",15,Valeur manquante,,,,,Operational,Original
-bufr4/0/19/113/1,019113,Configuration nuageuse correspondant au nombre DT Type,1,Bandes incurvées,,,,,Operational,Original
-bufr4/0/19/113/2,019113,Configuration nuageuse correspondant au nombre DT Type,2,Cisaillement,,,,,Operational,Original
-bufr4/0/19/113/3,019113,Configuration nuageuse correspondant au nombre DT Type,3,Œil,,,,,Operational,Original
-bufr4/0/19/113/4,019113,Configuration nuageuse correspondant au nombre DT Type,4,Œil en bandes,,,,,Operational,Original
-bufr4/0/19/113/5,019113,Configuration nuageuse correspondant au nombre DT Type,5,Couverture nuageuse centrale dense (CDO),,,,,Operational,Original
-bufr4/0/19/113/6,019113,Configuration nuageuse correspondant au nombre DT Type,6,Centre noyé dans la masse,,,,,Operational,Original
-bufr4/0/19/113/7,019113,Configuration nuageuse correspondant au nombre DT Type,7,Couverture nuageuse centrale froide (CCC),,,,,Operational,Original
-bufr4/0/19/113/8-14,019113,Configuration nuageuse correspondant au nombre DT Type,8-14,En réserve,,,,,Operational,Original
-bufr4/0/19/113/15,019113,Configuration nuageuse correspondant au nombre DT Type,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/19/117/1,019117,Type d'image de nuages correspondant au nombre PT Type,1,A (bandes incurvées),,,,,Operational,Original
-bufr4/0/19/117/2,019117,Type d'image de nuages correspondant au nombre PT Type,2,B (CDO),,,,,Operational,Original
-bufr4/0/19/117/3,019117,Type d'image de nuages correspondant au nombre PT Type,3,C (cisaillement),,,,,Operational,Original
-bufr4/0/19/117/4-6,019117,Type d'image de nuages correspondant au nombre PT Type,4-6,En réserve,,,,,Operational,Original
-bufr4/0/19/117/7,019117,Type d'image de nuages correspondant au nombre PT Type,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/19/119/1,019119,Type du nombre T final Type,1,Nombre DT,,,,,Operational,Original
-bufr4/0/19/119/2,019119,Type du nombre T final Type,2,Nombre PT,,,,,Operational,Original
-bufr4/0/19/119/3,019119,Type du nombre T final Type,3,Nombre MET,,,,,Operational,Original
-bufr4/0/19/119/4-6,019119,Type du nombre T final Type,4-6,En réserve,,,,,Operational,Original
-bufr4/0/19/119/7,019119,Type du nombre T final Type,7,Valeur manquante,,,,,Operational,Original
+bufr4/0/19/113/1,019113,Configuration nuageuse correspondant au nombre DT,1,Bandes incurvées,,,,,Operational,Original
+bufr4/0/19/113/2,019113,Configuration nuageuse correspondant au nombre DT,2,Cisaillement,,,,,Operational,Original
+bufr4/0/19/113/3,019113,Configuration nuageuse correspondant au nombre DT,3,Œil,,,,,Operational,Original
+bufr4/0/19/113/4,019113,Configuration nuageuse correspondant au nombre DT,4,Œil en bandes,,,,,Operational,Original
+bufr4/0/19/113/5,019113,Configuration nuageuse correspondant au nombre DT,5,Couverture nuageuse centrale dense (CDO),,,,,Operational,Original
+bufr4/0/19/113/6,019113,Configuration nuageuse correspondant au nombre DT,6,Centre noyé dans la masse,,,,,Operational,Original
+bufr4/0/19/113/7,019113,Configuration nuageuse correspondant au nombre DT,7,Couverture nuageuse centrale froide (CCC),,,,,Operational,Original
+bufr4/0/19/113/8-14,019113,Configuration nuageuse correspondant au nombre DT,8-14,En réserve,,,,,Operational,Original
+bufr4/0/19/113/15,019113,Configuration nuageuse correspondant au nombre DT,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/19/117/1,019117,Type d'image de nuages correspondant au nombre PT,1,A (bandes incurvées),,,,,Operational,Original
+bufr4/0/19/117/2,019117,Type d'image de nuages correspondant au nombre PT,2,B (CDO),,,,,Operational,Original
+bufr4/0/19/117/3,019117,Type d'image de nuages correspondant au nombre PT,3,C (cisaillement),,,,,Operational,Original
+bufr4/0/19/117/4-6,019117,Type d'image de nuages correspondant au nombre PT,4-6,En réserve,,,,,Operational,Original
+bufr4/0/19/117/7,019117,Type d'image de nuages correspondant au nombre PT,7,Valeur manquante,,,,,Operational,Original
+bufr4/0/19/119/1,019119,Type du nombre T final,1,Nombre DT,,,,,Operational,Original
+bufr4/0/19/119/2,019119,Type du nombre T final,2,Nombre PT,,,,,Operational,Original
+bufr4/0/19/119/3,019119,Type du nombre T final,3,Nombre MET,,,,,Operational,Original
+bufr4/0/19/119/4-6,019119,Type du nombre T final,4-6,En réserve,,,,,Operational,Original
+bufr4/0/19/119/7,019119,Type du nombre T final,7,Valeur manquante,,,,,Operational,Original

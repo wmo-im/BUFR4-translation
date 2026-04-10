@@ -1,5 +1,5 @@
 Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
-bufr4/0/40/005/1,040005,Indicateur de correction de l'humidité du sol,1,Humidité du sol entre-20 % et 0 %,,,,,Operational,Original
+bufr4/0/40/005/1,040005,Indicateur de correction de l'humidité du sol,1,Humidité du sol entre -20 % et 0 %,,,,,Operational,Original
 bufr4/0/40/005/2,040005,Indicateur de correction de l'humidité du sol,2,Humidité du sol entre 100 % et 120 %,,,,,Operational,Original
 bufr4/0/40/005/3,040005,Indicateur de correction de l'humidité du sol,3,Correction de la référence de rétrodiffusion par conditions humides,,,,,Operational,Original
 bufr4/0/40/005/4,040005,Indicateur de correction de l'humidité du sol,4,Correction de la référence de rétrodiffusion par conditions sèches,,,,,Operational,Original
@@ -12,7 +12,7 @@ bufr4/0/40/006/3,040006,Indicateur de traitement de l'humidité du sol,3,Bruit e
 bufr4/0/40/006/4,040006,Indicateur de traitement de l'humidité du sol,4,Rétrodiffusion faisceaux avant-arrière hors limites,,,,,Operational,Original
 bufr4/0/40/006/5,040006,Indicateur de traitement de l'humidité du sol,5,Pente faisceaux médian-avant hors limites,,,,,Operational,Original
 bufr4/0/40/006/6,040006,Indicateur de traitement de l'humidité du sol,6,Pente faisceaux médian-arrière hors limites,,,,,Operational,Original
-bufr4/0/40/006/7,040006,Indicateur de traitement de l'humidité du sol,7,Humidité du sol inférieure à-20 %,,,,,Operational,Original
+bufr4/0/40/006/7,040006,Indicateur de traitement de l'humidité du sol,7,Humidité du sol inférieure à -20 %,,,,,Operational,Original
 bufr4/0/40/006/8,040006,Indicateur de traitement de l'humidité du sol,8,Humidité du sol inférieure à 120 %,,,,,Operational,Original
 bufr4/0/40/006/9-15,040006,Indicateur de traitement de l'humidité du sol,9-15,En réserve,,,,,Operational,Original
 bufr4/0/40/006/All-16,040006,Indicateur de traitement de l'humidité du sol,16 bits mis à 1,Valeur manquante,,,,,Operational,Original
@@ -91,7 +91,7 @@ bufr4/0/40/043/2,040043,Indicateur de manœuvre du satellite,2,"La plate-forme s
 bufr4/0/40/043/3-6,040043,Indicateur de manœuvre du satellite,3-6,En réserve,,,,,Operational,Original
 bufr4/0/40/043/7,040043,Indicateur de manœuvre du satellite,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/40/045/1,040045,Formation de nuages et détermination de l'altitude,1,Produits relatifs aux nuages extraits par la méthode du chi-carré,,,,,Operational,Original
-bufr4/0/40/045/2,040045,Formation de nuages et détermination de l'altitude,2,Produits relatifs aux nuages extraits par découpage dans le canal du CO,2,,,,Operational,Original
+bufr4/0/40/045/2,040045,Formation de nuages et détermination de l'altitude,2,Produits relatifs aux nuages extraits par découpage dans le canal du CO2,,,,,Operational,Original
 bufr4/0/40/045/3,040045,Formation de nuages et détermination de l'altitude,3,Détermination de l'altitude par extraction statistique en première approximation,,,,,Operational,Original
 bufr4/0/40/045/4,040045,Formation de nuages et détermination de l'altitude,4,Détermination de l'altitude par prévision numérique du temps,,,,,Operational,Original
 bufr4/0/40/045/All-5,040045,Formation de nuages et détermination de l'altitude,5 bits mis à 1,Valeur manquante,,,,,Operational,Original
@@ -171,7 +171,7 @@ bufr4/0/40/055/11,040055,Diagnostics relatifs à l'extraction,11,Nombre maximal 
 bufr4/0/40/055/12,040055,Diagnostics relatifs à l'extraction,12,Colonnes partielles négatives,,,,,Operational,Original
 bufr4/0/40/055/13,040055,Diagnostics relatifs à l'extraction,13,Matrice mal conditionnée,,,,,Operational,Original
 bufr4/0/40/055/14,040055,Diagnostics relatifs à l'extraction,14,Adaptation divergente,,,,,Operational,Original
-bufr4/0/40/055/15,040055,Diagnostics relatifs à l'extraction,15,Erreur dans l'utilisation de la GSL ( GNU scientific library ),,,,,Operational,Original
+bufr4/0/40/055/15,040055,Diagnostics relatifs à l'extraction,15,Erreur dans l'utilisation de la GSL (GNU scientific library),,,,,Operational,Original
 bufr4/0/40/055/16,040055,Diagnostics relatifs à l'extraction,16,Résidus «biaisés»,,,,,Operational,Original
 bufr4/0/40/055/17,040055,Diagnostics relatifs à l'extraction,17,Résidus «inclinés»,,,,,Operational,Original
 bufr4/0/40/055/18,040055,Diagnostics relatifs à l'extraction,18,Résidus de l'erreur quadratique moyenne importants,,,,,Operational,Original
@@ -214,8 +214,8 @@ bufr4/0/40/057/28,040057,Indicateurs d'extraction de données IASI de niveau 2,2
 bufr4/0/40/057/29,040057,Indicateurs d'extraction de données IASI de niveau 2,29,Noyaux d'intégration étranges,,,,,Operational,Original
 bufr4/0/40/057/30,040057,Indicateurs d'extraction de données IASI de niveau 2,30,Présence de glace détectée,,,,,Operational,Original
 bufr4/0/40/057/All-31,040057,Indicateurs d'extraction de données IASI de niveau 2,31 bits mis à 1,Valeur manquante,,,,,Operational,Original
-bufr4/0/40/068/0,040068,Indicateur général de la qualité des extractions pour le SO 2,0,Valeurs calculées avec IASI de niveau 2,,,,,Operational,Original
-bufr4/0/40/068/1,040068,Indicateur général de la qualité des extractions pour le SO 2,1,Profils de la pression et de la température manquants dans les données IASI de niveau 2; modèle et/ou données de prévision utilisés en remplacement,,,,,Operational,Original
-bufr4/0/40/068/2,040068,Indicateur général de la qualité des extractions pour le SO 2,2,Qualité optimale,,,,,Operational,Original
-bufr4/0/40/068/3-14,040068,Indicateur général de la qualité des extractions pour le SO 2,3-14,En réserve,,,,,Operational,Original
-bufr4/0/40/068/15,040068,Indicateur général de la qualité des extractions pour le SO 2,15,Valeur manquante,,,,,Operational,Original
+bufr4/0/40/068/0,040068,Indicateur général de la qualité des extractions pour le SO2,0,Valeurs calculées avec IASI de niveau 2,,,,,Operational,Original
+bufr4/0/40/068/1,040068,Indicateur général de la qualité des extractions pour le SO2,1,Profils de la pression et de la température manquants dans les données IASI de niveau 2; modèle et/ou données de prévision utilisés en remplacement,,,,,Operational,Original
+bufr4/0/40/068/2,040068,Indicateur général de la qualité des extractions pour le SO2,2,Qualité optimale,,,,,Operational,Original
+bufr4/0/40/068/3-14,040068,Indicateur général de la qualité des extractions pour le SO2,3-14,En réserve,,,,,Operational,Original
+bufr4/0/40/068/15,040068,Indicateur général de la qualité des extractions pour le SO2,15,Valeur manquante,,,,,Operational,Original

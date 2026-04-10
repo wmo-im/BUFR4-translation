@@ -75,7 +75,7 @@ bufr4/0/33/022/2,033022,Qualité de la transmission par satellite des données p
 bufr4/0/33/022/3,033022,Qualité de la transmission par satellite des données provenant de bouées,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/023/0,033023,Qualité de l'emplacement de la bouée,0,Fiable (l'emplacement est situé au-dessus de deux passages de satellite),,,,,Operational,Original
 bufr4/0/33/023/1,033023,Qualité de l'emplacement de la bouée,1,Dernier emplacement connu (pas d'emplacement sur le passage correspondant),,,,,Operational,Original
-bufr4/0/33/023/2,033023,Qualité de l'emplacement de la bouée,2,Douteuse (emplacement déterminé sur un passage seulement; une deuxième solution est possible dans 5 % des cas),,,,,Operational,Original
+bufr4/0/33/023/2,033023,Qualité de l'emplacement de la bouée,2,Douteuse (emplacement déterminé sur un passage seulement); une deuxième solution est possible dans 5 % des cas),,,,,Operational,Original
 bufr4/0/33/023/3,033023,Qualité de l'emplacement de la bouée,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/33/024/0,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),0,En réserve,,,,,Operational,Original
 bufr4/0/33/024/1,033024,Repère de qualité de l'altitude de la station (pour les stations mobiles),1,Excellent - de l'ordre de 3 mètres,,,,,Operational,Original

@@ -76,8 +76,8 @@ bufr4/0/08/008/3,008008,Caractéristique correspondant à des données de sondag
 bufr4/0/08/008/4,008008,Caractéristique correspondant à des données de sondage du rayonnement,4,Niveau de rayonnement bêta maximal,,,,,Operational,Original
 bufr4/0/08/008/5,008008,Caractéristique correspondant à des données de sondage du rayonnement,5,Niveau de rayonnement gamma maximal,,,,,Operational,Original
 bufr4/0/08/008/6,008008,Caractéristique correspondant à des données de sondage du rayonnement,6,Niveau de pression minimal,,,,,Operational,Original
-bufr4/0/08/008/8,008008,Caractéristique correspondant à des données de sondage du rayonnement,8,Niveau de signification indéterminée,,,,,Operational,Original
 bufr4/0/08/008/7,008008,Caractéristique correspondant à des données de sondage du rayonnement,7,En réserve,,,,,Operational,Original
+bufr4/0/08/008/8,008008,Caractéristique correspondant à des données de sondage du rayonnement,8,Niveau de signification indéterminée,,,,,Operational,Original
 bufr4/0/08/008/All-9,008008,Caractéristique correspondant à des données de sondage du rayonnement,9 bits mis à 1,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/009/0,008009,Phase de vol détaillée de l'aéronef,0,"Vol en palier, observation régulière, régime non stabilisé",,,,,Operational,Original
 bufr4/0/08/009/1,008009,Phase de vol détaillée de l'aéronef,1,"Vol en palier, vent maximal rencontré, régime non stabilisé",,,,,Operational,Original
@@ -263,8 +263,8 @@ bufr4/0/08/025/6-14,008025,Décalage dans le temps,6-14,En réserve,,,,,Operatio
 bufr4/0/08/025/15,008025,Décalage dans le temps,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/026/0,008026,Caractéristique matricielle,0,Matrice de noyaux moyens,,,,,Operational,Original
 bufr4/0/08/026/1,008026,Caractéristique matricielle,1,Matrice de corrélation (C),,,,,Operational,Original
-bufr4/0/08/026/2,008026,Caractéristique matricielle,2,Racine carrée de la matrice triangulaire inférieure de corrélation (L dans C=LL,T ),,,,Operational,Original
-bufr4/0/08/026/3,008026,Caractéristique matricielle,3,Inverse de la racine carrée de la matrice triangulaire inférieure de corrélation (L,-1 ),,,,Operational,Original
+bufr4/0/08/026/2,008026,Caractéristique matricielle,2,Racine carrée de la matrice triangulaire inférieure de corrélation (L dans C=LLT),,,,,Operational,Original
+bufr4/0/08/026/3,008026,Caractéristique matricielle,3,Inverse de la racine carrée de la matrice triangulaire inférieure de corrélation (L-1),,,,,Operational,Original
 bufr4/0/08/026/4-42,008026,Caractéristique matricielle,4-42,En réserve,,,,,Operational,Original
 bufr4/0/08/026/43-62,008026,Caractéristique matricielle,43-62,En réserve pour un usage local,,,,,Operational,Original
 bufr4/0/08/026/63,008026,Caractéristique matricielle,63,Valeur manquante ou caractéristique non définie,,,,,Operational,Original
@@ -448,6 +448,7 @@ bufr4/0/08/043/29,008043,Type de constituants chimiques ou physiques de l'atmosp
 bufr4/0/08/043/30,008043,Type de constituants chimiques ou physiques de l'atmosphère,30,Matière crustale (poussière de toute nature),,,,,Operational,Original
 bufr4/0/08/043/31,008043,Type de constituants chimiques ou physiques de l'atmosphère,31,Cendres volcaniques,,,,,Operational,Original
 bufr4/0/08/043/32-200,008043,Type de constituants chimiques ou physiques de l'atmosphère,32-200,En réserve,,,,,Operational,Original
+bufr4/0/08/043/201-254,008043,Type de constituants chimiques ou physiques de l'atmosphère,201-254,En réserve pour un usage local,,,,,Operational,Original
 bufr4/0/08/043/255,008043,Type de constituants chimiques ou physiques de l'atmosphère,255,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/050/0,008050,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,0,En réserve,,,,,Operational,Original
 bufr4/0/08/050/1,008050,Identificateur pour le nombre de valeurs manquantes dans le calcul des statistiques,1,Pression,,,,,Operational,Original
@@ -500,7 +501,7 @@ bufr4/0/08/053/1,008053,Identificateur du jour d'occurrence,1,Valeur obtenue plu
 bufr4/0/08/053/2,008053,Identificateur du jour d'occurrence,2,En réserve,,,,,Operational,Original
 bufr4/0/08/053/3,008053,Identificateur du jour d'occurrence,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/054/0,008054,Identificateur de la vitesse du vent ou des rafales,0,La vitesse du vent ou des rafales est conforme aux indications transmises,,,,,Operational,Original
-bufr4/0/08/054/1,008054,Identificateur de la vitesse du vent ou des rafales,1,La vitesse du vent est supérieure aux indications transmises ( P dans METAR/TAF/SPECI ),,,,,Operational,Original
+bufr4/0/08/054/1,008054,Identificateur de la vitesse du vent ou des rafales,1,La vitesse du vent est supérieure aux indications transmises (P dans METAR/TAF/SPECI),,,,,Operational,Original
 bufr4/0/08/054/2-6,008054,Identificateur de la vitesse du vent ou des rafales,2-6,En réserve,,,,,Operational,Original
 bufr4/0/08/054/7,008054,Identificateur de la vitesse du vent ou des rafales,7,Valeur manquante,,,,,Operational,Original
 bufr4/0/08/060/0,008060,Signification du mode de balayage de l'échantillon,0,En réserve,,,,,Operational,Original

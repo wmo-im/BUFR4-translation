@@ -312,7 +312,8 @@ bufr4/0/02/047/4,002047,Type du tsunamimètre installé à grande profondeur,4,G
 bufr4/0/02/047/5,002047,Type du tsunamimètre installé à grande profondeur,5,INCOIS (Inde),,,,,Operational,Original
 bufr4/0/02/047/6,002047,Type du tsunamimètre installé à grande profondeur,6,InaBuoy (Indonésie),,,,,Operational,Original
 bufr4/0/02/047/7,002047,Type du tsunamimètre installé à grande profondeur,7,Envirtech,,,,,Operational,Original
-bufr4/0/02/047/8-99,002047,Type du tsunamimètre installé à grande profondeur,8-99,En réserve 100-126 Inutilisé,,,,,Operational,Original
+bufr4/0/02/047/8-99,002047,Type du tsunamimètre installé à grande profondeur,8-99,En réserve,,,,,Operational,Original
+bufr4/0/02/047/100-126,002047,Type du tsunamimètre installé à grande profondeur,100-126,Inutilisé,,,,,Operational,Original
 bufr4/0/02/047/127,002047,Type du tsunamimètre installé à grande profondeur,127,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/048/0,002048,Indicateur de détecteur de satellite,0,HIRS,,,,,Operational,Original
 bufr4/0/02/048/1,002048,Indicateur de détecteur de satellite,1,MSU,,,,,Operational,Original
@@ -441,7 +442,7 @@ bufr4/0/02/062/15,002062,Type de système de retransmission des données d'aéro
 bufr4/0/02/064/0,002064,Qualité de l'angle de roulis de l'aéronef,0,Bonne,,,,,Operational,Original
 bufr4/0/02/064/1,002064,Qualité de l'angle de roulis de l'aéronef,1,Mauvaise,,,(voir Note),20,Operational,Original
 bufr4/0/02/064/2,002064,Qualité de l'angle de roulis de l'aéronef,2,En réserve,,,,,Operational,Original
-bufr4/0/02/064/3,002064,Qualité de l'angle de roulis de l'aéronef,3,Valeur manquante,,,Une mauvaise qualité est actuellement définie comme correspondant à un angle de roulis supérieur à 5 degrés par rapport à la verticale.,,Operational,Original
+bufr4/0/02/064/3,002064,Qualité de l'angle de roulis de l'aéronef,3,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/066/0,002066,Système de réception au sol des données de radiosondage,0,InterMet IMS 2000,,,,,Operational,Original
 bufr4/0/02/066/1,002066,Système de réception au sol des données de radiosondage,1,InterMet IMS 1500C,,,,,Operational,Original
 bufr4/0/02/066/2,002066,Système de réception au sol des données de radiosondage,2,"GTC1, Shanghai",,,,,Operational,Original
@@ -556,7 +557,7 @@ bufr4/0/02/099/2,002099,Polarisation,2,Composante réelle de polarisation HV,,,,
 bufr4/0/02/099/3,002099,Polarisation,3,Composante imaginaire de polarisation HV,,,,,Operational,Original
 bufr4/0/02/099/4-6,002099,Polarisation,4-6,En réserve,,,,,Operational,Original
 bufr4/0/02/099/7,002099,Polarisation,7,Valeur manquante,,,,,Operational,Original
-bufr4/0/02/101/0,002101,Type d'antenne,0,Paraboloïde à alimentation frontale centré Paraboloïde à alimentation frontale excentré,,,,,Operational,Original
+bufr4/0/02/101/0,002101,Type d'antenne,0,Paraboloïde à alimentation frontale centré,,,,,Operational,Original
 bufr4/0/02/101/1,002101,Type d'antenne,1,Paraboloïde à alimentation frontale excentré,,,,,Operational,Original
 bufr4/0/02/101/2,002101,Type d'antenne,2,Paraboloïde Cassegrain centré,,,,,Operational,Original
 bufr4/0/02/101/3,002101,Type d'antenne,3,Paraboloïde Cassegrain excentré,,,,,Operational,Original
@@ -638,7 +639,7 @@ bufr4/0/02/144/4,002144,Type de source lumineuse pour spectrophotomètres Brewer
 bufr4/0/02/144/5,002144,Type de source lumineuse pour spectrophotomètres Brewer,5,Mise au point sur le Soleil avec corrections provenant de mesures du ciel adjacent,,,,,Operational,Original
 bufr4/0/02/144/6,002144,Type de source lumineuse pour spectrophotomètres Brewer,6,Rayonnement du ciel au zénith,,,,,Operational,Original
 bufr4/0/02/144/7-14,002144,Type de source lumineuse pour spectrophotomètres Brewer,7-14,En réserve,,,,,Operational,Original
-bufr4/0/02/144/15,002144,Type de source lumineuse pour spectrophotomètres Brewer,15,Valeur manquante,,,Les entrées 1 et 2 ne doivent pas être utilisées.,,Operational,Original
+bufr4/0/02/144/15,002144,Type de source lumineuse pour spectrophotomètres Brewer,15,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/145/0,002145,Longueurs d'ondes et réglage pour instruments Dobson,0,"Longueurs d'ondes AD, réglage normal",,,,,Operational,Original
 bufr4/0/02/145/1,002145,Longueurs d'ondes et réglage pour instruments Dobson,1,"Longueurs d'ondes BD, réglage normal",,,,,Operational,Original
 bufr4/0/02/145/2,002145,Longueurs d'ondes et réglage pour instruments Dobson,2,"Longueurs d'ondes CD, réglage normal",,,,,Operational,Original
@@ -792,6 +793,7 @@ bufr4/0/02/151/6,002151,Indicateur d'identification du radiomètre,6,AMSU-B,,,,,
 bufr4/0/02/151/7,002151,Indicateur d'identification du radiomètre,7,AVHRR,,,,,Operational,Original
 bufr4/0/02/151/8,002151,Indicateur d'identification du radiomètre,8,En réserve,,,,,Operational,Original
 bufr4/0/02/151/9,002151,Indicateur d'identification du radiomètre,9,MHS,,,,,Operational,Original
+bufr4/0/02/151/10-2046,002151,Indicateur d'identification du radiomètre,10-2046,En réserve,,,,,Operational,Original
 bufr4/0/02/151/2047,002151,Indicateur d'identification du radiomètre,2047,Valeur manquante,,,,,Operational,Original
 bufr4/0/02/152/1,002152,Instrument de satellite utilisé dans le traitement des données,1,Sondeur en infrarouge à grand pouvoir séparateur (HIRS),,,,,Operational,Original
 bufr4/0/02/152/2,002152,Instrument de satellite utilisé dans le traitement des données,2,Sondeur à hyperfréquence (MSU),,,,,Operational,Original
@@ -847,8 +849,8 @@ bufr4/0/02/161/All-16,002161,Méthode de traitement des données du vent,16 bits
 bufr4/0/02/162/0,002162,Méthode élargie de détermination de l'altitude,0,Éditeur automatique,,,,,Operational,Original
 bufr4/0/02/162/1,002162,Méthode élargie de détermination de l'altitude,1,Détermination de l'altitude dans le canal infrarouge,,,,,Operational,Original
 bufr4/0/02/162/2,002162,Méthode élargie de détermination de l'altitude,2,Détermination de l'altitude dans le canal de la vapeur d'eau,,,,,Operational,Original
-bufr4/0/02/162/3,002162,Méthode élargie de détermination de l'altitude,3,Détermination de l'altitude dans le canal H O par interception 2,,,,,Operational,Original
-bufr4/0/02/162/4,002162,Méthode élargie de détermination de l'altitude,4,Détermination de l'altitude dans le canal CO par découpage 2,,,,,Operational,Original
+bufr4/0/02/162/3,002162,Méthode élargie de détermination de l'altitude,3,Détermination de l'altitude dans le canal H2O par interception,,,,,Operational,Original
+bufr4/0/02/162/4,002162,Méthode élargie de détermination de l'altitude,4,Détermination de l'altitude dans le canal CO2 par découpage,,,,,Operational,Original
 bufr4/0/02/162/5,002162,Méthode élargie de détermination de l'altitude,5,Gradient maximum dans les pixels à faible résolution,,,,,Operational,Original
 bufr4/0/02/162/6,002162,Méthode élargie de détermination de l'altitude,6,Gradient maximum dans les pixels à haute résolution,,,,,Operational,Original
 bufr4/0/02/162/7,002162,Méthode élargie de détermination de l'altitude,7,Détermination primaire de l'altitude,,,,,Operational,Original
@@ -867,8 +869,8 @@ bufr4/0/02/162/63,002162,Méthode élargie de détermination de l'altitude,63,Va
 bufr4/0/02/163/0,002163,Méthode de détermination de l'altitude,0,Êditeur automatique,,,,,Operational,Original
 bufr4/0/02/163/1,002163,Méthode de détermination de l'altitude,1,Détermination de l'altitude dans le canal infrarouge,,,,,Operational,Original
 bufr4/0/02/163/2,002163,Méthode de détermination de l'altitude,2,Détermination de l'altitude dans le canal de la vapeur d'eau,,,,,Operational,Original
-bufr4/0/02/163/3,002163,Méthode de détermination de l'altitude,3,Détermination de l'altitude dans le canal H O par interception 2,,,,,Operational,Original
-bufr4/0/02/163/4,002163,Méthode de détermination de l'altitude,4,Détermination de l'altitude dans le canal CO par découpage 2,,,,,Operational,Original
+bufr4/0/02/163/3,002163,Méthode de détermination de l'altitude,3,Détermination de l'altitude dans le canal H2O par interception,,,,,Operational,Original
+bufr4/0/02/163/4,002163,Méthode de détermination de l'altitude,4,Détermination de l'altitude dans le canal CO2 par découpage,,,,,Operational,Original
 bufr4/0/02/163/5,002163,Méthode de détermination de l'altitude,5,Gradient maximum dans les pixels à faible résolution,,,,,Operational,Original
 bufr4/0/02/163/6,002163,Méthode de détermination de l'altitude,6,Gradient maximum dans les pixels à plus haute résolution,,,,,Operational,Original
 bufr4/0/02/163/7,002163,Méthode de détermination de l'altitude,7,Détermination primaire de l'altitude,,,,,Operational,Original

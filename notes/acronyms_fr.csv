@@ -77,3 +77,11 @@ TWV,IASI-NG temperature and humidity profiles,
 WV,water vapour,
 YPR,"yaw, pitch, and roll",
 YSM,yaw steering mode,
+NSIDC,Centre national sur la neige et la glace
+CMS,Centre de météorologie spatiale
+SAF OSI,Centre d’applications satellitaires Océan et Glaces de Mer
+HIRS,,
+PRV,plastique renforcé à la fibre de verre,Original
+DIODE,,
+SMOS,,
+OEM,Optimal Estimation Methods (Méthodes d'estimation optimale),Original
