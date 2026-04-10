@@ -75,7 +75,7 @@ bufr4/3/16/006/13/008007,16,Séquences correspondant à des caractéristiques sy
 bufr4/3/16/006/14/008011,16,Séquences correspondant à des caractéristiques synoptiques,316006,(Nuages),,008011,Caractéristique météorologique,Annuler | Fin d'objet,,,Operational,Original
 bufr4/3/16/007/1/110000,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,110000,Répétition différée de 10 descripteurs,,,,Operational,Original
 bufr4/3/16/007/2/031001,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
-bufr4/3/16/007/3/008011,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,008011,Caractéristique météorologique,Valeur pour type de front,(voir note 3),21,Operational,Original
+bufr4/3/16/007/3/008011,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,008011,Caractéristique météorologique,Valeur pour type de fond,(voir note 3),21,Operational,Original
 bufr4/3/16/007/4/008007,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,008007,Caractéristique dimensionnelle,Valeur pour ligne,,,Operational,Original
 bufr4/3/16/007/5/104000,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,104000,Répétition différée de 4 descripteurs,,,,Operational,Original
 bufr4/3/16/007/6/031001,16,Séquences correspondant à des caractéristiques synoptiques,316007,(Front),,031001,Facteur de répétition différée du descripteur,,,,Operational,Original
@@ -418,8 +418,8 @@ bufr4/3/16/076/5/020025,16,Séquences correspondant à des caractéristiques syn
 bufr4/3/16/076/6/020026,16,Séquences correspondant à des caractéristiques synoptiques,316076,(GFA - Obscurcissement des montagnes),,020026,Caractéristique de l'obscurcissement,"= 6 Chasse-poussière/sable/neige, = 15 Valeur manquante",,,Operational,Original
 bufr4/3/16/076/7/008041,16,Séquences correspondant à des caractéristiques synoptiques,316076,(GFA - Obscurcissement des montagnes),,008041,Caractéristique des données,Mis à valeur manquante (annuler),,,Operational,Original
 bufr4/3/16/076/8/008079,16,Séquences correspondant à des caractéristiques synoptiques,316076,(GFA - Obscurcissement des montagnes),,008079,Catégorie de produit,Mis à valeur manquante (annuler),,,Operational,Original
-bufr4/3/16/077/1/008079,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,008079,Catégorie de produit,"= 0 Normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 CNL",,,Operational,Original
-bufr4/3/16/077/2/008011,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,008011,Caractéristique météorologique,= 13 Turbulence,,,Operational,Original
+bufr4/3/16/077/1/008079,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,008079,Catégorie de produit,"= 0 Normal, = 1 COR, = 2 AMD, = 3 COR AMD, = 4 CNL, = 13 Turbulence",,,Operational,Original
+bufr4/3/16/077/2/008011,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,008011,Caractéristique météorologique,,,,Operational,Original
 bufr4/3/16/077/3/316074,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,316074,Indicateur GFA et emplacement du phénomène observé/prévu,,,,Operational,Original
 bufr4/3/16/077/4/011031,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,011031,Degré de turbulence,= 6 Modérée,,,Operational,Original
 bufr4/3/16/077/5/008011,16,Séquences correspondant à des caractéristiques synoptiques,316077,(GFA - Turbulence),,008011,Caractéristique météorologique,Mis à valeur manquante (annuler),,,Operational,Original
