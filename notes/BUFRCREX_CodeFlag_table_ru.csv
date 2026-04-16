@@ -1,81 +1,81 @@
-tableNo,tableName,noteID,notation
-0 01 007,Satellite identifier,10,0
-0 01 031,Identification of originating/generating centre,6,0
-0 01 033,Identification of originating/generating centre,6,0
-0 01 034,Identification of originating/generating sub-centre,14,0
-0 01 035,Originating/generating centre,6,0
-0 01 036,Agency in charge of operating the observing platform,78,0
-0 01 150,Coordinate reference system,39,1
-0 01 150,Coordinate reference system,92,2
-0 02 001,Type of station,,
-0 02 064,Aircraft roll angle quality,20,0
-0 02 002,Type of instrumentation for wind measurement,90,0
-0 02 011,Radiosonde type,7,0
-0 02 012,Radiosonde computational method,15,0
-0 02 014,Tracking technique/status of system used,11,0
-0 02 019,Satellite instruments,12,0
-0 02 022,Satellite data-processing technique used,28,1
-0 02 022,Satellite data-processing technique used,62,2
-0 02 022,Satellite data-processing technique used,30,3
-0 02 025,Satellite channel(s) used in computation,47,0
-0 02 031,Duration and time of current measurement,32,1
-0 02 031,Duration and time of current measurement,33,2
-0 02 031,Duration and time of current measurement,45,3
-0 02 022,Satellite data-processing technique used,22,4
-0 02 049,Geostationary satellite data-processing technique used,29,1
-0 02 049,Geostationary satellite data-processing technique used,31,2
-0 02 050,Geostationary sounder satellite channels used,21,0
-0 02 052,Geostationary imager satellite channels used,21,0
-0 08 007,Dimensional significance,16,0
-0 08 021,Time significance,88,3
-0 08 021,Time significance,4,1
-0 08 021,Time significance,3,2
-0 08 023,First-order statistics,18,0
-0 08 024,Difference statistics,36,1
-0 08 024,Difference statistics,93,2
-0 08 043,Atmospheric chemical or physical constituent type,79,0
-0 08 082,Modification of sensor height to another value,48,0
-0 10 063,Characteristic of pressure tendency,52,1
-0 10 063,Characteristic of pressure tendency,53,2
-0 19 001,Type of synoptic feature,59,0
-0 20 003,Present weather,34,3
-0 20 003,Present weather,43,2
-0 20 003,Present weather,80,1
-0 20 004/0 20 005,Past weather (1) and (2),82,0
-0 20 011,Cloud amount,40,1
-0 20 011,Cloud amount,2,2
-0 20 012,Cloud type,1,0
-0 20 021,Type of precipitation,57,0
-0 20 027,Phenomena occurrence,63,1
-0 20 027,Phenomena occurrence,51,2
-0 20 027,Phenomena occurrence,89,3
-0 20 055,State of sky in the tropics,55,0
-0 20 062,State of the ground (with or without snow),50,2
-0 20 062,State of the ground (with or without snow),54,3
-0 20 062,State of the ground (with or without snow),75,1
-0 22 061,State of the sea,76,2
-0 22 061,State of the sea,84,1
-0 22 067,Instrument type for water temperature/salinity profile measurement,8,0
-0 22 068,Water temperature profile recorder types,9,0
-0 25 009,Calibration method,35,0
-0 25 031,NWP-generated vertical profile thinning method,60,0
-0 25 041,Moving platform direction reporting method,94,0
-0 25 042,Moving platform speed reporting method,95,0
-0 25 098,Altimeter data quality flag,5,0
-0 25 099,Altimeter correction quality flag,5,0
-0 25 112,Band specific altimeter data quality flag,5,0
-0 25 113,Band specific altimeter correction quality flag,5,0
-0 31 021,Associated field significance,19,1
-0 31 021,Associated field significance,74,2
-0 31 021,Associated field significance,42,3
-0 33 030,Scan line status flags for ATOVS,49,0
-0 33 031,Scan line quality flags for ATOVS,49,1
-0 33 031,Scan line quality flags for ATOVS,24,2
-0 33 031,Scan line quality flags for ATOVS,25,3
-0 33 031,Scan line quality flags for ATOVS,27,4
-0 33 032,Channel quality flags for ATOVS,17,0
-0 33 033,Field of view quality flags for ATOVS,17,1
-0 33 033,Field of view quality flags for ATOVS,26,2
-0 33 041,Attribute of following value,85,0
-0 40 005,Soil moisture correction flag,81,0
-0 40 006,Soil moisture processing flag,81,0
+tableNo,tableName,noteID,notation,translated_by
+0 01 007,Satellite identifier,10,0,PDF
+0 01 031,Identification of originating/generating centre,6,0,PDF
+0 01 033,Identification of originating/generating centre,6,0,PDF
+0 01 034,Identification of originating/generating sub-centre,14,0,PDF
+0 01 035,Originating/generating centre,6,0,PDF
+0 01 036,Agency in charge of operating the observing platform,78,0,PDF
+0 01 150,Coordinate reference system,39,1,PDF
+0 01 150,Coordinate reference system,92,2,PDF
+0 02 001,Type of station,,,PDF
+0 02 064,Aircraft roll angle quality,20,0,PDF
+0 02 002,Type of instrumentation for wind measurement,90,0,PDF
+0 02 011,Radiosonde type,7,0,PDF
+0 02 012,Radiosonde computational method,15,0,PDF
+0 02 014,Tracking technique/status of system used,11,0,PDF
+0 02 019,Satellite instruments,12,0,PDF
+0 02 022,Satellite data-processing technique used,28,1,PDF
+0 02 022,Satellite data-processing technique used,62,2,PDF
+0 02 022,Satellite data-processing technique used,30,3,PDF
+0 02 025,Satellite channel(s) used in computation,47,0,PDF
+0 02 031,Duration and time of current measurement,32,1,PDF
+0 02 031,Duration and time of current measurement,33,2,PDF
+0 02 031,Duration and time of current measurement,45,3,PDF
+0 02 022,Satellite data-processing technique used,22,4,PDF
+0 02 049,Geostationary satellite data-processing technique used,29,1,PDF
+0 02 049,Geostationary satellite data-processing technique used,31,2,PDF
+0 02 050,Geostationary sounder satellite channels used,21,0,PDF
+0 02 052,Geostationary imager satellite channels used,21,0,PDF
+0 08 007,Dimensional significance,16,0,PDF
+0 08 021,Time significance,88,3,PDF
+0 08 021,Time significance,4,1,PDF
+0 08 021,Time significance,3,2,PDF
+0 08 023,First-order statistics,18,0,PDF
+0 08 024,Difference statistics,36,1,PDF
+0 08 024,Difference statistics,93,2,PDF
+0 08 043,Atmospheric chemical or physical constituent type,79,0,PDF
+0 08 082,Modification of sensor height to another value,48,0,PDF
+0 10 063,Characteristic of pressure tendency,52,1,PDF
+0 10 063,Characteristic of pressure tendency,53,2,PDF
+0 19 001,Type of synoptic feature,59,0,PDF
+0 20 003,Present weather,34,3,PDF
+0 20 003,Present weather,43,2,PDF
+0 20 003,Present weather,80,1,PDF
+0 20 004/0 20 005,Past weather (1) and (2),82,0,PDF
+0 20 011,Cloud amount,40,1,PDF
+0 20 011,Cloud amount,2,2,PDF
+0 20 012,Cloud type,1,0,PDF
+0 20 021,Type of precipitation,57,0,PDF
+0 20 027,Phenomena occurrence,63,1,PDF
+0 20 027,Phenomena occurrence,51,2,PDF
+0 20 027,Phenomena occurrence,89,3,PDF
+0 20 055,State of sky in the tropics,55,0,PDF
+0 20 062,State of the ground (with or without snow),50,2,PDF
+0 20 062,State of the ground (with or without snow),54,3,PDF
+0 20 062,State of the ground (with or without snow),75,1,PDF
+0 22 061,State of the sea,76,2,PDF
+0 22 061,State of the sea,84,1,PDF
+0 22 067,Instrument type for water temperature/salinity profile measurement,8,0,PDF
+0 22 068,Water temperature profile recorder types,9,0,PDF
+0 25 009,Calibration method,35,0,PDF
+0 25 031,NWP-generated vertical profile thinning method,60,0,PDF
+0 25 041,Moving platform direction reporting method,94,0,PDF
+0 25 042,Moving platform speed reporting method,95,0,PDF
+0 25 098,Altimeter data quality flag,5,0,PDF
+0 25 099,Altimeter correction quality flag,5,0,PDF
+0 25 112,Band specific altimeter data quality flag,5,0,PDF
+0 25 113,Band specific altimeter correction quality flag,5,0,PDF
+0 31 021,Associated field significance,19,1,PDF
+0 31 021,Associated field significance,74,2,PDF
+0 31 021,Associated field significance,42,3,PDF
+0 33 030,Scan line status flags for ATOVS,49,0,PDF
+0 33 031,Scan line quality flags for ATOVS,49,1,PDF
+0 33 031,Scan line quality flags for ATOVS,24,2,PDF
+0 33 031,Scan line quality flags for ATOVS,25,3,PDF
+0 33 031,Scan line quality flags for ATOVS,27,4,PDF
+0 33 032,Channel quality flags for ATOVS,17,0,PDF
+0 33 033,Field of view quality flags for ATOVS,17,1,PDF
+0 33 033,Field of view quality flags for ATOVS,26,2,PDF
+0 33 041,Attribute of following value,85,0,PDF
+0 40 005,Soil moisture correction flag,81,0,PDF
+0 40 006,Soil moisture processing flag,81,0,PDF
