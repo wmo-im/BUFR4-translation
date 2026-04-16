@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
 bufr4/0/07/001,07,Местоположение (вертикальное) в BUFR/CREX,007001,Высота станции,m,0,-400,15,m,0,5,(см. примечание 1),116,Operational,PDF
 bufr4/0/07/002,07,Местоположение (вертикальное) в BUFR/CREX,007002,Высота или абсолютная высота,m,-1,-40,16,m,-1,5,,,Operational,PDF
 bufr4/0/07/003,07,Местоположение (вертикальное) в BUFR/CREX,007003,Геопотенциал,m2 s-2,-1,-400,17,m2 s-2,-1,6,,,Operational,PDF
@@ -25,7 +25,7 @@ bufr4/0/07/040,07,Местоположение (вертикальное) в BUF
 bufr4/0/07/061,07,Местоположение (вертикальное) в BUFR/CREX,007061,Глубина от поверхности земли,m,2,0,14,m,2,5,,,Operational,PDF
 bufr4/0/07/062,07,Местоположение (вертикальное) в BUFR/CREX,007062,Глубина от поверхности моря/водной поверхности,m,1,0,17,m,1,6,,,Operational,PDF
 bufr4/0/07/063,07,Местоположение (вертикальное) в BUFR/CREX,007063,Глубина от поверхности моря/водной поверхности (см),m,2,0,20,m,2,7,,,Operational,PDF
-bufr4/0/07/064,07,Местоположение (вертикальное) в BUFR/CREX,007064,Типичная высота датчика над станцией (см. примечание 8),m,0,0,4,m,0,2,,117,Operational,PDF
+bufr4/0/07/064,07,Местоположение (вертикальное) в BUFR/CREX,007064,Типичная высота датчика над станцией,m,0,0,4,m,0,2,(см. примечание 8),117,Operational,PDF
 bufr4/0/07/065,07,Местоположение (вертикальное) в BUFR/CREX,007065,Давление воды,Pa,-3,0,17,Pa,-3,6,,,Operational,PDF
 bufr4/0/07/070,07,Местоположение (вертикальное) в BUFR/CREX,007070,Глубина погружения якоря,m,0,0,10,m,0,4,,,Operational,PDF
 bufr4/0/07/071,07,Местоположение (вертикальное) в BUFR/CREX,007071,Высота (высокое разрешение),m,3,-10000000,26,m,3,8,,,Operational,PDF
