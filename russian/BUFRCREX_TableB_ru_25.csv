@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
 bufr4/0/25/001,25,Обработка информации в BUFR/CREX,025001,Длительность строб-импульса,m,-1,0,6,m,-1,2,,,Operational,PDF
 bufr4/0/25/002,25,Обработка информации в BUFR/CREX,025002,Среднее количество строб-импульсов,Числовой,0,0,4,Числовой,0,2,,,Operational,PDF
 bufr4/0/25/003,25,Обработка информации в BUFR/CREX,025003,Количество интегрированных импульсов,Числовой,0,0,8,Числовой,0,3,,,Operational,PDF
@@ -119,7 +119,7 @@ bufr4/0/25/138,25,Обработка информации в BUFR/CREX,025138,С
 bufr4/0/25/140,25,Обработка информации в BUFR/CREX,025140,Начальный канал,Числовой,0,0,14,Числовой,0,5,,,Operational,PDF
 bufr4/0/25/141,25,Обработка информации в BUFR/CREX,025141,Конечный канал,Числовой,0,0,14,Числовой,0,5,,,Operational,PDF
 bufr4/0/25/142,25,Обработка информации в BUFR/CREX,025142,Масштабный коэффициент канала,Числовой,0,0,6,Числовой,0,2,,,Operational,PDF
-bufr4/0/25/143,25,Обработка информации в BUFR/CREX,025143,Линейный коэффициент,Числовой,6,-5000000,24,Числовой,6,8,,57,Operational,PDF
+bufr4/0/25/143,25,Обработка информации в BUFR/CREX,025143,Линейный коэффициент,Числовой,6,-5000000,24,Числовой,6,8,(см. примечание 4),57,Operational,PDF
 bufr4/0/25/148,25,Обработка информации в BUFR/CREX,025148,Коэффициент вариации,Числовой,2,-10000,15,Числовой,2,5,,,Operational,PDF
 bufr4/0/25/149,25,Обработка информации в BUFR/CREX,025149,Потери при оптимальной оценке,Числовой,0,0,8,Числовой,0,3,,,Operational,PDF
 bufr4/0/25/150,25,Обработка информации в BUFR/CREX,025150,Метод анализа интенсивности тропического циклона с использованием спутниковых данных,Кодовая таблица,0,0,4,Кодовая таблица,0,2,,,Operational,PDF
