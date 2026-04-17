@@ -1,7 +1,7 @@
 Id,FXY,ElementName_en,CodeFigure,EntryName_en,EntryName_sub1_en,EntryName_sub2_en,Note_en,noteIDs,Status,translated_by
-bufr4/0/20/003//1,020003,Present weather,,00-49     No precipitation at the station at the time of observation,,,,,Operational,Original
-bufr4/0/20/003//2,020003,Present weather,,"00-19     No precipitation, fog, ice fog (except for 11 and 12), duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 and 17, during the preceding hour",,,(see Note 4),77,Operational,Original
-bufr4/0/20/003//3,020003,Present weather,,00-03     No meteors except photometeors,,,,,Operational,Original
+bufr4/0/20/003//1,020003,Present weather,,00-49 No precipitation at the station at the time of observation,,,,,Operational,Original
+bufr4/0/20/003//2,020003,Present weather,,"00-19 No precipitation, fog, ice fog (except for 11 and 12), duststorm, sandstorm, drifting or blowing snow at the station at the time of observation or, except for 09 and 17, during the preceding hour",,,(see Note 4),77,Operational,Original
+bufr4/0/20/003//3,020003,Present weather,,00-03 No meteors except photometeors,,,,,Operational,Original
 bufr4/0/20/003/00,020003,Present weather,00,Cloud development not observed or not observable,Characteristic change of the state of sky during the past hour,,,,Operational,Original
 bufr4/0/20/003/01,020003,Present weather,01,Clouds generally dissolving or becoming less developed,Characteristic change of the state of sky during the past hour,,,,Operational,Original
 bufr4/0/20/003/02,020003,Present weather,02,State of sky on the whole unchanged,Characteristic change of the state of sky during the past hour,,,,Operational,Original
