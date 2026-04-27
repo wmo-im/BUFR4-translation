@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/40/001,40,Спутниковые данные в BUFR/CREX,040001,Влажность поверхности почвы (мс),%,1,0,10,%,1,4,,,Operational,PDF
 bufr4/0/40/002,40,Спутниковые данные в BUFR/CREX,040002,Расчетная ошибка во влажности поверхности почвы,%,1,0,10,%,1,4,,,Operational,PDF
 bufr4/0/40/003,40,Спутниковые данные в BUFR/CREX,040003,Средняя влажность поверхности почвы,Числовой,3,0,10,Числовой,3,4,,,Operational,PDF

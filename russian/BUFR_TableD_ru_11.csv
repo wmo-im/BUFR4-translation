@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/11/001/1/301051,11,Категория 11 — Последовательности сводок по одному уровню,311001,(традиционные данные),,301051,"Номер рейса, навигационная система, дата/время, местоположение, фаза полета",ASDAR,,,Operational,PDF
 bufr4/3/11/001/2/007002,11,Категория 11 — Последовательности сводок по одному уровню,311001,(традиционные данные),,007002,Высота или абсолютная высота,,,,Operational,PDF
 bufr4/3/11/001/3/012001,11,Категория 11 — Последовательности сводок по одному уровню,311001,(традиционные данные),,012001,Температура/температура воздуха,,,,Operational,PDF

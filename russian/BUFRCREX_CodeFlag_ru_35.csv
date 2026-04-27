@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/35/000/000-099,035000,FM и номер регионального кода,000-099,Международные коды FM,,,,,Operational,PDF
 bufr4/0/35/000/100-199,035000,FM и номер регионального кода,100-199,Коды PA I,,,,,Operational,PDF
 bufr4/0/35/000/200-299,035000,FM и номер регионального кода,200-299,Коды PA II,,,,,Operational,PDF

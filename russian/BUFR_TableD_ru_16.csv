@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by,
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source,
 bufr4/3/16/001/1/301011,16,Категория 16 — Последовательности синоптических характеристик,316001,,,301011,"Год, месяц, день",,,,Operational,PDF,
 bufr4/3/16/001/2/004004,16,Категория 16 — Последовательности синоптических характеристик,316001,,,004004,Час,,,,Operational,PDF,
 bufr4/3/16/001/3/301023,16,Категория 16 — Последовательности синоптических характеристик,316001,,,301023,Широта/долгота (низкая точность),,,,Operational,PDF,

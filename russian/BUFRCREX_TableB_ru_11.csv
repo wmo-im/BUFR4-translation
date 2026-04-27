@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/11/001,11,Ветер и турбулентность в BUFR/CREX,011001,Направление ветра,degree true,0,0,9,degree true,0,3,,,Operational,PDF
 bufr4/0/11/002,11,Ветер и турбулентность в BUFR/CREX,011002,Скорость ветра,m/s,1,0,12,m/s,1,4,,,Operational,PDF
 bufr4/0/11/003,11,Ветер и турбулентность в BUFR/CREX,011003,Компонента u,m/s,1,-4096,13,m/s,1,4,,,Operational,PDF

@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/21/001,21,Данные радиолокатора в BUFR/CREX,021001,Горизонтальная отражательная способность,dB,0,-64,7,dB,0,3,,,Operational,PDF
 bufr4/0/21/002,21,Данные радиолокатора в BUFR/CREX,021002,Вертикальная отражательная способность,dB,0,-64,7,dB,0,3,,,Operational,PDF
 bufr4/0/21/003,21,Данные радиолокатора в BUFR/CREX,021003,Дифференциальная отражательная способность,dB,1,-5,7,dB,1,3,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/29/001/0,029001,Тип проекции,0,Гномоническая проекция,,,,,Operational,PDF
 bufr4/0/29/001/1,029001,Тип проекции,1,Полярная стереографическая проекция,,,,,Operational,PDF
 bufr4/0/29/001/2,029001,Тип проекции,2,Конформная коническая проекция Ламберта,,,,,Operational,PDF

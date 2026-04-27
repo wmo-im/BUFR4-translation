@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/20/003/00-49,020003,Текущая погода,00-49,В срок наблюдения осадки на станции не наблюдались,,,,,Operational,PDF
 bufr4/0/20/003/00-19,020003,Текущая погода,00-19,"Осадки, туман, ледяной туман (за исключением 11 и 12), пыльная и песчаная бури, поземок или снежная низовая метель отсутствовали на станции в срок наблюдения или, за исключением 09 и 17, в течение предшествовавшего часа",,,,,Operational,PDF
 bufr4/0/20/003/00-03,020003,Текущая погода,00-03,"Отсутствие метеоров, за исключением фотометеоров",,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/11/030/0,011030,Повышенная степень турбулентности,0,Ноль,при облачном небе,,,,Operational,PDF
 bufr4/0/11/030/1,011030,Повышенная степень турбулентности,1,Легкая при облачном небе,при облачном небе,,,,Operational,PDF
 bufr4/0/11/030/2,011030,Повышенная степень турбулентности,2,Умеренная при облачном небе,при облачном небе,,,,Operational,PDF

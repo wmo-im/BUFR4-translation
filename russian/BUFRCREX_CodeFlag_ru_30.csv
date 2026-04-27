@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/30/031/0,030031,Тип изображения,0,PPI,,,,,Operational,PDF
 bufr4/0/30/031/1,030031,Тип изображения,1,Комбинированный,,,,,Operational,PDF
 bufr4/0/30/031/2,030031,Тип изображения,2,CAPPI,,,,,Operational,PDF

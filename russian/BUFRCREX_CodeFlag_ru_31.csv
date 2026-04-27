@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/31/021/0,031021,Значимость ассоциированного поля,0,Зарезервирована,,,,,Operational,PDF
 bufr4/0/31/021/1,031021,Значимость ассоциированного поля,1,1-битовый индикатор качества,"0 = хорошо, 1 = сомнительно или плохо",,,,Operational,PDF
 bufr4/0/31/021/2,031021,Значимость ассоциированного поля,2,2-битовый индикатор качества,"0 = хорошо, 1 = несколько сомнительно, 2 = в высшей степени сомнительно, 3 = плохо",,,,Operational,PDF

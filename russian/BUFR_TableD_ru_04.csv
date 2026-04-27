@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/04/001/1/008003,04,"Категория 04 — Метеорологические последовательности, общепринятые",304001,"(Давление на верхней границе облачности, температура и ветер)",,008003,Вертикальная значимость (спутниковые наблюдения),,,,Operational,PDF
 bufr4/3/04/001/2/010004,04,"Категория 04 — Метеорологические последовательности, общепринятые",304001,"(Давление на верхней границе облачности, температура и ветер)",,010004,Давление,,,,Operational,PDF
 bufr4/3/04/001/3/012001,04,"Категория 04 — Метеорологические последовательности, общепринятые",304001,"(Давление на верхней границе облачности, температура и ветер)",,012001,Температура/температура воздуха,,,,Operational,PDF

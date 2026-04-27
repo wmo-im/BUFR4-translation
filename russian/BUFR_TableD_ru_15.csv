@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/15/001/1/001011,15,Категория 15 — Последовательности океанографических сводок,315001,(Обычно сообщаемые данные подводного зондирования без необязательных полей),,001011,Указатель судна или подвижной наземной станции,Позывной сигнал судна,,,Operational,PDF
 bufr4/3/15/001/2/301011,15,Категория 15 — Последовательности океанографических сводок,315001,(Обычно сообщаемые данные подводного зондирования без необязательных полей),,301011,"Год, месяц, день",,,,Operational,PDF
 bufr4/3/15/001/3/301012,15,Категория 15 — Последовательности океанографических сводок,315001,(Обычно сообщаемые данные подводного зондирования без необязательных полей),,301012,"Час, минута",,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/08/001,08,Описатели значимости в BUFR/CREX,008001,Значимость вертикального зондирования,Таблица флагов,0,0,7,Таблица флагов,0,3,,,Operational,PDF
 bufr4/0/08/002,08,Описатели значимости в BUFR/CREX,008002,Вертикальная значимость (приземные наблюдения),Кодовая таблица,0,0,6,Кодовая таблица,0,2,,,Operational,PDF
 bufr4/0/08/003,08,Описатели значимости в BUFR/CREX,008003,Вертикальная значимость (спутниковые наблюдения),Кодовая таблица,0,0,6,Кодовая таблица,0,2,,,Operational,PDF

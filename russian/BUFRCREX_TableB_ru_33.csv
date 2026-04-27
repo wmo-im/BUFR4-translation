@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/33/002,33,Информация о качестве в BUFR/CREX,033002,Информация о качестве,Кодовая таблица,0,0,2,Кодовая таблица,0,1,,,Operational,PDF
 bufr4/0/33/003,33,Информация о качестве в BUFR/CREX,033003,Информация о качестве,Кодовая таблица,0,0,3,Кодовая таблица,0,1,,,Operational,PDF
 bufr4/0/33/005,33,Информация о качестве в BUFR/CREX,033005,Информация о качестве (данные АМС),Таблица флагов,0,0,30,Таблица флагов,0,10,,,Operational,PDF

@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/23/001,23,Рассеивание и перенос в BUFR/CREX,023001,Оперативное оповещение об аварии — применимая статья Конвенции,Кодовая таблица,0,0,3,Кодовая таблица,0,1,,,Operational,PDF
 bufr4/0/23/002,23,Рассеивание и перенос в BUFR/CREX,023002,"Деятельность или установка, связанные с происшествием",Кодовая таблица,0,0,5,Кодовая таблица,0,2,,,Operational,PDF
 bufr4/0/23/003,23,Рассеивание и перенос в BUFR/CREX,023003,Тип выброса,Кодовая таблица,0,0,3,Кодовая таблица,0,1,,,Operational,PDF

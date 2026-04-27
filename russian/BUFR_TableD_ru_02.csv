@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/02/001/1/010004,02,Категория 02 — Метеорологические последовательности,302001,(Давление и его изменение за 3 часа),,010004,Давление,Уровень станции,,,Operational,PDF
 bufr4/3/02/001/2/010051,02,Категория 02 — Метеорологические последовательности,302001,(Давление и его изменение за 3 часа),,010051,"Давление, приведенное к среднему уровню моря",,,,Operational,PDF
 bufr4/3/02/001/3/010061,02,Категория 02 — Метеорологические последовательности,302001,(Давление и его изменение за 3 часа),,010061,Изменение давления за 3 часа,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/28/001,28,Бескоординатное местоположение (горизонтальное — 2) в BUFR/CREX,028001,Долгота (высокая точность),deg,5,-18000000,26,deg,5,8,,,Operational,PDF
 bufr4/0/28/002,28,Бескоординатное местоположение (горизонтальное — 2) в BUFR/CREX,028002,Долгота (низкая точность),deg,2,-18000,16,deg,2,5,,,Operational,PDF
 bufr4/0/28/003,28,Бескоординатное местоположение (горизонтальное — 2) в BUFR/CREX,028003,Альтернативная долгота (низкая точность),deg,2,-18000,16,deg,2,5,(см. примечание 1),133,Operational,PDF

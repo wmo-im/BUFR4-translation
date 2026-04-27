@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/03/001/0,003001,Тип станции приземных наблюдений,0,Наземная станция (синоптическая сеть),,,,,Operational,PDF
 bufr4/0/03/001/1,003001,Тип станции приземных наблюдений,1,Станция на мелководье (прикрепленная ко дну моря/озера),,,,,Operational,PDF
 bufr4/0/03/001/2,003001,Тип станции приземных наблюдений,2,Судно,,,,,Operational,PDF

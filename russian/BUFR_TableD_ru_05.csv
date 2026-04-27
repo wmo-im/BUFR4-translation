@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/05/001/1/011001,05,Категория 05 — Метеорологические или гидрологические,305001,(Единственное измерение СНГЦ-САДК),,011001,Направление ветра,,,,Operational,PDF
 bufr4/3/05/001/2/011002,05,Категория 05 — Метеорологические или гидрологические,305001,(Единственное измерение СНГЦ-САДК),,011002,Скорость ветра,,,,Operational,PDF
 bufr4/3/05/001/3/013060,05,Категория 05 — Метеорологические или гидрологические,305001,(Единственное измерение СНГЦ-САДК),,013060,Общие суммарные осадки,,,,Operational,PDF

@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/18/001/1/301025,18,Категория 18 — Последовательности радиологических сводок,318001,,,301025,"Широта/долгота (низкая точность), день/время",,,,Operational,PDF
 bufr4/3/18/001/2/024011,18,Категория 18 — Последовательности радиологических сводок,318001,,,024011,Доза,,,,Operational,PDF
 bufr4/3/18/003/1/301026,18,Категория 18 — Последовательности радиологических сводок,318003,,,301026,"Широта/долгота (высокая точность), временной период (день, час, минута)",,,,Operational,PDF

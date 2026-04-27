@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/07/001/1/301031,07,Категория 07 — Последовательности сводок приземных данных (суша),307001,(Низкорасположенная станция),,301031,"Идентификация и тип станции, дата/время, местоположение (высокая точность), высота станции",,,,Operational,PDF
 bufr4/3/07/001/2/302011,07,Категория 07 — Последовательности сводок приземных данных (суша),307001,(Низкорасположенная станция),,302011,Низкорасположенная станция,Основная сводка приземных данных,,,Operational,PDF
 bufr4/3/07/002/1/301032,07,Категория 07 — Последовательности сводок приземных данных (суша),307002,(Низкорасположенная станция),,301032,"Идентификация и тип станции, дата/время, местоположение (низкая точность), высота станции",,,,Operational,PDF

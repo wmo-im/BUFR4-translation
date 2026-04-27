@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/08/001/1,008001,Значимость вертикального зондирования,1,Поверхность,,,,,Operational,PDF
 bufr4/0/08/001/2,008001,Значимость вертикального зондирования,2,Стандартный уровень,,,,,Operational,PDF
 bufr4/0/08/001/3,008001,Значимость вертикального зондирования,3,Уровень тропопаузы,,,,,Operational,PDF

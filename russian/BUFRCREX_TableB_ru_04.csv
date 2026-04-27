@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/04/001,04,Местоположение (время) в BUFR/CREX,004001,Год,a,0,0,12,a,0,4,,,Operational,PDF
 bufr4/0/04/002,04,Местоположение (время) в BUFR/CREX,004002,Месяц,mon,0,0,4,mon,0,2,,,Operational,PDF
 bufr4/0/04/003,04,Местоположение (время) в BUFR/CREX,004003,День,d,0,0,6,d,0,2,,,Operational,PDF

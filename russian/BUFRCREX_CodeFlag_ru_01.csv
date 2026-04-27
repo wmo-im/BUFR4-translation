@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/01/003/0,001003,Номер Региона ВМО/географический район,0,Антарктика,,,,,Operational,PDF
 bufr4/0/01/003/1,001003,Номер Региона ВМО/географический район,1,Регион I,,,,,Operational,PDF
 bufr4/0/01/003/2,001003,Номер Региона ВМО/географический район,2,Регион II,,,,,Operational,PDF

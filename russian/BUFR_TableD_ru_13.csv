@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/13/009/1/021001,13,"Категория 13 — Последовательности, объединяющие данные изображений",313009,(Величины радиолокационной отражательной способности),,021001,Горизонтальная отражательная способность,,,,Operational,PDF
 bufr4/3/13/009/2/101000,13,"Категория 13 — Последовательности, объединяющие данные изображений",313009,(Величины радиолокационной отражательной способности),,101000,Повторение с задержкой 1 дескриптора,,,,Operational,PDF
 bufr4/3/13/009/3/031001,13,"Категория 13 — Последовательности, объединяющие данные изображений",313009,(Величины радиолокационной отражательной способности),,031001,Коэффициент повторения дескриптора с задержкой,,,,Operational,PDF

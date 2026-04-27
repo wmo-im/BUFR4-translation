@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/01/001,01,Идентификация в BUFR/CREX,001001,Номер блока ВМО,Числовой,0,0,7,Числовой,0,2,,,Operational,PDF
 bufr4/0/01/002,01,Идентификация в BUFR/CREX,001002,Номер станции ВМО,Числовой,0,0,10,Числовой,0,3,,,Operational,PDF
 bufr4/0/01/003,01,Идентификация в BUFR/CREX,001003,Номер Региона ВМО/географический район,Кодовая таблица,0,0,3,Кодовая таблица,0,1,,,Operational,PDF

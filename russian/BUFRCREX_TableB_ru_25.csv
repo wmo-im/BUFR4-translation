@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/25/001,25,Обработка информации в BUFR/CREX,025001,Длительность строб-импульса,m,-1,0,6,m,-1,2,,,Operational,PDF
 bufr4/0/25/002,25,Обработка информации в BUFR/CREX,025002,Среднее количество строб-импульсов,Числовой,0,0,4,Числовой,0,2,,,Operational,PDF
 bufr4/0/25/003,25,Обработка информации в BUFR/CREX,025003,Количество интегрированных импульсов,Числовой,0,0,8,Числовой,0,3,,,Operational,PDF

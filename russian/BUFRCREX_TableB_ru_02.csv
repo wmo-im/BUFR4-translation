@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/02/001,02,Приборное оснащение в BUFR/CREX,002001,Тип станции,Кодовая таблица,0,0,2,Кодовая таблица,0,1,,,Operational,PDF
 bufr4/0/02/002,02,Приборное оснащение в BUFR/CREX,002002,Тип приборного обеспечения для измерения ветра,Таблица флагов,0,0,4,Таблица флагов,0,2,,,Operational,PDF
 bufr4/0/02/003,02,Приборное оснащение в BUFR/CREX,002003,Тип используемого измерительного оборудования,Кодовая таблица,0,0,4,Кодовая таблица,0,2,,,Operational,PDF

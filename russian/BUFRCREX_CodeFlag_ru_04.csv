@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/04/059/1,004059,"Сроки наблюдений, использованные для вычисления сообщённых средних значений",1,00:00 ВСВ,,,,,Operational,PDF
 bufr4/0/04/059/2,004059,"Сроки наблюдений, использованные для вычисления сообщённых средних значений",2,06:00 ВСВ,,,,,Operational,PDF
 bufr4/0/04/059/3,004059,"Сроки наблюдений, использованные для вычисления сообщённых средних значений",3,12:00 ВСВ,,,,,Operational,PDF

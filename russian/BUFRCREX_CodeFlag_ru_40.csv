@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/40/005/1,040005,Флаг коррекции влажности почвы,1,Влажность почвы между –20 % и 0 %,,,,,Operational,PDF
 bufr4/0/40/005/2,040005,Флаг коррекции влажности почвы,2,Влажность почвы между 100 % и 120 %,,,,,Operational,PDF
 bufr4/0/40/005/3,040005,Флаг коррекции влажности почвы,3,Коррекция начала отсчета влажного обратного рассеяния,,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/31/000,31,Описатели операторов описания данных в BUFR,031000,Коэффициент повторения короткого дескриптора с задержкой,Числовой,0,0,1,,,,,,Operational,PDF
 bufr4/0/31/001,31,Описатели операторов описания данных в BUFR,031001,Коэффициент повторения дескриптора с задержкой,Числовой,0,0,8,,,,,,Operational,PDF
 bufr4/0/31/002,31,Описатели операторов описания данных в BUFR,031002,Коэффициент повторения расширенного дескриптора с задержкой,Числовой,0,0,16,,,,,,Operational,PDF

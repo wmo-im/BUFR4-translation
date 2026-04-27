@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/10/001,10,Бескоординатное местоположение (вертикальное) в BUFR/CREX,010001,Высота поверхности суши,m,0,-400,15,m,0,5,,,Operational,PDF
 bufr4/0/10/002,10,Бескоординатное местоположение (вертикальное) в BUFR/CREX,010002,Высота,m,-1,-40,16,m,-1,5,,,Operational,PDF
 bufr4/0/10/003,10,Бескоординатное местоположение (вертикальное) в BUFR/CREX,010003,Геопотенциал,m2 s-2,-1,-400,17,m2 s-2,-1,6,,,Operational,PDF

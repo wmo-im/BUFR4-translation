@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/22/056/0,022056,Направление профиля,0,"Профиль, направленный вверх",,,,,Operational,PDF
 bufr4/0/22/056/1,022056,Направление профиля,1,"Профиль, направленный вниз",,,,,Operational,PDF
 bufr4/0/22/056/2,022056,Направление профиля,2,Горизонтальный,,,,,Operational,PDF

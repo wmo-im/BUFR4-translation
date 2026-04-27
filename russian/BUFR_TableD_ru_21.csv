@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/21/001/1/002101,21,Категория 21 — Последовательности радиолокационных сводок,321001,(Профилометр ветра — характеристики антенны),,002101,Тип антенны,,,,Operational,PDF
 bufr4/3/21/001/2/002114,21,Категория 21 — Последовательности радиолокационных сводок,321001,(Профилометр ветра — характеристики антенны),,002114,Площадь эффективной поверхности антенны,,,,Operational,PDF
 bufr4/3/21/001/3/002105,21,Категория 21 — Последовательности радиолокационных сводок,321001,(Профилометр ветра — характеристики антенны),,002105,Максимальное усиление антенны,,,,Operational,PDF

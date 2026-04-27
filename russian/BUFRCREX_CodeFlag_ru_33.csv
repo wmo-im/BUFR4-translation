@@ -1,4 +1,4 @@
-﻿Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/33/002/0,033002,Информация о качестве,0,Точные данные,,,,,Operational,PDF
 bufr4/0/33/002/1,033002,Информация о качестве,1,Сомнительные данные,,,,,Operational,PDF
 bufr4/0/33/002/2,033002,Информация о качестве,2,Зарезервирована,,,,,Operational,PDF

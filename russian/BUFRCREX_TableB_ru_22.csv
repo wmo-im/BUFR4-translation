@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/22/001,22,Океанографические элементы в BUFR/CREX,022001,Направление волн,degree true,0,0,9,degree true,0,3,(см. примечание 6),136,Operational,PDF
 bufr4/0/22/002,22,Океанографические элементы в BUFR/CREX,022002,Направление ветровых волн,degree true,0,0,9,degree true,0,3,(см. примечание 6),136,Operational,PDF
 bufr4/0/22/003,22,Океанографические элементы в BUFR/CREX,022003,Направление зыби,degree true,0,0,9,degree true,0,3,(см. примечание 6),136,Operational,PDF

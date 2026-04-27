@@ -1,4 +1,4 @@
-Id,CodeFigure,Meaning_ru,Status,translated_by
+ID,CodeFigure,Meaning_ru,Status,translation_source
 bufr4/a/0,0,Приземные данные — суша,Operational,PDF
 bufr4/a/1,1,Приземные данные — море,Operational,PDF
 bufr4/a/2,2,Данные вертикального зондирования (отличные от данных спутникового зондирования),Operational,PDF

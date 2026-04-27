@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/01/001/1/001001,01,Категория 01 — Последовательности местоположения и идентификации,301001,(Номера блока и станции ВМО),,001001,Номер блока ВМО,,,,Operational,PDF
 bufr4/3/01/001/2/001002,01,Категория 01 — Последовательности местоположения и идентификации,301001,(Номера блока и станции ВМО),,001002,Номер станции ВМО,,,,Operational,PDF
 bufr4/3/01/002/1/001003,01,Категория 01 — Последовательности местоположения и идентификации,301002,,,001003,Номер Региона ВМО/географический район,,(см. примечание 1),11,Operational,PDF

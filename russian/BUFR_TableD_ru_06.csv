@@ -1,4 +1,4 @@
-﻿Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+﻿ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/06/001/1/002032,06,Категория 06 — Метеорологические или океанографические,306001,"(Глубина, температура)",,002032,Указатель преобразования в цифровую форму,,,,Operational,PDF
 bufr4/3/06/001/2/102000,06,Категория 06 — Метеорологические или океанографические,306001,"(Глубина, температура)",,102000,Повторение с задержкой 2 дескрипторов,,,,Operational,PDF
 bufr4/3/06/001/3/031001,06,Категория 06 — Метеорологические или океанографические,306001,"(Глубина, температура)",,031001,Коэффициент повторения дескриптора с задержкой,,,,Operational,PDF

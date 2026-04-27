@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/21/066/1,021066,Данные о достоверности продукции волнового рефлектометра,1,Обрабатывающие приборы не работают,,,,,Operational,PDF
 bufr4/0/21/066/2,021066,Данные о достоверности продукции волнового рефлектометра,2,Неисправность приборов,,,,,Operational,PDF
 bufr4/0/21/066/3,021066,Данные о достоверности продукции волнового рефлектометра,3,Код частоты повторения импульсов (ЧПИ) изменен во время формирования изображения,,,,,Operational,PDF

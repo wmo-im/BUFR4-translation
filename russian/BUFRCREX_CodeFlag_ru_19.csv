@@ -1,4 +1,4 @@
-Id,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translated_by
+ID,FXY,ElementName_ru,CodeFigure,EntryName_ru,EntryName_sub1_ru,EntryName_sub2_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/0/19/001/0,019001,Тип синоптической характеристики,0,Депрессия или область низкого давления (внетропическая),,,,,Operational,PDF
 bufr4/0/19/001/1,019001,Тип синоптической характеристики,1,Тропическая депрессия,,,,,Operational,PDF
 bufr4/0/19/001/2,019001,Тип синоптической характеристики,2,Тропический шторм,,,,,Operational,PDF

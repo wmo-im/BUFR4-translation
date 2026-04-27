@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/42/001,42,Океанографические элементы в BUFR/CREX,042001,Преобладающее направление зыби на спектральном участке,deg,0,0,9,deg,0,3,,,Operational,PDF
 bufr4/0/42/002,42,Океанографические элементы в BUFR/CREX,042002,Высота значительной волны зыби на спектральном участке,m,1,0,9,m,1,3,,,Operational,PDF
 bufr4/0/42/003,42,Океанографические элементы в BUFR/CREX,042003,Преобладающая длина волны зыби на спектральном участке,m,2,100,17,m,2,6,,,Operational,PDF

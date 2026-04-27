@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/14/001,14,Радиация и излучение в BUFR/CREX,014001,"Длинноволновая радиация, интегрированная за 24 часа",J m-2,-3,-65536,17,J m-2,-3,5,,,Operational,PDF
 bufr4/0/14/002,14,Радиация и излучение в BUFR/CREX,014002,"Длинноволновая радиация, интегрированная за указанный период",J m-2,-3,-65536,17,J m-2,-3,5,,,Operational,PDF
 bufr4/0/14/003,14,Радиация и излучение в BUFR/CREX,014003,"Коротковолновая радиация, интегрированная за 24 часа",J m-2,-3,-65536,17,J m-2,-3,5,,,Operational,PDF

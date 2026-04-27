@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/03/001,03,Приборное обеспечение в BUFR/CREX,003001,Тип станции приземных наблюдений,Кодовая таблица,0,0,5,Кодовая таблица,0,2,,,Operational,PDF
 bufr4/0/03/003,03,Приборное обеспечение в BUFR/CREX,003003,Защитный корпус термометра/гигрометра,Кодовая таблица,0,0,4,Кодовая таблица,0,2,,,Operational,PDF
 bufr4/0/03/004,03,Приборное обеспечение в BUFR/CREX,003004,Тип метеорологической будки/навеса/ радиационного экрана,Кодовая таблица,0,0,4,Кодовая таблица,0,2,,,Operational,PDF

@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/03/001/1/007003,03,"Категория 03 — Метеорологические последовательности, общепринятые",303001,,,007003,Геопотенциал,,,,Operational,PDF
 bufr4/3/03/001/2/011001,03,"Категория 03 — Метеорологические последовательности, общепринятые",303001,,,011001,Направление ветра,,,,Operational,PDF
 bufr4/3/03/001/3/011002,03,"Категория 03 — Метеорологические последовательности, общепринятые",303001,,,011002,Скорость ветра,,,,Operational,PDF

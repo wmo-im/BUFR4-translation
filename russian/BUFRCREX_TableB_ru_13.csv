@@ -1,4 +1,4 @@
-﻿Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+﻿ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/13/001,13,Гигрографические и гидрологические элементы в BUFR/CREX,013001,Удельная влажность,kg/kg,5,0,14,kg/kg,5,5,,,Operational,PDF
 bufr4/0/13/002,13,Гигрографические и гидрологические элементы в BUFR/CREX,013002,Отношение смеси,kg/kg,5,0,14,kg/kg,5,5,,,Operational,PDF
 bufr4/0/13/003,13,Гигрографические и гидрологические элементы в BUFR/CREX,013003,Относительная влажность,%,0,0,7,%,0,3,,,Operational,PDF

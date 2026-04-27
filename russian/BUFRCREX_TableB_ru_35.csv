@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/35/000,35,Информация о мониторинге данных в BUFR/CREX,035000,FM и номер регионального кода,Кодовая таблица,0,0,10,Кодовая таблица,0,3,,,Operational,PDF
 bufr4/0/35/001,35,Информация о мониторинге данных в BUFR/CREX,035001,Временной период мониторинга,Кодовая таблица,0,0,3,Кодовая таблица,0,1,,,Operational,PDF
 bufr4/0/35/011,35,Информация о мониторинге данных в BUFR/CREX,035011,Количество фактически полученных сводок,Числовой,0,0,14,Числовой,0,4,,,Operational,PDF

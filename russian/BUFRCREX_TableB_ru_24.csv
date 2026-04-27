@@ -1,4 +1,4 @@
-Id,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translated_by
+ID,ClassNo,ClassName_ru,FXY,ElementName_ru,BUFR_Unit_ru,BUFR_Scale,BUFR_ReferenceValue,BUFR_DataWidth_Bits,CREX_Unit_ru,CREX_Scale,CREX_DataWidth_Char,Note_ru,noteIDs,Status,translation_source
 bufr4/0/24/001,24,Радиологические элементы в BUFR/CREX,024001,Количественная оценка выброса радиоактивности до указанного времени,Bq,-11,0,28,Bq,-11,9,,,Operational,PDF
 bufr4/0/24/002,24,Радиологические элементы в BUFR/CREX,024002,Оценка максимального потенциального выброса,Bq,-11,0,28,Bq,-11,9,,,Operational,PDF
 bufr4/0/24/003,24,Радиологические элементы в BUFR/CREX,024003,Состав выброса,Кодовая таблица,0,0,5,Кодовая таблица,0,2,,,Operational,PDF

@@ -1,4 +1,4 @@
-Id,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translated_by
+ID,Category,CategoryOfSequences_ru,FXY1,Title_ru,SubTitle_ru,FXY2,ElementName_ru,ElementDescription_ru,Note_ru,noteIDs,Status,translation_source
 bufr4/3/22/028/1/001007,22,Категория 22 — Последовательности химических веществ и аэрозолей,322028,(METOP GOME-2),,001007,Указатель спутника,,,,Operational,PDF
 bufr4/3/22/028/2/002019,22,Категория 22 — Последовательности химических веществ и аэрозолей,322028,(METOP GOME-2),,002019,Спутниковые приборы,,,,Operational,PDF
 bufr4/3/22/028/3/004001,22,Категория 22 — Последовательности химических веществ и аэрозолей,322028,(METOP GOME-2),,004001,Год,,,,Operational,PDF
